@@ -1,0 +1,36 @@
+{
+    "title": "The Cooker",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["Hard Bop"]
+    },
+    "label": "Blue Note",
+    "id": "BLP 1578",
+    "release_year": 1958,
+    "record_year": [1957],
+    "personnel": {
+        "leader": [
+            {"name": "Lee Morgan", "instruments": "Trumpet", "tracks": "all"}
+        ],
+        "sidemen": [
+            {"name": "Pepper Adams", "instruments": "Baritone Saxphone", "tracks": "all"},
+            {"name": "Bobby Timmons", "instruments": "Piano", "tracks": "all"},
+            {"name": "Paul Chambers", "instruments": "Bass", "tracks": "all"},
+            {"name": "Philly Joe Jones", "instruments": "Drums", "tracks": "all"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "A Night in Tunisia", "composer": ["Dizzie Gillespie"], "length": "9:24"},
+        {"disc_no": 1, "no": 2, "title": "Heavy Dipper", "composer": ["Lee Morgan"], "length": "7:05"},
+        {"disc_no": 1, "no": 3, "title": "Just One of Those Things", "composer": ["Cole Porter"], "length": "7:18"},
+        {"disc_no": 1, "no": 4, "title": "Lover Man", "composer": ["Jimmy Davis", "Ram Ramirez"], "length": "6:50"},
+        {"disc_no": 1, "no": 5, "title": "New-Ma", "composer": ["Lee Morgan"], "length": "8:14"},
+        {"disc_no": 1, "no": 6, "title": "Just One of Those Things (alt.take)", "composer": ["Cole Porter"], "length": "7:50", "bonus_track": true}
+    ],
+    "score": 4,
+    "comment": "リー・モーガンがベニー・ゴルソン監修から巣立ちしてペッパーアダムスとの珍しいバリトンとの2ホーン。サイドメンの士気も高く良作",
+    "date": "2025/05/31",
+    "references":[
+        {"name": "wikipedia", "url": "https://en.wikipedia.org/wiki/The_Cooker"}
+    ]
+}

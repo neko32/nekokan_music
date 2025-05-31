@@ -1,0 +1,36 @@
+{
+    "title": "The Cats",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["Hard Bop"]
+    },
+    "label": "New Jazz",
+    "id": "NJ-8217",
+    "release_year": 1959,
+    "record_year": [1957],
+    "personnel": {
+        "leader": [
+            {"name": "Tommy Flanagan", "instruments": "Piano", "tracks": "all"}
+        ],
+        "sidemen": [
+            {"name": "Idrees Sulieman", "instruments": "Trumpet", "tracks": "all except 2"},
+            {"name": "John Coltrane", "instruments": "Tenor Saxophone", "tracks": "all except 2"},
+            {"name": "Kenny Burrell", "instruments": "Guitar", "tracks": "all except 2"},
+            {"name": "Doug Watkins", "instruments": "Bass", "tracks": "all"},
+            {"name": "Louis Hayes", "instruments": "Drums", "tracks": "all"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "Minor Mishap", "composer": ["Tommy Flanagan"], "length": "7:26"},
+        {"disc_no": 1, "no": 2, "title": "How Long Has This Been Going On?", "composer": ["George Gershwin", "Ira Gershwin"], "length": "5.58"},
+        {"disc_no": 1, "no": 3, "title": "Eclypso", "composer": ["Tommy Flanagan"], "length": "7.57"},
+        {"disc_no": 1, "no": 4, "title": "Solacium", "composer": ["Tommy Flanagan"], "length": "9:10"},
+        {"disc_no": 1, "no": 5, "title": "Tommy's Time", "composer": ["Tommy Flanagan"], "length": "11:58"}
+    ],
+    "score": 3,
+    "comment": "New Jazzの典型的なジャムセッション系な適当に作られた感ありのアルバム。コルトレーンの個性まだ薄くもケニーバレルの個性は光る",
+    "date": "2025/05/31",
+    "references":[
+        {"name": "wikipedia", "url": "https://en.wikipedia.org/wiki/The_Cats_(album)"}
+    ]
+}

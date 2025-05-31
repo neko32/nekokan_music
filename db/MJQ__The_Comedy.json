@@ -1,0 +1,43 @@
+{
+    "title": "The Comedy",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["Chamber Music Jazz", "Hard Bop"]
+    },
+    "label": "Atlantic",
+    "id": "1390",
+    "release_year": 1962,
+    "record_year": [1960, 1962],
+    "personnel": {
+        "group": [
+            {
+                "name": "Modern Jazz Quartet", 
+                "abbr": "MJQ",
+                "members": [
+                    {"name": "Milt Jackson", "instruments": "Vibraphone", "tracks": "all"},
+                    {"name": "John Lewis", "instruments": "Piano", "tracks": "all"},
+                    {"name": "Percy Heath", "instruments": "Bass", "tracks": "all"},
+                    {"name": "Connie Kay", "instruments": "Drums", "tracks": "all"}
+                ]
+            }
+        ],
+        "sidemen": [
+            {"name": "Diahann Carroll", "instruments": "Vocals", "tracks": "5"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "Spanish Steps", "composer": ["John Lewis"], "length": "5:35"},
+        {"disc_no": 1, "no": 2, "title": "Columbine", "composer": ["John Lewis"], "length": "4:10"},
+        {"disc_no": 1, "no": 3, "title": "Pulcinella", "composer": ["John Lewis"], "length": "4:20"},
+        {"disc_no": 1, "no": 4, "title": "Pierrot", "composer": ["John Lewis"], "length": "3:23"},
+        {"disc_no": 1, "no": 5, "title": "La Cantatrice", "composer": ["John Lewis"], "length": "4:58"},
+        {"disc_no": 1, "no": 6, "title": "Harlequin", "composer": ["John Lewis"], "length": "6:58"},
+        {"disc_no": 1, "no": 7, "title": "Piazza Navona", "composer": ["John Lewis"], "length": "5:11"}
+    ],
+    "score": 4,
+    "comment": "ジョンルイスのクラシック趣味とブルースとハードバップの非常にハイレベルな融合がスリリングで楽しい上質なアルバム",
+    "date": "2025/05/31",
+    "references":[
+        {"name": "wikipedia", "url": "https://en.wikipedia.org/wiki/The_Comedy_(album)"}
+    ]
+}
