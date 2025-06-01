@@ -1,0 +1,31 @@
+{
+    "title": "Alone",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["Post Hard Bop"]
+    },
+    "label": "Verve",
+    "id": "V6-8792",
+    "release_year": 1970,
+    "record_year": [1968],
+    "personnel": {
+        "leader": [
+            {"name": "Bill Evans", "instruments": "Piano", "tracks": "all"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "Here's That Rainy Day", "composer": ["Jimmy Van Hausen", "Johnny Burke"], "length": "5:21"},
+        {"disc_no": 1, "no": 2, "title": "A Time for Love", "composer": ["Johnny Mandel", "Paul Francis Webster"], "length": "5:06"},
+        {"disc_no": 1, "no": 3, "title": "Midnight Mood", "composer": ["Joe Zawinul", "Ben Raleigh"], "length": "5:20"},
+        {"disc_no": 1, "no": 4, "title": "On a Clear Day", "composer": ["Burton Lane", "Alan Jay Lerner"], "length": "4:48"},
+        {"disc_no": 1, "no": 5, "title": "Never Let Me Go", "composer": ["Ray Evans", "Jay Livingston"], "length": "14:32"},
+        {"disc_no": 1, "no": 6, "title": "Medley: All the Things You Are / Midnight Mood", "composer": ["Jerome Khan", "Oscar Hammerstein II", "Joe Zawinul", "Ben Raleigh"], "length": "4:11", "bonus_track": true},
+        {"disc_no": 1, "no": 7, "title": "A Time for Love (alt.take)", "composer": ["Ray Evans", "Jay Livingston"], "length": "6:56", "bonus_track": true}
+    ],
+    "score": 4,
+    "comment": "ビル・エヴァンス後年の硬質で儚い美しさに満ち溢れている。なぜか悲しく響くメロディとピアノの音色は何故だ？",
+    "date": "2025/05/31",
+    "references":[
+        {"name": "wikipedia", "url": "https://en.wikipedia.org/wiki/Alone_(Bill_Evans_album)"}
+    ]
+}
