@@ -1,0 +1,50 @@
+{
+    "title": "Mingus Mingus Mingus Mingus Mingus",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["Hard Bop"]
+    },
+    "label": "Impulse!",
+    "id": "A-54",
+    "release_year": 1964,
+    "record_year": [1963],
+    "personnel": {
+        "leader": [
+            {"name": "Charles Mingus", "instruments": "Bass,Piano,Narration", "tracks": "all"}
+        ],
+        "sidemen": [
+            {"name": "Richard Williams", "instruments": "Trumpet", "tracks": "all"},
+            {"name": "Eddie Preston", "instruments": "Trumpet", "tracks": "1,4-8"},
+            {"name": "Rolf Ericson", "instruments": "Trumpet", "tracks": "2,3"},
+            {"name": "Britt Woodman", "instruments": "Trombone", "tracks": "1,4-8"},
+            {"name": "Quentin Jackson", "instruments": "Trombone", "tracks": "2,3"},
+            {"name": "Don Butterfield", "instruments": "Tuba", "tracks": "all"},
+            {"name": "Jerome Richardson", "instruments": "Soprano Saxophone,Bariton Saxophone", "tracks": "all"},
+            {"name": "Dick Hafer", "instruments": "Tenor Saxophone,Flute,Oboe", "tracks": "all"},
+            {"name": "Booker Ervin", "instruments": "Tenor Saxophone", "tracks": "1,4-8"},
+            {"name": "Eric Dolphy", "instruments": "Alto Saxophone,Flute,Bass Clarinet", "tracks": "1,4-8"},
+            {"name": "Charlie Mariano", "instruments": "Alto Saxophone", "tracks": "2,3"},
+            {"name": "Jaki Byard", "instruments": "Piano", "tracks": "all"},
+            {"name": "Jay Berliner", "instruments": "Guitar", "tracks": "2,3"},
+            {"name": "Walter Perkins", "instruments": "Drums", "tracks": "1,4-8"},
+            {"name": "Dannie Richmond", "instruments": "Drums", "tracks": "2,3"},
+            {"name": "Bob Hammer", "instruments": "Arranger,Orchestrator", "tracks": "all"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "II B.S.", "composer": ["Charles Mingus"], "length": "4:46"},
+        {"disc_no": 1, "no": 2, "title": "I X Love", "composer": ["Charles Mingus"], "length": "7:38"},
+        {"disc_no": 1, "no": 3, "title": "Celia", "composer": ["Charles Mingus"], "length": "6:12"},
+        {"disc_no": 1, "no": 4, "title": "Mood Indigo", "composer": ["Duke Ellington", "Barney Bigard"], "length": "4:43"},
+        {"disc_no": 1, "no": 5, "title": "Better Get Hit in Yo' Soul", "composer": ["Charles Mingus"], "length": "6:28"},
+        {"disc_no": 1, "no": 6, "title": "Theme for Lester Young", "composer": ["Charles Mingus"], "length": "5:50"},
+        {"disc_no": 1, "no": 7, "title": "Hora Decubitus", "composer": ["Charles Mingus"], "length": "4:41"},
+        {"disc_no": 1, "no": 8, "title": "Freedom", "composer": ["Charles Mingus"], "length": "5:10", "bonus_track":true}
+    ],
+    "score": 4,
+    "comment": "ミンガスミュージック炸裂の強力盤。政治色薄く純粋に彼の音楽を楽しめる。Better Get Hit in Yo' Soulは佳作",
+    "date": "2025/05/31",
+    "references":[
+        {"name": "Discogs", "url": "https://en.wikipedia.org/wiki/Mingus_Mingus_Mingus_Mingus_Mingus"}
+    ]
+}

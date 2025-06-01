@@ -1,0 +1,37 @@
+{
+    "title": "The Cub Bearers",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["Hard Bop"]
+    },
+    "label": "Riverside",
+    "id": "RS 9439",
+    "release_year": 1962,
+    "record_year": [1962],
+    "personnel": {
+        "leader": [
+            {"name": "Blue Mitchell", "instruments": "Trumpet", "tracks": "all"}
+        ],
+        "sidemen": [
+            {"name": "Junior Cook", "instruments": "Tenor Saxphone", "tracks": "all"},
+            {"name": "Cedar Walton", "instruments": "Piano", "tracks": "all"},
+            {"name": "Gene Taylor", "instruments": "Bass", "tracks": "all"},
+            {"name": "Roy Brooks", "instruments": "Drums", "tracks": "all"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "Turquoise", "composer": ["Tommy Flanagan"], "length": "5:03"},
+        {"disc_no": 1, "no": 2, "title": "Why Do I Love You?", "composer": ["Oscar Hammerstein II", "Jerome Kern"], "length": "5:28"},
+        {"disc_no": 1, "no": 3, "title": "Dingbat Blues", "composer": ["Charles Davis"], "length": "5:41"},
+        {"disc_no": 1, "no": 4, "title": "Capers", "composer": ["Tom McIntosh"], "length": "6:04"},
+        {"disc_no": 1, "no": 5, "title": "The Cup Bearers", "composer": ["Tom McIntosh"], "length": "6:15"},
+        {"disc_no": 1, "no": 6, "title": "How Deep Is the Ocean?", "composer": ["Irving Berlin"], "length": "6:43"},
+        {"disc_no": 1, "no": 7, "title": "Tiger Lily", "composer": ["Thad Jones"], "length": "8:31"}
+    ],
+    "score": 3,
+    "comment": "ホレス・シルヴァークインテットのシルヴァーをシダー・ウォルトンに入れ替えただけだが、シルヴァーのアクが抜けて清涼系シダーが入るとここまで変わるのかというショーケースでもある。ベースの音が妙に良い",
+    "date": "2025/05/31",
+    "references":[
+        {"name": "wikipedia", "url": "https://en.wikipedia.org/wiki/The_Cup_Bearers"}
+    ]
+}

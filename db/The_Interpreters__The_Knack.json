@@ -1,0 +1,46 @@
+{
+    "title": "The Knack",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["Post Hard Bop"]
+    },
+    "label": "Cadet",
+    "id": "LPS-762",
+    "release_year": 1965,
+    "record_year": [1965],
+    "personnel": {
+        "group": [
+            {
+                "name": "The Interpreters", 
+                "members": [
+                    {"name": "Cleo Griffin", "instruments": "Trumpet", "tracks": "all"},
+                    {"name": "George Patterson, Jr.", "instruments": "Alto Saxophone,Soprano Saxophone", "tracks": "all", "leader": true},
+                    {"name": "Charles Kinnard, Jr.", "instruments": "Tenor Saxophone", "tracks": "all"},
+                    {"name": "Tom Washington", "instruments": "Piano", "tracks": "all"},
+                    {"name": "John Whitfield, Jr.", "instruments": "Bass", "tracks": "all"},
+                    {"name": "Arlington Davis, Jr.", "instruments": "Drums", "tracks": "all"}
+                ]
+            }
+        ],
+        "sidemen": [
+            {"name": "The Mack Voices", "instruments": "Vocals", "tracks": "6-9"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "The Knack", "composer": ["John Barry", "Leslie Bricusse"], "length": "3:33"},
+        {"disc_no": 1, "no": 2, "title": "Cyclops", "composer": ["Nat Adderley"], "length": "4:32"},
+        {"disc_no": 1, "no": 3, "title": "Our Mambo", "composer": ["Tom Washington"], "length": "4:39"},
+        {"disc_no": 1, "no": 4, "title": "But When It's Dark", "composer": ["Tom Washington"], "length": "3:07"},
+        {"disc_no": 1, "no": 5, "title": "J.I's Ala Freedom", "composer": ["Tom Washington"], "length": "5:09"},
+        {"disc_no": 1, "no": 6, "title": "Grits and Pigfoots", "composer": ["Tom Washington"], "length": "5:48"},
+        {"disc_no": 1, "no": 7, "title": "Sadder Days", "composer": ["Tom Washington"], "length": "4:17"},
+        {"disc_no": 1, "no": 8, "title": "Time Is of The Essence", "composer": ["George Patterson, Jr."], "length": "5:05"},
+        {"disc_no": 1, "no": 9, "title": "Reap-Ba-Sac", "composer": ["Charles Kinnard, Jr."], "length": "5:14"}
+    ],
+    "score": 2,
+    "comment": "Intruducing Kenny Coxが思い浮かんでくるような、上手にうまくまとまっているが没個性ユニット。後半はコーラス入りだがいなたい感じである",
+    "date": "2025/05/31",
+    "references":[
+        {"name": "Discogs", "url": "https://www.discogs.com/release/5471945-The-Interpreters-The-Knack"}
+    ]
+}

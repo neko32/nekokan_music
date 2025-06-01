@@ -1,0 +1,36 @@
+{
+    "title": "Jackie McLean Quintet",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["Hard Bop"]
+    },
+    "label": "Blue Note",
+    "id": "ST-84116",
+    "release_year": 1991,
+    "record_year": [1962],
+    "personnel": {
+        "leader": [
+            {"name": "Jackie McLean", "instruments": "Alto Saxophone", "tracks": "all"}
+        ],
+        "sidemen": [
+            {"name": "Kenny Dorham", "instruments": "Trumpet", "tracks": "all"},
+            {"name": "Sonny Clark", "instruments": "Piano", "tracks": "all"},
+            {"name": "Butch Warren", "instruments": "Bass", "tracks": "all"},
+            {"name": "Billy Higgins", "instruments": "Drums", "tracks": "all"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "The Three Minors", "composer": ["Jackie McLean"], "length": "6:04"},
+        {"disc_no": 1, "no": 2, "title": "Blues In A Riff", "composer": ["Sonny Clark"], "length": "7:07"},
+        {"disc_no": 1, "no": 3, "title": "Blues For Jackie", "composer": ["Sonny Clark"], "length": "7:50"},
+        {"disc_no": 1, "no": 4, "title": "Marlyn's Dilemma", "composer": ["Billy Higgins"], "length": "5:00"},
+        {"disc_no": 1, "no": 5, "title": "Iddy Bitty", "composer": ["Jackie McLean"], "length": "8:14"},
+        {"disc_no": 1, "no": 6, "title": "The Way I Feel", "composer": ["Jackie McLean"], "length": "7:06"}
+    ],
+    "score": 3,
+    "comment": "東芝EMIに1990年代に発掘されるまでお蔵入りだが特にお蔵入りする必要があったのか疑問に思えるような上質の典型的なBNハードバップ",
+    "date": "2025/05/31",
+    "references":[
+        {"name": "Discogs", "url": "https://www.discogs.com/release/10642929-Jackie-McLean-Quintet-Jackie-McLean-Quintet"}
+    ]
+}

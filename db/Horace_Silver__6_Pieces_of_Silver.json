@@ -1,0 +1,37 @@
+{
+    "title": "6 Pieces of Silver",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["Hard Bop"]
+    },
+    "label": "Blue Note",
+    "id": "BLP 1539",
+    "release_year": 1956,
+    "record_year": [1956],
+    "personnel": {
+        "leader": [
+            {"name": "Horace Silver", "instruments": "Piano", "tracks": "all"}
+        ],
+        "sidemen": [
+            {"name": "Donald Byrd", "instruments": "Trumpet", "tracks": "all except 2,7"},
+            {"name": "Hank Mobley", "instruments": "Tenor Saxophone", "tracks": "all except 2,7"},
+            {"name": "Doug Watkins", "instruments": "Bass", "tracks": "all"},
+            {"name": "Louis Hayes", "instruments": "Drums", "tracks": "all"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "Cool Eyes", "composer": ["Horace Silver"], "length": "5:55"},
+        {"disc_no": 1, "no": 2, "title": "Shirl", "composer": ["Horace Silver"], "length": "4:15"},
+        {"disc_no": 1, "no": 3, "title": "Camouflage", "composer": ["Horace Silver"], "length": "4:25"},
+        {"disc_no": 1, "no": 4, "title": "Enchantment", "composer": ["Horace Silver"], "length": "6:22"},
+        {"disc_no": 1, "no": 5, "title": "Senor Blues", "composer": ["Horace Silver"], "length": "7:01"},
+        {"disc_no": 1, "no": 6, "title": "Virgo", "composer": ["Horace Silver"], "length": "5:49"},
+        {"disc_no": 1, "no": 7, "title": "For Heaven's Sake", "composer": ["Elise Bretton", "Sherman Edwards", "Donald Meyer"], "length": "5:09"}
+    ],
+    "score": 4,
+    "comment": "シルバー初期の快作でシルバーらしさのアクがまだ出ておらず初々しい。クインテットとトリオのコントラストも飽きさせない作りで良い",
+    "date": "2025/05/31",
+    "references":[
+        {"name": "wikipedia", "url": "https://en.wikipedia.org/wiki/6_Pieces_of_Silver"}
+    ]
+}
