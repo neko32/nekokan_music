@@ -1,0 +1,30 @@
+{
+    "title": "月の光 / フランス印象派の響き",
+    "janre": {
+        "main": "Classical",
+        "sub": ["Impressionist"]
+    },
+    "label": "London",
+    "id": "POCL-3106",
+    "release_year": 1993,
+    "record_year": [],
+    "personnel": {
+        "conductor": [{"name": "Bernard Herrmann", "tracks":"all"}],
+        "orchestra": [{"name": "London Philharmonic Orchestra", "tracks": "all"}]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "ジムノペディ第1番", "composer": ["サティ(ドビュッシー編)"], "length": "2:59"},
+        {"disc_no": 1, "no": 2, "title": "ジムノペディ第3番", "composer": ["サティ(ドビュッシー編)"], "length": "3:36"},
+        {"disc_no": 1, "no": 3, "title": "月の光", "composer": ["ドビュッシー"], "length": "5:49"},
+        {"disc_no": 1, "no": 4, "title": "レントより遅く", "composer": ["ドビュッシー"], "length": "6:24"},
+        {"disc_no": 1, "no": 5, "title": "5時のフォックストロット", "composer": ["ラヴェル"], "length": "3:48"},
+        {"disc_no": 1, "no": 6, "title": "バヴァーヌ", "composer": ["フォーレ"], "length": "8:12"},
+        {"disc_no": 1, "no": 7, "title": "交響詩 \"夏の牧歌\"", "composer": ["オネゲル"], "length": "9:18"}
+    ],
+    "score": 4,
+    "comment": "非常に聞きやすく飽きない、芸術性と大衆性に優れた名盤ながら夏の牧歌など隠れた名曲も楽しませてくれるぬかりの無さ",
+    "date": "2025/06/01",
+    "references":[
+        {"name": "CDジャーナル", "url": "https://artist.cdjournal.com/d/-/1193040649"}
+    ]
+}

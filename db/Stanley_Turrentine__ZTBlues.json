@@ -1,0 +1,37 @@
+{
+    "title": "Z.T's Blues",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["Hard Bop"]
+    },
+    "label": "Blue Note",
+    "id": "BST 84424",
+    "release_year": 1985,
+    "record_year": [1961],
+    "personnel": {
+        "leader": [
+            {"name": "Stanley Turrentine", "instruments": "Tenor Saxophone", "tracks": "all"}
+        ],
+        "sidemen": [
+            {"name": "Grant Green", "instruments": "Guitar", "tracks": "all"},
+            {"name": "Tommy Flanagan", "instruments": "Piano", "tracks": "all"},
+            {"name": "Paul Chambers", "instruments": "Bass", "tracks": "all"},
+            {"name": "Art Taylor", "instruments": "Drums", "tracks": "all"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "Z.T's Blues", "composer": ["Stanley Turrentine"], "length": "6:43"},
+        {"disc_no": 1, "no": 2, "title": "More Than You Know", "composer": ["Edward Eliscu", "Rose Youmans"], "length": "6:08"},
+        {"disc_no": 1, "no": 3, "title": "The Lamp Is Low", "composer": ["Peter DeRose", "Bert Shefter"], "length": "6:07"},
+        {"disc_no": 1, "no": 4, "title": "The Way You Look Tonight", "composer": ["Dorothy Fields", "Jerome Kern"], "length": "5:44"},
+        {"disc_no": 1, "no": 5, "title": "For Heaven's Sake", "composer": ["Elise Bretton", "Sherman Edwards", "Donald Meyer"], "length": "4:44"},
+        {"disc_no": 1, "no": 6, "title": "I Wish I Knew", "composer": ["Mack Gordon", "Harry Warren"], "length": "5:34"},
+        {"disc_no": 1, "no": 7, "title": "Be My Love", "composer": ["Nicholas Brodszky", "Sammy Cahn"], "length": "5:13"},
+    ],
+    "score": 3,
+    "comment": "スタンリーとグリーンが共演している珍しいケースだがスタンダード中心の地味な展開がおそらくお蔵入りの原因か？ただ内容は普通に上質",
+    "date": "2025/06/01",
+    "references":[
+        {"name": "wikipedia", "url": "https://en.wikipedia.org/wiki/ZT%27s_Blues"}
+    ]
+}

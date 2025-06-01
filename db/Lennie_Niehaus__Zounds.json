@@ -1,0 +1,52 @@
+{
+    "title": "Zounds!",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["Cool", "West Coast"]
+    },
+    "label": "Contemporary",
+    "id": "C-3540",
+    "release_year": 1958,
+    "record_year": [1958],
+    "personnel": {
+        "leader": [
+            {"name": "Lennie Niehaus", "instruments": "Alto Saxophone", "tracks": "all"}
+        ],
+        "sidemen": [
+            {"name": "Stu Williamson", "instruments": "Trumpet", "tracks": "2,3,4,6,7,9,10,12"},
+            {"name": "Frank Rosolino", "instruments": "Trombone", "tracks": "1,5,8,11"},
+            {"name": "Bob Enevoldsen", "instruments": "Valve Trombone", "tracks": "2,3,4,6,7,9,10,12"},
+            {"name": "Vincent De Rosa", "instruments": "French Horn", "tracks": "1,5,8,11"},
+            {"name": "James McAllister", "instruments": "Tuba", "tracks": "1,5,8,11"},
+            {"name": "Bill Perkins", "instruments": "Tenor Saxophone", "tracks": "1,5,8,11"},
+            {"name": "Jack Montrose", "instruments": "Tenor Saxophone", "tracks": "2,3,4,6,7,9,10,12"},
+            {"name": "Bob Gordon", "instruments": "Bariton Saxophone", "tracks": "2,3,4,6,7,9,10,12"},
+            {"name": "Pepper Adams", "instruments": "Bariton Saxophone", "tracks": "1,5,8,11"},
+            {"name": "Lou Levy", "instruments": "Piano", "tracks": "2,3,4,6,7,9,10,12"},
+            {"name": "Monty Budwig", "instruments": "Bass", "tracks": "2,3,4,6,7,9,10,12"},
+            {"name": "Red Mitchell", "instruments": "Bass", "tracks": "1,5,8,11"},
+            {"name": "Mel Lewis", "instruments": "Drums", "tracks": "1,5,8,11"},
+            {"name": "Shelly Manne", "instruments": "Drums", "tracks": "2,3,4,6,7,9,10,12"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "The Sermon", "composer": ["Hampton Hawes"], "length": "5:12"},
+        {"disc_no": 1, "no": 2, "title": "How About You", "composer": ["Burton Lane", "Ralph Freed"], "length": "2:26"},
+        {"disc_no": 1, "no": 3, "title": "Figure 8", "composer": ["Lennie Niehaus"], "length": "3:38"},
+        {"disc_no": 1, "no": 4, "title": "Pattie-Cake", "composer": ["Lennie Niehaus"], "length": "2:38"},
+        {"disc_no": 1, "no": 5, "title": "With The Wind And The Rain In Your Hair", "composer": ["Clara Edwards", "Jack Lawrence"], "length": "4:00"},
+        {"disc_no": 1, "no": 6, "title": "The Way You Look Tonight", "composer": ["Dorothy Fields", "Jerome Kern"], "length": "3:31"},
+        {"disc_no": 1, "no": 7, "title": "Have You Met Miss Jones?", "composer": ["Richard Rodgers", "Lorenz Hart"], "length": "2:40"},
+        {"disc_no": 1, "no": 8, "title": "Four", "composer": ["Miles Davis"], "length": "3:58"},
+        {"disc_no": 1, "no": 9, "title": "Night Life", "composer": ["Lennie Niehaus"], "length": "2:37"},
+        {"disc_no": 1, "no": 10, "title": "The Night We Called It A Day", "composer": ["Matt Dennis", "Tom Adair"], "length": "3:57"},
+        {"disc_no": 1, "no": 11, "title": "Blues For Susie", "composer": ["Lennie Niehaus"], "length": "3:33"},
+        {"disc_no": 1, "no": 12, "title": "Seaside", "composer": ["Lennie Niehaus"], "length": "2:29"},
+    ],
+    "score": 2,
+    "comment": "西海岸らしい軽さ、さわやかさそして薄さ。オクテットの厚めのアンサンブルでもなぜか薄っぺらい感じがする",
+    "date": "2025/06/01",
+    "references":[
+        {"name": "Discogs", "url": "https://www.discogs.com/release/5647121-The-Lennie-Niehaus-Octet-Zounds"}
+    ]
+}
