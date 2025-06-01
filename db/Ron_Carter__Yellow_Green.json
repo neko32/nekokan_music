@@ -1,0 +1,38 @@
+{
+    "title": "Yellow & Green",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["Neo Hard Bop"]
+    },
+    "label": "CTI",
+    "id": "CTI 6064",
+    "release_year": 1976,
+    "record_year": [1976],
+    "personnel": {
+        "leader": [
+            {"name": "Ron Carter", "instruments": "Bass,Piccolo Bass,Percussions", "tracks": "all"}
+        ],
+        "sidemen": [
+            {"name": "Hugh McCracken", "instruments": "Guitar,Harmonica", "tracks": "1,2,4,5"},
+            {"name": "Kenny Barron", "instruments": "Piano", "tracks": "1,5,6"},
+            {"name": "Don Grolnick", "instruments": "Piano,Electoric Piano", "tracks": "2,4"},
+            {"name": "Billy Cobham", "instruments": "Drums", "tracks": "1,2,4,5"},
+            {"name": "Ben Riley", "instruments": "Drums", "tracks": "6"},
+            {"name": "Dom Um Romao", "instruments": "Drums", "tracks": "2,5"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "Tenaj", "composer": ["Ron Carter"], "length": "7:44"},
+        {"disc_no": 1, "no": 2, "title": "Receipt, Please", "composer": ["Ron Carter"], "length": "7:05"},
+        {"disc_no": 1, "no": 3, "title": "Willow Weep For Me", "composer": ["Ann Ronell"], "length": "2:40"},
+        {"disc_no": 1, "no": 4, "title": "Yellow And Green", "composer": ["Ron Carter"], "length": "6:13"},
+        {"disc_no": 1, "no": 5, "title": "Opus 15", "composer": ["Ron Carter"], "length": "6:55"},
+        {"disc_no": 1, "no": 6, "title": "Epistrophy", "composer": ["Kenny Clarke", "Thelonious Monk"], "length": "6:07"},
+    ],
+    "score": 2,
+    "comment": "非常に散漫で熱が伝わってきにくい一枚。ピッコロベースによるソロのお披露目という感じもあるがいまいち。サイドメンの入れ替わりも散漫感に寄与してマイナス",
+    "date": "2025/06/01",
+    "references":[
+        {"name": "wikipedia", "url": "https://en.wikipedia.org/wiki/Yellow_%26_Green_(Ron_Carter_album)"}
+    ]
+}
