@@ -1,0 +1,33 @@
+{
+    "title": "Mahler - Symphony No.6 \"Tragic\"",
+    "janre": {
+        "main": "Classical",
+        "sub": ["Late Romanticism"]
+    },
+    "label": "Decca",
+    "id": "4988005261380",
+    "release_year": 1991,
+    "record_year": [1991],
+    "personnel": {
+        "conductor": [{"name": "Christoph von Dohnanyi", "tracks":"all"}],
+        "orchestra": [{"name": "Cleveland Orchestra", "tracks": "all"}]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "Symphony No.6 \"Tragic\": mov.1 Allegro energico ma non tropo, Heftig, aber markig", "composer": ["Mahler"], "length": "23:15"},
+        {"disc_no": 1, "no": 2, "title": "Symphony No.6 \"Tragic\": mov.2 Scherzo: Wuchtig", "composer": ["Mahler"], "length": "12:33"},
+        {"disc_no": 1, "no": 3, "title": "Symphony No.6 \"Tragic\": mov.3 Andante moderato", "composer": ["Mahler"], "length": "14:49"},
+        {"disc_no": 2, "no": 1, "title": "Symphony No.6 \"Tragic\": mov.4 Finale: Sostenuto - Allegro moderato - Allegro energico", "composer": ["Mahler"], "length": "29:47"},
+        {"disc_no": 2, "no": 2, "title": "5 Pieces for Orchestra, Op.16 - I. Vorgefuhle", "composer": ["Schoenberg"], "length": "2:11"},
+        {"disc_no": 2, "no": 3, "title": "5 Pieces for Orchestra, Op.16 - II. Vergangenes", "composer": ["Schoenberg"], "length": "4:51"},
+        {"disc_no": 2, "no": 4, "title": "5 Pieces for Orchestra, Op.16 - III. Farben", "composer": ["Schoenberg"], "length": "3:01"},
+        {"disc_no": 2, "no": 5, "title": "5 Pieces for Orchestra, Op.16 - IV. Peripetie", "composer": ["Schoenberg"], "length": "2:10"},
+        {"disc_no": 2, "no": 6, "title": "5 Pieces for Orchestra, Op.16 - V. Das obligate Rezitativ", "composer": ["Schoenberg"], "length": "4:01"},
+        {"disc_no": 2, "no": 7, "title": "Im Sommerwind", "composer": ["Webern"], "length": "14:31"}
+    ],
+    "score": 5,
+    "comment": "ドホナーニらしい輪郭がはっきりした、硬質でメカニカルな音作りはまさにサウンドマシーンでマーラー6の巨大な世界を精緻に作り上げている。最高の一枚",
+    "date": "2025/06/01",
+    "references":[
+        {"name": "Amazon", "url": "https://www.amazon.co.jp/%E3%83%9E%E3%83%BC%E3%83%A9%E3%83%BC-%E4%BA%A4%E9%9F%BF%E6%9B%B2%E7%AC%AC6%E7%95%AA-%E3%83%89%E3%83%9B%E3%83%8A%E3%83%BC%E3%83%8B-%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%88%E3%83%95%E3%83%BB%E3%83%95%E3%82%A9%E3%83%B3/dp/B00005HRIZ"}
+    ]
+}

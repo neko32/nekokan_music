@@ -1,0 +1,38 @@
+{
+    "title": "Live at \"PIT INN\"",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["Neo Hard Bop"]
+    },
+    "label": "Polydor",
+    "id": "28MJ 3528",
+    "release_year": 1985,
+    "record_year": [1985],
+    "personnel": {
+        "group": [
+            {
+                "name": "Elvin Jones Jazz Machine", 
+                "members": [
+                    {"name": "Sonny Fortune", "instruments": "Tenor Saxophone", "tracks": "all"},
+                    {"name": "Pat LaBarbera", "instruments": "Tenor Saxophone,Soprano Saxophone", "tracks": "all"},
+                    {"name": "Fumio Karashima", "instruments": "Piano", "tracks": "all"},
+                    {"name": "Richard Davis", "instruments": "Bass", "tracks": "all"},
+                    {"name": "Elvin Jones", "instruments": "Drums", "tracks": "all", "leader": true}
+                ]
+            }
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "George And Me", "composer": ["Elvin Jones"], "length": "10:26"},
+        {"disc_no": 1, "no": 2, "title": "Shinjitsu", "composer": ["Keiko Jones"], "length": "14:40"},
+        {"disc_no": 1, "no": 3, "title": "My One One Only Love", "composer": ["Guy Wood", "Robert Mellin"], "length": "12:44"},
+        {"disc_no": 1, "no": 4, "title": "Zange", "composer": ["Keiko Jones"], "length": "13:56"},
+        {"disc_no": 1, "no": 5, "title": "E.J.'s Blues", "composer": ["Elvin Jones"], "length": "5:49", "bonus_track":true}
+    ],
+    "score": 4,
+    "comment": "東京ピットインでのライブ。心なしかバンドもいつものライブよりはリラックスして楽しんでいるようにも感じる。迫力は薄めだが録音の音質も良くアットホーム感が出た良ライブ",
+    "date": "2025/06/01",
+    "references":[
+        {"name": "wikipedia", "url": "https://en.wikipedia.org/wiki/Elvin_Jones_Jazz_Machine_Live_at_Pit_Inn"}
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "title": "Live at Bradley's",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["Modern Hard Bop"]
+    },
+    "label": "EmArcy",
+    "id": "549 099-2",
+    "release_year": 2001,
+    "record_year": [1996],
+    "personnel": {
+        "leader": [
+            {"name": "Kenny Barron", "instruments": "Piano", "tracks": "all"}
+        ],
+        "sidemen": [
+            {"name": "Ray Drummond", "instruments": "Bass", "tracks": "all"},
+            {"name": "Ben Riley", "instruments": "Drums", "tracks": "all"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "Everybody Loves My Baby", "composer": ["Spencer Williams", "Jack Palmer"], "length": "15:27"},
+        {"disc_no": 1, "no": 2, "title": "Solar", "composer": ["Miles Davis"], "length": "11:26"},
+        {"disc_no": 1, "no": 3, "title": "Blue Moon", "composer": ["Richard Rodgers", "Lorenz Hart"], "length": "9:44"},
+        {"disc_no": 1, "no": 4, "title": "Alter Ego", "composer": ["James Williams"], "length": "13:23"},
+        {"disc_no": 1, "no": 5, "title": "Canadian Sunset", "composer": ["Eddie Heywood", "Norman Gimbel", "Donald Meyer"], "length": "15:51"}
+    ],
+    "score": 3,
+    "comment": "ステディな90年代モダンハードバップ。ケニーバロンの端正なピアノをライブシチュエーションで堪能できる",
+    "date": "2025/06/01",
+    "references":[
+        {"name": "wikipedia", "url": "https://en.wikipedia.org/wiki/Live_at_Bradley's"}
+    ]
+}
