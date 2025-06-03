@@ -1,0 +1,25 @@
+{
+    "title": "Vasteel",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["Game", "Fusion"]
+    },
+    "label": "Human",
+    "id": "NA_Human__Vasteel1",
+    "release_year": 1994,
+    "record_year": [1994],
+    "personnel": {
+        "company": [
+            {"name": "Human", "tracks": "all"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "Vasteel", "composer": ["Human"], "length": "39:59"},
+    ],
+    "score": 5,
+    "comment": "ゲーム音楽に本格的なフュージョンを持ち込んだ最初の意欲作で、ステージを表現する色彩と表現豊かな音楽に加えてメインテーマのシリアスジャズも素晴らしい、ゲーム音楽の最高峰",
+    "date": "2025/06/03",
+    "references":[
+        {"name": "Wikipedia", "url": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%B3_(%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE)"}
+    ]
+}
