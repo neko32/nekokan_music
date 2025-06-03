@@ -1,0 +1,29 @@
+{
+    "title": "Vaughan-Williams - Symphony No.2 \"A London Symphony\"",
+    "janre": {
+        "main": "Classical",
+        "sub": ["Late Romanticism"]
+    },
+    "label": "RCA Red Seal",
+    "id": "88697902492",
+    "release_year": 1993,
+    "record_year": [1991,1992,1993],
+    "personnel": {
+        "conductor": [{"name": "Leonard Slatkin", "tracks":"all"}],
+        "orchestra": [{"name": "Philharmonia Orchestra", "tracks": "all"}]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "Norfork Rhapsody No.1", "composer": ["Vaughan-Williams"], "length": "9:49"},
+        {"disc_no": 1, "no": 2, "title": "Fantasia on a Theme by Thomas Tallis", "composer": ["Vaughan-Williams"], "length": "15:17"},
+        {"disc_no": 1, "no": 3, "title": "A London Symphony - mov.1 Lento - Allegro risoluto", "composer": ["Vaughan-Williams"], "length": "10:15"},
+        {"disc_no": 1, "no": 4, "title": "A London Symphony - mov.2 Lento", "composer": ["Vaughan-Williams"], "length": "6:40"},
+        {"disc_no": 1, "no": 6, "title": "A London Symphony - mov.3 Scherzo (Nocturne)", "composer": ["Vaughan-Williams"], "length": "6:40"},
+        {"disc_no": 1, "no": 7, "title": "A London Symphony - mov.4 Finale", "composer": ["Vaughan-Williams"], "length": "13:34"}
+    ],
+    "score": 3,
+    "comment": "ヴォーンウィリアムスの名曲がそろった良作",
+    "date": "2025/06/03",
+    "references":[
+        {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/A_London_Symphony"}
+    ]
+}
