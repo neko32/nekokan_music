@@ -1,0 +1,36 @@
+{
+    "title": "Turkish Women At The Bath",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["Late Hard Bop"]
+    },
+    "label": "Douglas",
+    "id": "SD 782",
+    "release_year": 1967,
+    "record_year": [1967],
+    "personnel": {
+        "leader": [
+            {"name": "Pete La Roca", "instruments": "Drums", "tracks": "all"}
+        ],
+        "sidemen": [
+            {"name": "John Gilmore", "instruments": "Tenor Saxophone", "tracks": "all"},
+            {"name": "Chick Corea", "instruments": "Piano", "tracks": "all"},
+            {"name": "Walter Booker", "instruments": "Bass", "tracks": "all"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "Turkish Women At The Bath", "composer": ["Pete La Roca"], "length": "5:14"},
+        {"disc_no": 1, "no": 2, "title": "Dancing Girls", "composer": ["Pete La Roca"], "length": "5:50"},
+        {"disc_no": 1, "no": 3, "title": "Love Planet", "composer": ["Pete La Roca"], "length": "5:28"},
+        {"disc_no": 1, "no": 4, "title": "Marjoun", "composer": ["Pete La Roca"], "length": "3:34"},
+        {"disc_no": 1, "no": 5, "title": "Bliss", "composer": ["Pete La Roca"], "length": "4:58"},
+        {"disc_no": 1, "no": 6, "title": "Sin Street", "composer": ["Pete La Roca"], "length": "7:00"},
+        {"disc_no": 1, "no": 7, "title": "And So", "composer": ["Pete La Roca"], "length": "1:21"}
+    ],
+    "score": 5,
+    "comment": "ダグラスという無名レーベルから発売されているゆえかバスラに比べて圧倒的に知名度がないが内容は大変すばらしくピートラロカのヴァーサタイルでポリリズミックな魅力と迫力に満ち溢れている",
+    "date": "2025/06/02",
+    "references":[
+        {"name": "wikipedia", "url": "https://en.wikipedia.org/wiki/Turkish_Women_at_the_Bath"}
+    ]
+}
