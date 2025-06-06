@@ -1,0 +1,33 @@
+{
+    "title": "Return to Russia",
+    "janre": {
+        "main": "Classical",
+        "sub": ["Late Romanticism", "Modern"]
+    },
+    "label": "Sony Classical",
+    "id": "SK 45 836",
+    "release_year": 1991,
+    "record_year": [1990],
+    "personnel": {
+        "conductor": [{"name": "Mstislav Rostropovich", "tracks":"all"}],
+        "orchestra": [{"name": "National Symphony Orchestra", "tracks": "all"}]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "Symphony No.6 in B Minor, Op.74 \"Pathetic\" mov.1 - Adagio - Allegro Non Troppo - Allegro Vivo", "composer": ["Tchaikovsky"], "length": "18:52"},
+        {"disc_no": 1, "no": 2, "title": "Symphony No.6 in B Minor, Op.74 \"Pathetic\" mov.2 - Allegro Con Grazia", "composer": ["Tchaikovsky"], "length": "7:09"},
+        {"disc_no": 1, "no": 3, "title": "Symphony No.6 in B Minor, Op.74 \"Pathetic\" mov.3 - Allegro Molto Vivace", "composer": ["Tchaikovsky"], "length": "8:47"},
+        {"disc_no": 1, "no": 4, "title": "Symphony No.6 in B Minor, Op.74 \"Pathetic\" mov.4 - Finale. Adagio Lamentoso - Andante", "composer": ["Tchaikovsky"], "length": "10:22"},
+        {"disc_no": 1, "no": 5, "title": "Polka \"Vergnugungszug\"", "composer": ["Johann Strauss I"], "length": "2:35"},
+        {"disc_no": 1, "no": 6, "title": "Aase's Death from Peer Gynt", "composer": ["Grieg"], "length": "5:20"},
+        {"disc_no": 1, "no": 7, "title": "Moto Perpetuo", "composer": ["Paganini"], "length": "4:23"},
+        {"disc_no": 1, "no": 8, "title": "Tybalt's Death from Romeo and Juliet", "composer": ["Tchaikovsky"], "length": "5:27"},
+        {"disc_no": 1, "no": 9, "title": "Promenade \"Walking The Dog\" from the film \"Shall We Dance\"", "composer": ["Gershwin", "Andre Kostelanetz"], "length": "4:02"},
+        {"disc_no": 1, "no": 10, "title": "The Stars And Stripes Forever", "composer": ["Sousa"], "length": "4:29"}
+    ],
+    "score": 3,
+    "comment": "観客のウォームウェルカムが良く伝わってくるクラシックライブ。プログラムも静動短長薄重揃っている",
+    "date": "2025/06/06",
+    "references":[
+        {"name": "Discogs", "url": "https://www.discogs.com/release/13737355-Rostropovich-Return-to-Russia"}
+    ]
+}

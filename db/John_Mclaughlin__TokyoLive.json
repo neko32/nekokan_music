@@ -1,0 +1,36 @@
+{
+    "title": "Tokyo Live",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["Neo Hard Bop"]
+    },
+    "label": "Verve",
+    "id": "521 870-2",
+    "release_year": 1994,
+    "record_year": [1993],
+    "personnel": {
+        "leader": [
+            {"name": "John McLaughlin", "instruments": "Electric Guitar", "tracks": "all"}
+        ],
+        "sidemen": [
+            {"name": "Joey DeFrancesco", "instruments": "Organ,Trumpet", "tracks": "all"},
+            {"name": "Dennis Chambers", "instruments": "Drums", "tracks": "all"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "1 Nite Stand", "composer": ["John McLaughlin"], "length": "7:05"},
+        {"disc_no": 1, "no": 2, "title": "Hijacked", "composer": ["John McLaughlin"], "length": "10:25"},
+        {"disc_no": 1, "no": 3, "title": "When Love Is Far Away", "composer": ["John McLaughlin"], "length": "4:56"},
+        {"disc_no": 1, "no": 4, "title": "Little Miss Valley", "composer": ["John McLaughlin"], "length": "10:56"},
+        {"disc_no": 1, "no": 5, "title": "Juju At The Crossroads", "composer": ["John McLaughlin"], "length": "5:15"},
+        {"disc_no": 1, "no": 6, "title": "Vukovar", "composer": ["John McLaughlin"], "length": "12:11"},
+        {"disc_no": 1, "no": 7, "title": "No Blues", "composer": ["Miles Davis"], "length": "4:27"},
+        {"disc_no": 1, "no": 8, "title": "Mattinale", "composer": ["John McLaughlin"], "length": "19:42"}
+    ],
+    "score": 2,
+    "comment": "悪くはないがどこか面白みのない演奏である..個性が薄いというか軽いというか。。おそらくデニスチェンバースとジョーイデフランセスコの演奏があまり個人的に訴えないのだと思う",
+    "date": "2025/06/06",
+    "references":[
+        {"name": "wikipedia", "url": "https://en.wikipedia.org/wiki/Tokyo_Live_(John_McLaughlin_album)"}
+    ]
+}

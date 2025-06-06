@@ -1,0 +1,35 @@
+{
+    "title": "Us Three",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["Hard Bop"]
+    },
+    "label": "Blue Note",
+    "id": "BST 84037",
+    "release_year": 1960,
+    "record_year": [1960],
+    "personnel": {
+        "leader": [
+            {"name": "Horace Parlan", "instruments": "Piano", "tracks": "all"}
+        ],
+        "sidemen": [
+            {"name": "George Tucker", "instruments": "Bass", "tracks": "all"},
+            {"name": "Al Harewood", "instruments": "Drums", "tracks": "all"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "Us Three", "composer": ["Horace Parlan"], "length": "4:33"},
+        {"disc_no": 1, "no": 2, "title": "I Want To Be Loved", "composer": ["Johnny Green"], "length": "4:50"},
+        {"disc_no": 1, "no": 3, "title": "Come Rain or Come Shine", "composer": ["Harold Arlen", "Johnny Mercer"], "length": "6:26"},
+        {"disc_no": 1, "no": 4, "title": "Wadin'", "composer": ["Horace Parlan"], "length": "5:52"},
+        {"disc_no": 1, "no": 5, "title": "The Lady Is a Tramp", "composer": ["Lorenz Hart", "Richard Rodgers"], "length": "7:09"},
+        {"disc_no": 1, "no": 6, "title": "Walkin'", "composer": ["Richard Carpenter"], "length": "7:05"},
+        {"disc_no": 1, "no": 7, "title": "Return Engagement", "composer": ["Horace Parlan"], "length": "4:48"},
+    ],
+    "score": 4,
+    "comment": "ホレスパーランのトリオの三人の力強さが最も最良の形で表現されているアルバム。スタンダード、パーランのオリジナル、他人のオリジナルとバラエティ豊かで飽きない作り",
+    "date": "2025/06/03",
+    "references":[
+        {"name": "wikipedia", "url": "https://en.wikipedia.org/wiki/Us_Three"}
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "title": "A.T's Delight",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["Hard Bop"]
+    },
+    "label": "Blue Note",
+    "id": "BST 84047",
+    "release_year": 1961,
+    "record_year": [1960],
+    "personnel": {
+        "leader": [
+            {"name": "Art Taylor", "instruments": "Drums", "tracks": "all"}
+        ],
+        "sidemen": [
+            {"name": "Dave Burns", "instruments": "Trumpet", "tracks": "1-4,6"},
+            {"name": "Stanley Turrentine", "instruments": "Tenor Saxophone", "tracks": "all"},
+            {"name": "Wynton Kelly", "instruments": "Piano", "tracks": "1-4,6"},
+            {"name": "Paul Chambers", "instruments": "Bass", "tracks": "all"},
+            {"name": "Carlos \"Patato\" Valdes", "instruments": "Conga", "tracks": "2,3,5"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "Syeeda's Song Flute", "composer": ["John Coltrane"], "length": "6:35"},
+        {"disc_no": 1, "no": 2, "title": "Epistrophy", "composer": ["Kenny Clarke", "Thelonious Monk"], "length": "6:52"},
+        {"disc_no": 1, "no": 3, "title": "Move", "composer": ["Denzil Best"], "length": "5:49"},
+        {"disc_no": 1, "no": 4, "title": "High Seas", "composer": ["Kenny Dorham"], "length": "6:49"},
+        {"disc_no": 1, "no": 5, "title": "Cookoo And Fungi", "composer": ["Art Taylor"], "length": "5:33"},
+        {"disc_no": 1, "no": 6, "title": "Blue Interlude", "composer": ["Kenny Dorham"], "length": "5:22"}
+    ],
+    "score": 4,
+    "comment": "あくまでATらしい安定と謙虚を保ちつつもソロではしっかり真の実力者ぶりを見せつける、なぜハードバップシーンで常に頼られ続けたかをよく物語る一枚",
+    "date": "2025/06/06",
+    "references":[
+        {"name": "wikipedia", "url": "https://en.wikipedia.org/wiki/A.T.%27s_Delight"}
+    ]
+}

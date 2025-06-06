@@ -1,0 +1,44 @@
+{
+    "title": "Ugetsu - Art Blakey's Jazz Messagers At Birdland",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["Hard Bop"]
+    },
+    "label": "Riverside",
+    "id": "RLP-464",
+    "release_year": 1963,
+    "record_year": [1963],
+    "personnel": {
+        "group": [
+            {
+                "name": "Art Blakey & The Jazz Messagers", 
+                "abbr": "JM",
+                "members": [
+                    {"name": "Freddie Hubbard", "instruments": "Trumpet", "tracks": "all"},
+                    {"name": "Curtis Fuller", "instruments": "Trombone", "tracks": "all"},
+                    {"name": "Wayne Shorter", "instruments": "Tenor Saxophone", "tracks": "all"},
+                    {"name": "Cedar Walton", "instruments": "Piano", "tracks": "all"},
+                    {"name": "Reggie Workman", "instruments": "Bass", "tracks": "all"},
+                    {"name": "Art Blakey", "instruments": "Drums", "tracks": "all", "leader": true}
+                ]
+            }
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "One By One", "composer": ["Wayne Shorter"], "length": "6:18"},
+        {"disc_no": 1, "no": 2, "title": "Ugetsu", "composer": ["Cedar Walton"], "length": "11:03"},
+        {"disc_no": 1, "no": 3, "title": "Time Off", "composer": ["Curtis Fuller"], "length": "4:56"},
+        {"disc_no": 1, "no": 4, "title": "Ping-Pong", "composer": ["Wayne Shorter"], "length": "8:09"},
+        {"disc_no": 1, "no": 5, "title": "I Didn't Know What Time It Was", "composer": ["Lorenz Hart", "Richard Rodgers"], "length": "6:31"},
+        {"disc_no": 1, "no": 6, "title": "On The Ginza", "composer": ["Wayne Shorter"], "length": "7:07"},
+        {"disc_no": 1, "no": 7, "title": "Eva", "composer": ["Wayne Shorter"], "length": "5:55"},
+        {"disc_no": 1, "no": 8, "title": "The High Priest", "composer": ["Curtis Fuller"], "length": "5:32"},
+        {"disc_no": 1, "no": 8, "title": "The Theme", "composer": ["Miles Davis"], "length": "1:43"},
+    ],
+    "score": 4,
+    "comment": "1963年JMモード3管時代最盛期のライブ音源。才能あるメンバーと50年代に続いてなお意気盛んなブレイキーの大変熱いパフォーマンスが楽しめる",
+    "date": "2025/06/03",
+    "references":[
+        {"name": "wikipedia", "url": "https://en.wikipedia.org/wiki/Ugetsu_(album)"}
+    ]
+}
