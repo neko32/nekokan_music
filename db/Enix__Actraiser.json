@@ -1,0 +1,25 @@
+{
+    "title": "Actraiser I",
+    "janre": {
+        "main": "Game",
+        "sub": ["Game"]
+    },
+    "label": "Enix",
+    "id": "NA_Enix__Actraiser_I",
+    "release_year": 1994,
+    "record_year": [1994],
+    "personnel": {
+        "company": [
+            {"name": "Enix", "tracks": "all"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "Actraiser I", "composer": ["古代祐三"], "length": "48:42"},
+    ],
+    "score": 5,
+    "comment": "ゴシック・クラシック風を基調としたスタイルで構築された音世界は非常に豊かで荘厳",
+    "date": "2025/06/07",
+    "references":[
+        {"name": "Wikipedia", "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AF%E3%83%88%E3%83%AC%E3%82%A4%E3%82%B6%E3%83%BC"}
+    ]
+}

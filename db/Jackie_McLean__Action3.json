@@ -1,0 +1,35 @@
+{
+    "title": "Action Action Action",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["Hard Bop"]
+    },
+    "label": "Blue Note",
+    "id": "BST 84218",
+    "release_year": 1967,
+    "record_year": [1964],
+    "personnel": {
+        "leader": [
+            {"name": "Jackie McLean", "instruments": "Alto Saxophone", "tracks": "all"}
+        ],
+        "sidemen": [
+            {"name": "Charles Tolliver", "instruments": "Trumpet", "tracks": "all"},
+            {"name": "Bobby Hutcherson", "instruments": "Vibes", "tracks": "all"},
+            {"name": "Cecil McBee", "instruments": "Bass", "tracks": "all"},
+            {"name": "Billy Higgins", "instruments": "Drums", "tracks": "all"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "Action", "composer": ["Jackie McLean"], "length": "10:54"},
+        {"disc_no": 1, "no": 2, "title": "Plight", "composer": ["Charles Tolliver"], "length": "7:39"},
+        {"disc_no": 1, "no": 3, "title": "Wrong Handle", "composer": ["Charles Tolliver"], "length": "7:35"},
+        {"disc_no": 1, "no": 4, "title": "I Hear a Rhapsody", "composer": ["Jack Baker", "George Fragos", "Dick Gasparre"], "length": "4:43"},
+        {"disc_no": 1, "no": 5, "title": "Hootman", "composer": ["Jackie McLean"], "length": "7:34"}
+    ],
+    "score": 5,
+    "comment": "非常にハイテンション・ハイクオリティなLet Freedom Ringの延長路線で今回はハッチャーソンのvibとヒギンスのドラムが大変効果的。トリヴァーも大変素晴らしい",
+    "date": "2025/06/07",
+    "references":[
+        {"name": "wikipedia", "url": "https://en.wikipedia.org/wiki/Action_(Jackie_McLean_album)"}
+    ]
+}
