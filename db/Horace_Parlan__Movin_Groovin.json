@@ -1,0 +1,36 @@
+{
+    "title": "Movin' & Groovin'",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["Hard Bop"]
+    },
+    "label": "Blue Note",
+    "id": "BST 84028",
+    "release_year": 1960,
+    "record_year": [1960],
+    "personnel": {
+        "leader": [
+            {"name": "Horace Parlan", "instruments": "Piano", "tracks": "all"}
+        ],
+        "sidemen": [
+            {"name": "George Tucker", "instruments": "Bass", "tracks": "all"},
+            {"name": "Al Harewood", "instruments": "Drums", "tracks": "all"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "C Jam Blues", "composer": ["Barney Bigard", "Duke Ellington"], "length": "5:13"},
+        {"disc_no": 1, "no": 2, "title": "On Green Dolphin Street", "composer": ["Bronislau Kaper", "Ned Washington"], "length": "5:30"},
+        {"disc_no": 1, "no": 3, "title": "Up in Cynthia's Room", "composer": ["Horace Parlan"], "length": "5:26"},
+        {"disc_no": 1, "no": 4, "title": "Lady Bird", "composer": ["Tadd Dameron"], "length": "5:03"},
+        {"disc_no": 1, "no": 5, "title": "Bag's Groove", "composer": ["Milt Jackson"], "length": "5:48"},
+        {"disc_no": 1, "no": 6, "title": "Stella by Starlight", "composer": ["Ned Washington", "Victor Young"], "length": "6:04"},
+        {"disc_no": 1, "no": 7, "title": "There Is No Greater Love", "composer": ["Isham Jones", "Marty Symes"], "length": "6:43"},
+        {"disc_no": 1, "no": 7, "title": "It Could Happen to You", "composer": ["Johnny Burke", "Jimmy Van Heusen"], "length": "3:18"},
+    ],
+    "score": 3,
+    "comment": "ホレスパーランのデビュー作だが次作のUs Threeがとても強烈な印象を持っている分のこのアルバムは地味。おそらくバラード系スタンダードが多いのも割を食ったか",
+    "date": "2025/06/14",
+    "references":[
+        {"name": "wikipedia", "url": "https://en.wikipedia.org/wiki/Movin%27_%26_Groovin%27"}
+    ]
+}

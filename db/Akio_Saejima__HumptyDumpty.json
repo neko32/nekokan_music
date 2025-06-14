@@ -1,0 +1,36 @@
+{
+    "title": "Humpty Dumpty",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["Neo Hard Bop"]
+    },
+    "label": "Enja Records",
+    "id": "ENJ-8032 2",
+    "release_year": 1993,
+    "record_year": [1988],
+    "personnel": {
+        "leader": [
+            {"name": "Akio Saejima", "instruments": "Guitar", "tracks": "all"}
+        ],
+        "sidemen": [
+            {"name": "Joe Henderson", "instruments": "Tenor Saxophone", "tracks": "all"},
+            {"name": "Renee Rosnes", "instruments": "Piano,Electric Piano,Synthesizer", "tracks": "all"},
+            {"name": "Kelly Sill", "instruments": "Bass", "tracks": "all"},
+            {"name": "Joel Spencer", "instruments": "Drums", "tracks": "all"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "Humpty Dumpty", "composer": ["Akio Saejima"], "length": "7:45"},
+        {"disc_no": 1, "no": 2, "title": "Peace", "composer": ["Akio Saejima"], "length": "7:31"},
+        {"disc_no": 1, "no": 3, "title": "Eyes Of The Dragon", "composer": ["Akio Saejima"], "length": "8:27"},
+        {"disc_no": 1, "no": 4, "title": "Wheeler Dealer", "composer": ["Akio Saejima"], "length": "8:25"},
+        {"disc_no": 1, "no": 5, "title": "Seven Souls", "composer": ["Akio Saejima"], "length": "6:18"},
+        {"disc_no": 1, "no": 6, "title": "Alone Together", "composer": ["Akio Saejima"], "length": "8:12"}
+    ],
+    "score": 3,
+    "comment": "円熟したジョーヘンと若いSaejimaとのコラボは落ち着いていてステディな音楽に満ちている",
+    "date": "2025/06/07",
+    "references":[
+        {"name": "wikipedia", "url": "https://www.discogs.com/release/14390414-Akio-Sasajima-Joe-Henderson-Renee-Rosnes-Kelly-Sill-Joel-Spencer-Humpty-Dumpty"}
+    ]
+}
