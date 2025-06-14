@@ -1,0 +1,46 @@
+{
+    "title": "Larry Young In Paris: The ORTF Recordings",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["Modal"]
+    },
+    "label": "Resonance Records",
+    "id": "HLP-9022",
+    "release_year": 2016,
+    "record_year": [1964, 1965],
+    "personnel": {
+        "leader": [
+            {"name": "Larry Young", "instruments": "Organ,Piano", "tracks": "all"}
+        ],
+        "sidemen": [
+            {"name": "Sonny Grey", "instruments": "Trumpet", "tracks": "1:2,1:4,1:5"},
+            {"name": "Woody Shaw", "instruments": "Piano", "tracks": "1:1,1:2,1:4,1:5,2:2-2:4"},
+            {"name": "Jean-Claude Fohrenbach", "instruments": "Tenor Saxophone", "tracks": "1:2,1:4,1:5"},
+            {"name": "Nathan Davis", "instruments": "Tenor Saxophone", "tracks": "1:1,1:2,1:5,2:2-2:4"},
+            {"name": "Jack Dieval", "instruments": "Piano", "tracks": "1:2,1:3,1:4,1:5"},
+            {"name": "Jacques B. Hess", "instruments": "Bass", "tracks": "all"},
+            {"name": "Billy Brooks", "instruments": "Drums", "tracks": "1:1,2:1-2:4"},
+            {"name": "Franco Manzecchi", "instruments": "Drums", "tracks": "1:2-1:5,2:1,2:5"},
+            {"name": "Jacky Bamboo", "instruments": "Congas", "tracks": "1:2-1:5,2:1,2:5"}
+
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "Trane of Thought", "composer": ["Nathan Davis"], "length": "6:46"},
+        {"disc_no": 1, "no": 2, "title": "Talkin' Bout J.C.", "composer": ["Larry Young"], "length": "14:53"},
+        {"disc_no": 1, "no": 3, "title": "Mean To Me", "composer": ["Fred Ahlert", "Roy Turk"], "length": "4:12"},
+        {"disc_no": 1, "no": 4, "title": "La Valse Grise", "composer": ["Jack Dieval"], "length": "16:09"},
+        {"disc_no": 1, "no": 5, "title": "Discotheque", "composer": ["Jack Dieval"], "length": "10:43"},
+        {"disc_no": 2, "no": 1, "title": "Luny Tune", "composer": ["Larry Young"], "length": "4:36"},
+        {"disc_no": 2, "no": 2, "title": "Beyond All Limits", "composer": ["Woody Shaw"], "length": "7:36"},
+        {"disc_no": 2, "no": 3, "title": "Black Nile", "composer": ["Wayne Shorter"], "length": "13:59"},
+        {"disc_no": 2, "no": 4, "title": "Zoltan", "composer": ["Woody Shaw"], "length": "20:31"},
+        {"disc_no": 2, "no": 5, "title": "Larry's Blues", "composer": ["Larry Young"], "length": "6:13"}
+    ],
+    "score": 5,
+    "comment": "IFの流れを汲んだパリでの録音。Talkin' About J.C, Zoltan等の再録のみならずヨーロッパ演者のオリジナル曲とその演奏のクオリティも極めて良好",
+    "date": "2025/06/14",
+    "references":[
+        {"name": "Discogs", "url": "https://www.discogs.com/release/8252278-Larry-Young-Larry-Young-In-Paris-The-ORTF-Recordings"}
+    ]
+}
