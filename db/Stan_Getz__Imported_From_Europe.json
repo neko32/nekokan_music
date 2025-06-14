@@ -1,0 +1,41 @@
+{
+    "title": "Imported From Europe",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["Hard Bop"]
+    },
+    "label": "Verve",
+    "id": "MGV 8331",
+    "release_year": 1959,
+    "record_year": [1958],
+    "personnel": {
+        "leader": [
+            {"name": "Stan Getz", "instruments": "Tenor Saxophone", "tracks": "all"}
+        ],
+        "sidemen": [
+            {"name": "Benny Bailey", "instruments": "Trumpet", "tracks": "all"},
+            {"name": "Ake Persson", "instruments": "Trombone", "tracks": "all"},
+            {"name": "Bjarne Nerem", "instruments": "Tenor Saxophone", "tracks": "6,7"},
+            {"name": "Lars Gullin", "instruments": "Baritone Saxophone", "tracks": "all"},
+            {"name": "Bengt Hallberg", "instruments": "Piano", "tracks": "1,5-7"},
+            {"name": "Jan Johansson", "instruments": "Piano", "tracks": "2-4"},
+            {"name": "Gunnar Johnson", "instruments": "Bass", "tracks": "all"},
+            {"name": "William Schiopffe", "instruments": "Drums", "tracks": "all"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "Bengt's Blues", "composer": ["Bengt Hallberg"], "length": "4:15"},
+        {"disc_no": 1, "no": 2, "title": "Honeysuckle Rose", "composer": ["Fats Waller", "Andy Razaf"], "length": "6:43"},
+        {"disc_no": 1, "no": 3, "title": "They Can't Take That Away From Me", "composer": ["George Gershwin", "Ira Gershwin"], "length": "7:18"},
+        {"disc_no": 1, "no": 4, "title": "Topsy", "composer": ["Edgar Battle", "Eddie Durham"], "length": "6:25"},
+        {"disc_no": 1, "no": 5, "title": "Like Someone in Love", "composer": ["Jimmy Van Heusen", "Johnny Burke"], "length": "4:15"},
+        {"disc_no": 1, "no": 6, "title": "Speak Low", "composer": ["Kurt Weill", "Ogden Nash"], "length": "3:42"},
+        {"disc_no": 1, "no": 7, "title": "Stockholm Street", "composer": ["Lars Gullin"], "length": "4:12"}
+    ],
+    "score": 3,
+    "comment": "ストックホルム収録。大変丁寧に音を紡ぐサイドメンに囲まれ上品なセッションとなっている",
+    "date": "2025/06/14",
+    "references":[
+        {"name": "wikipedia", "url": "https://en.wikipedia.org/wiki/Imported_from_Europe"}
+    ]
+}
