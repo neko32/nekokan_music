@@ -1,0 +1,30 @@
+{
+    "title": "Prokofiev - Sinfonia Concertante for Cello & Orchestra, Op.125",
+    "janre": {
+        "main": "Classical",
+        "sub": ["Modern"]
+    },
+    "label": "Supraphon",
+    "id": "SU42292",
+    "release_year": 2017,
+    "record_year": [1966],
+    "personnel": {
+        "conductor": [{"name": "Karel Ancerl", "tracks":"all"}],
+        "orchestra": [{"name": "Czech Philharmonic Orchestra", "tracks": "all"}],
+        "soloists": [
+            {"name": "Andre Navarra", "instrument": "Cello", "tracks":"all"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "Sinfonia Concertante in E minor for Cello & Orchestra, Op. 125 - mov.1 Andante", "composer": ["Prokofiev"], "length": "10:35"},
+        {"disc_no": 1, "no": 2, "title": "Sinfonia Concertante in E minor for Cello & Orchestra, Op. 125 - mov.2 Allegro giusto", "composer": ["Prokofiev"], "length": "17:20"},
+        {"disc_no": 1, "no": 3, "title": "Sinfonia Concertante in E minor for Cello & Orchestra, Op. 125 - mov.3 Andante con moto", "composer": ["Prokofiev"], "length": "9:57"},
+        {"disc_no": 1, "no": 4, "title": "Adagio con variazioni", "composer": ["Respighi"], "length": "10:15"}
+    ],
+    "score": 3,
+    "comment": "レスピーギの曲は割合マイナーだが良作、プロコフィエフの交響協奏曲はあまり知名度を得なかったのは納得の微妙な出来",
+    "date": "2025/06/15",
+    "references":[
+        {"name": "Presto Music", "url": "https://www.prestomusic.com/classical/products/8359054--andre-navarra-prague-recordings"}
+    ]
+}
