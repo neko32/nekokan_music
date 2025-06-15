@@ -1,0 +1,35 @@
+{
+    "title": "In 'n Out",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["Modal", "New Mainstream"]
+    },
+    "label": "Blue Note",
+    "id": "BST 84166",
+    "release_year": 1965,
+    "record_year": [1964],
+    "personnel": {
+        "leader": [
+            {"name": "Joe Henderson", "instruments": "Tenor Saxophone", "tracks": "all"}
+        ],
+        "sidemen": [
+            {"name": "Kenny Dorham", "instruments": "Trumpet", "tracks": "all"},
+            {"name": "McCoy Tyner", "instruments": "Piano", "tracks": "all"},
+            {"name": "Richard Davis", "instruments": "Bass", "tracks": "all"},
+            {"name": "Elvin Jones", "instruments": "Drums", "tracks": "all"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "In 'N Out", "composer": ["Joe Henderson"], "length": "10:23"},
+        {"disc_no": 1, "no": 2, "title": "Punjab", "composer": ["Joe Henderson"], "length": "9:07"},
+        {"disc_no": 1, "no": 3, "title": "Serenity", "composer": ["Joe Henderson"], "length": "6:16"},
+        {"disc_no": 1, "no": 4, "title": "Short Story", "composer": ["Kenny Dorham"], "length": "7:10"},
+        {"disc_no": 1, "no": 5, "title": "Brown's Town", "composer": ["Kenny Dorham"], "length": "6:23"}
+    ],
+    "score": 5,
+    "comment": "このサイドメンにブルーノート4100番台。ただただ最高のニューメインストリームをただ堪能するだけ",
+    "date": "2025/06/14",
+    "references":[
+        {"name": "wikipedia", "url": "https://en.wikipedia.org/wiki/In_%27n_Out"}
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "title": "Kindness Joy Love & Happiness (KJLH)",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["Neo Hard Bop", "Modern"]
+    },
+    "label": "East Wind",
+    "id": "EW-8056",
+    "release_year": 1977,
+    "record_year": [1977],
+    "personnel": {
+        "group": [
+            {
+                "name": "The Great Jazz Trio (1st Gen)", 
+                "abbr": "GJT",
+                "members": [
+                    {"name": "Hank Jones", "instruments": "Piano", "tracks": "all"},
+                    {"name": "Ron Carter", "instruments": "Bass", "tracks": "all"},
+                    {"name": "Tony Williams", "instruments": "Drums", "tracks": "all"}
+                ]
+            }
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "Freedom Jazz Dance", "composer": ["Eddie Harris"], "length": "4:30"},
+        {"disc_no": 1, "no": 2, "title": "Doom", "composer": ["Ron Carter"], "length": "4:35"},
+        {"disc_no": 1, "no": 3, "title": "Old Folks", "composer": ["Tony Williams"], "length": "3:58"},
+        {"disc_no": 1, "no": 4, "title": "Ah, Oui", "composer": ["Hank Jones"], "length": "6:07"},
+        {"disc_no": 1, "no": 5, "title": "Mr. P.C.", "composer": ["John Coltrane"], "length": "4:12"},
+        {"disc_no": 1, "no": 6, "title": "All Blues", "composer": ["Miles Davis"], "length": "8:07"},
+        {"disc_no": 1, "no": 7, "title": "A Child Is Born", "composer": ["Thad Jones"], "length": "7:44"}
+    ],
+    "score": 4,
+    "comment": "油が乗っている時期の三人の演奏を大変上質な録音質で聴ける貴重なドキュメントであり、マイルスのアルバムを始めかつての名盤からの再演等バラエティ豊かに選曲されたラインアップも魅力",
+    "date": "2025/06/15",
+    "references":[
+        {"name": "wikipedia", "url": "https://en.wikipedia.org/wiki/Kindness_Joy_Love_%26_Happiness"}
+    ]
+}
