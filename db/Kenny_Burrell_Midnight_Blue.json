@@ -1,0 +1,37 @@
+{
+    "title": "Midnight Blue",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["Cool Soul Jazz"]
+    },
+    "label": "Blue Note",
+    "id": "BST 84123",
+    "release_year": 1963,
+    "record_year": [1963],
+    "personnel": {
+        "leader": [
+            {"name": "Kenny Burrell", "instruments": "Guitar", "tracks": "all"}
+        ],
+        "sidemen": [
+            {"name": "Stanley Turrentine", "instruments": "Tenor Saxophone", "tracks": "1,2,5,7"},
+            {"name": "Major Holley Jr.", "instruments": "Bass", "tracks": "all except 3"},
+            {"name": "Bill English", "instruments": "Drums", "tracks": "all except 3"},
+            {"name": "Ray Barretto", "instruments": "Conga", "tracks": "all except 3,6"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "Chitlins Con Carne", "composer": ["Kenny Burrell"], "length": "5:30"},
+        {"disc_no": 1, "no": 2, "title": "Mule", "composer": ["Kenny Burrell", "Major Holley Jr."], "length": "6:56"},
+        {"disc_no": 1, "no": 3, "title": "Soul Lament", "composer": ["Kenny Burrell"], "length": "2:43"},
+        {"disc_no": 1, "no": 4, "title": "Midnight Blue", "composer": ["Kenny Burrell"], "length": "4:02"},
+        {"disc_no": 1, "no": 5, "title": "Wavy Gravy", "composer": ["Kenny Burrell"], "length": "5:47"},
+        {"disc_no": 1, "no": 6, "title": "Gee, Baby, Ain't I Good to You", "composer": ["Andy Razaf", "Don Radman"], "length": "4:25"},
+        {"disc_no": 1, "no": 7, "title": "Saturday Night Blues", "composer": ["Kenny Burrell"], "length": "6:16"}
+    ],
+    "score": 5,
+    "comment": "ピアノレスによる演奏でブルージーでクールなバレルのギターが最も光る傑作。タレンタインのテナーとの相性は抜群",
+    "date": "2025/06/17",
+    "references":[
+        {"name": "wikipedia", "url": "https://en.wikipedia.org/wiki/Midnight_Blue_(Kenny_Burrell_album)"}
+    ]
+}
