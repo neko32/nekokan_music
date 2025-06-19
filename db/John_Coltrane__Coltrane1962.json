@@ -1,0 +1,34 @@
+{
+    "title": "Coltrane",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["Hard Bop"]
+    },
+    "label": "Impulse!",
+    "id": "A-21",
+    "release_year": 1962,
+    "record_year": [1962],
+    "personnel": {
+        "leader": [
+            {"name": "John Coltrane", "instruments": "Tenor Saxophone", "tracks": "all"}
+        ],
+        "sidemen": [
+            {"name": "McCoy Tyner", "instruments": "Piano", "tracks": "all"},
+            {"name": "Jimmy Garrison", "instruments": "Bass", "tracks": "all"},
+            {"name": "Elvin Jones", "instruments": "Drums", "tracks": "all"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "Out of This World", "composer": ["Harold Arlen", "Johnny Mercer"], "length": "14:06"},
+        {"disc_no": 1, "no": 2, "title": "Soul Eyes", "composer": ["Mal Waldron"], "length": "5:26"},
+        {"disc_no": 1, "no": 3, "title": "The Inch Worm", "composer": ["Frank Loesser"], "length": "6:19"},
+        {"disc_no": 1, "no": 4, "title": "Tunji", "composer": ["John Coltrane"], "length": "6:33"},
+        {"disc_no": 1, "no": 5, "title": "Miles' Mode", "composer": ["John Coltrane"], "length": "7:31"}
+    ],
+    "score": 4,
+    "comment": "JC黄金カルテットの演奏で悪かろうはずもなく。他の超有名盤が有名すぎて埋もれてしまった感があるも決して内容が劣っているわけでもない。最後の曲はエリックドルフィーも別名でやっている隠れた名曲",
+    "date": "2025/06/19",
+    "references":[
+        {"name": "wikipedia", "url": "https://en.wikipedia.org/wiki/Coltrane_(1962_album)"}
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Collectors' Items",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["Be Bop", "Hard Bop"]
+    },
+    "label": "Prestige",
+    "id": "PRLP 7044",
+    "release_year": 1956,
+    "record_year": [1953,1956],
+    "personnel": {
+        "leader": [
+            {"name": "Miles Davis", "instruments": "Trumpet", "tracks": "all"}
+        ],
+        "sidemen": [
+            {"name": "Sonny Rollins", "instruments": "Tenor Saxophone", "tracks": "all"},
+            {"name": "Charlie Chan A.K.A Charlie Parker", "instruments": "Tenor Saxophone", "tracks": "1-4"},
+            {"name": "Walter Bishop Jr.", "instruments": "Piano", "tracks": "1-4"},
+            {"name": "Tommy Flanagan", "instruments": "Piano", "tracks": "5-7"},
+            {"name": "Percy Heath", "instruments": "Bass", "tracks": "1-4"},
+            {"name": "Paul Chambers", "instruments": "Bass", "tracks": "5-7"},
+            {"name": "Philly Joe Jones", "instruments": "Drums", "tracks": "1-4"},
+            {"name": "Art Taylor", "instruments": "Drums", "tracks": "5-7"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "The Serpent's Tooth (Take 1)", "composer": ["Miles Davis"], "length": "7:08"},
+        {"disc_no": 1, "no": 2, "title": "The Serpent's Tooth (Take 2)", "composer": ["Miles Davis"], "length": "6:24"},
+        {"disc_no": 1, "no": 3, "title": "'Round About Midnight", "composer": ["Thelonious Monk"], "length": "7:12"},
+        {"disc_no": 1, "no": 4, "title": "Compulsion", "composer": ["Miles Davis"], "length": "5:53"},
+        {"disc_no": 1, "no": 5, "title": "No Line", "composer": ["Miles Davis"], "length": "5:48"},
+        {"disc_no": 1, "no": 6, "title": "Viered Blues", "composer": ["Miles Davis"], "length": "7:00"},
+        {"disc_no": 1, "no": 7, "title": "In Your Own Sweet Way", "composer": ["Dave Brubeck"], "length": "4:40"}
+    ],
+    "score": 3,
+    "comment": "1953のビバップ過渡期と1956のハードパップ黎明期の2セッションから成る。1953の熱気あふれたセッションと1956のアートテイラーの落ち着いたドラミングも相まっての地味なセッションの二面性がある",
+    "date": "2025/06/19",
+    "references":[
+        {"name": "wikipedia", "url": "https://en.wikipedia.org/wiki/Collectors%27_Items"}
+    ]
+}

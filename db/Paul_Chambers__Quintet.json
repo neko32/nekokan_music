@@ -1,0 +1,37 @@
+{
+    "title": "Paul Chambers Quintet",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["Hard Bop"]
+    },
+    "label": "Blue Note",
+    "id": "BST 1564",
+    "release_year": 1958,
+    "record_year": [1957],
+    "personnel": {
+        "leader": [
+            {"name": "Paul Chambers", "instruments": "Bass", "tracks": "all"}
+        ],
+        "sidemen": [
+            {"name": "Donald Byrd", "instruments": "Trumpet", "tracks": "all except 3"},
+            {"name": "Clifford Jordan", "instruments": "Tenor Saxophone", "tracks": "all except 3"},
+            {"name": "Tommy Flanagan", "instruments": "Piano", "tracks": "all"},
+            {"name": "Elvin Jones", "instruments": "Drums", "tracks": "all"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "Minor Run-Down", "composer": ["Benny Golson"], "length": "7:36"},
+        {"disc_no": 1, "no": 2, "title": "The Hand of Love", "composer": ["Paul Chambers"], "length": "6:22"},
+        {"disc_no": 1, "no": 3, "title": "Softly, as in a Morning Sunrise", "composer": ["Oscar Hammerstein II", "Sigmund Romberg"], "length": "3:06"},
+        {"disc_no": 1, "no": 4, "title": "Four Strings", "composer": ["Benny Golson"], "length": "5:26"},
+        {"disc_no": 1, "no": 5, "title": "What's New?", "composer": ["Johnny Burke", "Bob Haggart"], "length": "5:38"},
+        {"disc_no": 1, "no": 6, "title": "Beauteous", "composer": ["Paul Chambers"], "length": "8:05"},
+        {"disc_no": 1, "no": 7, "title": "Four Strings (alt.take)", "composer": ["Benny Golson"], "length": "5:11"}
+    ],
+    "score": 4,
+    "comment": "BN1500番台のお手本というべき堅実で典型的な高品質ハードバップとチェンバースの卓越したベースソロを楽しめる良作。Elvinのドラミングが初々しい",
+    "date": "2025/06/19",
+    "references":[
+        {"name": "wikipedia", "url": "https://en.wikipedia.org/wiki/Paul_Chambers_Quintet"}
+    ]
+}

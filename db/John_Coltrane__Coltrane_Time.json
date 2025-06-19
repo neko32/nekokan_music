@@ -1,0 +1,34 @@
+{
+    "title": "Coltrane Time",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["Hard Bop"]
+    },
+    "label": "Capitol Records",
+    "id": "CDP 7 84461 2",
+    "release_year": 1962,
+    "record_year": [1958],
+    "personnel": {
+        "leader": [
+            {"name": "John Coltrane", "instruments": "Tenor Saxophone", "tracks": "all"}
+        ],
+        "sidemen": [
+            {"name": "Kenny Dorham", "instruments": "Trumpet", "tracks": "all"},
+            {"name": "Cecil Taylor", "instruments": "Piano", "tracks": "all"},
+            {"name": "Chuck Israels", "instruments": "Bass", "tracks": "all"},
+            {"name": "Louis Hayes", "instruments": "Drums", "tracks": "all"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "Shifting Down", "composer": ["Kenny Dorham"], "length": "10:39"},
+        {"disc_no": 1, "no": 2, "title": "Just Friends", "composer": ["John Klenner", "Sam Lewis"], "length": "6:16"},
+        {"disc_no": 1, "no": 3, "title": "Like Someone In Love", "composer": ["Jimmy Van Heusen", "Johnny Burke"], "length": "8:10"},
+        {"disc_no": 1, "no": 4, "title": "Double Clutching", "composer": ["Chuck Israels"], "length": "8:20"}
+    ],
+    "score": 2,
+    "comment": "1958年に一度セシル・テイラー名義でHard Driving Jazzというタイトルでリリースされている。セシルのアヴァンギャルドとドーハムのトラッドハードバップの対比が面白いがいかんせん録音のステレオバランスがひどすぎる",
+    "date": "2025/06/19",
+    "references":[
+        {"name": "wikipedia", "url": "https://en.wikipedia.org/wiki/Coltrane_(1962_album)"}
+    ]
+}

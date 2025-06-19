@@ -1,0 +1,35 @@
+{
+    "title": "Pat Metheny Group",
+    "janre": {
+        "main": "Fusion",
+        "sub": ["Soft"]
+    },
+    "label": "ECM",
+    "id": "ECM 1114",
+    "release_year": 1978,
+    "record_year": [1978],
+    "personnel": {
+        "leader": [
+            {"name": "Pat Metheny", "instruments": "Electic Guitar,Guitar", "tracks": "all"}
+        ],
+        "sidemen": [
+            {"name": "Lyle Mays", "instruments": "Piano,Synthesizer,Autoharp", "tracks": "all"},
+            {"name": "Mark Egan", "instruments": "Electric Bass", "tracks": "all"},
+            {"name": "Danny Gottlieb", "instruments": "Drums", "tracks": "all"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "San Lorenzo", "composer": ["Pat Metheny", "Lyle Mays"], "length": "10:14"},
+        {"disc_no": 1, "no": 2, "title": "Phase Dance", "composer": ["Pat Metheny", "Lyle Mays"], "length": "8:18"},
+        {"disc_no": 1, "no": 3, "title": "Jaco", "composer": ["Pat Metheny"], "length": "5:34"},
+        {"disc_no": 1, "no": 4, "title": "April Wind", "composer": ["Pat Metheny"], "length": "2:09"},
+        {"disc_no": 1, "no": 5, "title": "April Joy", "composer": ["Pat Metheny"], "length": "8:14"},
+        {"disc_no": 1, "no": 6, "title": "Lone Jack", "composer": ["Pat Metheny", "Lyle Mays"], "length": "6:41"}
+    ],
+    "score": 4,
+    "comment": "いつも通りのメセニーの素朴さと透明さ。Watercolorsに引き続き割合地味めなアルバムかもしれない",
+    "date": "2025/06/19",
+    "references":[
+        {"name": "wikipedia", "url": "https://en.wikipedia.org/wiki/Pat_Metheny_Group_(album)"}
+    ]
+}
