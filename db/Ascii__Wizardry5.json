@@ -1,0 +1,25 @@
+{
+    "title": "Wizardry 5",
+    "janre": {
+        "main": "Game",
+        "sub": ["Game"]
+    },
+    "label": "Ascii",
+    "id": "NA_Ascii__Wizardry_5",
+    "release_year": 1992,
+    "record_year": [1992],
+    "personnel": {
+        "company": [
+            {"name": "Ascii", "tracks": "all"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "Wizardry 5", "composer": ["Game Studio"], "length": "35:01"}
+    ],
+    "score": 5,
+    "comment": "SFCのシンセ音源を最大限に生かしたクラシック風音楽の最高峰。あまりなぜか知られていないが間違いなくクラシックを違和感なくSFC音源で表現した力作",
+    "date": "2025/06/20",
+    "references":[
+        {"name": "Game Catalog", "url": "https://w.atwiki.jp/gcmatome/pages/6538.html"}
+    ]
+}
