@@ -1,0 +1,45 @@
+{
+    "title": "Mr. Hands",
+    "janre": {
+        "main": "Fusion",
+        "sub": ["Fusion"]
+    },
+    "label": "Columbia",
+    "id": "CBS 84638",
+    "release_year": 1980,
+    "record_year": [1980],
+    "personnel": {
+        "leader": [
+            {"name": "Herbie Hancock", "instruments": "Synthesizer,Piano,Electic Piano,Keyboards,Vocoder", "tracks": "all"}
+        ],
+        "sidemen": [
+            {"name": "Bennie Maupin", "instruments": "Tenor Saxophone", "tracks": "5"},
+            {"name": "Wah Wah Watson", "instruments": "Electirc Guitar", "tracks": "3"},
+            {"name": "Byron Miller", "instruments": "Electric Bass", "tracks": "1"},
+            {"name": "Ron Carter", "instruments": "Bass", "tracks": "2"},
+            {"name": "Freddie Washington", "instruments": "Electric Bass", "tracks": "3"},
+            {"name": "Jaco Pastorius", "instruments": "Electric Bass", "tracks": "4"},
+            {"name": "Paul Jackson", "instruments": "Electric Bass", "tracks": "5"},
+            {"name": "Leon Chancler", "instruments": "Drums", "tracks": "1"},
+            {"name": "Tony Williams", "instruments": "Drums", "tracks": "2"},
+            {"name": "Alphonse Mouzon", "instruments": "Drums", "tracks": "3"},
+            {"name": "Harvey Mason", "instruments": "Drums", "tracks": "4,5"},
+            {"name": "Bill Summers", "instruments": "Percussion", "tracks": "1,4,5"},
+            {"name": "Sheila Escovedo", "instruments": "Percussion", "tracks": "2,3"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "Spiraling Prism", "composer": ["Herbie Hancock"], "length": "6:25"},
+        {"disc_no": 1, "no": 2, "title": "Calypso", "composer": ["Herbie Hancock"], "length": "6:44"},
+        {"disc_no": 1, "no": 3, "title": "Just Around the Corner", "composer": ["Herbie Hancock"], "length": "7:36"},
+        {"disc_no": 1, "no": 4, "title": "4 A.M.", "composer": ["Herbie Hancock"], "length": "5:23"},
+        {"disc_no": 1, "no": 5, "title": "Shiftless Shuffle", "composer": ["Herbie Hancock"], "length": "7:10"},
+        {"disc_no": 1, "no": 6, "title": "Textures", "composer": ["Herbie Hancock"], "length": "6:37"}
+    ],
+    "score": 4,
+    "comment": "ハービー24作目でいろいろなグループの演奏を一曲ずつ入れている、ある意味余り物集というべきものだがさすがどれも素晴らしい演奏でお蔵入りした曲集といわれても首をひねる",
+    "date": "2025/06/21",
+    "references":[
+        {"name": "wikipedia", "url": "https://en.wikipedia.org/wiki/Mr._Hands_(album)"}
+    ]
+}
