@@ -1,0 +1,36 @@
+{
+    "title": "New Soil",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["Hard Bop"]
+    },
+    "label": "Blue Note",
+    "id": "BST 84013",
+    "release_year": 1959,
+    "record_year": [1959],
+    "personnel": {
+        "leader": [
+            {"name": "Jackie McLean", "instruments": "Alto Saxophone", "tracks": "all"}
+        ],
+        "sidemen": [
+            {"name": "Donald Byrd", "instruments": "Trumpet", "tracks": "all"},
+            {"name": "Walter Davis Jr.", "instruments": "Piano", "tracks": "all"},
+            {"name": "Paul Chambers", "instruments": "Bass", "tracks": "all"},
+            {"name": "Pete LaRoca", "instruments": "Drums", "tracks": "all"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "Hip Strut", "composer": ["Jackie McLean"], "length": "11:20"},
+        {"disc_no": 1, "no": 2, "title": "Minor Apprehension", "composer": ["Jackie McLean"], "length": "7:34"},
+        {"disc_no": 1, "no": 3, "title": "Greasy", "composer": ["Walter Davis Jr."], "length": "7:25"},
+        {"disc_no": 1, "no": 4, "title": "Sweet Cakes", "composer": ["Walter Davis Jr."], "length": "6:46"},
+        {"disc_no": 1, "no": 5, "title": "Davis Cup", "composer": ["Walter Davis Jr."], "length": "5:26"},
+        {"disc_no": 1, "no": 6, "title": "Formidable", "composer": ["Walter Davis Jr."], "length": "6:16"}
+    ],
+    "score": 4,
+    "comment": "マクリーンがBNという理想の新天地を得て以前とは明らかな差を見せつけた若い血に溢れた快作。",
+    "date": "2025/06/24",
+    "references":[
+        {"name": "wikipedia", "url": "https://en.wikipedia.org/wiki/New_Soil"}
+    ]
+}
