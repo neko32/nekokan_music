@@ -1,0 +1,32 @@
+{
+    "title": "Montreux Concert",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["Neo Hard Bop"]
+    },
+    "label": "Atlantic",
+    "id": "SD 8802",
+    "release_year": 1978,
+    "record_year": [1977],
+    "personnel": {
+        "leader": [
+            {"name": "Don Pullen", "instruments": "Piano", "tracks": "all"}
+        ],
+        "sidemen": [
+            {"name": "Jeff Berlin", "instruments": "Electric Bass", "tracks": "all"},
+            {"name": "Steve Jordan", "instruments": "Drums", "tracks": "all"},
+            {"name": "Raphael Cruz", "instruments": "Percussion", "tracks": "2"},
+            {"name": "Sammy Figueroa", "instruments": "Percussion", "tracks": "2"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "Richard's Tune (Dedicated to Muhal Richard Abrams)", "composer": ["Don Pullen"], "length": "18:10"},
+        {"disc_no": 1, "no": 2, "title": "Dialog Between Malcolm and Betty", "composer": ["Don Pullen"], "length": "21:47"}
+    ],
+    "score": 3,
+    "comment": "なかなかに内省的なトーンで進行する長尺のライブ演奏。トリオ演奏が蛇足に感じる？",
+    "date": "2025/06/25",
+    "references":[
+        {"name": "wikipedia", "url": "https://en.wikipedia.org/wiki/Montreux_Concert"}
+    ]
+}

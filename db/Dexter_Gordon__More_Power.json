@@ -1,0 +1,35 @@
+{
+    "title": "More Power!",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["Hard Bop"]
+    },
+    "label": "Prestige",
+    "id": "PR 7680",
+    "release_year": 1969,
+    "record_year": [1969],
+    "personnel": {
+        "leader": [
+            {"name": "Dexter Gordon", "instruments": "Tenor Saxophone", "tracks": "all"}
+        ],
+        "sidemen": [
+            {"name": "James Moody", "instruments": "Tenor Saxophone", "tracks": "1,5"},
+            {"name": "Barry Harris", "instruments": "Piano", "tracks": "all"},
+            {"name": "Buster Williams", "instruments": "Bass", "tracks": "all"},
+            {"name": "Albert Heath", "instruments": "Drums", "tracks": "all"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "Lady Bird / Half Nelson", "composer": ["Tadd Dameron", "Miles Davis"], "length": "10:38"},
+        {"disc_no": 1, "no": 2, "title": "Meditation (Meditacao)", "composer": ["Norman Gimbel", "Antonio Carlos Jobim", "Newton Mendonca"], "length": "8:27"},
+        {"disc_no": 1, "no": 3, "title": "Fried Bananas", "composer": ["Dexter Gordon"], "length": "6:05"},
+        {"disc_no": 1, "no": 4, "title": "Boston Bernie", "composer": ["Dexter Gordon"], "length": "7:36"},
+        {"disc_no": 1, "no": 5, "title": "Sticky Wicket", "composer": ["Dexter Gordon"], "length": "7:02"}
+    ],
+    "score": 4,
+    "comment": "1969年に新旧の顔ぶれがしっかりとした伝統的ハードバップをしっかり演奏する好盤。ハードバップの伝統がしっかりと若い世代に受け継がれていることがよくわかる",
+    "date": "2025/06/25",
+    "references":[
+        {"name": "wikipedia", "url": "https://en.wikipedia.org/wiki/More_Power!"}
+    ]
+}
