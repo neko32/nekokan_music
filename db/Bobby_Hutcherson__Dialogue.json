@@ -1,0 +1,37 @@
+{
+    "title": "Dialogue",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["New Mainstream", "Avant-Garde", "Mode"]
+    },
+    "label": "Blue Note",
+    "id": "BST 84198",
+    "release_year": 1965,
+    "record_year": [1965],
+    "personnel": {
+        "leader": [
+            {"name": "Bobby Hutcherson", "instruments": "Vibraphone,Marimba", "tracks": "all"}
+        ],
+        "sidemen": [
+            {"name": "Freddie Hubbard", "instruments": "Trumpet", "tracks": "all"},
+            {"name": "Sam Rivers", "instruments": "Tenor Saxophone,Soprano Saxophone,Bass Clarinet,Flute", "tracks": "all"},
+            {"name": "Andrew Hill", "instruments": "Piano", "tracks": "all"},
+            {"name": "Richard Davis", "instruments": "Bass", "tracks": "all"},
+            {"name": "Joe Chambers", "instruments": "Drums", "tracks": "all"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "Catta", "composer": ["Andrew Hill"], "length": "7:21"},
+        {"disc_no": 1, "no": 2, "title": "Idle While", "composer": ["Joe Chambers"], "length": "6:38"},
+        {"disc_no": 1, "no": 3, "title": "Les Noirs Marchant", "composer": ["Andrew Hill"], "length": "6:40"},
+        {"disc_no": 1, "no": 4, "title": "Dialogue", "composer": ["Joe Chambers"], "length": "10:01"},
+        {"disc_no": 1, "no": 5, "title": "Ghetto Lights", "composer": ["Andrew Hill"], "length": "6:15"},
+        {"disc_no": 1, "no": 6, "title": "Jasper", "composer": ["Andrew Hill"], "length": "8:28", "bonus_track": true}
+    ],
+    "score": 4,
+    "comment": "ハッチャーソンの最初のリーダー作。このサイドメンを見てどういった演奏になるかはお察しの通り",
+    "date": "2025/06/25",
+    "references":[
+        {"name": "wikipedia", "url": "https://en.wikipedia.org/wiki/Dialogue_(Bobby_Hutcherson_album)"}
+    ]
+}
