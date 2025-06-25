@@ -1,0 +1,35 @@
+{
+    "title": "Jazz At Hotchkiss",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["Hard Bop"]
+    },
+    "label": "Savoy Records",
+    "id": "MG 12122",
+    "release_year": 1958,
+    "record_year": [1958],
+    "personnel": {
+        "leader": [
+            {"name": "George Wallington", "instruments": "Piano", "tracks": "all"}
+        ],
+        "sidemen": [
+            {"name": "Donald Byrd", "instruments": "Trumpet", "tracks": "all"},
+            {"name": "Phil Woods", "instruments": "Alto Saxophone", "tracks": "all"},
+            {"name": "Knobby Totah", "instruments": "Bass", "tracks": "all"},
+            {"name": "Nick Stabulas", "instruments": "Drums", "tracks": "all"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "Dance Of The Infidels", "composer": ["Bud Powell", "Fats Navarro"], "length": "6:52"},
+        {"disc_no": 1, "no": 2, "title": "Strange Music", "composer": ["Edward Grieg", "George Forrest", "Robert Craig Wright"], "length": "8:45"},
+        {"disc_no": 1, "no": 3, "title": "Before Dawn", "composer": ["George Wallington"], "length": "5:56"},
+        {"disc_no": 1, "no": 4, "title": "Ow!", "composer": ["Dizzie Gillespie"], "length": "10:34"},
+        {"disc_no": 1, "no": 5, "title": "'S Make 'T", "composer": ["Donald Byrd"], "length": "7:56"}
+    ],
+    "score": 4,
+    "comment": "若いバードとウッズが溌剌と演奏を繰り広げるハードバップの典型を示す好盤",
+    "date": "2025/06/26",
+    "references":[
+        {"name": "wikipedia", "url": "https://www.discogs.com/release/4138345-The-George-Wallington-Quintet-Jazz-At-Hotchkiss"}
+    ]
+}
