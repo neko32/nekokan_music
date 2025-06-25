@@ -1,0 +1,42 @@
+{
+    "title": "Moanin'",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["Hard Bop"]
+    },
+    "label": "Blue Note",
+    "id": "BST 84003",
+    "release_year": 1958,
+    "record_year": [1958],
+    "personnel": {
+        "group": [
+            {
+                "name": "Art Blakey & The Jazz Messagers", 
+                "abbr": "JM",
+                "members": [
+                    {"name": "Lee Morgan", "instruments": "Trumpet", "tracks": "all"},
+                    {"name": "Benny Golson", "instruments": "Tenor Saxophone", "tracks": "all"},
+                    {"name": "Bobby Timmons", "instruments": "Piano", "tracks": "all"},
+                    {"name": "Jymie Merritt", "instruments": "Bass", "tracks": "all"},
+                    {"name": "Art Blakey", "instruments": "Drums", "tracks": "all", "leader": true}
+                ]
+            }
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "Warm-up and dialogue between Lee Morgan and Rudy Van Gelder", "composer": ["Wayne Shorter"], "length": "0:35", "bonus_track":true},
+        {"disc_no": 1, "no": 2, "title": "Moanin'", "composer": ["Bobby Timmons"], "length": "9:35"},
+        {"disc_no": 1, "no": 3, "title": "Are You Real", "composer": ["Benny Golson"], "length": "4:50"},
+        {"disc_no": 1, "no": 4, "title": "Along Came Betty", "composer": ["Benny Golson", "Lee Morgan"], "length": "6:12"},
+        {"disc_no": 1, "no": 5, "title": "The Drum Thunder Suite", "composer": ["Benny Golson"], "length": "6:31"},
+        {"disc_no": 1, "no": 6, "title": "Blues March", "composer": ["Benny Golson"], "length": "6:17"},
+        {"disc_no": 1, "no": 7, "title": "Come Rain or Come Shine", "composer": ["Harold Arlen", "Johnny Mercer"], "length": "5:49"},
+        {"disc_no": 1, "no": 8, "title": "Moanin' (alt.take)", "composer": ["Bobby Timmons"], "length": "9:19"}
+    ],
+    "score": 6,
+    "comment": "殿堂入り。JM最高、ひいてはモダンジャズ最高のアルバムの一つ。ブレイキーのドラム、メンバーの名演、曲、録音全てを含めて最高",
+    "date": "2025/06/26",
+    "references":[
+        {"name": "wikipedia", "url": "https://en.wikipedia.org/wiki/Moanin%27"}
+    ]
+}
