@@ -1,0 +1,39 @@
+{
+    "title": "Jazz at Cal-Tech",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["Hard Bop", "West Coast"]
+    },
+    "label": "Pacific Jazz",
+    "id": "PJ 1219",
+    "release_year": 1956,
+    "record_year": [1956],
+    "personnel": {
+        "leader": [
+            {"name": "Bud Shank", "instruments": "Alto Saxophone,Flute", "tracks": "all"}
+        ],
+        "sidemen": [
+            {"name": "Bob Cooper", "instruments": "Tenor Saxophone,Oboe", "tracks": "all"},
+            {"name": "Claude Williamson", "instruments": "Piano", "tracks": "all"},
+            {"name": "Don Prell", "instruments": "Bass", "tracks": "all"},
+            {"name": "Chuck Flores", "instruments": "Drums", "tracks": "all"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "When Lights Are Low", "composer": ["Benny Carter", "Spencer Williams"], "length": "7:30"},
+        {"disc_no": 1, "no": 2, "title": "Old Devil Moon", "composer": ["Burton Lane", "Yip Harburg"], "length": "6:38"},
+        {"disc_no": 1, "no": 3, "title": "The Nearness of You", "composer": ["Hoagy Carmichael", "Ned Washington"], "length": "4:07"},
+        {"disc_no": 1, "no": 4, "title": "How Long Has This Been Going On?", "composer": ["George Gershwin", "Ira Gershwin"], "length": "4:50"},
+        {"disc_no": 1, "no": 5, "title": "Tea For Two", "composer": ["Vincent Youmans", "Irving Caesar"], "length": "4:50"},
+        {"disc_no": 1, "no": 6, "title": "Lullaby of Birdland", "composer": ["George Shearing", "George David Weiss"], "length": "4:03"},
+        {"disc_no": 1, "no": 7, "title": "Somebody Loves Me", "composer": ["George Gershwin", "Ballad MacDonald", "Buddy DeSylva"], "length": "5:38"},
+        {"disc_no": 1, "no": 8, "title": "Moonlight in Vermont", "composer": ["Karl Suessdorf", "John Blackburn"], "length": "6:20"},
+        {"disc_no": 1, "no": 9, "title": "The King", "composer": ["Count Basie"], "length": "6:09", "bonus_track":true}
+    ],
+    "score": 3,
+    "comment": "スタンダード全編でのリラックスしたライブ盤。バラードのクーパーのオーボエとバドのフルートの掛け合いの滋味深さが良い",
+    "date": "2025/06/26",
+    "references":[
+        {"name": "wikipedia", "url": "https://en.wikipedia.org/wiki/Jazz_at_Cal-Tech"}
+    ]
+}
