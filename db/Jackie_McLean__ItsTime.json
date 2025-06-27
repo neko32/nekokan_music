@@ -1,0 +1,36 @@
+{
+    "title": "It's Time!",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["Neo Hard Bop"]
+    },
+    "label": "Blue Note",
+    "id": "BST 84179",
+    "release_year": 1965,
+    "record_year": [1964],
+    "personnel": {
+        "leader": [
+            {"name": "Jackie McLean", "instruments": "Alto Saxophone", "tracks": "all"}
+        ],
+        "sidemen": [
+            {"name": "Charles Tolliver", "instruments": "Trumpet", "tracks": "all"},
+            {"name": "Herbie Hancock", "instruments": "Piano", "tracks": "all"},
+            {"name": "Cecil McBee", "instruments": "Bass", "tracks": "all"},
+            {"name": "Roy Haynes", "instruments": "Drums", "tracks": "all"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "Cancellation", "composer": ["Charles Tolliver"], "length": "7:45"},
+        {"disc_no": 1, "no": 2, "title": "Das' Dat", "composer": ["Jackie McLean"], "length": "6:26"},
+        {"disc_no": 1, "no": 3, "title": "It's Time", "composer": ["Jackie McLean"], "length": "6:35"},
+        {"disc_no": 1, "no": 4, "title": "Revillot", "composer": ["Charles Tolliver"], "length": "7:51"},
+        {"disc_no": 1, "no": 5, "title": "Snuff", "composer": ["Jackie McLean"], "length": "7:47"},
+        {"disc_no": 1, "no": 6, "title": "Truth", "composer": ["Charles Tolliver"], "length": "6:30"}
+    ],
+    "score": 5,
+    "comment": "Destination Outの新主流派から自作Actionと今作のシリアスハードバップ路線の開始点。若いサイドメンと熱血の演奏を繰り広げるハイテンションアルバム",
+    "date": "2025/06/27",
+    "references":[
+        {"name": "wikipedia", "url": "https://en.wikipedia.org/wiki/It%27s_Time!_(Jackie_McLean_album)"}
+    ]
+}

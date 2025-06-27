@@ -1,0 +1,32 @@
+{
+    "title": "Saint-Saens: Symphonic Poems",
+    "janre": {
+        "main": "Classical",
+        "sub": ["Late Romanticism"]
+    },
+    "label": "Erato",
+    "id": "NA_Erato_CLS_PD_1",
+    "release_year": 2021,
+    "record_year": [1971],
+    "personnel": {
+        "solo": [{"name": "Luben Yordanoff", "instruments": "Violin", "tracks":"1"}],
+        "conductor": [{"name": "Pierre Dervaux", "tracks":"all"}],
+        "orchestra": [{"name": "Orchestre De Paris", "tracks": "all"}]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "Dance macabre, Op.40 (死の舞踏)", "composer": ["Saint-Saens"], "length": "6:51"},
+        {"disc_no": 1, "no": 2, "title": "La jeunesse d'Hercule (ヘラクレスの青年時代)", "composer": ["Saint-Saens"], "length": "17:53"},
+        {"disc_no": 1, "no": 3, "title": "Phaeton (フェアトン)", "composer": ["Saint-Saens"], "length": "10:08"},
+        {"disc_no": 1, "no": 4, "title": "Le rouet d’Omphale (オンファールの糸車)", "composer": ["Saint-Saens"], "length": "9:19"},
+        {"disc_no": 1, "no": 5, "title": "Scenes pittoresques (絵のような風景) - I. Marche (行進曲)", "composer": ["Massnet"], "length": "3:48"},
+        {"disc_no": 1, "no": 6, "title": "Scenes pittoresques (絵のような風景) - II. Air de ballet (舞踏曲)", "composer": ["Massnet"], "length": "2:11"},
+        {"disc_no": 1, "no": 7, "title": "Scenes pittoresques (絵のような風景) - III. Angelus, Angelus (お告げの鐘)", "composer": ["Massnet"], "length": "4:37"},
+        {"disc_no": 1, "no": 8, "title": "Scenes pittoresques (絵のような風景) - IV. Fete Boheme (ジプシーの祭り)", "composer": ["Massnet"], "length": "5:02"}
+    ],
+    "score": 3,
+    "comment": "割合珍しい曲 (フェアトン)も収録されている",
+    "date": "2025/06/28",
+    "references":[
+        {"name": "Warner Bros", "url": "https://www.warnerclassics.com/release/saint-saens-dervaux"}
+    ]
+}
