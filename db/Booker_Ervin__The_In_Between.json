@@ -1,0 +1,36 @@
+{
+    "title": "The In Between",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["Neo Hard Bop"]
+    },
+    "label": "Blue Note",
+    "id": "BST 84283",
+    "release_year": 1968,
+    "record_year": [1968],
+    "personnel": {
+        "leader": [
+            {"name": "Booker Ervin", "instruments": "Tenor Saxophone", "tracks": "all"}
+        ],
+        "sidemen": [
+            {"name": "Richard Williams", "instruments": "Trumpet", "tracks": "all except 5"},
+            {"name": "Bobby Few", "instruments": "Piano", "tracks": "all"},
+            {"name": "Cevera Jeffries", "instruments": "Bass", "tracks": "all"},
+            {"name": "Lenny McBrowne", "instruments": "Drums", "tracks": "all"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "The In Between", "composer": ["Booker Ervin"], "length": "7:43"},
+        {"disc_no": 1, "no": 2, "title": "The Muse", "composer": ["Booker Ervin"], "length": "7:17"},
+        {"disc_no": 1, "no": 3, "title": "Mour", "composer": ["Booker Ervin"], "length": "5:59"},
+        {"disc_no": 1, "no": 4, "title": "Sweet Pea", "composer": ["Booker Ervin"], "length": "5:36"},
+        {"disc_no": 1, "no": 5, "title": "Largo", "composer": ["Booker Ervin"], "length": "6:27"},
+        {"disc_no": 1, "no": 6, "title": "Tyra", "composer": ["Booker Ervin"], "length": "7:29"}
+    ],
+    "score": 5,
+    "comment": "まさに硬質というべきクリスタルのようなというべき音世界が広がる。",
+    "date": "2025/06/29",
+    "references":[
+        {"name": "wikipedia", "url": "https://en.wikipedia.org/wiki/The_In_Between_(album)"}
+    ]
+}
