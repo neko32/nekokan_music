@@ -1,0 +1,49 @@
+{
+    "title": "The Fabulous Fats Navarro Vol.1",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["Bebop"]
+    },
+    "label": "Blue Note",
+    "id": "BLP 1531",
+    "release_year": 1957,
+    "record_year": [1947,1948,1949],
+    "personnel": {
+        "leader": [
+            {"name": "Fats Navarro", "instruments": "Trumpet", "tracks": "all"}
+        ],
+        "sidemen": [
+            {"name": "Howard McGhee", "instruments": "Trumpet", "tracks": "9"},
+            {"name": "Ernie Henry", "instruments": "Alto Saxophone", "tracks": "all"},
+            {"name": "Charlie Rouse", "instruments": "Tenor Saxophone", "tracks": "1-6,10,11"},
+            {"name": "Sonny Rollins", "instruments": "Tenor Saxophone", "tracks": "7,8"},
+            {"name": "Milt Jackson", "instruments": "Vibraphone,Piano", "tracks": "9"},
+            {"name": "Bud Powell", "instruments": "Piano", "tracks": "7,8"},
+            {"name": "Tadd Dameron", "instruments": "Piano", "tracks": "1-6,10,11"},
+            {"name": "Curley Russell", "instruments": "Bass", "tracks": "9"},
+            {"name": "Tommy Potter", "instruments": "Bass", "tracks": "7,8"},
+            {"name": "Roy Haynes", "instruments": "Drums", "tracks": "7,8"},
+            {"name": "Kenny Clarke", "instruments": "Drums", "tracks": "9"},
+            {"name": "Shadow Wilson", "instruments": "Drums", "tracks": "1-6,10,11"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "Our Delight (alt.take)", "composer": ["Tadd Dameron"], "length": "3:09"},
+        {"disc_no": 1, "no": 2, "title": "Our Delight", "composer": ["Tadd Dameron"], "length": "3:00"},
+        {"disc_no": 1, "no": 3, "title": "The Squirrel (alt.take)", "composer": ["Tadd Dameron"], "length": "3:22"},
+        {"disc_no": 1, "no": 4, "title": "The Squirrel", "composer": ["Tadd Dameron"], "length": "3:01"},
+        {"disc_no": 1, "no": 5, "title": "The Chase (alt.take)", "composer": ["Tadd Dameron"], "length": "2:59"},
+        {"disc_no": 1, "no": 6, "title": "The Chase", "composer": ["Tadd Dameron"], "length": "2:46"},
+        {"disc_no": 1, "no": 7, "title": "Wail (alt.take)", "composer": ["Bud Powell"], "length": "2:44"},
+        {"disc_no": 1, "no": 8, "title": "Bouncing With Bud (alt.take)", "composer": ["Bud Powell"], "length": "3:16"},
+        {"disc_no": 1, "no": 9, "title": "Double Talk", "composer": ["Howard McGhee", "Fats Navarro"], "length": "5:35"},
+        {"disc_no": 1, "no": 10, "title": "Dameronia (alt.take)", "composer": ["Tadd Dameron"], "length": "3:15"},
+        {"disc_no": 1, "no": 11, "title": "Dameronia", "composer": ["Tadd Dameron"], "length": "3:00"}
+    ],
+    "score": 6,
+    "comment": "殿堂入り。ナヴァロがジャズ界一のトランペッターではないだろうかという思いを後押しするのに十分な演奏が目白押しのビバップ最強盤",
+    "date": "2025/06/29",
+    "references":[
+        {"name": "wikipedia", "url": "https://en.wikipedia.org/wiki/The_Fabulous_Fats_Navarro,_Vol._1"}
+    ]
+}

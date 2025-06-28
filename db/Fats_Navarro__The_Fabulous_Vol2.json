@@ -1,0 +1,50 @@
+{
+    "title": "The Fabulous Fats Navarro Vol.2",
+    "janre": {
+        "main": "Jazz",
+        "sub": ["Bebop"]
+    },
+    "label": "Blue Note",
+    "id": "BLP 1532",
+    "release_year": 1957,
+    "record_year": [1948,1949],
+    "personnel": {
+        "leader": [
+            {"name": "Fats Navarro", "instruments": "Trumpet", "tracks": "all"}
+        ],
+        "sidemen": [
+            {"name": "Howard McGhee", "instruments": "Trumpet", "tracks": "7,10,11"},
+            {"name": "Ernie Henry", "instruments": "Alto Saxophone", "tracks": "7,10,11"},
+            {"name": "llen Eager", "instruments": "Tenor Saxophone", "tracks": "1-6"},
+            {"name": "Wardell Gray", "instruments": "Tenor Saxophone", "tracks": "1-6"},
+            {"name": "Sonny Rollins", "instruments": "Tenor Saxophone", "tracks": "8,9"},
+            {"name": "Milt Jackson", "instruments": "Vibraphone,Piano", "tracks": "7,10,11"},
+            {"name": "Bud Powell", "instruments": "Piano", "tracks": "8,9"},
+            {"name": "Tadd Dameron", "instruments": "Piano", "tracks": "1-6"},
+            {"name": "Curley Russell", "instruments": "Bass", "tracks": "1-7,10,11"},
+            {"name": "Tommy Potter", "instruments": "Bass", "tracks": "8,9"},
+            {"name": "Roy Haynes", "instruments": "Drums", "tracks": "8,9"},
+            {"name": "Kenny Clarke", "instruments": "Drums", "tracks": "1-7,10,11"},
+            {"name": "Chino Pozo", "instruments": "Bongos", "tracks": "3,4"}
+        ]
+    },
+    "tracks":[
+        {"disc_no": 1, "no": 1, "title": "Lady Bird (alt.take)", "composer": ["Tadd Dameron"], "length": "2:53"},
+        {"disc_no": 1, "no": 2, "title": "Lady Bird", "composer": ["Tadd Dameron"], "length": "2:52"},
+        {"disc_no": 1, "no": 3, "title": "Jahbero (alt.take)", "composer": ["Tadd Dameron"], "length": "3:03"},
+        {"disc_no": 1, "no": 4, "title": "Jahbero", "composer": ["Tadd Dameron"], "length": "2:56"},
+        {"disc_no": 1, "no": 5, "title": "Symphonette (alt.take)", "composer": ["Tadd Dameron"], "length": "3:07"},
+        {"disc_no": 1, "no": 6, "title": "Symphonette", "composer": ["Tadd Dameron"], "length": "3:09"},
+        {"disc_no": 1, "no": 7, "title": "Double Talk (alt.take)", "composer": ["Howard McGhee", "Fats Navarro"], "length": "5:22"},
+        {"disc_no": 1, "no": 8, "title": "Bouncing With Bud (alt.take)", "composer": ["Bud Powell"], "length": "3:07"},
+        {"disc_no": 1, "no": 9, "title": "Dance Of The Infidels", "composer": ["Bud Powell"], "length": "2:52"},
+        {"disc_no": 1, "no": 10, "title": "The Skunk (alt.take)", "composer": ["Howard McGhee", "Fats Navarro"], "length": "2:59"},
+        {"disc_no": 1, "no": 11, "title": "Boperation", "composer": ["Howard McGhee", "Fats Navarro"], "length": "3:07"}
+    ],
+    "score": 6,
+    "comment": "殿堂入り。Vol.1に続き前半はダメロン、後半はバドかマギーとの共作オリジナル。曲も演奏もサイドメンもまさにベスト",
+    "date": "2025/06/29",
+    "references":[
+        {"name": "wikipedia", "url": "https://en.wikipedia.org/wiki/The_Fabulous_Fats_Navarro,_Vol._2"}
+    ]
+}
