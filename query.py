@@ -1,28 +1,40 @@
 import chromadb
 import sys
 import os
+import time
+import httpx
+from chromadb.utils import embedding_functions
+
+E5_MODEL = "intfloat/multilingual-e5-small"
 
 def query(query_text: str) -> None:
     chromadb_host = os.getenv("VDB_SRV_HOST") or "localhost"
     chromadb_port: int = int(os.getenv("VDB_SRV_PORT") or "8000")
 
-    print(f"connecting to chromadb at {chromadb_host}:{chromadb_port}...")
+    max_attempts = 5
+    delay_sec = 2
+    last_exc = None
+    for attempt in range(1, max_attempts + 1):
+        try:
+            print(f"connecting to chromadb at {chromadb_host}:{chromadb_port}... (attempt {attempt}/{max_attempts})")
+            client = chromadb.HttpClient(host=chromadb_host, port=chromadb_port, tenant="neko32", database="jazzlib")
+            emb_fn = embedding_functions.SentenceTransformerEmbeddingFunction(model_name=E5_MODEL)
+            collection = client.get_collection(name="nekokan_music", embedding_function=emb_fn)
+            results = collection.query(
+                query_texts=[query_text],
+                n_results=5,
+                include=["documents", "metadatas", "distances"]
+            )
+            break
+        except (httpx.ConnectError, ValueError) as e:
+            last_exc = e
+            if attempt < max_attempts:
+                print(f"Connection failed, retrying in {delay_sec}s...")
+                time.sleep(delay_sec)
+            else:
+                raise last_exc from e
 
-    # 1. サーバーに接続
-    client = chromadb.HttpClient(host=chromadb_host, port=chromadb_port, tenant = "neko32", database = "jazzlib")
-
-    # 2. コレクションを取得
-    collection = client.get_collection(name="nekokan_music")
-
-    # 3. テキストでクエリを送る
-    # query_texts に探したい内容を文章で入れるだけ！
-    results = collection.query(
-        query_texts=[query_text], 
-        n_results=5,  # 上位2件を取得
-        include=["documents", "metadatas", "distances"] # 何を返してほしいか指定
-    )
-
-    # 4. 結果を表示
+    # 結果を表示
     print("--- 検索結果 ---")
     for i in range(len(results['ids'][0])):
         print(f"順位: {i+1}")

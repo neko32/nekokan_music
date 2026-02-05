@@ -4,6 +4,7 @@ import time
 import json
 import chromadb
 import httpx
+from chromadb.utils import embedding_functions
 
 # JSONデータの読み込み（実際にはファイル読み込みなどを想定）
 
@@ -49,6 +50,9 @@ def register_doc(filename: str):
     chromadb_host = os.getenv("VDB_SRV_HOST") or "localhost"
     chromadb_port: int = int(os.getenv("VDB_SRV_PORT") or "8000")
 
+    model_name = "intfloat/multilingual-e5-small"
+    emb_fn = embedding_functions.SentenceTransformerEmbeddingFunction(model_name=model_name)
+
     personnel_text = _personnel_to_text(raw_data.get("personnel") or {})
     primary_artist = _primary_artist(raw_data.get("personnel") or {})
 
@@ -92,8 +96,10 @@ def register_doc(filename: str):
         try:
             print(f"connecting to chromadb at {chromadb_host}:{chromadb_port}... (attempt {attempt}/{max_attempts})")
             client = chromadb.HttpClient(host=chromadb_host, port=chromadb_port, tenant="neko32", database="jazzlib")
-            # 既存コレクションの埋め込み設定(default)に合わせる（embedding_function を渡すと競合する）
-            collection = client.get_or_create_collection(name="nekokan_music")
+            # sentence_transformer (E5) でコレクション作成。既存が default の場合はサーバー側でコレクション削除が必要。
+            collection = client.get_or_create_collection(
+                name="nekokan_music", embedding_function=emb_fn
+            )
             collection.add(documents=documents, metadatas=metadatas, ids=ids)
             print(f"Added {len(documents)} tracks to collection.")
             return
