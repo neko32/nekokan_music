@@ -1,7 +1,9 @@
 import re
 import os
-import chromadb
+import time
 import json
+import chromadb
+import httpx
 
 # JSONデータの読み込み（実際にはファイル読み込みなどを想定）
 
@@ -47,11 +49,6 @@ def register_doc(filename: str):
     chromadb_host = os.getenv("VDB_SRV_HOST") or "localhost"
     chromadb_port: int = int(os.getenv("VDB_SRV_PORT") or "8000")
 
-    print(f"connecting to chromadb at {chromadb_host}:{chromadb_port}...")
-
-    client = chromadb.HttpClient(host=chromadb_host, port=chromadb_port, tenant = "neko32", database = "jazzlib")
-    collection = client.get_or_create_collection(name="nekokan_music")
-
     personnel_text = _personnel_to_text(raw_data.get("personnel") or {})
     primary_artist = _primary_artist(raw_data.get("personnel") or {})
 
@@ -78,26 +75,55 @@ def register_doc(filename: str):
             "label": raw_data["label"],
             "release_year": raw_data["release_year"],
             "record_year": ", ".join(str(y) for y in raw_data["record_year"]),
+            "disc_no": track["disc_no"],
             "track_no": track["no"],
             "soloist": primary_artist,
             "primary_composer": track["composer"][0]
         })
         
-        # IDの生成（アルバムIDとトラック番号を組み合わせ）
-        ids.append(f"{raw_data['id']}_T{track['no']}")
+        # IDの生成（ディスク番号とアルバムIDとトラック番号を組み合わせ）
+        ids.append(f"{track['disc_no']}_{raw_data['id']}_T{track['no']}")
 
-    # ChromaDBへ一括登録
-    collection.add(
-        documents=documents,
-        metadatas=metadatas,
-        ids=ids
-    )
-
-    print(f"Added {len(documents)} tracks to collection.")
+    # ChromaDBへ接続・登録（接続拒否時にリトライ）
+    max_attempts = 10
+    delay_sec = 2
+    last_exc = None
+    for attempt in range(1, max_attempts + 1):
+        try:
+            print(f"connecting to chromadb at {chromadb_host}:{chromadb_port}... (attempt {attempt}/{max_attempts})")
+            client = chromadb.HttpClient(host=chromadb_host, port=chromadb_port, tenant="neko32", database="jazzlib")
+            # 既存コレクションの埋め込み設定(default)に合わせる（embedding_function を渡すと競合する）
+            collection = client.get_or_create_collection(name="nekokan_music")
+            collection.add(documents=documents, metadatas=metadatas, ids=ids)
+            print(f"Added {len(documents)} tracks to collection.")
+            return
+        except (httpx.ConnectError, ValueError) as e:
+            last_exc = e
+            if attempt < max_attempts:
+                print(f"Connection refused, retrying in {delay_sec}s...")
+                time.sleep(delay_sec)
+            else:
+                raise last_exc from e
 
 def main() -> None:
-    register_doc("db/Andre_Navarra__Prokofiev_Cello_Concerto.json")
-    register_doc("db/Akio_Saejima__HumptyDumpty.json")
+    done_path = "done.txt"
+    processed: set[str] = set()
+    if os.path.exists(done_path):
+        with open(done_path, "r", encoding="utf-8") as f:
+            processed = {line.strip() for line in f if line.strip()}
+
+    files = os.listdir("db")
+    siz = len(files)
+    for idx, file in enumerate(files):
+        print(f"[{idx+1}/{siz}] {file}")
+        if file in processed:
+            print(f"Skipped {file} (already done).")
+            continue
+        register_doc(f"db/{file}")
+        with open(done_path, "a", encoding="utf-8") as f:
+            f.write(file + "\n")
+        processed.add(file)
+        print(f"Added {file} to collection.")
 
 if __name__ == "__main__":
     main()

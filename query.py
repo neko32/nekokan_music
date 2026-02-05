@@ -18,7 +18,7 @@ def query(query_text: str) -> None:
     # query_texts に探したい内容を文章で入れるだけ！
     results = collection.query(
         query_texts=[query_text], 
-        n_results=2,  # 上位2件を取得
+        n_results=5,  # 上位2件を取得
         include=["documents", "metadatas", "distances"] # 何を返してほしいか指定
     )
 
