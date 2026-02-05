@@ -21,7 +21,7 @@ def query(query_text: str) -> None:
             emb_fn = embedding_functions.SentenceTransformerEmbeddingFunction(model_name=E5_MODEL)
             collection = client.get_collection(name="nekokan_music", embedding_function=emb_fn)
             results = collection.query(
-                query_texts=[query_text],
+                query_texts=[f"query: {query_text}"],
                 n_results=5,
                 include=["documents", "metadatas", "distances"]
             )

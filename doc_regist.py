@@ -43,6 +43,23 @@ def _primary_artist(personnel: dict) -> str:
         return personnel["leader"][0]["name"]
     return ""
 
+def calculate_passage(score: int) -> str:
+    if score == 6:
+        return "評価: 殿堂入り、最高、至高。"
+    elif score == 5:
+        return "評価: 大変良い。"
+    elif score == 4:
+        return "評価: 良い。"
+    elif score == 3:
+        return "評価: 普通。"
+    elif score == 2:
+        return "評価: 悪い。"
+    elif score == 1:
+        return "評価: 大変悪い。"
+    else:
+        return "評価: 不明。"
+    
+
 
 def register_doc(filename: str):
     with open(filename, "r", encoding="utf-8") as f:
@@ -64,6 +81,7 @@ def register_doc(filename: str):
     for track in raw_data["tracks"]:
         # 検索対象となるテキスト（タイトル + personnel + 作曲家 + 感想）
         doc_content = (
+            f"passage: {calculate_passage(raw_data['score'])}"
             f"Title: {raw_data['title']} - {track['title']}. "
             f"{personnel_text}"
             f"Composer: {', '.join(track['composer'])}. "
@@ -98,7 +116,8 @@ def register_doc(filename: str):
             client = chromadb.HttpClient(host=chromadb_host, port=chromadb_port, tenant="neko32", database="jazzlib")
             # sentence_transformer (E5) でコレクション作成。既存が default の場合はサーバー側でコレクション削除が必要。
             collection = client.get_or_create_collection(
-                name="nekokan_music", embedding_function=emb_fn
+                name="nekokan_music", embedding_function=emb_fn,
+                metadata = {"hnsw:space": "cosine"}
             )
             collection.add(documents=documents, metadatas=metadatas, ids=ids)
             print(f"Added {len(documents)} tracks to collection.")
