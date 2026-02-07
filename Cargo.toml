@@ -1,0 +1,3 @@
+[workspace]
+members = ["nekokan_music_wa", "server"]
+resolver = "2"

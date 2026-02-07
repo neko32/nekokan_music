@@ -1,0 +1,5 @@
+    Updating crates.io index
+error: failed to select a version for the requirement `gloo-net = "^0.14"`
+candidate versions found which didn't match: 0.6.0, 0.5.0, 0.4.0, ...
+location searched: crates.io index
+required by package `nekokan_music_wa v0.1.0 (C:\dev\nekokan_music\nekokan_music_wa)`

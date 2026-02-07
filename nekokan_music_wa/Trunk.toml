@@ -1,0 +1,16 @@
+[build]
+target = "index.html"
+dist = "dist"
+public_url = "/"
+
+[watch]
+watch = ["src", "index.html"]
+
+[serve]
+address = "0.0.0.0"
+port = 8081
+open = false
+
+# /api で受けたリクエストをそのまま /api 付きでバックエンドへ転送（rewrite しない）
+[[proxy]]
+backend = "http://127.0.0.1:12989/api"

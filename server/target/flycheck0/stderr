@@ -1,0 +1,60 @@
+   0.049649100s  INFO prepare_target{force=false package_id=nekokan_music_server v0.1.0 (C:\dev\nekokan_music\server) target="nekokan_music_server"}: cargo::core::compiler::fingerprint: fingerprint error for nekokan_music_server v0.1.0 (C:\dev\nekokan_music\server)/Check { test: false }/TargetInner { name: "nekokan_music_server", doc: true, ..: with_path("C:\\dev\\nekokan_music\\server\\src\\main.rs", Edition2021) }
+   0.049694700s  INFO prepare_target{force=false package_id=nekokan_music_server v0.1.0 (C:\dev\nekokan_music\server) target="nekokan_music_server"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\dev\nekokan_music\server\target\debug\.fingerprint\nekokan_music_server-087b58d93f8d750f\bin-nekokan_music_server`
+
+Caused by:
+    指定されたファイルが見つかりません。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_libgit2_prerelease
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+   0.070264300s  INFO prepare_target{force=false package_id=nekokan_music_server v0.1.0 (C:\dev\nekokan_music\server) target="nekokan_music_server"}: cargo::core::compiler::fingerprint: fingerprint error for nekokan_music_server v0.1.0 (C:\dev\nekokan_music\server)/Check { test: true }/TargetInner { name: "nekokan_music_server", doc: true, ..: with_path("C:\\dev\\nekokan_music\\server\\src\\main.rs", Edition2021) }
+   0.070286100s  INFO prepare_target{force=false package_id=nekokan_music_server v0.1.0 (C:\dev\nekokan_music\server) target="nekokan_music_server"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\dev\nekokan_music\server\target\debug\.fingerprint\nekokan_music_server-08986d307887fea5\test-bin-nekokan_music_server`
+
+Caused by:
+    指定されたファイルが見つかりません。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_libgit2_prerelease
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+    Checking nekokan_music_server v0.1.0 (C:\dev\nekokan_music\server)
+error: could not compile `nekokan_music_server` (bin "nekokan_music_server") due to 1 previous error
+warning: build failed, waiting for other jobs to finish...
+error: could not compile `nekokan_music_server` (bin "nekokan_music_server" test) due to 1 previous error

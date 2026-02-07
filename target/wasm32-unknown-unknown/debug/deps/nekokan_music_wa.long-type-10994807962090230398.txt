@@ -1,0 +1,1 @@
+yew::Callback<web_sys::InputEvent>: IntoEventCallback<web_sys::Event>
