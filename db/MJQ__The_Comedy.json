@@ -2,7 +2,7 @@
     "title": "The Comedy",
     "janre": {
         "main": "Jazz",
-        "sub": ["Chamber Music Jazz", "Hard Bop"]
+        "sub": ["Chamber Music", "Hard Bop"]
     },
     "label": "Atlantic",
     "id": "1390",
