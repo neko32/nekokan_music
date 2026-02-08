@@ -84,7 +84,6 @@ fn deserialize_composer<'de, D>(deserializer: D) -> Result<String, D::Error>
 where
     D: serde::Deserializer<'de>,
 {
-    use serde::de::Error;
     #[derive(Deserialize)]
     #[serde(untagged)]
     enum ComposerSer {
