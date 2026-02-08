@@ -11,6 +11,8 @@ pub struct FormProps {
     pub on_filename_change: Callback<String>,
     pub errors: FieldErrors,
     pub on_save: Callback<()>,
+    pub focus_title: bool,
+    pub on_focus_title_done: Callback<()>,
 }
 
 fn err(props: &FormProps, key: &str) -> Option<String> {
@@ -28,10 +30,26 @@ fn input_class(props: &FormProps, key: &str) -> &'static str {
 #[function_component(Form)]
 pub fn form(props: &FormProps) -> Html {
     let sub_opts = sub_janres_for_main(&props.data.janre.main);
+    let title_input_ref = use_node_ref();
 
     let on_save = props.on_save.clone();
     let filename = props.filename.clone();
     let on_filename_change = props.on_filename_change.clone();
+
+    {
+        let focus_title = props.focus_title;
+        let title_input_ref = title_input_ref.clone();
+        let on_focus_title_done = props.on_focus_title_done.clone();
+        use_effect_with(focus_title, move |f| {
+            if *f {
+                if let Some(inp) = title_input_ref.cast::<web_sys::HtmlInputElement>() {
+                    let _ = inp.focus();
+                }
+                on_focus_title_done.emit(());
+            }
+            || ()
+        });
+    }
 
     html! {
         <form class="music-form" onsubmit={Callback::from(move |e: SubmitEvent| { e.prevent_default(); on_save.emit(()); })}>
@@ -40,6 +58,7 @@ pub fn form(props: &FormProps) -> Html {
                 <div class="field">
                     <label>{"Title"}</label>
                     <input
+                        ref={title_input_ref.clone()}
                         type="text"
                         class={input_class(props, "title")}
                         value={props.data.title.clone()}

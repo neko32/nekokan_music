@@ -20,28 +20,34 @@ fn today_str() -> String {
     format!("{:04}/{:02}/{:02}", y, m, day)
 }
 
+/// 新規追加用のクリーンなフォームデータ（Main=Classical, Sub=Classicists）
+fn new_music_data() -> MusicData {
+    let mut d = MusicData::default();
+    d.date = today_str();
+    d.release_year = 2000;
+    d.score = 1;
+    d.janre.main = "Classical".into();
+    d.janre.sub = vec!["Classicists".into()];
+    d.tracks.push(crate::types::Track {
+        disc_no: 1,
+        no: 1,
+        title: String::new(),
+        composer: String::new(),
+        length: String::new(),
+    });
+    d
+}
+
 #[function_component(App)]
 pub fn app() -> Html {
     let file_list = use_state(|| Vec::<String>::new());
     let loading = use_state(|| true);
     let selected = use_state(|| None::<String>);
-    let form_data = use_state(|| {
-        let mut d = MusicData::default();
-        d.date = today_str();
-        d.release_year = 2000;
-        d.score = 1;
-        d.tracks.push(crate::types::Track {
-            disc_no: 1,
-            no: 1,
-            title: String::new(),
-            composer: String::new(),
-            length: String::new(),
-        });
-        d
-    });
+    let form_data = use_state(|| new_music_data());
     let form_filename = use_state(|| String::new());
     let errors = use_state(|| FieldErrors::new());
     let save_status = use_state(|| None::<Result<(), String>>);
+    let focus_title = use_state(|| false);
 
     {
         let file_list = file_list.clone();
@@ -87,6 +93,26 @@ pub fn app() -> Html {
                 }
             });
         })
+    };
+
+    let on_add_new = {
+        let form_data = form_data.clone();
+        let form_filename = form_filename.clone();
+        let selected = selected.clone();
+        let errors = errors.clone();
+        let focus_title = focus_title.clone();
+        Callback::from(move |_| {
+            form_data.set(new_music_data());
+            form_filename.set(String::new());
+            selected.set(None);
+            errors.set(FieldErrors::new());
+            focus_title.set(true);
+        })
+    };
+
+    let on_focus_title_done = {
+        let focus_title = focus_title.clone();
+        Callback::from(move |()| focus_title.set(false))
     };
 
     let on_save = {
@@ -156,6 +182,15 @@ pub fn app() -> Html {
                             }
                         }) }
                     </ul>
+                    <br />
+                    <br />
+                    <a
+                        href="#"
+                        class="add-new-link"
+                        onclick={move |e: MouseEvent| { e.prevent_default(); on_add_new.emit(()); }}
+                    >
+                        {"Add New Music"}
+                    </a>
                 }
             </aside>
             <main class="content">
@@ -179,6 +214,8 @@ pub fn app() -> Html {
                         on_filename_change={on_filename_change}
                         errors={errors_val}
                         on_save={on_save}
+                        focus_title={*focus_title}
+                        on_focus_title_done={on_focus_title_done}
                     />
                     if let Some(ref status) = *save_status {
                         <p class={if status.is_ok() { "save-ok" } else { "save-err" }}>

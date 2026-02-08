@@ -88,6 +88,17 @@ body {
   color: #fff;
 }
 
+.add-new-link {
+  display: inline-block;
+  margin: 0 1rem;
+  color: var(--base);
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+.add-new-link:hover {
+  text-decoration: underline;
+}
+
 .content {
   flex: 1;
   min-width: 0;

@@ -1,0 +1,139 @@
+{
+  "comment": "",
+  "date": "2026/02/08",
+  "id": "CTI 6011",
+  "janre": {
+    "main": "Fusion",
+    "sub": [
+      "Soft",
+      "Fusion"
+    ]
+  },
+  "label": "CTI",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "leader": [
+      {
+        "instruments": "Guitar",
+        "name": "Kenny Burrell",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Freddie Hubbard",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano, Electric Piano",
+        "name": "Hugh Lawson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano, Electric Piano",
+        "name": "Richard Wyands",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Ron Carter",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Billy Cobham",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Percussion",
+        "name": "Ray Barretto",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Cello",
+        "name": "Alan Shulman",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Cello",
+        "name": "Charles McCracken",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Cello",
+        "name": "George Ricci",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Cello",
+        "name": "Lucien Schmit",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Cello",
+        "name": "Seymour Barab",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Arranger",
+        "name": "Don Sebesky",
+        "tracks": "all"
+      }
+    ]
+  },
+  "record_year": [
+    1971
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/release/2206600-Kenny-Burrell-God-Bless-The-Child"
+    }
+  ],
+  "release_year": 1971,
+  "score": 4,
+  "title": "God Bless The Child",
+  "tracks": [
+    {
+      "composer": "Kenny Burrell",
+      "disc_no": 1,
+      "length": "5:55",
+      "no": 1,
+      "title": "Be Yourself"
+    },
+    {
+      "composer": "Kenny Burrell",
+      "disc_no": 1,
+      "length": "4:50",
+      "no": 2,
+      "title": "Love Is The Answer"
+    },
+    {
+      "composer": "Kenny Burrell",
+      "disc_no": 1,
+      "length": "9:30",
+      "no": 3,
+      "title": "Do What You Gotta Do"
+    },
+    {
+      "composer": "Thad Jones",
+      "disc_no": 1,
+      "length": "9:22",
+      "no": 4,
+      "title": "A Child Is Born"
+    },
+    {
+      "composer": [
+        "Arthur Herzog",
+        "Jr."
+      ],
+      "disc_no": 1,
+      "length": "8:00",
+      "no": 5,
+      "title": "God Bless The Child"
+    }
+  ]
+}
