@@ -92,7 +92,7 @@ where
     }
     match ComposerSer::deserialize(deserializer)? {
         ComposerSer::Str(s) => Ok(s),
-        ComposerSer::Arr(a) => Ok(a.join(", ")),
+        ComposerSer::Arr(a) => Ok(a.join(" | ")),
     }
 }
 
@@ -100,12 +100,15 @@ fn serialize_composer<S>(s: &str, serializer: S) -> Result<S::Ok, S::Error>
 where
     S: serde::Serializer,
 {
-    let arr: Vec<&str> = s.split(',').map(|x| x.trim()).filter(|x| !x.is_empty()).collect();
+    let arr: Vec<String> = s
+        .split('|')
+        .map(|x| x.trim().to_string())
+        .filter(|x| !x.is_empty())
+        .collect();
     if arr.len() <= 1 {
-        serializer.serialize_str(s)
+        serializer.serialize_str(s.trim())
     } else {
-        let vec: Vec<String> = arr.iter().map(|x| x.to_string()).collect();
-        serde::Serialize::serialize(&vec, serializer)
+        serde::Serialize::serialize(&arr, serializer)
     }
 }
 

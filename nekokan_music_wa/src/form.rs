@@ -27,14 +27,28 @@ fn input_class(props: &FormProps, key: &str) -> &'static str {
     }
 }
 
+fn record_year_join(ry: &[i32]) -> String {
+    ry.iter().map(|y| y.to_string()).collect::<Vec<_>>().join(", ")
+}
+
 #[function_component(Form)]
 pub fn form(props: &FormProps) -> Html {
     let sub_opts = sub_janres_for_main(&props.data.janre.main);
     let title_input_ref = use_node_ref();
+    let record_year_text = use_state(|| record_year_join(&props.data.record_year));
 
     let on_save = props.on_save.clone();
     let filename = props.filename.clone();
     let on_filename_change = props.on_filename_change.clone();
+
+    {
+        let ry = props.data.record_year.clone();
+        let record_year_text = record_year_text.clone();
+        use_effect_with(ry, move |r| {
+            record_year_text.set(record_year_join(r));
+            || ()
+        });
+    }
 
     {
         let focus_title = props.focus_title;
@@ -149,8 +163,9 @@ pub fn form(props: &FormProps) -> Html {
                     <input
                         type="text"
                         class={input_class(props, "record_year")}
-                        value={props.data.record_year.iter().map(|y| y.to_string()).collect::<Vec<_>>().join(", ")}
-                        oninput={update_record_year(props.data.clone(), props.on_data_change.clone())}
+                        value={(*record_year_text).clone()}
+                        oninput={record_year_input(record_year_text.clone())}
+                        onblur={record_year_blur(record_year_text.clone(), props.data.clone(), props.on_data_change.clone())}
                         placeholder="例: 1991, 1992"
                     />
                     { for err(props, "record_year").into_iter().map(|e| html! { <span class="error-text">{ e }</span> }) }
@@ -234,12 +249,18 @@ where
     F: Fn(&mut MusicData, String) + 'static,
 {
     Callback::from(move |e: InputEvent| {
-        let input = e.target_dyn_into::<web_sys::HtmlInputElement>();
-        if let Some(inp) = input {
-            let mut d = data.clone();
-            f(&mut d, inp.value());
-            on_data_change.emit(d);
-        }
+        let target = match e.target() {
+            Some(t) => t,
+            None => return,
+        };
+        let value = target
+            .dyn_ref::<web_sys::HtmlInputElement>()
+            .map(|el| el.value())
+            .or_else(|| target.dyn_ref::<web_sys::HtmlTextAreaElement>().map(|el| el.value()))
+            .unwrap_or_default();
+        let mut d = data.clone();
+        f(&mut d, value);
+        on_data_change.emit(d);
     })
 }
 
@@ -273,19 +294,33 @@ where
     })
 }
 
-fn update_record_year(data: MusicData, on_data_change: Callback<MusicData>) -> Callback<InputEvent> {
+fn record_year_input(record_year_text: UseStateHandle<String>) -> Callback<InputEvent> {
     Callback::from(move |e: InputEvent| {
-        let input = e.target_dyn_into::<web_sys::HtmlInputElement>();
-        if let Some(inp) = input {
-            let years: Vec<i32> = inp
-                .value()
-                .split(',')
-                .filter_map(|p| p.trim().parse().ok())
-                .collect();
-            let mut d = data.clone();
-            d.record_year = years;
-            on_data_change.emit(d);
+        let target = match e.target() {
+            Some(t) => t,
+            None => return,
+        };
+        if let Some(inp) = target.dyn_ref::<web_sys::HtmlInputElement>() {
+            record_year_text.set(inp.value());
         }
+    })
+}
+
+fn record_year_blur(
+    record_year_text: UseStateHandle<String>,
+    data: MusicData,
+    on_data_change: Callback<MusicData>,
+) -> Callback<FocusEvent> {
+    Callback::from(move |_| {
+        let years: Vec<i32> = (*record_year_text)
+            .split(',')
+            .map(|p| p.trim())
+            .filter(|p| !p.is_empty())
+            .filter_map(|p| p.parse().ok())
+            .collect();
+        let mut d = data.clone();
+        d.record_year = years;
+        on_data_change.emit(d);
     })
 }
 
