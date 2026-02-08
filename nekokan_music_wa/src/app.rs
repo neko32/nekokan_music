@@ -134,7 +134,7 @@ pub fn app() -> Html {
     html! {
         <div class="layout">
             <aside class="sidebar">
-                <h2 class="sidebar-title">{"JSON音楽データ"}</h2>
+                <h2 class="sidebar-title">{"Nekokan Music Data"}</h2>
                 if *loading {
                     <p class="sidebar-loading">{"読込中..."}</p>
                 } else {
@@ -160,7 +160,7 @@ pub fn app() -> Html {
             </aside>
             <main class="content">
                 <div class="content-inner">
-                    <h1 class="app-title">{"nekokan_music_wa"}</h1>
+                    <h1 class="app-title">{"Nekokan Music"}</h1>
                     if has_validation_errors {
                         <div class="form-section validation-errors-summary" id="validation-errors-box">
                             <h3>{"バリデーションエラー"}</h3>

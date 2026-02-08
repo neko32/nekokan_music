@@ -36,7 +36,7 @@ pub fn form(props: &FormProps) -> Html {
     html! {
         <form class="music-form" onsubmit={Callback::from(move |e: SubmitEvent| { e.prevent_default(); on_save.emit(()); })}>
             <div class="form-section">
-                <h3>{"基本情報"}</h3>
+                <h3>{"Basic Information"}</h3>
                 <div class="field">
                     <label>{"Title"}</label>
                     <input
@@ -56,8 +56,13 @@ pub fn form(props: &FormProps) -> Html {
                         value={props.data.janre.main.clone()}
                         onchange={update_str_select(props.data.clone(), props.on_data_change.clone(), |d, v| d.janre.main = v)}
                     >
-                        { for MAIN_JANRES.iter().map(|&v| html! {
-                            <option value={v} selected={props.data.janre.main == v}>{ v }</option>
+                        { for MAIN_JANRES.iter().map(|&v| {
+                            let is_selected = props.data.janre.main == v;
+                            if is_selected {
+                                html! { <option value={v} selected={true}>{ v }</option> }
+                            } else {
+                                html! { <option value={v}>{ v }</option> }
+                            }
                         }) }
                     </select>
                     { for err(props, "janre.main").into_iter().map(|e| html! { <span class="error-text">{ e }</span> }) }
@@ -71,8 +76,13 @@ pub fn form(props: &FormProps) -> Html {
                         value={props.data.janre.sub.join(",")}
                         onchange={update_multi_sub(props.data.clone(), props.on_data_change.clone())}
                     >
-                        { for sub_opts.iter().map(|&v| html! {
-                            <option value={v} selected={props.data.janre.sub.contains(&v.to_string())}>{ v }</option>
+                        { for sub_opts.iter().map(|&v| {
+                            let is_selected = props.data.janre.sub.contains(&v.to_string());
+                            if is_selected {
+                                html! { <option value={v} selected={true}>{ v }</option> }
+                            } else {
+                                html! { <option value={v}>{ v }</option> }
+                            }
                         }) }
                     </select>
                     { for err(props, "janre.sub").into_iter().map(|e| html! { <span class="error-text">{ e }</span> }) }
@@ -141,8 +151,13 @@ pub fn form(props: &FormProps) -> Html {
                         value={props.data.score.to_string()}
                         onchange={update_score(props.data.clone(), props.on_data_change.clone())}
                     >
-                        { for [1,2,3,4,5,6].iter().map(|&v| html! {
-                            <option value={v.to_string()} selected={props.data.score == v}>{ v }</option>
+                        { for [1,2,3,4,5,6].iter().map(|&v| {
+                            let is_selected = props.data.score == v;
+                            if is_selected {
+                                html! { <option value={v.to_string()} selected={true}>{ v }</option> }
+                            } else {
+                                html! { <option value={v.to_string()}>{ v }</option> }
+                            }
                         }) }
                     </select>
                     { for err(props, "score").into_iter().map(|e| html! { <span class="error-text">{ e }</span> }) }
