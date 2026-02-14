@@ -169,14 +169,20 @@ pub fn app() -> Html {
                             let is_selected = selected.as_deref() == Some(name.as_str());
                             let name_owned = name.clone();
                             let name_for_click = name.clone();
+                            let display_name = if name.len() > 40 {
+                                format!("{}...", &name[..40])
+                            } else {
+                                name.clone()
+                            };
                             let on_select_file = on_select_file.clone();
                             html! {
                                 <li key={name_owned.clone()}>
                                     <button
                                         class={if is_selected { "file-item selected" } else { "file-item" }}
+                                        title={name_owned.clone()}
                                         onclick={move |_| on_select_file.emit(name_for_click.clone())}
                                     >
-                                        { name_owned }
+                                        { display_name }
                                     </button>
                                 </li>
                             }

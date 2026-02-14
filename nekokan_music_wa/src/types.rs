@@ -33,9 +33,19 @@ pub struct Personnel {
     #[serde(default)]
     pub company: Vec<CompanyEntry>,
     #[serde(default)]
+    pub soloists: Vec<SoloistEntry>,
+    #[serde(default)]
     pub leader: Vec<LeaderEntry>,
     #[serde(default)]
     pub sidemen: Vec<SidemenEntry>,
+}
+
+#[derive(Clone, Debug, Default, PartialEq, Serialize, Deserialize)]
+pub struct SoloistEntry {
+    pub name: String,
+    #[serde(default)]
+    pub instrument: String,
+    pub tracks: String,
 }
 
 #[derive(Clone, Debug, Default, PartialEq, Serialize, Deserialize)]

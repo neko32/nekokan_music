@@ -31,6 +31,55 @@ fn record_year_join(ry: &[i32]) -> String {
     ry.iter().map(|y| y.to_string()).collect::<Vec<_>>().join(", ")
 }
 
+/// ファイル名として不適切な文字を除去。スペースは _ に置換する。
+fn sanitize_for_filename(s: &str) -> String {
+    const INVALID: &[char] = &['\\', '/', ':', '*', '?', '"', '<', '>', '|'];
+    s.replace(' ', "_")
+        .chars()
+        .filter(|c| !c.is_control() && !INVALID.contains(c))
+        .collect()
+}
+
+/// ファイル名入力フォーカス時に自動入力する値を返す。
+fn suggested_filename_on_focus(data: &MusicData) -> Option<String> {
+    let main = data.janre.main.as_str();
+    if main == "Classical" {
+        // soloists → conductor → orchestra の順
+        data.personnel
+            .soloists
+            .first()
+            .map(|e| sanitize_for_filename(e.name.trim()))
+            .or_else(|| {
+                data.personnel
+                    .conductor
+                    .first()
+                    .map(|e| sanitize_for_filename(e.name.trim()))
+            })
+            .or_else(|| {
+                data.personnel
+                    .orchestra
+                    .first()
+                    .map(|e| sanitize_for_filename(e.name.trim()))
+            })
+            .filter(|s| !s.is_empty())
+    } else if main == "Jazz" || main == "Fusion" {
+        data.personnel.leader.first().and_then(|entry| {
+            let name = sanitize_for_filename(entry.name.trim());
+            if name.is_empty() {
+                return None;
+            }
+            let title = sanitize_for_filename(data.title.trim());
+            Some(if title.is_empty() {
+                name
+            } else {
+                format!("{}__{}", name, title)
+            })
+        })
+    } else {
+        None
+    }
+}
+
 #[function_component(Form)]
 pub fn form(props: &FormProps) -> Html {
     let sub_opts = sub_janres_for_main(&props.data.janre.main);
@@ -227,6 +276,15 @@ pub fn form(props: &FormProps) -> Html {
                         type="text"
                         class={input_class(props, "filename")}
                         value={filename}
+                        onfocus={{
+                            let data = props.data.clone();
+                            let on_filename_change = props.on_filename_change.clone();
+                            Callback::from(move |_: FocusEvent| {
+                                if let Some(s) = suggested_filename_on_focus(&data) {
+                                    on_filename_change.emit(s);
+                                }
+                            })
+                        }}
                         oninput={Callback::from(move |e: InputEvent| {
                             let input = e.target_dyn_into::<web_sys::HtmlInputElement>();
                             if let Some(inp) = input {
@@ -376,6 +434,7 @@ fn personnel_section(props: &PersonnelSectionProps) -> Html {
             <ConductorBlock entries={props.data.personnel.conductor.clone()} data={props.data.clone()} on_data_change={props.on_data_change.clone()} errors={props.errors.clone()} />
             <OrchestraBlock entries={props.data.personnel.orchestra.clone()} data={props.data.clone()} on_data_change={props.on_data_change.clone()} errors={props.errors.clone()} />
             <CompanyBlock entries={props.data.personnel.company.clone()} data={props.data.clone()} on_data_change={props.on_data_change.clone()} errors={props.errors.clone()} />
+            <SoloistsBlock entries={props.data.personnel.soloists.clone()} data={props.data.clone()} on_data_change={props.on_data_change.clone()} errors={props.errors.clone()} />
             <LeaderBlock entries={props.data.personnel.leader.clone()} data={props.data.clone()} on_data_change={props.on_data_change.clone()} errors={props.errors.clone()} />
             <SidemenBlock entries={props.data.personnel.sidemen.clone()} data={props.data.clone()} on_data_change={props.on_data_change.clone()} errors={props.errors.clone()} />
         </div>
@@ -520,6 +579,55 @@ fn update_company(data: MusicData, on_data_change: Callback<MusicData>, idx: usi
                     e.name = v;
                 } else {
                     e.tracks = v;
+                }
+            }
+            on_data_change.emit(d);
+        }
+    })
+}
+
+fn soloist_row(
+    data: MusicData,
+    on_data_change: Callback<MusicData>,
+    entry: &SoloistEntry,
+    i: usize,
+    errors: &FieldErrors,
+) -> Html {
+    let key_name = format!("personnel.soloists[{}].name", i);
+    let key_inst = format!("personnel.soloists[{}].instrument", i);
+    let key_tracks = format!("personnel.soloists[{}].tracks", i);
+    let err_name = errors.get(&key_name).cloned();
+    let err_inst = errors.get(&key_inst).cloned();
+    let err_tracks = errors.get(&key_tracks).cloned();
+    html! {
+        <>
+            <span class="input-wrap">
+                <input type="text" placeholder="Name" value={entry.name.clone()} oninput={update_soloist(data.clone(), on_data_change.clone(), i, 0)} class={if errors.contains_key(&key_name) { "input input-error" } else { "input" }}/>
+                { for err_name.into_iter().map(|e| html! { <span class="error-text">{ e }</span> }) }
+            </span>
+            <span class="input-wrap">
+                <input type="text" placeholder="Instrument" value={entry.instrument.clone()} oninput={update_soloist(data.clone(), on_data_change.clone(), i, 1)} class={if errors.contains_key(&key_inst) { "input input-error" } else { "input" }}/>
+                { for err_inst.into_iter().map(|e| html! { <span class="error-text">{ e }</span> }) }
+            </span>
+            <span class="input-wrap">
+                <input type="text" placeholder="Tracks" value={entry.tracks.clone()} oninput={update_soloist(data.clone(), on_data_change.clone(), i, 2)} class={if errors.contains_key(&key_tracks) { "input input-error" } else { "input" }}/>
+                { for err_tracks.into_iter().map(|e| html! { <span class="error-text">{ e }</span> }) }
+            </span>
+        </>
+    }
+}
+
+fn update_soloist(data: MusicData, on_data_change: Callback<MusicData>, idx: usize, field: u8) -> Callback<InputEvent> {
+    Callback::from(move |e: InputEvent| {
+        let input = e.target_dyn_into::<web_sys::HtmlInputElement>();
+        if let Some(inp) = input {
+            let v = inp.value();
+            let mut d = data.clone();
+            if let Some(e) = d.personnel.soloists.get_mut(idx) {
+                match field {
+                    0 => e.name = v,
+                    1 => e.instrument = v,
+                    _ => e.tracks = v,
                 }
             }
             on_data_change.emit(d);
@@ -679,6 +787,24 @@ fn company_block(props: &PersonnelBlockProps<CompanyEntry>) -> Html {
     }
 }
 
+#[function_component(SoloistsBlock)]
+fn soloists_block(props: &PersonnelBlockProps<SoloistEntry>) -> Html {
+    let add = { let data = props.data.clone(); let on_data_change = props.on_data_change.clone(); Callback::from(move |_| { let mut d = data.clone(); d.personnel.soloists.push(Default::default()); on_data_change.emit(d); }) };
+    let remove = |i: usize| { let data = props.data.clone(); let on_data_change = props.on_data_change.clone(); Callback::from(move |_| { let mut d = data.clone(); d.personnel.soloists.remove(i); on_data_change.emit(d); }) };
+    html! {
+        <div class="personnel-block">
+            <h4>{"Soloists"}</h4>
+            { for props.entries.iter().enumerate().map(|(i, entry)| html! {
+                <div class="personnel-row" key={i}>
+                    { soloist_row(props.data.clone(), props.on_data_change.clone(), entry, i, &props.errors) }
+                    <button type="button" class="btn-remove" onclick={remove(i)}>{"削除"}</button>
+                </div>
+            }) }
+            <button type="button" class="btn-add" onclick={add}>{"追加"}</button>
+        </div>
+    }
+}
+
 #[function_component(LeaderBlock)]
 fn leader_block(props: &PersonnelBlockProps<LeaderEntry>) -> Html {
     let add = { let data = props.data.clone(); let on_data_change = props.on_data_change.clone(); Callback::from(move |_| { let mut d = data.clone(); d.personnel.leader.push(Default::default()); on_data_change.emit(d); }) };
@@ -765,9 +891,9 @@ fn tracks_section(props: &TracksSectionProps) -> Html {
                 let on_data_change = props.on_data_change.clone();
                 html! {
                     <div class="track-row" key={i}>
-                        <input type="number" class="input track-no" placeholder="Disc" value={t.disc_no.to_string()}
+                        <span>{"Disc No:"}</span><input type="number" class="input track-no" placeholder="Disc" value={t.disc_no.to_string()}
                             oninput={update_track_field(data.clone(), on_data_change.clone(), i, 0)}/>
-                        <input type="number" class="input track-no" placeholder="No" value={t.no.to_string()}
+                        <span>{"Track No:"}</span><input type="number" class="input track-no" placeholder="No" value={t.no.to_string()}
                             oninput={update_track_field(data.clone(), on_data_change.clone(), i, 1)}/>
                         <span class="input-wrap">
                             <input type="text" class={if props.errors.contains_key(&key_title) { "input input-error" } else { "input" }} placeholder="Title" value={t.title.clone()}
@@ -780,7 +906,7 @@ fn tracks_section(props: &TracksSectionProps) -> Html {
                             { for err_composer.into_iter().map(|e| html! { <span class="error-text">{ e }</span> }) }
                         </span>
                         <span class="input-wrap">
-                            <input type="text" class={if props.errors.contains_key(&key_length) { "input input-error" } else { "input" }} placeholder="Length (M:SS)" value={t.length.clone()}
+                            <input type="text" class={if props.errors.contains_key(&key_length) { "input input-error" } else { "input" }} placeholder="Length (MM:SS or M:SS)" value={t.length.clone()}
                                 oninput={update_track_field_str(data.clone(), on_data_change.clone(), i, 4)}/>
                             { for err_length.into_iter().map(|e| html! { <span class="error-text">{ e }</span> }) }
                         </span>
