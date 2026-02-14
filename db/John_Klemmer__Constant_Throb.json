@@ -1,0 +1,151 @@
+{
+  "comment": "1970年代初頭の典型的なフュージョンという感じだがパーソネルをよく見るとウェストコーストジャズ古参の古強者の名前がちらほら。",
+  "date": "2026/02/13",
+  "id": "AS-9214",
+  "janre": {
+    "main": "Fusion",
+    "sub": [
+      "Fusion"
+    ]
+  },
+  "label": "Impulse!",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone, Soprano Saxophone, Electric Piano, Percussion, Echoplex",
+        "name": "John Klemmer",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Alto Flute, Bass Clarinet",
+        "name": "Don Menza",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Guitar",
+        "name": "Howard Roberts",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Electric Piao, Clavinet",
+        "name": "Mike Wofford",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano, Electric Piano",
+        "name": "Mike Lang",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Bass",
+        "name": "Wilton Felder",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Bass",
+        "name": "Reggie Johnson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Shelly Manne",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Jim Keltner",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Percussion",
+        "name": "Gary Coleman",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Percussion",
+        "name": "Mark Stevens",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Vocal",
+        "name": "Marni Nixon",
+        "tracks": "1 & 2"
+      }
+    ]
+  },
+  "record_year": [
+    1971
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Constant_Throb"
+    }
+  ],
+  "release_year": 1972,
+  "score": 3,
+  "title": "Constant Throb",
+  "tracks": [
+    {
+      "composer": "John Klemmer",
+      "disc_no": 1,
+      "length": "2:03",
+      "no": 1,
+      "title": "Constant Throb Part I"
+    },
+    {
+      "composer": "John Klemmer",
+      "disc_no": 1,
+      "length": "6:24",
+      "no": 2,
+      "title": "Constant Throb Part II"
+    },
+    {
+      "composer": "John Klemmer",
+      "disc_no": 1,
+      "length": "5:11",
+      "no": 3,
+      "title": "Neptune"
+    },
+    {
+      "composer": "John Klemmer",
+      "disc_no": 1,
+      "length": "6:47",
+      "no": 4,
+      "title": "Let Me Touch the Wind"
+    },
+    {
+      "composer": "John Klemmer",
+      "disc_no": 1,
+      "length": "4:19",
+      "no": 5,
+      "title": "California Jazz Dance"
+    },
+    {
+      "composer": "John Klemmer",
+      "disc_no": 1,
+      "length": "5:38",
+      "no": 6,
+      "title": "Rainbows"
+    },
+    {
+      "composer": "John Klemmer",
+      "disc_no": 1,
+      "length": "4:37",
+      "no": 7,
+      "title": "Crystaled Tears"
+    },
+    {
+      "composer": "John Klemmer",
+      "disc_no": 1,
+      "length": "5:45",
+      "no": 8,
+      "title": "Precious Leaf"
+    }
+  ]
+}
