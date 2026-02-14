@@ -1,0 +1,66 @@
+name: release-build
+
+on:
+  push:
+    tags:
+      - "v*"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # -------------------------
+      # Rust toolchain
+      # -------------------------
+      - name: Install Rust
+        uses: dtolnay/rust-toolchain@stable
+
+      - name: Add musl target
+        run: rustup target add x86_64-unknown-linux-musl
+
+      - name: Install musl tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y musl-tools
+
+      # -------------------------
+      # Build backend (musl)
+      # -------------------------
+      - name: Build backend (nekokan_music_server)
+        working-directory: nekokan_music_server
+        run: |
+          cargo build --release --target x86_64-unknown-linux-musl
+          mkdir -p ../dist
+          cp target/x86_64-unknown-linux-musl/release/nekokan_music_server ../dist/
+
+      # -------------------------
+      # Build WebAssembly (Trunk)
+      # -------------------------
+      - name: Install trunk
+        run: cargo install trunk
+
+      - name: Install wasm32 target
+        run: rustup target add wasm32-unknown-unknown
+
+      - name: Build WASM (nekokan_music_wa)
+        working-directory: nekokan_music_wa
+        run: |
+          trunk build --release
+          mkdir -p ../dist/wa
+          cp -r dist/* ../dist/wa/
+
+      # -------------------------
+      # Upload to GitHub Releases
+      # -------------------------
+      - name: Upload release assets
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            dist/nekokan_music_server
+            dist/wa/**
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
