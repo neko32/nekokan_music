@@ -54,6 +54,7 @@ jobs:
           trunk build --release
           mkdir -p ../dist/wa
           cp -r dist/* ../dist/wa/
+          tar -czvf ../dist/nekokan_music_wa.tar.gz ../dist/wa
 
       # -------------------------
       # Upload to GitHub Releases
@@ -63,6 +64,6 @@ jobs:
         with:
           files: |
             dist/nekokan_music_server
-            dist/wa/**
+            dist/nekokan_music_wa.tar.gz
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
