@@ -1,0 +1,98 @@
+{
+  "comment": "実にベースがしっかりしつつも先取の気質にあふれた４人によるハイクオリティなネオハードバップの先駆け。ピート・ラロカのトリッキーなリズムと全般的に中東風の響きも持つこのアルバムは不思議な魅力に満ち溢れている。",
+  "date": "2026/02/15",
+  "id": "BST 82405",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Neo Hard Bop"
+    ]
+  },
+  "label": "Bluenote",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "leader": [
+      {
+        "instruments": "Drums",
+        "name": "Pete La Roca",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Joe Henderson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Steve Kuhn",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Bass",
+        "name": "Steve Swallow",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1965
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Basra_(album)"
+    }
+  ],
+  "release_year": 1965,
+  "score": 4,
+  "title": "Basra",
+  "tracks": [
+    {
+      "composer": "Ernesto Lecuona",
+      "disc_no": 1,
+      "length": "9:01",
+      "no": 1,
+      "title": "Malaguena"
+    },
+    {
+      "composer": "Pete La Roca",
+      "disc_no": 1,
+      "length": "6:45",
+      "no": 2,
+      "title": "Candu"
+    },
+    {
+      "composer": "Pete La Roca",
+      "disc_no": 1,
+      "length": "5:00",
+      "no": 3,
+      "title": "Tears Come from Heaven"
+    },
+    {
+      "composer": "Pete La Roca",
+      "disc_no": 1,
+      "length": "9:58",
+      "no": 4,
+      "title": "Basra"
+    },
+    {
+      "composer": "John La Touche, Jerome Moross",
+      "disc_no": 1,
+      "length": "5:31",
+      "no": 5,
+      "title": "Lazy Afternoon"
+    },
+    {
+      "composer": "Steve Swallow",
+      "disc_no": 1,
+      "length": "4:28",
+      "no": 6,
+      "title": "Eiderdown"
+    }
+  ]
+}
