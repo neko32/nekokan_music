@@ -1,0 +1,25 @@
+# systemd サービス定義: nekokan_music_server
+# Ubuntu での配置例:
+#   sudo cp scripts/nekokan_music_server.service /etc/systemd/system/
+#   sudo systemctl daemon-reload
+#   sudo systemctl enable nekokan_music_server
+#   sudo systemctl start nekokan_music_server
+#
+
+[Unit]
+Description=Nekokan Music Data API server
+After=network.target
+
+[Service]
+Type=simple
+User=neko32
+Group=neko32
+WorkingDirectory=/opt/srv/nekokan_music_server
+ExecStart=/opt/srv/nekokan_music_server/nekokan_music_server
+Restart=on-failure
+RestartSec=5
+# DB を別ディレクトリにしたい場合:
+Environment=DB_PATH=/opt/srv/nekokan_music_server/nekokan_music/db
+
+[Install]
+WantedBy=multi-user.target
