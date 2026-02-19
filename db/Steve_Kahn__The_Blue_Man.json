@@ -1,0 +1,138 @@
+{
+  "comment": "ブレッカー兄弟を始めとするゲストでハッとなる以外は心地のよいテクのあるギターをフィーチャーしたフュージョンサウンドが漫然と流れる印象。きれいにまとまった音楽だがこれこそが漫然という印象を与えるのか？しかしマイケル・ブレッカーは別物。",
+  "date": "2026/02/18",
+  "id": "83146",
+  "janre": {
+    "main": "Fusion",
+    "sub": [
+      "Fusion"
+    ]
+  },
+  "label": "CBS",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "leader": [
+      {
+        "instruments": "Electric Guitar, Acoustic Guitar",
+        "name": "Steve Kahn",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Randy Brecker",
+        "tracks": "3, 4 & 6"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Michael Breacker",
+        "tracks": "3, 4 & 6"
+      },
+      {
+        "instruments": "Electric Gauitar",
+        "name": "Jeff Mironov",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Electric Piao, Organ, Synthesizer",
+        "name": "Don Grolnick",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Synthesizer",
+        "name": "Bob James",
+        "tracks": "2"
+      },
+      {
+        "instruments": "Alto Saxophone",
+        "name": "David Sanborn",
+        "tracks": "3, 4 & 6"
+      },
+      {
+        "instruments": "Marimba",
+        "name": "Michael Mainieri",
+        "tracks": "5"
+      },
+      {
+        "instruments": "Electric Bass",
+        "name": "Will Lee",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Steve Gadd",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Percussions, Congas",
+        "name": "Ralph MacDonald",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Timbales, Cowell",
+        "name": "Rick Marotta",
+        "tracks": "6"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1978
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/release/1821049-Steve-Khan-The-Blue-Man"
+    }
+  ],
+  "release_year": 1978,
+  "score": 3,
+  "title": "The Blue Man",
+  "tracks": [
+    {
+      "composer": "Steve Khan",
+      "disc_no": 1,
+      "length": "7:03",
+      "no": 1,
+      "title": "Daily Bulls"
+    },
+    {
+      "composer": "Steve Khan",
+      "disc_no": 1,
+      "length": "5:57",
+      "no": 2,
+      "title": "The Blue Man"
+    },
+    {
+      "composer": "Steve Khan",
+      "disc_no": 1,
+      "length": "5:21",
+      "no": 3,
+      "title": "Some Down Time"
+    },
+    {
+      "composer": "Randy Brecker",
+      "disc_no": 1,
+      "length": "5:50",
+      "no": 4,
+      "title": "The Little Ones"
+    },
+    {
+      "composer": "Steve Khan",
+      "disc_no": 1,
+      "length": "4:50",
+      "no": 5,
+      "title": "Daily Valley"
+    },
+    {
+      "composer": "Steve Khan",
+      "disc_no": 1,
+      "length": "8:44",
+      "no": 6,
+      "title": "An Eye Over Autumn - For Folon"
+    }
+  ]
+}
