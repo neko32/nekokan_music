@@ -1,0 +1,77 @@
+{
+  "comment": "静か。アンドリュー・ヒルやアンドリュー・シリルといったアヴァンギャルドの闘士たちも静かな感じで借りてきたねこの様。むしろジョージ・タッカーの強めの弦の弾きが一番目立ってるような感じもある。",
+  "date": "2026/02/19",
+  "id": "NJLP 8283",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Avrant-Garde"
+    ]
+  },
+  "label": "New Jazz",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "leader": [
+      {
+        "instruments": "Vibraphone",
+        "name": "Walt Dickerson",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Piano",
+        "name": "Andrew Hill",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "George Tucker",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Andrew Cyrille",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1962
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/To_My_Queen"
+    }
+  ],
+  "release_year": 1963,
+  "score": 1,
+  "title": "To My Queen",
+  "tracks": [
+    {
+      "composer": "Walt Dickerson",
+      "disc_no": 1,
+      "length": "17:32",
+      "no": 1,
+      "title": "To My Queen"
+    },
+    {
+      "composer": "Irving Berlin",
+      "disc_no": 1,
+      "length": "11:05",
+      "no": 2,
+      "title": "How Deep Is the Ocean?"
+    },
+    {
+      "composer": "Billie Holiday, Arthur Herzog, Jr.",
+      "disc_no": 1,
+      "length": "3:54",
+      "no": 3,
+      "title": "God Bless the Child"
+    }
+  ]
+}
