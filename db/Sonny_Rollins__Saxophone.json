@@ -1,0 +1,91 @@
+{
+  "comment": "ロリンズのワンホーンで思い切り彼の豪放なブローが楽しめる。マックスローチのドラムスもロリンズの豪快スタイルにマッチした迫力を付加、そしてフラナガンのソロで一服できるという絶妙な構成。",
+  "date": "2026/02/20",
+  "id": "LP 7079",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Prestige",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Sonny Rollins",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Piano",
+        "name": "Tommy Flanagan",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Doug Watkins",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Max Roach",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1956
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Saxophone_Colossus"
+    }
+  ],
+  "release_year": 1957,
+  "score": 5,
+  "title": "Saxophone ",
+  "tracks": [
+    {
+      "composer": "Sonny Rollins",
+      "disc_no": 1,
+      "length": "6:49",
+      "no": 1,
+      "title": "St. Thomas"
+    },
+    {
+      "composer": "Gene de Paul, Don Raye",
+      "disc_no": 1,
+      "length": "6:30",
+      "no": 2,
+      "title": "You Don't Know What Love Is"
+    },
+    {
+      "composer": "Sonny Rollins",
+      "disc_no": 1,
+      "length": "5:17",
+      "no": 3,
+      "title": "Strode Rode"
+    },
+    {
+      "composer": "Kurt Weill, Bertolt Brecht",
+      "disc_no": 1,
+      "length": "10:05",
+      "no": 4,
+      "title": "Moritat"
+    },
+    {
+      "composer": "Sony Rollins",
+      "disc_no": 1,
+      "length": "11:17",
+      "no": 5,
+      "title": "Blue 7"
+    }
+  ]
+}
