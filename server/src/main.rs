@@ -18,6 +18,7 @@ async fn main() {
     let db_path = std::env::var("DB_PATH").unwrap_or_else(|_| DB_DIR.to_string());
     let app = Router::new()
         .route("/api/list", get(list_files))
+        .route("/api/list-with-labels", get(list_files_with_labels))
         .route("/api/save", post(save_file))
         .route("/api/files/*path", get(get_file))
         .nest_service("/", ServeDir::new("nekokan_music_wa/dist"))
@@ -52,6 +53,109 @@ async fn list_files(axum::extract::State(state): axum::extract::State<AppState>)
         .collect();
     names.sort();
     (StatusCode::OK, Json(names)).into_response()
+}
+
+/// アーティスト（またはラベル）とタイトルの区切り（コロン + スペース1つ）
+const ARTIST_TITLE_SEP: &str = ": ";
+
+/// 音楽JSONからサイドバー用表示ラベルを算出する。
+/// ジャンルがGameの場合は "{Label}: {タイトル}"。
+/// それ以外は 優先順位: leader(1人) → leader(複数) et al. → group → soloists → conductor → orchestra → [Artist Unknown]
+/// アーティストとタイトルは ": " で区切る（例: Bill Evans: Alone）。
+fn display_label_from_value(v: &Value) -> String {
+    let title = v["title"].as_str().unwrap_or("").to_string();
+    if v["janre"]["main"].as_str() == Some("Game") {
+        let label_val = v["label"].as_str().unwrap_or("").to_string();
+        return format!("{}{}{}", label_val, ARTIST_TITLE_SEP, title).trim().to_string();
+    }
+    let personnel = &v["personnel"];
+    let first_leader_name = personnel["leader"]
+        .as_array()
+        .and_then(|a| a.first())
+        .and_then(|o| o["name"].as_str());
+    let leader_count = personnel["leader"].as_array().map(|a| a.len()).unwrap_or(0);
+    let first_group_name = personnel["group"]
+        .as_array()
+        .and_then(|a| a.first())
+        .and_then(|o| o["name"].as_str());
+    let first_soloist = personnel["soloists"]
+        .as_array()
+        .and_then(|a| a.first())
+        .and_then(|o| o["name"].as_str());
+    let first_conductor = personnel["conductor"]
+        .as_array()
+        .and_then(|a| a.first())
+        .and_then(|o| o["name"].as_str());
+    let first_orchestra = personnel["orchestra"]
+        .as_array()
+        .and_then(|a| a.first())
+        .and_then(|o| o["name"].as_str());
+
+    let label = if leader_count == 1 {
+        format!("{}{}{}", first_leader_name.unwrap_or(""), ARTIST_TITLE_SEP, title)
+    } else if leader_count > 1 {
+        format!(
+            "{} et al.{}{}",
+            first_leader_name.unwrap_or(""),
+            ARTIST_TITLE_SEP,
+            title
+        )
+    } else if let Some(name) = first_group_name {
+        format!("{}{}{}", name, ARTIST_TITLE_SEP, title)
+    } else if let Some(name) = first_soloist {
+        format!("{}{}{}", name, ARTIST_TITLE_SEP, title)
+    } else if let Some(name) = first_conductor {
+        format!("{}{}{}", name, ARTIST_TITLE_SEP, title)
+    } else if let Some(name) = first_orchestra {
+        format!("{}{}{}", name, ARTIST_TITLE_SEP, title)
+    } else {
+        format!("[Artist Unknown]{}{}", ARTIST_TITLE_SEP, title)
+    };
+    label.trim().to_string()
+}
+
+#[derive(serde::Serialize)]
+struct ListEntryWithLabel {
+    filename: String,
+    display_label: String,
+}
+
+async fn list_files_with_labels(
+    axum::extract::State(state): axum::extract::State<AppState>,
+) -> impl IntoResponse {
+    let dir = state.db_path;
+    let Ok(entries) = fs::read_dir(&dir) else {
+        return (
+            StatusCode::INTERNAL_SERVER_ERROR,
+            Json::<Vec<ListEntryWithLabel>>(vec![]),
+        )
+            .into_response();
+    };
+    let mut list: Vec<ListEntryWithLabel> = entries
+        .filter_map(|e| e.ok())
+        .filter_map(|e| {
+            let n = e.file_name();
+            let s = n.to_string_lossy();
+            if !s.ends_with(".json") {
+                return None;
+            }
+            let filename = s.to_string();
+            let full = dir.join(&filename);
+            let Ok(data) = fs::read_to_string(&full) else {
+                return None;
+            };
+            let Ok(v) = serde_json::from_str::<Value>(&data) else {
+                return None;
+            };
+            let display_label = display_label_from_value(&v);
+            Some(ListEntryWithLabel {
+                filename,
+                display_label,
+            })
+        })
+        .collect();
+    list.sort_by(|a, b| a.filename.cmp(&b.filename));
+    (StatusCode::OK, Json(list)).into_response()
 }
 
 async fn get_file(
