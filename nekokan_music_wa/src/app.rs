@@ -47,6 +47,7 @@ pub fn app() -> Html {
     let form_filename = use_state(|| String::new());
     let errors = use_state(|| FieldErrors::new());
     let save_status = use_state(|| None::<Result<(), String>>);
+    let save_in_progress = use_state(|| false);
     let focus_title = use_state(|| false);
 
     {
@@ -121,6 +122,7 @@ pub fn app() -> Html {
         let errors = errors.clone();
         let file_list = file_list.clone();
         let save_status = save_status.clone();
+        let save_in_progress = save_in_progress.clone();
         Callback::from(move |()| {
             let data = (*form_data).clone();
             let filename = (*form_filename).clone();
@@ -132,16 +134,31 @@ pub fn app() -> Html {
                 return;
             }
             errors.set(FieldErrors::new());
+            save_in_progress.set(true);
             let file_list = file_list.clone();
             let save_status = save_status.clone();
+            let save_in_progress = save_in_progress.clone();
             wasm_bindgen_futures::spawn_local(async move {
-                let res = api::save_file(&filename, &data).await;
-                save_status.set(Some(res.clone()));
-                if res.is_ok() {
-                    if let Ok(list) = api::list_files().await {
-                        file_list.set(list);
+                let save_fut = api::save_file(&filename, &data);
+                let timeout_fut = gloo_timers::future::TimeoutFuture::new(10_000);
+                futures::pin_mut!(save_fut, timeout_fut);
+                match futures::future::select(save_fut, timeout_fut).await {
+                    futures::future::Either::Left((res, _)) => {
+                        let result: Result<(), String> = res;
+                        save_status.set(Some(result.clone()));
+                        if result.is_ok() {
+                            if let Ok(list) = api::list_files().await {
+                                file_list.set(list);
+                            }
+                        }
+                    }
+                    futures::future::Either::Right(((), _)) => {
+                        save_status.set(Some(Err(
+                            "保存がタイムアウトしました（10秒）".into(),
+                        )));
                     }
                 }
+                save_in_progress.set(false);
             });
         })
     };
@@ -159,6 +176,14 @@ pub fn app() -> Html {
 
     html! {
         <div class="layout">
+            if *save_in_progress {
+                <div class="save-modal-overlay" aria-busy="true" aria-live="polite">
+                    <div class="save-modal-box">
+                        <div class="save-modal-spinner" aria-hidden="true"></div>
+                        <p class="save-modal-text">{"保存中..."}</p>
+                    </div>
+                </div>
+            }
             <aside class="sidebar">
                 <h2 class="sidebar-title">{"Nekokan Music Data"}</h2>
                 if *loading {
