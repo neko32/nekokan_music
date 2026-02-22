@@ -1,44 +1,150 @@
 {
-    "title": "Afro-Cuban",
-    "janre": {
-        "main": "Jazz",
-        "sub": ["Hard Bop", "Acid"]
-    },
-    "label": "Blue Note",
-    "id": "BST 81535",
-    "release_year": 1955,
-    "record_year": [1955],
-    "personnel": {
-        "leader": [
-            {"name": "Kenny Dorham", "instruments": "Trumpet", "tracks": "all"}
-        ],
-        "sidemen": [
-            {"name": "J.J. Johnson", "instruments": "Trombone", "tracks": "1-4,9"},
-            {"name": "Hank Mobley", "instruments": "Tenor Saxophone", "tracks": "all"},
-            {"name": "Cecil Payne", "instruments": "Baritone Saxophone", "tracks": "all"},
-            {"name": "Horace Silver", "instruments": "Piano", "tracks": "all"},
-            {"name": "Percy Heath", "instruments": "Bass", "tracks": "5-8"},
-            {"name": "Oscar Pettiford", "instruments": "Bass", "tracks": "1-4,9"},
-            {"name": "Art Blakey", "instruments": "Drums", "tracks": "all"},
-            {"name": "Carlos \"Patato\" Valdes", "instruments": "Conga", "tracks": "1-4,9"},
-            {"name": "Richie Goldberg", "instruments": "Cowbell", "tracks": "1-4,9"}
-        ]
-    },
-    "tracks":[
-        {"disc_no": 1, "no": 1, "title": "Afrodisia", "composer": ["Kenny Dorham"], "length": "5:02"},
-        {"disc_no": 1, "no": 2, "title": "Lotus Flower", "composer": ["Kenny Dorham"], "length": "4:15"},
-        {"disc_no": 1, "no": 3, "title": "Minor's Holiday", "composer": ["Kenny Dorham"], "length": "4:25"},
-        {"disc_no": 1, "no": 4, "title": "Basheer's Dream", "composer": ["Gigi Gryce"], "length": "5:00"},
-        {"disc_no": 1, "no": 5, "title": "K.D.'s Motion", "composer": ["Kenny Dorham"], "length": "5:25"},
-        {"disc_no": 1, "no": 6, "title": "La Villa", "composer": ["Kenny Dorham"], "length": "5:20"},
-        {"disc_no": 1, "no": 7, "title": "Venita's Dance", "composer": ["Kenny Dorham"], "length": "5:18"},
-        {"disc_no": 1, "no": 8, "title": "K.D.'s Cab Ride", "composer": ["Kenny Dorham"], "length": "6:06"},
-        {"disc_no": 1, "no": 9, "title": "Minor's Holiday (alt.take)", "composer": ["Kenny Dorham"], "length": "4:21"}
-    ],
-    "score": 6,
-    "comment": "[殿堂入り] 前半のオールスターセッションと後半のJM拡大風セッションどちらのどの曲も極めて良質。いうことないくらい良すぎ",
-    "date": "2025/06/07",
-    "references":[
-        {"name": "wikipedia", "url": "https://en.wikipedia.org/wiki/Afro-Cuban_(album)"}
+  "comment": "[殿堂入り] 前半のオールスターセッションと後半のJM拡大風セッションどちらのどの曲も極めて良質。いうことないくらい良すぎ",
+  "date": "2025/06/07",
+  "id": "BST 81535",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop",
+      "Acid"
     ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "leader": [
+      {
+        "instruments": "Trumpet",
+        "name": "Kenny Dorham",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trombone",
+        "name": "J.J. Johnson",
+        "tracks": "1-4,9"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Hank Mobley",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Baritone Saxophone",
+        "name": "Cecil Payne",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Horace Silver",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Bass",
+        "name": "Percy Heath",
+        "tracks": "5-8"
+      },
+      {
+        "instruments": "Bass",
+        "name": "Oscar Pettiford",
+        "tracks": "1-4,9"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Art Blakey",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Conga",
+        "name": "Carlos \"Patato\" Valdes",
+        "tracks": "1-4,9"
+      },
+      {
+        "instruments": "Cowbell",
+        "name": "Richie Goldberg",
+        "tracks": "1-4,9"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1955
+  ],
+  "references": [
+    {
+      "name": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Afro-Cuban_(album)"
+    }
+  ],
+  "release_year": 1955,
+  "score": 6,
+  "title": "Afro-Cuban",
+  "tracks": [
+    {
+      "composer": "Kenny Dorham",
+      "disc_no": 1,
+      "length": "5:02",
+      "no": 1,
+      "title": "Afrodisia"
+    },
+    {
+      "composer": "Kenny Dorham",
+      "disc_no": 1,
+      "length": "4:15",
+      "no": 2,
+      "title": "Lotus Flower"
+    },
+    {
+      "composer": "Kenny Dorham",
+      "disc_no": 1,
+      "length": "4:25",
+      "no": 3,
+      "title": "Minor's Holiday"
+    },
+    {
+      "composer": "Gigi Gryce",
+      "disc_no": 1,
+      "length": "5:00",
+      "no": 4,
+      "title": "Basheer's Dream"
+    },
+    {
+      "composer": "Kenny Dorham",
+      "disc_no": 1,
+      "length": "5:25",
+      "no": 5,
+      "title": "K.D.'s Motion"
+    },
+    {
+      "composer": "Kenny Dorham",
+      "disc_no": 1,
+      "length": "5:20",
+      "no": 6,
+      "title": "La Villa"
+    },
+    {
+      "composer": "Kenny Dorham",
+      "disc_no": 1,
+      "length": "5:18",
+      "no": 7,
+      "title": "Venita's Dance"
+    },
+    {
+      "composer": "Kenny Dorham",
+      "disc_no": 1,
+      "length": "6:06",
+      "no": 8,
+      "title": "K.D.'s Cab Ride"
+    },
+    {
+      "composer": "Kenny Dorham",
+      "disc_no": 1,
+      "length": "4:21",
+      "no": 9,
+      "title": "Minor's Holiday (alt.take)"
+    }
+  ]
 }
