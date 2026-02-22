@@ -49,6 +49,8 @@ fn sanitize_for_filename(s: &str) -> String {
 }
 
 /// ファイル名入力フォーカス時に自動入力する値を返す。
+/// グループあり時: リーダーあり → "{リーダー名}_{abbr}__{タイトル}", リーダーなし → "{abbr}__{タイトル}"。
+/// それ以外は既存ロジック（Jazz/Fusion は leader、Classical は soloists/conductor/orchestra）。
 fn suggested_filename_on_focus(data: &MusicData) -> Option<String> {
     let main = data.janre.main.as_str();
     if main == "Classical" {
@@ -71,6 +73,32 @@ fn suggested_filename_on_focus(data: &MusicData) -> Option<String> {
             })
             .filter(|s| !s.is_empty())
     } else if main == "Jazz" || main == "Fusion" {
+        // グループが入力されていればグループ基準のファイル名を優先
+        if let Some(g) = data.personnel.group.first() {
+            let abbr = sanitize_for_filename(g.abbr.trim());
+            let title = sanitize_for_filename(data.title.trim());
+            if abbr.is_empty() {
+                return None;
+            }
+            let leader_name = g
+                .members
+                .iter()
+                .find(|m| m.leader)
+                .map(|m| sanitize_for_filename(m.name.trim()))
+                .filter(|s| !s.is_empty());
+            return Some(if let Some(name) = leader_name {
+                if title.is_empty() {
+                    format!("{}_{}", name, abbr)
+                } else {
+                    format!("{}_{}__{}", name, abbr, title)
+                }
+            } else if title.is_empty() {
+                abbr
+            } else {
+                format!("{}__{}", abbr, title)
+            });
+        }
+        // 既存: personnel.leader 1件目
         data.personnel.leader.first().and_then(|entry| {
             let name = sanitize_for_filename(entry.name.trim());
             if name.is_empty() {
@@ -477,6 +505,7 @@ fn personnel_section(props: &PersonnelSectionProps) -> Html {
             <SoloistsBlock entries={props.data.personnel.soloists.clone()} data={props.data.clone()} on_data_change={props.on_data_change.clone()} errors={props.errors.clone()} />
             <LeaderBlock entries={props.data.personnel.leader.clone()} data={props.data.clone()} on_data_change={props.on_data_change.clone()} errors={props.errors.clone()} />
             <SidemenBlock entries={props.data.personnel.sidemen.clone()} data={props.data.clone()} on_data_change={props.on_data_change.clone()} errors={props.errors.clone()} />
+            <GroupBlock entries={props.data.personnel.group.clone()} data={props.data.clone()} on_data_change={props.on_data_change.clone()} errors={props.errors.clone()} />
         </div>
     }
 }
@@ -877,6 +906,225 @@ fn sidemen_block(props: &PersonnelBlockProps<SidemenEntry>) -> Html {
                 </div>
             }) }
             <button type="button" class="btn-add" onclick={add}>{"追加"}</button>
+        </div>
+    }
+}
+
+// --- Group block (name, abbr, members with name/instruments/tracks/leader) ---
+#[derive(Properties, PartialEq)]
+struct GroupBlockProps {
+    entries: Vec<GroupEntry>,
+    data: MusicData,
+    on_data_change: Callback<MusicData>,
+    errors: FieldErrors,
+}
+
+fn update_group(data: MusicData, on_data_change: Callback<MusicData>, gi: usize, field: u8, value: String) {
+    let mut d = data;
+    if let Some(g) = d.personnel.group.get_mut(gi) {
+        match field {
+            0 => g.name = value,
+            1 => g.abbr = value,
+            _ => {}
+        }
+    }
+    on_data_change.emit(d);
+}
+
+fn oninput_group(
+    data: MusicData,
+    on_data_change: Callback<MusicData>,
+    gi: usize,
+    field: u8,
+) -> Callback<InputEvent> {
+    Callback::from(move |e: InputEvent| {
+        let input = e.target().and_then(|t| t.dyn_into::<web_sys::HtmlInputElement>().ok());
+        if let Some(inp) = input {
+            update_group(data.clone(), on_data_change.clone(), gi, field, inp.value());
+        }
+    })
+}
+
+fn update_group_member(
+    data: MusicData,
+    on_data_change: Callback<MusicData>,
+    gi: usize,
+    mi: usize,
+    field: u8,
+    value: String,
+) {
+    let mut d = data;
+    if let Some(g) = d.personnel.group.get_mut(gi) {
+        if let Some(m) = g.members.get_mut(mi) {
+            match field {
+                0 => m.name = value,
+                1 => m.instruments = value,
+                2 => m.tracks = value,
+                _ => {}
+            }
+        }
+    }
+    on_data_change.emit(d);
+}
+
+fn oninput_group_member(
+    data: MusicData,
+    on_data_change: Callback<MusicData>,
+    gi: usize,
+    mi: usize,
+    field: u8,
+) -> Callback<InputEvent> {
+    Callback::from(move |e: InputEvent| {
+        let input = e.target().and_then(|t| t.dyn_into::<web_sys::HtmlInputElement>().ok());
+        if let Some(inp) = input {
+            update_group_member(data.clone(), on_data_change.clone(), gi, mi, field, inp.value());
+        }
+    })
+}
+
+fn toggle_group_member_leader(data: MusicData, on_data_change: Callback<MusicData>, gi: usize, mi: usize) {
+    let mut d = data;
+    if let Some(g) = d.personnel.group.get_mut(gi) {
+        if let Some(m) = g.members.get_mut(mi) {
+            m.leader = !m.leader;
+        }
+    }
+    on_data_change.emit(d);
+}
+
+fn group_member_row(
+    data: MusicData,
+    on_data_change: Callback<MusicData>,
+    entry: &GroupMemberEntry,
+    gi: usize,
+    mi: usize,
+    errors: &FieldErrors,
+) -> Html {
+    let key_name = format!("personnel.group[{}].members[{}].name", gi, mi);
+    let key_inst = format!("personnel.group[{}].members[{}].instruments", gi, mi);
+    let key_tracks = format!("personnel.group[{}].members[{}].tracks", gi, mi);
+    let err_name = errors.get(&key_name).cloned();
+    let err_inst = errors.get(&key_inst).cloned();
+    let err_tracks = errors.get(&key_tracks).cloned();
+    let on_leader_toggle = {
+        let data = data.clone();
+        let on_data_change = on_data_change.clone();
+        Callback::from(move |_| toggle_group_member_leader(data.clone(), on_data_change.clone(), gi, mi))
+    };
+    html! {
+        <div class="personnel-row">
+            <span class="input-wrap">
+                <input type="text" placeholder="Name" value={entry.name.clone()}
+                    oninput={oninput_group_member(data.clone(), on_data_change.clone(), gi, mi, 0)}
+                    class={if errors.contains_key(&key_name) { "input input-error" } else { "input" }}/>
+                { for err_name.into_iter().map(|e| html! { <span class="error-text">{ e }</span> }) }
+            </span>
+            <span class="input-wrap">
+                <input type="text" placeholder="Instruments" value={entry.instruments.clone()}
+                    oninput={oninput_group_member(data.clone(), on_data_change.clone(), gi, mi, 1)}
+                    class={if errors.contains_key(&key_inst) { "input input-error" } else { "input" }}/>
+                { for err_inst.into_iter().map(|e| html! { <span class="error-text">{ e }</span> }) }
+            </span>
+            <span class="input-wrap">
+                <input type="text" placeholder="Tracks" value={entry.tracks.clone()}
+                    oninput={oninput_group_member(data, on_data_change.clone(), gi, mi, 2)}
+                    class={if errors.contains_key(&key_tracks) { "input input-error" } else { "input" }}/>
+                { for err_tracks.into_iter().map(|e| html! { <span class="error-text">{ e }</span> }) }
+            </span>
+            <label class="input-wrap group-leader-label">
+                <input type="checkbox" checked={entry.leader} onchange={on_leader_toggle}/>
+                {"Leader"}
+            </label>
+        </div>
+    }
+}
+
+#[function_component(GroupBlock)]
+fn group_block(props: &GroupBlockProps) -> Html {
+    let add_group = {
+        let data = props.data.clone();
+        let on_data_change = props.on_data_change.clone();
+        Callback::from(move |_| {
+            let mut d = data.clone();
+            d.personnel.group.push(GroupEntry {
+                name: String::new(),
+                abbr: String::new(),
+                members: Vec::new(),
+            });
+            on_data_change.emit(d);
+        })
+    };
+    let remove_group = |gi: usize| {
+        let data = props.data.clone();
+        let on_data_change = props.on_data_change.clone();
+        Callback::from(move |_| {
+            let mut d = data.clone();
+            d.personnel.group.remove(gi);
+            on_data_change.emit(d);
+        })
+    };
+    let add_member = |gi: usize| {
+        let data = props.data.clone();
+        let on_data_change = props.on_data_change.clone();
+        Callback::from(move |_| {
+            let mut d = data.clone();
+            if let Some(g) = d.personnel.group.get_mut(gi) {
+                g.members.push(GroupMemberEntry::default());
+            }
+            on_data_change.emit(d);
+        })
+    };
+    let remove_member = |gi: usize, mi: usize| {
+        let data = props.data.clone();
+        let on_data_change = props.on_data_change.clone();
+        Callback::from(move |_| {
+            let mut d = data.clone();
+            if let Some(g) = d.personnel.group.get_mut(gi) {
+                g.members.remove(mi);
+            }
+            on_data_change.emit(d);
+        })
+    };
+
+    html! {
+        <div class="personnel-block">
+            <h4>{"Group"}</h4>
+            { for props.entries.iter().enumerate().map(|(gi, g)| {
+                let key_name = format!("personnel.group[{}].name", gi);
+                let key_abbr = format!("personnel.group[{}].abbr", gi);
+                let err_name = props.errors.get(&key_name).cloned();
+                let err_abbr = props.errors.get(&key_abbr).cloned();
+                let data = props.data.clone();
+                let on_data_change = props.on_data_change.clone();
+                let errors = props.errors.clone();
+                html! {
+                    <div class="group-entry-wrap" key={gi}>
+                        <div class="personnel-row">
+                            <span class="input-wrap">
+                                <input type="text" placeholder="Group Name" value={g.name.clone()}
+                                    oninput={oninput_group(data.clone(), on_data_change.clone(), gi, 0)}
+                                    class={if props.errors.contains_key(&key_name) { "input input-error" } else { "input" }}/>
+                                { for err_name.into_iter().map(|e| html! { <span class="error-text">{ e }</span> }) }
+                            </span>
+                            <span class="input-wrap">
+                                <input type="text" placeholder="Abbr" value={g.abbr.clone()}
+                                    oninput={oninput_group(data.clone(), on_data_change.clone(), gi, 1)}
+                                    class={if props.errors.contains_key(&key_abbr) { "input input-error" } else { "input" }}/>
+                                { for err_abbr.into_iter().map(|e| html! { <span class="error-text">{ e }</span> }) }
+                            </span>
+                            <button type="button" class="btn-remove" onclick={remove_group(gi)}>{"グループ削除"}</button>
+                        </div>
+                        { for g.members.iter().enumerate().map(|(mi, m)| html! {
+                            <div key={mi} class="group-member-row">
+                                { group_member_row(data.clone(), on_data_change.clone(), m, gi, mi, &errors) }
+                                <button type="button" class="btn-remove" onclick={remove_member(gi, mi)}>{"削除"}</button>
+                            </div>
+                        }) }
+                        <button type="button" class="btn-add btn-add-member" onclick={add_member(gi)}>{"メンバー追加"}</button>
+                    </div>
+                }
+            }) }
+            <button type="button" class="btn-add" onclick={add_group}>{"グループ追加"}</button>
         </div>
     }
 }
