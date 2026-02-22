@@ -40,7 +40,7 @@ fn new_music_data() -> MusicData {
 
 #[function_component(App)]
 pub fn app() -> Html {
-    let file_list = use_state(|| Vec::<String>::new());
+    let file_list = use_state(|| Vec::<api::ListEntryWithLabel>::new());
     let loading = use_state(|| true);
     let selected = use_state(|| None::<String>);
     let form_data = use_state(|| new_music_data());
@@ -57,7 +57,7 @@ pub fn app() -> Html {
             let file_list = file_list.clone();
             let loading = loading.clone();
             wasm_bindgen_futures::spawn_local(async move {
-                match api::list_files().await {
+                match api::list_with_labels().await {
                     Ok(list) => {
                         file_list.set(list);
                     }
@@ -147,7 +147,7 @@ pub fn app() -> Html {
                         let result: Result<(), String> = res;
                         save_status.set(Some(result.clone()));
                         if result.is_ok() {
-                            if let Ok(list) = api::list_files().await {
+                            if let Ok(list) = api::list_with_labels().await {
                                 file_list.set(list);
                             }
                         }
@@ -190,24 +190,24 @@ pub fn app() -> Html {
                     <p class="sidebar-loading">{"読込中..."}</p>
                 } else {
                     <ul class="file-list">
-                        { for file_list.iter().map(|name| {
-                            let is_selected = selected.as_deref() == Some(name.as_str());
-                            let name_owned = name.clone();
-                            let name_for_click = name.clone();
-                            let display_name = if name.len() > 40 {
-                                format!("{}...", &name[..40])
+                        { for file_list.iter().map(|entry| {
+                            let filename = entry.filename.clone();
+                            let is_selected = selected.as_deref() == Some(filename.as_str());
+                            let display_label = if entry.display_label.chars().count() >= 40 {
+                                format!("{}...", entry.display_label.chars().take(37).collect::<String>())
                             } else {
-                                name.clone()
+                                entry.display_label.clone()
                             };
+                            let filename_for_click = entry.filename.clone();
                             let on_select_file = on_select_file.clone();
                             html! {
-                                <li key={name_owned.clone()}>
+                                <li key={filename.clone()}>
                                     <button
                                         class={if is_selected { "file-item selected" } else { "file-item" }}
-                                        title={name_owned.clone()}
-                                        onclick={move |_| on_select_file.emit(name_for_click.clone())}
+                                        title={filename.clone()}
+                                        onclick={move |_| on_select_file.emit(filename_for_click.clone())}
                                     >
-                                        { display_name }
+                                        { display_label }
                                     </button>
                                 </li>
                             }

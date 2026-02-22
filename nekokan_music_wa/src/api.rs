@@ -4,6 +4,13 @@ use serde_json::Value;
 
 const API_BASE: &str = "/api";
 
+#[derive(Clone, Debug, serde::Deserialize)]
+pub struct ListEntryWithLabel {
+    pub filename: String,
+    pub display_label: String,
+}
+
+#[allow(dead_code)]
 pub async fn list_files() -> Result<Vec<String>, String> {
     let resp = Request::get(&format!("{}/list", API_BASE))
         .send()
@@ -13,6 +20,18 @@ pub async fn list_files() -> Result<Vec<String>, String> {
         return Err(format!("list failed: {}", resp.status()));
     }
     let list: Vec<String> = resp.json().await.map_err(|e| e.to_string())?;
+    Ok(list)
+}
+
+pub async fn list_with_labels() -> Result<Vec<ListEntryWithLabel>, String> {
+    let resp = Request::get(&format!("{}/list-with-labels", API_BASE))
+        .send()
+        .await
+        .map_err(|e| e.to_string())?;
+    if !resp.ok() {
+        return Err(format!("list-with-labels failed: {}", resp.status()));
+    }
+    let list: Vec<ListEntryWithLabel> = resp.json().await.map_err(|e| e.to_string())?;
     Ok(list)
 }
 
