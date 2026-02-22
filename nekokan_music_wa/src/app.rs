@@ -49,6 +49,7 @@ pub fn app() -> Html {
     let save_status = use_state(|| None::<Result<(), String>>);
     let save_in_progress = use_state(|| false);
     let focus_title = use_state(|| false);
+    let focus_filename = use_state(|| false);
 
     {
         let file_list = file_list.clone();
@@ -114,6 +115,44 @@ pub fn app() -> Html {
     let on_focus_title_done = {
         let focus_title = focus_title.clone();
         Callback::from(move |()| focus_title.set(false))
+    };
+
+    // ファイル名 blur 時: 新規入力時のみ、同名が既に存在すればエラー表示しフォーカスを戻す。編集時は対象外（上書き保存は正当）。
+    let on_filename_blur = {
+        let file_list = file_list.clone();
+        let selected = selected.clone();
+        let errors = errors.clone();
+        let focus_filename = focus_filename.clone();
+        Callback::from(move |value: String| {
+            if selected.is_some() {
+                return;
+            }
+            let base = value.trim();
+            let base = if base.ends_with(".json") {
+                base.strip_suffix(".json").unwrap_or(base)
+            } else {
+                base
+            };
+            if base.is_empty() {
+                return;
+            }
+            let existing: Vec<&str> = file_list
+                .iter()
+                .map(|e| e.filename.strip_suffix(".json").unwrap_or(e.filename.as_str()))
+                .collect();
+            let is_duplicate = existing.iter().any(|&s| s == base);
+            if is_duplicate {
+                let mut errs = FieldErrors::new();
+                errs.insert("filename".into(), "同名ファイルが既に存在します".into());
+                errors.set(errs);
+                focus_filename.set(true);
+            }
+        })
+    };
+
+    let on_focus_filename_done = {
+        let focus_filename = focus_filename.clone();
+        Callback::from(move |()| focus_filename.set(false))
     };
 
     let on_save = {
@@ -247,6 +286,11 @@ pub fn app() -> Html {
                         on_save={on_save}
                         focus_title={*focus_title}
                         on_focus_title_done={on_focus_title_done}
+                        existing_filenames={file_list.iter().map(|e| e.filename.clone()).collect::<Vec<_>>()}
+                        selected_filename={(*selected).clone()}
+                        on_filename_blur={on_filename_blur}
+                        focus_filename={*focus_filename}
+                        on_focus_filename_done={on_focus_filename_done}
                     />
                     if let Some(ref status) = *save_status {
                         <p class={if status.is_ok() { "save-ok" } else { "save-err" }}>

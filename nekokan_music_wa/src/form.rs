@@ -13,6 +13,14 @@ pub struct FormProps {
     pub on_save: Callback<()>,
     pub focus_title: bool,
     pub on_focus_title_done: Callback<()>,
+    /// 既存ファイル名一覧（"xxx.json" 形式）。同名チェックに使用。
+    pub existing_filenames: Vec<String>,
+    /// 編集中のファイル名（"xxx.json"）。None は新規。同名時は自分を除いて判定。
+    pub selected_filename: Option<String>,
+    /// ファイル名入力からフォーカスが外れたときに呼ばれる。同名なら親でエラー表示・フォーカス戻し。
+    pub on_filename_blur: Callback<String>,
+    pub focus_filename: bool,
+    pub on_focus_filename_done: Callback<()>,
 }
 
 fn err(props: &FormProps, key: &str) -> Option<String> {
@@ -84,11 +92,13 @@ fn suggested_filename_on_focus(data: &MusicData) -> Option<String> {
 pub fn form(props: &FormProps) -> Html {
     let sub_opts = sub_janres_for_main(&props.data.janre.main);
     let title_input_ref = use_node_ref();
+    let filename_input_ref = use_node_ref();
     let record_year_text = use_state(|| record_year_join(&props.data.record_year));
 
     let on_save = props.on_save.clone();
     let filename = props.filename.clone();
     let on_filename_change = props.on_filename_change.clone();
+    let on_filename_blur = props.on_filename_blur.clone();
 
     {
         let ry = props.data.record_year.clone();
@@ -109,6 +119,21 @@ pub fn form(props: &FormProps) -> Html {
                     let _ = inp.focus();
                 }
                 on_focus_title_done.emit(());
+            }
+            || ()
+        });
+    }
+
+    {
+        let focus_filename = props.focus_filename;
+        let filename_input_ref = filename_input_ref.clone();
+        let on_focus_filename_done = props.on_focus_filename_done.clone();
+        use_effect_with(focus_filename, move |f| {
+            if *f {
+                if let Some(inp) = filename_input_ref.cast::<web_sys::HtmlInputElement>() {
+                    let _ = inp.focus();
+                }
+                on_focus_filename_done.emit(());
             }
             || ()
         });
@@ -273,6 +298,7 @@ pub fn form(props: &FormProps) -> Html {
                 <div class="field">
                     <label>{"ファイル名"}</label>
                     <input
+                        ref={filename_input_ref.clone()}
                         type="text"
                         class={input_class(props, "filename")}
                         value={filename}
@@ -282,6 +308,20 @@ pub fn form(props: &FormProps) -> Html {
                             Callback::from(move |_: FocusEvent| {
                                 if let Some(s) = suggested_filename_on_focus(&data) {
                                     on_filename_change.emit(s);
+                                }
+                            })
+                        }}
+                        onblur={{
+                            let on_filename_blur = on_filename_blur.clone();
+                            Callback::from(move |e: FocusEvent| {
+                                if let Some(target) = e.target() {
+                                    if let Ok(inp) = target.dyn_into::<web_sys::HtmlInputElement>() {
+                                        let v: String = inp.value();
+                                        let v = v.trim().to_string();
+                                        if !v.is_empty() {
+                                            on_filename_blur.emit(v);
+                                        }
+                                    }
                                 }
                             })
                         }}
