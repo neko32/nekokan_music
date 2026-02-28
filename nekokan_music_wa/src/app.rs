@@ -77,6 +77,7 @@ pub fn app() -> Html {
         let form_filename = form_filename.clone();
         let selected = selected.clone();
         let errors = errors.clone();
+        let save_status = save_status.clone();
         Callback::from(move |name: String| {
             let form_data = form_data.clone();
             let form_filename = form_filename.clone();
@@ -86,6 +87,7 @@ pub fn app() -> Html {
             selected.set(Some(name.clone()));
             form_filename.set(base.clone());
             errors.set(FieldErrors::new());
+            save_status.set(None); // 別曲編集開始時に「保存しました。」を消す
             wasm_bindgen_futures::spawn_local(async move {
                 match api::get_file(&name).await {
                     Ok(data) => {
@@ -102,12 +104,14 @@ pub fn app() -> Html {
         let form_filename = form_filename.clone();
         let selected = selected.clone();
         let errors = errors.clone();
+        let save_status = save_status.clone();
         let focus_title = focus_title.clone();
         Callback::from(move |_| {
             form_data.set(new_music_data());
             form_filename.set(String::new());
             selected.set(None);
             errors.set(FieldErrors::new());
+            save_status.set(None); // 新規追加開始時に「保存しました。」を消す
             focus_title.set(true);
         })
     };
