@@ -1,0 +1,110 @@
+{
+  "comment": "ゴルソンが去りウェインショーターが加入。既に独特の存在感を出しているもボビー・ティモンズのファンキーな色合いもまだ色濃くモード移行、３管移行前の過渡期の独特の魅力がある。PolitelyやThe Chess Players, Dat Dere, Lester left Town等佳曲も豊富でうれしい。",
+  "date": "2026/02/22",
+  "id": "BLP 4029",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [
+      {
+        "abbr": "JM",
+        "members": [
+          {
+            "instruments": "Trumpet",
+            "name": "Lee Morgan",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Tenor Saxophone",
+            "name": "Wayne Shorter",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Piano",
+            "name": "Bobby Timmons",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Double Bass",
+            "name": "Jymie Merritt",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Drums",
+            "leader": true,
+            "name": "Art Blakey",
+            "tracks": "all"
+          }
+        ],
+        "name": "Art Blakey & The Jazz messagers"
+      }
+    ],
+    "leader": [],
+    "orchestra": [],
+    "sidemen": [],
+    "soloists": []
+  },
+  "record_year": [
+    1960
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Big_Beat_(Art_Blakey_album)"
+    }
+  ],
+  "release_year": 1960,
+  "score": 4,
+  "title": "The Big Beat",
+  "tracks": [
+    {
+      "composer": "Wayne Shorter",
+      "disc_no": 1,
+      "length": "9:31",
+      "no": 1,
+      "title": "The Chess Players"
+    },
+    {
+      "composer": "Wayne Shorter",
+      "disc_no": 1,
+      "length": "6:04",
+      "no": 2,
+      "title": "Sakeena's Vision"
+    },
+    {
+      "composer": "Bill Hardman",
+      "disc_no": 1,
+      "length": "6:04",
+      "no": 3,
+      "title": "Politely"
+    },
+    {
+      "composer": "Bobby Timmons",
+      "disc_no": 1,
+      "length": "8:47",
+      "no": 4,
+      "title": "Dat Dere"
+    },
+    {
+      "composer": "Wayne Shorter",
+      "disc_no": 1,
+      "length": "6:26",
+      "no": 5,
+      "title": "Lester Left Town"
+    },
+    {
+      "composer": "Harold Arlen, Yip Harburg, Billy Rose",
+      "disc_no": 1,
+      "length": "6:38",
+      "no": 6,
+      "title": "It's Only a Paper Moon"
+    }
+  ]
+}
