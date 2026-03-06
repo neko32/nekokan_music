@@ -47,6 +47,7 @@ pub fn app() -> Html {
     let form_filename = use_state(|| String::new());
     let errors = use_state(|| FieldErrors::new());
     let save_status = use_state(|| None::<Result<(), String>>);
+    let load_error = use_state(|| None::<String>);
     let save_in_progress = use_state(|| false);
     let focus_title = use_state(|| false);
     let focus_filename = use_state(|| false);
@@ -77,20 +78,24 @@ pub fn app() -> Html {
         let form_filename = form_filename.clone();
         let selected = selected.clone();
         let errors = errors.clone();
+        let load_error = load_error.clone();
         let save_status = save_status.clone();
         Callback::from(move |name: String| {
             let form_data = form_data.clone();
             let form_filename = form_filename.clone();
             let selected = selected.clone();
             let errors = errors.clone();
+            let load_error = load_error.clone();
             let base = name.strip_suffix(".json").unwrap_or(&name).to_string();
             selected.set(Some(name.clone()));
             form_filename.set(base.clone());
             errors.set(FieldErrors::new());
+            load_error.set(None);
             save_status.set(None); // 別曲編集開始時に「保存しました。」を消す
             wasm_bindgen_futures::spawn_local(async move {
                 match api::get_file(&name).await {
                     Ok(mut data) => {
+                        load_error.set(None);
                         // Main が変わったときに Sub がその Main の候補に含まれないと
                         // リスト表示がずれるため、読み込み時に正規化する（Issue #12）
                         let allowed: std::collections::HashSet<_> =
@@ -103,7 +108,9 @@ pub fn app() -> Html {
                         }
                         form_data.set(data);
                     }
-                    Err(_) => {}
+                    Err(e) => {
+                        load_error.set(Some(e));
+                    }
                 }
             });
         })
@@ -114,6 +121,7 @@ pub fn app() -> Html {
         let form_filename = form_filename.clone();
         let selected = selected.clone();
         let errors = errors.clone();
+        let load_error = load_error.clone();
         let save_status = save_status.clone();
         let focus_title = focus_title.clone();
         Callback::from(move |_| {
@@ -121,6 +129,7 @@ pub fn app() -> Html {
             form_filename.set(String::new());
             selected.set(None);
             errors.set(FieldErrors::new());
+            load_error.set(None);
             save_status.set(None); // 新規追加開始時に「保存しました。」を消す
             focus_title.set(true);
         })
@@ -280,6 +289,9 @@ pub fn app() -> Html {
             <main class="content">
                 <div class="content-inner">
                     <h1 class="app-title">{"Nekokan Music"}</h1>
+                    if let Some(ref msg) = *load_error {
+                        <p class="load-err">{"ロードエラー: "}{ msg.clone() }</p>
+                    }
                     if has_validation_errors {
                         <div class="form-section validation-errors-summary" id="validation-errors-box">
                             <h3>{"バリデーションエラー"}</h3>

@@ -349,7 +349,8 @@ select.input[multiple] {
   margin-top: 0.5rem;
 }
 
-.save-err {
+.save-err,
+.load-err {
   color: var(--error);
   font-size: 0.9rem;
   margin-top: 0.5rem;
