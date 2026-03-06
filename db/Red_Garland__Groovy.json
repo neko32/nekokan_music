@@ -1,0 +1,94 @@
+{
+  "comment": "非常に典型的なハードバップピアノのお手本といえる、この３人のメンツを見て悪かろうはずがない内容。レッドガーランドのいつものブロッキングベースの演奏とスタンダード演奏はお手の物。安心安全の良質な作品。",
+  "date": "2026/02/15",
+  "id": "PRLP 7113",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Prestige",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Red Garland",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Bass",
+        "name": "Paul Chambers",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Art Taylor",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1956,
+    1957
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Groovy_(album)"
+    }
+  ],
+  "release_year": 1957,
+  "score": 4,
+  "title": "Groovy",
+  "tracks": [
+    {
+      "composer": "Barney Bigard, Duke Ellington",
+      "disc_no": 1,
+      "length": "8:21",
+      "no": 1,
+      "title": "C-Jam Blues"
+    },
+    {
+      "composer": "Curtis Lewis, Curley Hamner, Gladys Hampton",
+      "disc_no": 1,
+      "length": "6:46",
+      "no": 2,
+      "title": "Gone Again"
+    },
+    {
+      "composer": "Matt Dennis, Tom Adair",
+      "disc_no": 1,
+      "length": "4:43",
+      "no": 3,
+      "title": "Will You Still Be Mine?"
+    },
+    {
+      "composer": "Ann Ronell",
+      "disc_no": 1,
+      "length": "9:35",
+      "no": 4,
+      "title": "Willow Weep for Me"
+    },
+    {
+      "composer": "Walter Donaldson, Abe Lyman",
+      "disc_no": 1,
+      "length": "7:14",
+      "no": 5,
+      "title": "When Can I Say After I Say I'm Sorry"
+    },
+    {
+      "composer": "Red Garland",
+      "disc_no": 1,
+      "length": "3:41",
+      "no": 6,
+      "title": "Hey Now"
+    }
+  ]
+}
