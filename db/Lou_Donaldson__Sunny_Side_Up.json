@@ -1,0 +1,125 @@
+{
+  "comment": "BNのハードバップお手本のようなアルバム。ビル・ハードマン客演にPolitelyといううれしいプラス有。パーランとルードナのフロントにパーランの組み合わせは珍しい。派手さはなくても大変いい仕事をしている",
+  "date": "2026/02/23",
+  "id": "BST 84036",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Lou Donaldson",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Bill Hardman",
+        "tracks": "1-4, 6, 7"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Horace Parlan",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Laymon Jackson",
+        "tracks": "1, 2, 4, 5"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Sam Jones",
+        "tracks": "3, 6, 7"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Al Harewood",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1960
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sunny_Side_Up_(Lou_Donaldson_album)"
+    }
+  ],
+  "release_year": 1961,
+  "score": 4,
+  "title": "Sunny Side Up",
+  "tracks": [
+    {
+      "composer": "Horace Parlan",
+      "disc_no": 1,
+      "length": "5:39",
+      "no": 1,
+      "title": "Blues for J.P."
+    },
+    {
+      "composer": [
+        "George Gershwin",
+        "Ira Gershwin"
+      ],
+      "disc_no": 1,
+      "length": "5:14",
+      "no": 2,
+      "title": "The Man I Love"
+    },
+    {
+      "composer": "Bill Hardman",
+      "disc_no": 1,
+      "length": "5:52",
+      "no": 3,
+      "title": "Politely"
+    },
+    {
+      "composer": [
+        "Sammy Cahn",
+        "Jule Styne"
+      ],
+      "disc_no": 1,
+      "length": "3:58",
+      "no": 4,
+      "title": "It's You or No One"
+    },
+    {
+      "composer": "Lou Donaldson",
+      "disc_no": 1,
+      "length": "5:21",
+      "no": 5,
+      "title": "The Truth"
+    },
+    {
+      "composer": "Lou Donaldson",
+      "disc_no": 1,
+      "length": "6:07",
+      "no": 6,
+      "title": "Goose Grease"
+    },
+    {
+      "composer": [
+        "Oscar Hammerstein II",
+        "Sigmund Romberg"
+      ],
+      "disc_no": 1,
+      "length": "6:32",
+      "no": 7,
+      "title": "Softly, As in a Morning Sunrise"
+    }
+  ]
+}

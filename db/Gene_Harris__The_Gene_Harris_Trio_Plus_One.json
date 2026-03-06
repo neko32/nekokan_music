@@ -1,0 +1,102 @@
+{
+  "comment": "大変ブルージー、ソウルフル、アーシーでリラックス、しかししっかり盛り上がっているライブ。スタンリー・タレンタインの起用は二重丸。大変ノリの良いおばちゃんのお客さんが雰囲気を盛り上げている",
+  "date": "2026/03/01",
+  "id": "CJ-303",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Post Hard Bop"
+    ]
+  },
+  "label": "Concord Jazz",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Gene Harris",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Stanley Turrentine",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Ray Brown",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Mickey Roker",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1986
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/release/1165468-The-Gene-Harris-Trio-Plus-One-The-Gene-Harris-Trio-Plus-One"
+    }
+  ],
+  "release_year": 1986,
+  "score": 4,
+  "title": "The Gene Harris Trio Plus One",
+  "tracks": [
+    {
+      "composer": "Ray Brown",
+      "disc_no": 1,
+      "length": "9:18",
+      "no": 1,
+      "title": "Gene's Lament"
+    },
+    {
+      "composer": "Erroll Garner",
+      "disc_no": 1,
+      "length": "5:31",
+      "no": 2,
+      "title": "Misty"
+    },
+    {
+      "composer": "Ray Brown",
+      "disc_no": 1,
+      "length": "8:39",
+      "no": 3,
+      "title": "Uptown Sop"
+    },
+    {
+      "composer": [
+        "Mercer Ellington",
+        "Ted Persons"
+      ],
+      "disc_no": 1,
+      "length": "8:02",
+      "no": 4,
+      "title": "Things Ain't What They Used To Be"
+    },
+    {
+      "composer": "Franz Lehar",
+      "disc_no": 1,
+      "length": "7:12",
+      "no": 5,
+      "title": "Yours Is My Heart Alone"
+    },
+    {
+      "composer": "Julia Ward Howe",
+      "disc_no": 1,
+      "length": "8:15",
+      "no": 6,
+      "title": "Battle Hymn Of The Republic"
+    }
+  ]
+}

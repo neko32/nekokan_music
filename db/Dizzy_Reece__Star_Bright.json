@@ -1,0 +1,110 @@
+{
+  "comment": "リースがブルーノートハウスメンバーと臨んだ安定のハードバップ好盤。まさにブライトなリースのトランペットがBNファミリーと良くなじんでいる。",
+  "date": "2026/02/28",
+  "id": "BLP 4023",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Trumpet",
+        "name": "Dizzy Reece",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Hank Mobley",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Wynton Kelly",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Paul Chambers",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Art Taylor",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1959
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Star_Bright_(Dizzy_Reece_album)"
+    }
+  ],
+  "release_year": 1960,
+  "score": 4,
+  "title": "Star Bright",
+  "tracks": [
+    {
+      "composer": "Dizzy Reece",
+      "disc_no": 1,
+      "length": "6:06",
+      "no": 1,
+      "title": "The Rake"
+    },
+    {
+      "composer": [
+        "Jules Leonard Kaye",
+        "William Gordon Reid"
+      ],
+      "disc_no": 1,
+      "length": "5:57",
+      "no": 2,
+      "title": "I'll Close My Eyes"
+    },
+    {
+      "composer": "Dizzy Reece",
+      "disc_no": 1,
+      "length": "8:08",
+      "no": 3,
+      "title": "Groovesville"
+    },
+    {
+      "composer": "Dizzy Reece",
+      "disc_no": 1,
+      "length": "6:48",
+      "no": 4,
+      "title": "The Rebound"
+    },
+    {
+      "composer": [
+        "Dorothy Parker",
+        "Ralph Rainger"
+      ],
+      "disc_no": 1,
+      "length": "6:51",
+      "no": 5,
+      "title": "I Wished on the Moon"
+    },
+    {
+      "composer": "Dizzy Reece",
+      "disc_no": 1,
+      "length": "5:41",
+      "no": 6,
+      "title": "A Variation on Monk"
+    }
+  ]
+}

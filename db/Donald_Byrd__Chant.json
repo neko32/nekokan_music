@@ -1,0 +1,111 @@
+{
+  "comment": "なぜお蔵入りしてたのか理解に苦しむ、極上BNハードパップの一枚。ハービーの最も最初期のキャリアの貴重な記録でもある。",
+  "date": "2026/03/04",
+  "id": "LT 991",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Trumpet",
+        "name": "Donald Byrd",
+        "tracks": "all except 6"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Baritone Saxophone",
+        "name": "Pepper Adams",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Herbie Hancock",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Doug Watkins",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Teddy Robinson",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1961
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chant_(Donald_Byrd_album)"
+    }
+  ],
+  "release_year": 1979,
+  "score": 4,
+  "title": "Chant",
+  "tracks": [
+    {
+      "composer": "Johnny Mercer",
+      "disc_no": 1,
+      "length": "7:39",
+      "no": 1,
+      "title": "I'm an Old Cowhand from the Rio Grande"
+    },
+    {
+      "composer": "Donald Byrd",
+      "disc_no": 1,
+      "length": "7:25",
+      "no": 2,
+      "title": "You're Next"
+    },
+    {
+      "composer": "Duke Pearson",
+      "disc_no": 1,
+      "length": "8:50",
+      "no": 3,
+      "title": "Chant"
+    },
+    {
+      "composer": [
+        "Alan Brandt",
+        "Bob Haymes"
+      ],
+      "disc_no": 1,
+      "length": "9:33",
+      "no": 4,
+      "title": "That's All"
+    },
+    {
+      "composer": "Donald Byrd",
+      "disc_no": 1,
+      "length": "6:58",
+      "no": 5,
+      "title": "Great God"
+    },
+    {
+      "composer": [
+        "Duke Ellington",
+        "Irving Mills",
+        "Mitchell Parish"
+      ],
+      "disc_no": 1,
+      "length": "4:32",
+      "no": 6,
+      "title": "Sophisticated Lady"
+    }
+  ]
+}

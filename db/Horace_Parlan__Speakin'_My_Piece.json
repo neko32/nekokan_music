@@ -1,0 +1,104 @@
+{
+  "comment": "パーラントリオとタレンタイン兄弟によるブルージーでリラックスした好盤。タレンタインも若いながら既に貫禄を携えている。トミーのやわらかめなトランペットとパーラントリオはお似合いかもしれない。",
+  "date": "2026/02/28",
+  "id": "BST 84043",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Horace Parlan",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Tommy Turrentine",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Stanley Turrentine",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "George Tucker",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Al Harewood",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1960
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Speakin%27_My_Piece"
+    }
+  ],
+  "release_year": 1960,
+  "score": 4,
+  "title": "Speakin' My Piece",
+  "tracks": [
+    {
+      "composer": "Horace Parlan",
+      "disc_no": 1,
+      "length": "6:20",
+      "no": 1,
+      "title": "Wadin'"
+    },
+    {
+      "composer": "Horace Parlan",
+      "disc_no": 1,
+      "length": "6:20",
+      "no": 2,
+      "title": "Up in Cynthia's Room"
+    },
+    {
+      "composer": "Stanley Turrentine",
+      "disc_no": 1,
+      "length": "6:13",
+      "no": 3,
+      "title": "Borderrline"
+    },
+    {
+      "composer": "Tommy Turrentine",
+      "disc_no": 1,
+      "length": "6:54",
+      "no": 4,
+      "title": "Rastus"
+    },
+    {
+      "composer": "Leon Mitchell",
+      "disc_no": 1,
+      "length": "7:41",
+      "no": 5,
+      "title": "Oh So Blue"
+    },
+    {
+      "composer": "Horace Parlan",
+      "disc_no": 1,
+      "length": "6:11",
+      "no": 6,
+      "title": "Speakin' My Piece"
+    }
+  ]
+}
