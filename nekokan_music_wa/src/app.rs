@@ -1,5 +1,5 @@
 use crate::api;
-use crate::types::MusicData;
+use crate::types::{sub_janres_for_main, MusicData};
 use crate::validation::{validate_form, FieldErrors};
 use js_sys::Date;
 use wasm_bindgen::JsValue;
@@ -90,7 +90,17 @@ pub fn app() -> Html {
             save_status.set(None); // 別曲編集開始時に「保存しました。」を消す
             wasm_bindgen_futures::spawn_local(async move {
                 match api::get_file(&name).await {
-                    Ok(data) => {
+                    Ok(mut data) => {
+                        // Main が変わったときに Sub がその Main の候補に含まれないと
+                        // リスト表示がずれるため、読み込み時に正規化する（Issue #12）
+                        let allowed: std::collections::HashSet<_> =
+                            sub_janres_for_main(&data.janre.main).iter().copied().collect();
+                        data.janre.sub.retain(|s| allowed.contains(s.as_str()));
+                        if data.janre.sub.is_empty() {
+                            if let Some(&first) = sub_janres_for_main(&data.janre.main).first() {
+                                data.janre.sub.push(first.to_string());
+                            }
+                        }
                         form_data.set(data);
                     }
                     Err(_) => {}
