@@ -134,9 +134,10 @@ pub fn form(props: &FormProps) -> Html {
                 <div class="field">
                     <label>{"Main Janre"}</label>
                     <select
+                        key={props.filename.clone()}
                         class={input_class(props, "janre.main")}
                         value={props.data.janre.main.clone()}
-                        onchange={update_str_select(props.data.clone(), props.on_data_change.clone(), |d, v| d.janre.main = v)}
+                        onchange={update_main_janre(props.data.clone(), props.on_data_change.clone())}
                     >
                         { for MAIN_JANRES.iter().map(|&v| {
                             let is_selected = props.data.janre.main == v;
@@ -153,6 +154,7 @@ pub fn form(props: &FormProps) -> Html {
                 <div class="field">
                     <label>{"Sub Janre"}</label>
                     <select
+                        key={props.data.janre.main.clone()}
                         class={input_class(props, "janre.sub")}
                         multiple={true}
                         value={props.data.janre.sub.join(",")}
@@ -322,15 +324,22 @@ where
     })
 }
 
-fn update_str_select<F>(data: MusicData, on_data_change: Callback<MusicData>, f: F) -> Callback<Event>
-where
-    F: Fn(&mut MusicData, String) + 'static,
-{
+/// Main Janre 変更時は Sub を新しい Main の候補に合わせて正規化する（Issue #12）
+fn update_main_janre(data: MusicData, on_data_change: Callback<MusicData>) -> Callback<Event> {
     Callback::from(move |e: Event| {
         let select = e.target_dyn_into::<web_sys::HtmlSelectElement>();
         if let Some(sel) = select {
+            let new_main = sel.value();
             let mut d = data.clone();
-            f(&mut d, sel.value());
+            d.janre.main = new_main.clone();
+            let allowed: std::collections::HashSet<_> =
+                sub_janres_for_main(&new_main).iter().copied().collect();
+            d.janre.sub.retain(|s| allowed.contains(s.as_str()));
+            if d.janre.sub.is_empty() {
+                if let Some(&first) = sub_janres_for_main(&new_main).first() {
+                    d.janre.sub.push(first.to_string());
+                }
+            }
             on_data_change.emit(d);
         }
     })
