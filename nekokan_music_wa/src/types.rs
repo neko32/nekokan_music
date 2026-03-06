@@ -1,5 +1,22 @@
 use serde::{Deserialize, Serialize};
 
+/// Issue #14: JSON で数値が文字列 "2000" のときも受け付ける
+fn deserialize_i32_flexible<'de, D>(deserializer: D) -> Result<i32, D::Error>
+where
+    D: serde::Deserializer<'de>,
+{
+    #[derive(serde::Deserialize)]
+    #[serde(untagged)]
+    enum I32OrStr {
+        I32(i32),
+        Str(String),
+    }
+    match I32OrStr::deserialize(deserializer)? {
+        I32OrStr::I32(n) => Ok(n),
+        I32OrStr::Str(s) => s.trim().parse().map_err(serde::de::Error::custom),
+    }
+}
+
 #[derive(Clone, Debug, Default, PartialEq, Serialize, Deserialize)]
 #[serde(rename_all = "snake_case")]
 pub struct MusicData {
@@ -7,10 +24,12 @@ pub struct MusicData {
     pub janre: Janre,
     pub label: String,
     pub id: String,
+    #[serde(deserialize_with = "deserialize_i32_flexible")]
     pub release_year: i32,
     pub record_year: Vec<i32>,
     pub personnel: Personnel,
     pub tracks: Vec<Track>,
+    #[serde(deserialize_with = "deserialize_i32_flexible")]
     pub score: i32,
     pub comment: String,
     pub date: String,
@@ -82,7 +101,9 @@ pub struct SidemenEntry {
 
 #[derive(Clone, Debug, Default, PartialEq, Serialize, Deserialize)]
 pub struct Track {
+    #[serde(deserialize_with = "deserialize_i32_flexible")]
     pub disc_no: i32,
+    #[serde(deserialize_with = "deserialize_i32_flexible")]
     pub no: i32,
     pub title: String,
     #[serde(deserialize_with = "deserialize_composer", serialize_with = "serialize_composer")]

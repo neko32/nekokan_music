@@ -22,10 +22,14 @@ pub async fn get_file(name: &str) -> Result<MusicData, String> {
         .send()
         .await
         .map_err(|e| e.to_string())?;
-    if !resp.ok() {
-        return Err(format!("get failed: {}", resp.status()));
-    }
     let value: Value = resp.json().await.map_err(|e| e.to_string())?;
+    if !resp.ok() {
+        let msg = value["error"]
+            .as_str()
+            .unwrap_or("ロードに失敗しました")
+            .to_string();
+        return Err(msg);
+    }
     serde_json::from_value(value).map_err(|e| e.to_string())
 }
 

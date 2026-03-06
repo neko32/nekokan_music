@@ -60,17 +60,41 @@ async fn get_file(
 ) -> impl IntoResponse {
     let path = path.trim_start_matches('/');
     if path.contains("..") || path.contains('\\') {
-        return (StatusCode::BAD_REQUEST, Json(Value::Null)).into_response();
+        return (
+            StatusCode::BAD_REQUEST,
+            Json(serde_json::json!({"error": "invalid path"})),
+        )
+            .into_response();
     }
     let full = state.db_path.join(path);
     if full.strip_prefix(&state.db_path).is_err() {
-        return (StatusCode::FORBIDDEN, Json(Value::Null)).into_response();
+        return (
+            StatusCode::FORBIDDEN,
+            Json(serde_json::json!({"error": "forbidden"})),
+        )
+            .into_response();
     }
-    let Ok(data) = fs::read_to_string(&full) else {
-        return (StatusCode::NOT_FOUND, Json(Value::Null)).into_response();
+    // Issue #14: read as bytes then decode with lossy so non-UTF8 files (e.g. BOM, legacy encoding) still load
+    let bytes = match fs::read(&full) {
+        Ok(b) => b,
+        Err(e) => {
+            return (
+                StatusCode::NOT_FOUND,
+                Json(serde_json::json!({"error": format!("file not found: {}", e)})),
+            )
+                .into_response();
+        }
     };
-    let Ok(json) = serde_json::from_str::<Value>(&data) else {
-        return (StatusCode::INTERNAL_SERVER_ERROR, Json(Value::Null)).into_response();
+    let data = String::from_utf8_lossy(&bytes).to_string();
+    let json: Value = match serde_json::from_str(&data) {
+        Ok(j) => j,
+        Err(e) => {
+            return (
+                StatusCode::UNPROCESSABLE_ENTITY,
+                Json(serde_json::json!({"error": format!("invalid json: {}", e)})),
+            )
+                .into_response();
+        }
     };
     (StatusCode::OK, Json(json)).into_response()
 }
