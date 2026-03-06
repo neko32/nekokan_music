@@ -1,0 +1,70 @@
+{
+  "comment": "[殿堂入り] キースの数々の名作の中でもナンバーワンといっていい、完全無欠の傑作、超大作。抒情、漲り、静寂、鎮静、全てが高尚なまでに高められていて実に心に響く。",
+  "date": "2026/02/21",
+  "id": "ECM 1085",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Post Hard Bop"
+    ]
+  },
+  "label": "ECM",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "leader": [
+      {
+        "instruments": "Piano, Soprano Saxophone, Bass Recorder, Celeste, Osi Drums",
+        "name": "Keith Jarrett",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone, Percussion",
+        "name": "Dewey Redman",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Charlie Haden",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums, Percussion",
+        "name": "Paul Motian",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1976
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Survivors%27_Suite"
+    }
+  ],
+  "release_year": 1977,
+  "score": 6,
+  "title": "Survivor Suite",
+  "tracks": [
+    {
+      "composer": "Keith Jarrett",
+      "disc_no": 1,
+      "length": "27:21",
+      "no": 1,
+      "title": "The Survivor's Suite: Beginning"
+    },
+    {
+      "composer": "Keith Jarrett",
+      "disc_no": 1,
+      "length": "21:18",
+      "no": 2,
+      "title": "The Survivor's Suite: Conclusion"
+    }
+  ]
+}

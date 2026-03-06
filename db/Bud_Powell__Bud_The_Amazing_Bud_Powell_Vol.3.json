@@ -1,0 +1,112 @@
+{
+  "comment": "vol.2と比べてかなり地味になった感があるのはアートテイラーのドラムとバドの症状悪化に伴う技術の荒れ方なのか。しかし想像力は衰えておらずバド・オン・バッハは全盛期を思わせる凄みを感じる。若きカーティス・フラーのゲスト出演もGOOD",
+  "date": "2026/02/22",
+  "id": "BLP 1571",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Bebop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Bud Powell",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trombone",
+        "name": "Curtis Fuller",
+        "tracks": "6,7 & 8"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Paul Chambers",
+        "tracks": "all except 6"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Art Taylor",
+        "tracks": "all except 6"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1957
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bud!"
+    }
+  ],
+  "release_year": 1957,
+  "score": 3,
+  "title": "Bud! (The Amazing Bud Powell Vol.3)",
+  "tracks": [
+    {
+      "composer": "Bud Powell",
+      "disc_no": 1,
+      "length": "6:56",
+      "no": 1,
+      "title": "Some Soul"
+    },
+    {
+      "composer": "Bud Powell",
+      "disc_no": 1,
+      "length": "3:46",
+      "no": 2,
+      "title": "Blue Pearl"
+    },
+    {
+      "composer": "Bud Powell",
+      "disc_no": 1,
+      "length": "4:50",
+      "no": 3,
+      "title": "Frantic Fancies"
+    },
+    {
+      "composer": "Bud Powell",
+      "disc_no": 1,
+      "length": "2:30",
+      "no": 4,
+      "title": "Bud On Bach"
+    },
+    {
+      "composer": "Bud Powell",
+      "disc_no": 1,
+      "length": "2:53",
+      "no": 5,
+      "title": "Keepin' in the Groove"
+    },
+    {
+      "composer": "Jesse Stone",
+      "disc_no": 1,
+      "length": "5:14",
+      "no": 6,
+      "title": "Idaho"
+    },
+    {
+      "composer": "Jimmy McHugh, Dorothy Fields",
+      "disc_no": 1,
+      "length": "7:31",
+      "no": 7,
+      "title": "Don't Blame Me"
+    },
+    {
+      "composer": "Charlie Parker",
+      "disc_no": 1,
+      "length": "5:45",
+      "no": 8,
+      "title": "Moose the Mooche"
+    }
+  ]
+}

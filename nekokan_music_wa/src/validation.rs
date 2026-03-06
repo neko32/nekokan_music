@@ -122,6 +122,53 @@ pub fn validate_form(data: &MusicData, filename: &str) -> FieldErrors {
             err.insert(format!("personnel.sidemen[{}].tracks", i), "64文字以内".into());
         }
     }
+    for (gi, g) in data.personnel.group.iter().enumerate() {
+        if g.name.is_empty() {
+            err.insert(format!("personnel.group[{}].name", gi), "必須です".into());
+        } else if !valid_len(&g.name, 128) {
+            err.insert(format!("personnel.group[{}].name", gi), "128文字以内".into());
+        }
+        if g.abbr.is_empty() {
+            err.insert(format!("personnel.group[{}].abbr", gi), "必須です".into());
+        } else if !valid_len(&g.abbr, 64) {
+            err.insert(format!("personnel.group[{}].abbr", gi), "64文字以内".into());
+        }
+        for (mi, m) in g.members.iter().enumerate() {
+            if m.name.is_empty() {
+                err.insert(
+                    format!("personnel.group[{}].members[{}].name", gi, mi),
+                    "必須です".into(),
+                );
+            } else if !valid_len(&m.name, 128) {
+                err.insert(
+                    format!("personnel.group[{}].members[{}].name", gi, mi),
+                    "128文字以内".into(),
+                );
+            }
+            if m.instruments.is_empty() {
+                err.insert(
+                    format!("personnel.group[{}].members[{}].instruments", gi, mi),
+                    "必須です".into(),
+                );
+            } else if !valid_len(&m.instruments, 128) {
+                err.insert(
+                    format!("personnel.group[{}].members[{}].instruments", gi, mi),
+                    "128文字以内".into(),
+                );
+            }
+            if m.tracks.is_empty() {
+                err.insert(
+                    format!("personnel.group[{}].members[{}].tracks", gi, mi),
+                    "必須です".into(),
+                );
+            } else if !valid_len(&m.tracks, 64) {
+                err.insert(
+                    format!("personnel.group[{}].members[{}].tracks", gi, mi),
+                    "64文字以内".into(),
+                );
+            }
+        }
+    }
 
     if data.tracks.is_empty() {
         err.insert("tracks".into(), "1件以上のトラックが必要です".into());

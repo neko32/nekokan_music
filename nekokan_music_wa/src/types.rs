@@ -38,6 +38,31 @@ pub struct Personnel {
     pub leader: Vec<LeaderEntry>,
     #[serde(default)]
     pub sidemen: Vec<SidemenEntry>,
+    #[serde(default)]
+    pub group: Vec<GroupEntry>,
+}
+
+/// グループ（例: Art Blakey & The Jazz Messengers）。オプショナル。追加ボタンで1件ずつ追加。
+#[derive(Clone, Debug, Default, PartialEq, Serialize, Deserialize)]
+pub struct GroupEntry {
+    pub name: String,
+    pub abbr: String,
+    pub members: Vec<GroupMemberEntry>,
+}
+
+/// グループ内メンバー。leader は true のときのみ JSON に保存する。
+#[derive(Clone, Debug, Default, PartialEq, Serialize, Deserialize)]
+pub struct GroupMemberEntry {
+    pub name: String,
+    pub instruments: String,
+    pub tracks: String,
+    #[serde(default)]
+    #[serde(skip_serializing_if = "is_false")]
+    pub leader: bool,
+}
+
+fn is_false(b: &bool) -> bool {
+    !*b
 }
 
 #[derive(Clone, Debug, Default, PartialEq, Serialize, Deserialize)]
