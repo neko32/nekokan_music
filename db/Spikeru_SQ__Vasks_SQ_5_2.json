@@ -11,7 +11,8 @@
     "personnel": {
         "group": [
             {
-                "name": "Spikeru String Quartet"
+                "name": "Spikeru String Quartet",
+                "abbr": "SSQ"
             }
         ]
     },
