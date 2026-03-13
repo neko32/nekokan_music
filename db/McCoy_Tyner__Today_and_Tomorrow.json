@@ -1,0 +1,123 @@
+{
+  "comment": "BNデビュー前でもBN時代の進取気鋭を思わせるプレイと構成。異なるリズムセクションによるセクステットとトリオが交互に配置されているのは一貫性の無さと取るか良い気分転換と取るか。しかし両方のリズムセクションそれぞれも優秀。",
+  "date": "2026/03/08",
+  "id": "A-63",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop",
+      "Mode"
+    ]
+  },
+  "label": "Impulse!",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "McCoy Tyner",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Thad Jones",
+        "tracks": "1,3,5"
+      },
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Frank Strozier",
+        "tracks": "1,3,5"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "John Gilmore",
+        "tracks": "1,3,5"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Butch Warren",
+        "tracks": "1,3,5"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Jimmy Garrison",
+        "tracks": "2,4,6"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Elvin Jones",
+        "tracks": "1,3,5"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Albert Heath",
+        "tracks": "1,3,5"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1964
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Today_and_Tomorrow_(McCoy_Tyner_album)"
+    }
+  ],
+  "release_year": 1964,
+  "score": 4,
+  "title": "Today and Tomorrow",
+  "tracks": [
+    {
+      "composer": "McCoy Tyner",
+      "disc_no": 1,
+      "length": "8:28",
+      "no": 1,
+      "title": "Contemporary Focus"
+    },
+    {
+      "composer": "Dizzy Gillespie",
+      "disc_no": 1,
+      "length": "5:07",
+      "no": 2,
+      "title": "A Night in Tunisia"
+    },
+    {
+      "composer": "Elvin Jones",
+      "disc_no": 1,
+      "length": "4:05",
+      "no": 3,
+      "title": "T 'N A Blues"
+    },
+    {
+      "composer": "Joseph Kosma",
+      "disc_no": 1,
+      "length": "6:10",
+      "no": 4,
+      "title": "Autumn Leaves"
+    },
+    {
+      "composer": "McCoy Tyner",
+      "disc_no": 1,
+      "length": "10:12",
+      "no": 5,
+      "title": "Three Flowers"
+    },
+    {
+      "composer": [
+        "Marvin Fisher",
+        "Jack Segal"
+      ],
+      "disc_no": 1,
+      "length": "4:42",
+      "no": 6,
+      "title": "When Sunny Gets Blue"
+    }
+  ]
+}

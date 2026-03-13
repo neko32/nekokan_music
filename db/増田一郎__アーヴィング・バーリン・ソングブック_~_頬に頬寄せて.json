@@ -1,0 +1,146 @@
+{
+  "comment": "大変丁寧に一曲一曲しっかり、軽妙さを生かしつつ料理している。小品集といった感じのイージーリスニング止まりとなってしまうがそれでも愛すべき可愛らしい一枚。",
+  "date": "2026/03/07",
+  "id": "POCS-9330",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Cool"
+    ]
+  },
+  "label": "Universal",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Vibraphone",
+        "name": "増田一郎",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Guitar",
+        "name": "潮先郁男",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "根本慶子",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "小林陽一",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "猪俣猛",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1978
+  ],
+  "references": [
+    {
+      "name": "CD Journal",
+      "url": "https://artist.cdjournal.com/d/irving-berlin-song-book/4114091347"
+    }
+  ],
+  "release_year": 1978,
+  "score": 3,
+  "title": "アーヴィング・バーリン・ソングブック ~ 頬に頬寄せて",
+  "tracks": [
+    {
+      "composer": "Irving Berlin",
+      "disc_no": 1,
+      "length": "3:13",
+      "no": 1,
+      "title": "頬に頬よせて"
+    },
+    {
+      "composer": "Irving Berlin",
+      "disc_no": 1,
+      "length": "2:19",
+      "no": 2,
+      "title": "I Love Piano"
+    },
+    {
+      "composer": "Irving Berlin",
+      "disc_no": 1,
+      "length": "3:51",
+      "no": 3,
+      "title": "I Used To Be Color-Blind"
+    },
+    {
+      "composer": "Irving Berlin",
+      "disc_no": 1,
+      "length": "3:17",
+      "no": 4,
+      "title": "Play a Simple Melody"
+    },
+    {
+      "composer": "Irving Berlin",
+      "disc_no": 1,
+      "length": "3:37",
+      "no": 5,
+      "title": "Blue Skies"
+    },
+    {
+      "composer": "Irving Berlin",
+      "disc_no": 1,
+      "length": "3:49",
+      "no": 6,
+      "title": "Say It Isn't So"
+    },
+    {
+      "composer": "Irving Berlin",
+      "disc_no": 1,
+      "length": "3:19",
+      "no": 7,
+      "title": "I Got The Sun in The Morning"
+    },
+    {
+      "composer": "Irving Berlin",
+      "disc_no": 1,
+      "length": "3:45",
+      "no": 8,
+      "title": "Pretty Girl Is Like a Melody"
+    },
+    {
+      "composer": "Irving Berlin",
+      "disc_no": 1,
+      "length": "3:09",
+      "no": 9,
+      "title": "I've Got My Love to Keep"
+    },
+    {
+      "composer": "Irving Berlin",
+      "disc_no": 1,
+      "length": "4:18",
+      "no": 10,
+      "title": "They Say It's Wonderful"
+    },
+    {
+      "composer": "Irving Berlin",
+      "disc_no": 1,
+      "length": "3:34",
+      "no": 11,
+      "title": "Easter Parade"
+    },
+    {
+      "composer": "Irving Berlin",
+      "disc_no": 1,
+      "length": "3:15",
+      "no": 12,
+      "title": "When I Lost You"
+    }
+  ]
+}

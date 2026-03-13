@@ -1,0 +1,80 @@
+{
+  "comment": "ディスコグラフィーの記録がひどい。録音や演奏もそこまで悪いとはいわないが光るものもない。バンドのメンバーもわからないようでは興味も失せるというもの。",
+  "date": "2026/03/06",
+  "id": "OL-7126",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Soul"
+    ]
+  },
+  "label": "Olympic Record",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Gene Ammons",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Howard McGhee",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Band",
+        "name": "Unidentified Band",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1962
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/release/3395299-Gene-Ammons-Heavy-Sax"
+    }
+  ],
+  "release_year": 1974,
+  "score": 2,
+  "title": "Heavy Sax",
+  "tracks": [
+    {
+      "composer": "Gene Ammons",
+      "disc_no": 1,
+      "length": "12:30",
+      "no": 1,
+      "title": "Housewarmin'"
+    },
+    {
+      "composer": "Gene Ammons",
+      "disc_no": 1,
+      "length": "4:55",
+      "no": 2,
+      "title": "Jivin' Around"
+    },
+    {
+      "composer": "Gene Ammons",
+      "disc_no": 1,
+      "length": "6:30",
+      "no": 3,
+      "title": "Nothing But Soul"
+    },
+    {
+      "composer": "Gene Ammons",
+      "disc_no": 1,
+      "length": "10:05",
+      "no": 4,
+      "title": "Jug-N-McGhee"
+    }
+  ]
+}

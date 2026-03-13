@@ -1,0 +1,106 @@
+{
+  "comment": "ヘビーサウンドの名の通りヘビー級の音楽が繰り広げられる。エルヴィンの激しいポリリズムとリチャード・デイヴィスの重いベースの弾きの対話が紡がれていく良作。フランク・フォスターのサックスもよい感じ",
+  "date": "2026/03/06",
+  "id": "AS-9160",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Post Hard Bop"
+    ]
+  },
+  "label": "Impulse!",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Drums, Guitar",
+        "name": "Elvin Jones",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Richard Davis",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Frank Foster",
+        "tracks": "all except 4"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Billy Greene",
+        "tracks": "all except 4"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1967
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Heavy_Sounds"
+    }
+  ],
+  "release_year": 1968,
+  "score": 4,
+  "title": "Heavy Sounds",
+  "tracks": [
+    {
+      "composer": "Frank Foster",
+      "disc_no": 1,
+      "length": "11:35",
+      "no": 1,
+      "title": "Raunchy Rita"
+    },
+    {
+      "composer": "Frank Foster",
+      "disc_no": 1,
+      "length": "5:13",
+      "no": 2,
+      "title": "Shiny Stockings"
+    },
+    {
+      "composer": "Billy Greene",
+      "disc_no": 1,
+      "length": "2:40",
+      "no": 3,
+      "title": "M.E."
+    },
+    {
+      "composer": [
+        "George Gershwin",
+        "Ira Gershwin",
+        "DuBose Heyward"
+      ],
+      "disc_no": 1,
+      "length": "11:37",
+      "no": 4,
+      "title": "Summertime"
+    },
+    {
+      "composer": "Elvin Jones",
+      "disc_no": 1,
+      "length": "3:29",
+      "no": 5,
+      "title": "Elvin's Guitar Blues"
+    },
+    {
+      "composer": [
+        "Johnny Burke",
+        "Jimmy Van Heusen"
+      ],
+      "disc_no": 1,
+      "length": "7:02",
+      "no": 6,
+      "title": "Here's That Rainy Day"
+    }
+  ]
+}

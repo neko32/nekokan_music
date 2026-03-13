@@ -1,0 +1,107 @@
+{
+  "comment": "極めて質の高いブルージー感あふれる傑作。どの曲もブルックス独特のブルースフィーリングを備えていて彼の世界観を十分に堪能できる。デューク・ジョーダンとの組み合わせはとても良いかもしれない。あとアート・テイラーのドラムがいつにも増して張り切った演奏に聴こえ、時々アート・ブレイキーの最盛期かと思わんばかりのときもある。",
+  "date": "2026/03/09",
+  "id": "BST 84041",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Tina Brooks",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Freddie Hubbard",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Duke Jordan",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Sam Jones",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Art Taylor",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1960
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/True_Blue_(Tina_Brooks_album)"
+    }
+  ],
+  "release_year": 1960,
+  "score": 5,
+  "title": "True Blue",
+  "tracks": [
+    {
+      "composer": "Tina Brooks",
+      "disc_no": 1,
+      "length": "8:07",
+      "no": 1,
+      "title": "Good Old Soul"
+    },
+    {
+      "composer": "Tina Brooks",
+      "disc_no": 1,
+      "length": "5:17",
+      "no": 2,
+      "title": "Up Tight's Creek"
+    },
+    {
+      "composer": "Tina Brooks",
+      "disc_no": 1,
+      "length": "5:53",
+      "no": 3,
+      "title": "Theme for Doris"
+    },
+    {
+      "composer": "Tina Brooks",
+      "disc_no": 1,
+      "length": "4:57",
+      "no": 4,
+      "title": "True Blue"
+    },
+    {
+      "composer": "Tina Brooks",
+      "disc_no": 1,
+      "length": "5:32",
+      "no": 5,
+      "title": "Miss Hazel"
+    },
+    {
+      "composer": [
+        "Jack Segal",
+        "Marvin Fisher"
+      ],
+      "disc_no": 1,
+      "length": "7:53",
+      "no": 6,
+      "title": "Nothing Ever Changes My Love for You"
+    }
+  ]
+}

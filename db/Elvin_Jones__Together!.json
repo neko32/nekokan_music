@@ -1,0 +1,93 @@
+{
+  "comment": "フィリージョー円熟期、エルヴィンの成長途上のころに録音されたツインドラムセッション。名手たちをわきに揃え縦横にソロに臨む。エルヴィンらしさはまだ薄くフィリーもおそらく彼のほかのアルバムでの演奏のほうが良く叩けている気もするがそれでも上質なコレクターズアイテム。",
+  "date": "2026/03/08",
+  "id": "Atlantic-1428",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Atlantic",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Drums",
+        "name": "Elvin Jones",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Philly Joe Jones",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Blue Mitchell",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Trombone",
+        "name": "Curtis Fuller",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Hank Mobley",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Wynton Kelly",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Paul Chambers",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1961
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Together!_(Elvin_Jones_and_Philly_Joe_Jones_album)"
+    }
+  ],
+  "release_year": 1964,
+  "score": 4,
+  "title": "Together!",
+  "tracks": [
+    {
+      "composer": "Dave Baker",
+      "disc_no": 1,
+      "length": "6:00",
+      "no": 1,
+      "title": "Le Roi"
+    },
+    {
+      "composer": "Philly Joe Jones",
+      "disc_no": 1,
+      "length": "12:53",
+      "no": 2,
+      "title": "Beau-ty"
+    },
+    {
+      "composer": "Walter Davis, Jr.",
+      "disc_no": 1,
+      "length": "14:58",
+      "no": 3,
+      "title": "Brown Sugar"
+    }
+  ]
+}

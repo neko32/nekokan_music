@@ -1,0 +1,108 @@
+{
+  "comment": "いいトランぺッターだというのはわかるがこのアルバムはなかなか地味で。。ゲイリーピーコックのキャリア最初期かと思われる。印象を深く残す、というレベルには至っていない。",
+  "date": "2026/03/12",
+  "id": "PJ-29",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Pacific Jazz",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Trumpet",
+        "name": "Carmell Jones",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Harold Land",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Frank Strazzeri",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Gary Peacock",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Leon Pettis",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1961
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/release/13969639-Carmell-Jones-Featuring-Harold-Land-The-Remarkable-Carmell-Jones"
+    }
+  ],
+  "release_year": 1961,
+  "score": 3,
+  "title": "The Remarkable Carmell Jones",
+  "tracks": [
+    {
+      "composer": "Duke Ellington",
+      "disc_no": 1,
+      "length": "11:06",
+      "no": 1,
+      "title": "I'm Gonna Go Fishing"
+    },
+    {
+      "composer": "Harold Arlen & Johnny Mercer",
+      "disc_no": 1,
+      "length": "4:29",
+      "no": 2,
+      "title": "Come Rain Or Come Shine"
+    },
+    {
+      "composer": "Jimmy Bond",
+      "disc_no": 1,
+      "length": "4:05",
+      "no": 3,
+      "title": "Night Tide"
+    },
+    {
+      "composer": "Carmell Jones",
+      "disc_no": 1,
+      "length": "5:45",
+      "no": 4,
+      "title": "Sad March"
+    },
+    {
+      "composer": "Carmell Jones",
+      "disc_no": 1,
+      "length": "9:05",
+      "no": 5,
+      "title": "Stellisa"
+    },
+    {
+      "composer": [
+        "Buddy Kaye",
+        "Sergei Rachmaninov",
+        "Ted Mossman"
+      ],
+      "disc_no": 1,
+      "length": "6:30",
+      "no": 6,
+      "title": "Full Moon And Empty Arms"
+    }
+  ]
+}

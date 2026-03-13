@@ -1,0 +1,157 @@
+{
+  "comment": "いつものメセニーグループの透明感ある詩情を堪能できるライブ。ほかのライブアルバムと比べて比較的渋めのラインアップもあってかかなり地味目な印象はぬぐえないがそれでも十分楽しめる。",
+  "date": "2026/03/10",
+  "id": "ECM1252/53",
+  "janre": {
+    "main": "Fusion",
+    "sub": [
+      "Soft"
+    ]
+  },
+  "label": "ECM",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Guitar, Electric Guitar, Synthesizer",
+        "name": "Pat Metheny",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano, Synthesizer, Organ, Autoharp, Synclavier",
+        "name": "Lyle Mays",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Double Bass, Electric Bass, Bass Synthesizer",
+        "name": "Steve Dodby",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Danny Gottlieb",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Percussion, Voice, Berimbau",
+        "name": "Nana Vasconcelos",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1982
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Travels_(Pat_Metheny_Group_album)"
+    }
+  ],
+  "release_year": 1983,
+  "score": 4,
+  "title": "Travels",
+  "tracks": [
+    {
+      "composer": [
+        "Pat Metheny",
+        "Lyle Mays"
+      ],
+      "disc_no": 1,
+      "length": "9:19",
+      "no": 1,
+      "title": "Are You Going with Me?"
+    },
+    {
+      "composer": "Pat Metheny",
+      "disc_no": 1,
+      "length": "7:46",
+      "no": 2,
+      "title": "The Fields, the Sky"
+    },
+    {
+      "composer": "Pat Metheny",
+      "disc_no": 1,
+      "length": "8:16",
+      "no": 3,
+      "title": "Goodbye"
+    },
+    {
+      "composer": [
+        "Pat Metheny",
+        "Lyle Mays"
+      ],
+      "disc_no": 1,
+      "length": "8:03",
+      "no": 4,
+      "title": "Phase Dance"
+    },
+    {
+      "composer": [
+        "Pat Metheny",
+        "Lyle Mays"
+      ],
+      "disc_no": 1,
+      "length": "7:26",
+      "no": 5,
+      "title": "Straight on Red"
+    },
+    {
+      "composer": "Pat Metheny",
+      "disc_no": 1,
+      "length": "6:25",
+      "no": 6,
+      "title": "Farmer's Trust"
+    },
+    {
+      "composer": "Pat Metheny",
+      "disc_no": 2,
+      "length": "5:45",
+      "no": 1,
+      "title": "Extradition"
+    },
+    {
+      "composer": [
+        "Pat Metheny",
+        "Lyle Mays"
+      ],
+      "disc_no": 2,
+      "length": "16:22",
+      "no": 2,
+      "title": "Goin' Ahead / As Falls Wichita, So Falls Wichita Falls"
+    },
+    {
+      "composer": [
+        "Pat Metheny",
+        "Lyle Mays"
+      ],
+      "disc_no": 2,
+      "length": "5:03",
+      "no": 3,
+      "title": "Travels"
+    },
+    {
+      "composer": "Pat Metheny",
+      "disc_no": 2,
+      "length": "8:28",
+      "no": 4,
+      "title": "Song for Bilbao"
+    },
+    {
+      "composer": [
+        "Pat Metheny",
+        "Lyle Mays"
+      ],
+      "disc_no": 2,
+      "length": "13:35",
+      "no": 5,
+      "title": "San Lorenzo"
+    }
+  ]
+}
