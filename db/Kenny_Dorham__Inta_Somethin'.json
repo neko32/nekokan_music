@@ -1,0 +1,111 @@
+{
+  "comment": "サンフランシスコのThe Jazz Workshopでのライブ録音。ケニー・ドーハムとジャッキー・マクリーンの活きのいい２管に加えウォルター・ビショップのピアノも調子が良い。歌ものではみなソロが良く回る。リロイ・ヴィネガーと東海岸の珍しいコラボという点でも価値が高い。",
+  "date": "2026/03/12",
+  "id": "PJ-41",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Pacific Jazz",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Trumpet",
+        "name": "Kenny Dorham",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Jackie McLean",
+        "tracks": ""
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Piano",
+        "name": "Walter Bishop, Jr.",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Leroy Vinnegar",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Art Taylor",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1961
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Inta_Somethin%27"
+    }
+  ],
+  "release_year": 1962,
+  "score": 4,
+  "title": "Inta Somethin'",
+  "tracks": [
+    {
+      "composer": "Kenny Dorham",
+      "disc_no": 1,
+      "length": "7:15",
+      "no": 1,
+      "title": "Us"
+    },
+    {
+      "composer": [
+        "Johnny Burke",
+        "Jimmy Van Heusen"
+      ],
+      "disc_no": 1,
+      "length": "6:00",
+      "no": 2,
+      "title": "It Could Happen To You"
+    },
+    {
+      "composer": "Irving Berlin",
+      "disc_no": 1,
+      "length": "6:06",
+      "no": 3,
+      "title": "Let's Face The Music And Dance"
+    },
+    {
+      "composer": "Frank Loesser",
+      "disc_no": 1,
+      "length": "6:59",
+      "no": 4,
+      "title": "Now Two People"
+    },
+    {
+      "composer": [
+        "Jimmy Davis",
+        "Ram Ramirez",
+        "James Sherman"
+      ],
+      "disc_no": 1,
+      "length": "5:01",
+      "no": 5,
+      "title": "Lover Man"
+    },
+    {
+      "composer": "Kenny Dorham",
+      "disc_no": 1,
+      "length": "7:12",
+      "no": 6,
+      "title": "San Francisco Beat"
+    }
+  ]
+}
