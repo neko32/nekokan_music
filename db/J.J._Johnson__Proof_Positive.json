@@ -1,0 +1,128 @@
+{
+  "comment": "J.Jの堅実なワンホーンアルバム。派手さに欠けるも彼の端麗なソロを味わえる一枚。しかしやはりなんといってもハイライトは２曲目。エルヴィンとマッコイ、リチャードデイヴィスの重厚なリズムにシールマンズの珍しいギターを堪能できる。",
+  "date": "2026/03/13",
+  "id": "A-68",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Impulse!",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Trombone",
+        "name": "J.J. Johnson",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Guitar",
+        "name": "Toots Thielemans",
+        "tracks": "2"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Harold Mabern",
+        "tracks": "all except 2"
+      },
+      {
+        "instruments": "Piano",
+        "name": "McCoy Tyner",
+        "tracks": "2"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Arthur Harper, Jr.",
+        "tracks": "all except 2"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Richard Davis",
+        "tracks": "2"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Frank Gant",
+        "tracks": "all except 2"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Elvin Jones",
+        "tracks": "2"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1964
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Proof_Positive_%28album%29"
+    }
+  ],
+  "release_year": 1964,
+  "score": 4,
+  "title": "Proof Positive",
+  "tracks": [
+    {
+      "composer": "Miles Davis",
+      "disc_no": 1,
+      "length": "10:19",
+      "no": 1,
+      "title": "Neo"
+    },
+    {
+      "composer": [
+        "Manny Albam",
+        "Rick Ward"
+      ],
+      "disc_no": 1,
+      "length": "5:08",
+      "no": 2,
+      "title": "Lullaby of Jazzland"
+    },
+    {
+      "composer": [
+        "Ned Washington",
+        "Victor Young"
+      ],
+      "disc_no": 1,
+      "length": "4:02",
+      "no": 3,
+      "title": "Stella By Starlight"
+    },
+    {
+      "composer": "J.J. Johnson",
+      "disc_no": 1,
+      "length": "8:04",
+      "no": 4,
+      "title": "Minor Blues"
+    },
+    {
+      "composer": [
+        "Lorenz Hart",
+        "Richard Rodgers"
+      ],
+      "disc_no": 1,
+      "length": "3:02",
+      "no": 5,
+      "title": "My Funny Valentine"
+    },
+    {
+      "composer": "Max Roach",
+      "disc_no": 1,
+      "length": "8:05",
+      "no": 6,
+      "title": "Blues Waltz"
+    }
+  ]
+}

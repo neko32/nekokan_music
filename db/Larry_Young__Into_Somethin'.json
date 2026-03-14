@@ -1,0 +1,92 @@
+{
+  "comment": "[殿堂入り] ラリーヤングBN第一作はのっけからまさに大傑作であった。珍しい取り合わせのサイドメンが各自の色をしっかり出しつつ調和するという、こんな濃いメンバー同士による競演の上ヤングの実に革新的なオルガン演奏。すごい、素晴らしいというしかない。",
+  "date": "2026/03/13",
+  "id": "BST 84187",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "New Mainstream"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Organ",
+        "name": "Larry Young",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Sam Rivers",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Guitar",
+        "name": "Grant Green",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Elvin Jones",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1964
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Into_Somethin%27"
+    }
+  ],
+  "release_year": 1965,
+  "score": 6,
+  "title": "Into Somethin'",
+  "tracks": [
+    {
+      "composer": "Larry Young",
+      "disc_no": 1,
+      "length": "9:40",
+      "no": 1,
+      "title": "Tyrone"
+    },
+    {
+      "composer": "Grant Green",
+      "disc_no": 1,
+      "length": "9:39",
+      "no": 2,
+      "title": "Plaza De Toros"
+    },
+    {
+      "composer": "Larry Young",
+      "disc_no": 1,
+      "length": "6:42",
+      "no": 3,
+      "title": "Paris Eyes"
+    },
+    {
+      "composer": "Larry Young",
+      "disc_no": 1,
+      "length": "8:40",
+      "no": 4,
+      "title": "Backup"
+    },
+    {
+      "composer": "Larry Young",
+      "disc_no": 1,
+      "length": "6:45",
+      "no": 5,
+      "title": "Ritha"
+    }
+  ]
+}
