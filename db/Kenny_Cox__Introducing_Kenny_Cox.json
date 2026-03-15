@@ -1,0 +1,146 @@
+{
+  "comment": "６０年代モード全盛のマイルスバンドのエピゴーネンと言われても否定できないが、それでもあのマイルスバンドの作り出した音世界をよく再現できているバンドである。無名で終わってしまったがそれには惜しい才能を持つプレイヤー達だというのがよくわかる。",
+  "date": "2026/03/14",
+  "id": "BST 84302",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Mode"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Kenny Cox",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Charles Moore",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Leon Henderson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Ron Brooks",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Danny Spencer",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1968
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Introducing_Kenny_Cox#:~:text=Introducing%20Kenny%20Cox%20is%20the%20debut%20album%20by,second%20Blue%20Note%20album%20Multidirection%20as%20bonus%20tracks."
+    }
+  ],
+  "release_year": 1969,
+  "score": 5,
+  "title": "Introducing Kenny Cox",
+  "tracks": [
+    {
+      "composer": "Kenny Cox",
+      "disc_no": 1,
+      "length": "4:44",
+      "no": 1,
+      "title": "Mystique"
+    },
+    {
+      "composer": "David Durrah",
+      "disc_no": 1,
+      "length": "5:28",
+      "no": 2,
+      "title": "You"
+    },
+    {
+      "composer": "Kenny Cox",
+      "disc_no": 1,
+      "length": "6:08",
+      "no": 3,
+      "title": "Trance Dance"
+    },
+    {
+      "composer": "Leon Henderson",
+      "disc_no": 1,
+      "length": "5:51",
+      "no": 4,
+      "title": "Eclipse"
+    },
+    {
+      "composer": "Charles Moore",
+      "disc_no": 1,
+      "length": "10:48",
+      "no": 5,
+      "title": "Number Four"
+    },
+    {
+      "composer": "Leon Henderson",
+      "disc_no": 1,
+      "length": "8:37",
+      "no": 6,
+      "title": "Diahnn"
+    },
+    {
+      "composer": "Kenny Cox",
+      "disc_no": 1,
+      "length": "5:23",
+      "no": 7,
+      "title": "Spellbound"
+    },
+    {
+      "composer": "Charles Moore",
+      "disc_no": 1,
+      "length": "6:03",
+      "no": 8,
+      "title": "Snuck In"
+    },
+    {
+      "composer": "Kenny Cox",
+      "disc_no": 1,
+      "length": "6:36",
+      "no": 9,
+      "title": "Sojourn"
+    },
+    {
+      "composer": "Charles Moore",
+      "disc_no": 1,
+      "length": "9:57",
+      "no": 10,
+      "title": "Multidirection"
+    },
+    {
+      "composer": "Kenny Cox",
+      "disc_no": 1,
+      "length": "4:58",
+      "no": 11,
+      "title": "What Other One"
+    },
+    {
+      "composer": "Charles Moore",
+      "disc_no": 1,
+      "length": "5:08",
+      "no": 12,
+      "title": "Gravity Point"
+    }
+  ]
+}

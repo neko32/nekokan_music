@@ -1,0 +1,117 @@
+{
+  "comment": "リトル・ジャイアントのキャリア第一作目がこの快作である。実力者のサイドメンを伴って堂々のブローは既に最初にして貫禄が伴っている。スタンダードでの歌心もさることながらやはりアップテンポでの小気味よいノリに魅力がある",
+  "date": "2026/03/14",
+  "id": "BLP 1533",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Johnny Griffin",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Piano",
+        "name": "Wynton Kelly",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Curly Russell",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Max Roach",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1956
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Introducing_Johnny_Griffin"
+    }
+  ],
+  "release_year": 1957,
+  "score": 4,
+  "title": "Introducing Johnny Griffin",
+  "tracks": [
+    {
+      "composer": "Johnny Griffin",
+      "disc_no": 1,
+      "length": "3:56",
+      "no": 1,
+      "title": "Mil Dew"
+    },
+    {
+      "composer": "Johnny Griffin",
+      "disc_no": 1,
+      "length": "5:38",
+      "no": 2,
+      "title": "Chicago Calling"
+    },
+    {
+      "composer": [
+        "Harry Link",
+        "Holt Marvell",
+        "Jack Strachey"
+      ],
+      "disc_no": 1,
+      "length": "5:12",
+      "no": 3,
+      "title": "These Foolish Things"
+    },
+    {
+      "composer": [
+        "Hugh Martin",
+        "Ralph Blane"
+      ],
+      "disc_no": 1,
+      "length": "4:57",
+      "no": 4,
+      "title": "The Boy Next Door"
+    },
+    {
+      "composer": "Johnny Griffin",
+      "disc_no": 1,
+      "length": "4:22",
+      "no": 5,
+      "title": "Nice And Easy"
+    },
+    {
+      "composer": "Cole Porter",
+      "disc_no": 1,
+      "length": "5:02",
+      "no": 6,
+      "title": "It's All Right With Me"
+    },
+    {
+      "composer": [
+        "Jimmy Davis",
+        "Roger Ramirez",
+        "James Sherman"
+      ],
+      "disc_no": 1,
+      "length": "7:56",
+      "no": 7,
+      "title": "Lover Man"
+    }
+  ]
+}
