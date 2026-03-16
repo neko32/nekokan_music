@@ -1,0 +1,103 @@
+{
+  "comment": "[殿堂入り] これはまさにアバンギャルドジャズ随一の傑作といっていいのでは。クセ強めしかしそれぞれ一騎当千の猛者サイドメンをうまくまとめ上げ唯一無二のヒル流アバンギャルドと新主流派の潮目を演出。ハードバップ時代の雄ケニードーハムの時代へのキャッチアップっぷりも見もの。至高の芸術に至った一品。",
+  "date": "2026/03/15",
+  "id": "BST 84167",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "New Mainstream",
+      "Avrant-Garde"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Andrew Hill",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Kenny Dorham",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Alto Saxophone, Bass Clarinet, Flute",
+        "name": "Eric Dolphy",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tenor Saxophone, Flute",
+        "name": "Joe Henderson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Richard Davis",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Tony Williams",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1964
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Point_of_Departure_(Andrew_Hill_album)"
+    }
+  ],
+  "release_year": 1965,
+  "score": 6,
+  "title": "Point of Departure",
+  "tracks": [
+    {
+      "composer": "Andrew Hill",
+      "disc_no": 1,
+      "length": "12:16",
+      "no": 1,
+      "title": "Refuge"
+    },
+    {
+      "composer": "Andrew Hill",
+      "disc_no": 1,
+      "length": "7:05",
+      "no": 2,
+      "title": "New Monastery"
+    },
+    {
+      "composer": "Andrew Hill",
+      "disc_no": 1,
+      "length": "9:47",
+      "no": 3,
+      "title": "Spectrum"
+    },
+    {
+      "composer": "Andrew Hill",
+      "disc_no": 1,
+      "length": "4:18",
+      "no": 4,
+      "title": "Flight 19"
+    },
+    {
+      "composer": "Andrew Hill",
+      "disc_no": 1,
+      "length": "6:45",
+      "no": 5,
+      "title": "Dedication"
+    }
+  ]
+}
