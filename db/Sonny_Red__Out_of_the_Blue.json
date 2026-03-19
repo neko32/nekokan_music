@@ -1,0 +1,134 @@
+{
+  "comment": "ソニー・レッドの不思議な魅力をワンホーン編成でじっくりBN品質で楽しめる一作。ドナルドバードがなぜ彼をパートナーとして選び続けたのかを学ぶいい機会となる作品ではないだろうか。",
+  "date": "2026/03/18",
+  "id": "BLP 4032",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Sonny Red",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Piano",
+        "name": "Wynton Kelly",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Sam Jones",
+        "tracks": "1-6"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Paul Chambers",
+        "tracks": "7,8"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Roy Brooks",
+        "tracks": "1-6"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Jimmy Cobb",
+        "tracks": "7,8"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1959,
+    1960
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Out_of_the_Blue_(Sonny_Red_album)"
+    }
+  ],
+  "release_year": 1960,
+  "score": 4,
+  "title": "Out of the Blue",
+  "tracks": [
+    {
+      "composer": "Sonny Red",
+      "disc_no": 1,
+      "length": "5:53",
+      "no": 1,
+      "title": "Bluesville"
+    },
+    {
+      "composer": [
+        "Mack Gordon",
+        "Harry Revel"
+      ],
+      "disc_no": 1,
+      "length": "6:16",
+      "no": 2,
+      "title": "Stay As Sweet As You Are"
+    },
+    {
+      "composer": "Frank Loesser",
+      "disc_no": 1,
+      "length": "5:24",
+      "no": 3,
+      "title": "I've Never Been In Love Before"
+    },
+    {
+      "composer": "Sonny Red",
+      "disc_no": 1,
+      "length": "4:10",
+      "no": 4,
+      "title": "Nadia"
+    },
+    {
+      "composer": "Sonny Red",
+      "disc_no": 1,
+      "length": "6:32",
+      "no": 5,
+      "title": "Blues In The Pocket"
+    },
+    {
+      "composer": [
+        "Dorothy Fields",
+        "Arthur Schwartz"
+      ],
+      "disc_no": 1,
+      "length": "3:00",
+      "no": 6,
+      "title": "Alone Too Long"
+    },
+    {
+      "composer": "Sonny Red",
+      "disc_no": 1,
+      "length": "5:16",
+      "no": 7,
+      "title": "The Lope"
+    },
+    {
+      "composer": [
+        "Matthew Malneck",
+        "Mitchell Parish",
+        "Frank Signorelli"
+      ],
+      "disc_no": 1,
+      "length": "6:19",
+      "no": 8,
+      "title": "Stairway To The Stars"
+    }
+  ]
+}
