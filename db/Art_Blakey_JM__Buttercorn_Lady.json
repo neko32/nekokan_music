@@ -1,0 +1,116 @@
+{
+  "comment": "若い才能に囲まれては何度も再起動するJMだが今回はマイナーレーベルのせいもあってか扱いも存在感もレアもの、しかしメンバーがすばらしい。チャックマンジョーネは作曲でも大いに貢献、キースジャレットとともに自由にアイデアを披露している。白眉はおそらくRecuerdoだろう。ラテンか中東かよくわからない雰囲気で進行するこの大曲はいろいろな若いアイデアが披露されている。",
+  "date": "2026/03/21",
+  "id": "LM 82034",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Limelight",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [
+      {
+        "abbr": "JM",
+        "members": [
+          {
+            "instruments": "Trumpet",
+            "name": "Chuck Mangione",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Tenor Saxophone",
+            "name": "Frank Mitchell",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Piano",
+            "name": "Keith Jarrett",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Double Bass",
+            "name": "Reggie Johnson",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Drums",
+            "leader": true,
+            "name": "Art Blakey",
+            "tracks": "all"
+          }
+        ],
+        "name": "Art Blakey & The Jazz Messagers"
+      }
+    ],
+    "leader": [],
+    "orchestra": [],
+    "sidemen": [],
+    "soloists": []
+  },
+  "record_year": [
+    1966
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/release/1074165-Art-Blakey-The-New-Jazz-Messengers-Buttercorn-Lady"
+    }
+  ],
+  "release_year": 1966,
+  "score": 4,
+  "title": "Buttercorn Lady",
+  "tracks": [
+    {
+      "composer": "Chuck Mangione",
+      "disc_no": 1,
+      "length": "3:10",
+      "no": 1,
+      "title": "Buttercorn Lady"
+    },
+    {
+      "composer": "Chuck Mangione",
+      "disc_no": 1,
+      "length": "14:20",
+      "no": 2,
+      "title": "Recuerdo"
+    },
+    {
+      "composer": "Art Blakey",
+      "disc_no": 1,
+      "length": "2:20",
+      "no": 3,
+      "title": "The Theme"
+    },
+    {
+      "composer": "Chuck Mangione",
+      "disc_no": 1,
+      "length": "4:32",
+      "no": 4,
+      "title": "Between Races"
+    },
+    {
+      "composer": [
+        "Richard Rodgers",
+        "Lorenz Hart"
+      ],
+      "disc_no": 1,
+      "length": "6:07",
+      "no": 5,
+      "title": "My Romance From \"Jumbo\""
+    },
+    {
+      "composer": [
+        "Paul Francis Webster",
+        "Sammy Fain"
+      ],
+      "disc_no": 1,
+      "length": "9:00",
+      "no": 6,
+      "title": "Secret Love"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "comment": "当時かなり売れたというアルバムで、アーマッドジャマルはマイルスのお気に入りというのもありジャズプレイヤーの間でもかなりバズったとのこと。またPoincianaはこのアルバムがきっかけでスタンダード入りしたという逸話もある。マイルスのお気に入りというだけあって間を巧みに取り入れたソロやアレンジが光る。スタンダードの連続というラインナップでも退屈することなく演奏にメリハリがあり飽きずに楽しめる。",
+  "date": "2026/03/21",
+  "id": "LP-628",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Argo",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Ahmad Jamal",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Double Bass",
+        "name": "Israel Crosby",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Vernel Fournier",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1958
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/At_the_Pershing:_But_Not_for_Me"
+    }
+  ],
+  "release_year": 1958,
+  "score": 4,
+  "title": "At the Pershing: But Not For Me",
+  "tracks": [
+    {
+      "composer": [
+        "George Gershwin",
+        "Ira Gershwin"
+      ],
+      "disc_no": 1,
+      "length": "3:32",
+      "no": 1,
+      "title": "But Not For Me"
+    },
+    {
+      "composer": [
+        "Richard Rodgers",
+        "Oscar Hammerstein II"
+      ],
+      "disc_no": 1,
+      "length": "2:35",
+      "no": 2,
+      "title": "The Surrey with the Fringe on Top"
+    },
+    {
+      "composer": [
+        "Karl Suessdorf",
+        "John Blackburn"
+      ],
+      "disc_no": 1,
+      "length": "3:09",
+      "no": 3,
+      "title": "Moonlight in Vermont"
+    },
+    {
+      "composer": [
+        "Bernie Baum",
+        "Stephen Weiss"
+      ],
+      "disc_no": 1,
+      "length": "2:56",
+      "no": 4,
+      "title": "Music, Music, Music"
+    },
+    {
+      "composer": [
+        "Isham Jones",
+        "Marty Symes"
+      ],
+      "disc_no": 1,
+      "length": "3:26",
+      "no": 5,
+      "title": "No Greater Love"
+    },
+    {
+      "composer": [
+        "Buddy Bernier",
+        "Nat Simon"
+      ],
+      "disc_no": 1,
+      "length": "8:07",
+      "no": 6,
+      "title": "Poinciana"
+    },
+    {
+      "composer": "Dizzy Gillespie",
+      "disc_no": 1,
+      "length": "3:40",
+      "no": 7,
+      "title": "Woody 'n' You"
+    },
+    {
+      "composer": [
+        "Bob Haggart",
+        "Johnny Burke"
+      ],
+      "disc_no": 1,
+      "length": "4:11",
+      "no": 8,
+      "title": "What's New?"
+    }
+  ]
+}
