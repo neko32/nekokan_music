@@ -1,0 +1,94 @@
+{
+  "comment": "全曲ハマーかパーラのオリジナルで演奏の水準がとても高い好印象シリアスジャズ寄りフュージョン。ただ一つの難点が録音(またはマスタリング)の質の悪さで、くぐもった感じで膜の向こう側で音が鳴っている感じで非常に残念。",
+  "date": "2026/03/07",
+  "id": "PMR-005",
+  "janre": {
+    "main": "Fusion",
+    "sub": [
+      "Fusion"
+    ]
+  },
+  "label": "PM Records",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Drums",
+        "name": "Elvin Jones",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Piano, Electric Piano, Synthesizer",
+        "name": "Jan Hammer",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass, Electric Bass",
+        "name": "Gene Perla",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1975
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/On_the_Mountain_(album)"
+    }
+  ],
+  "release_year": 1975,
+  "score": 4,
+  "title": "On the Mountain",
+  "tracks": [
+    {
+      "composer": "Jan Hammer",
+      "disc_no": 1,
+      "length": "5:07",
+      "no": 1,
+      "title": "Thorn of a White Rose"
+    },
+    {
+      "composer": "Gene Perla",
+      "disc_no": 1,
+      "length": "7:47",
+      "no": 2,
+      "title": "Namuh"
+    },
+    {
+      "composer": "Gene Perla",
+      "disc_no": 1,
+      "length": "4:37",
+      "no": 3,
+      "title": "On the Mountain"
+    },
+    {
+      "composer": "Jan Hammer",
+      "disc_no": 1,
+      "length": "4:00",
+      "no": 4,
+      "title": "Smoke in the Sun"
+    },
+    {
+      "composer": "Jan Hammer",
+      "disc_no": 1,
+      "length": "5:29",
+      "no": 5,
+      "title": "London Air"
+    },
+    {
+      "composer": "Gene Perla",
+      "disc_no": 1,
+      "length": "7:28",
+      "no": 6,
+      "title": "Destiny"
+    }
+  ]
+}

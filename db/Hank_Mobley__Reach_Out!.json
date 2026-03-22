@@ -1,0 +1,116 @@
+{
+  "comment": "ジョージ・ベンソンの起用は実に見事な慧眼で、モブレーの歌心あふれるテナーと曲調が美しい収録曲とベンソンのギター、そしてほかのメンバーの効果的な演奏全てが良い方向に寄与している。Reach OutやGoin' Out My Headのような歌謡曲メドレーも大変良い感じである。",
+  "date": "2026/03/02",
+  "id": "BST 84288",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Neo Hard Bop",
+      "Mode"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Hank Mobley",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Woody Shaw",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Guitar",
+        "name": "George Benson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "LaMont Johnson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Bob Cranshaw",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Billy Higgins",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1968
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Reach_Out!_(Hank_Mobley_album)"
+    }
+  ],
+  "release_year": 1968,
+  "score": 5,
+  "title": "Reach Out!",
+  "tracks": [
+    {
+      "composer": [
+        "Lamont Dozier",
+        "Eddie Holland"
+      ],
+      "disc_no": 1,
+      "length": "6:49",
+      "no": 1,
+      "title": "Reach Out (I'll Be There)"
+    },
+    {
+      "composer": "Hank Mobley",
+      "disc_no": 1,
+      "length": "5:52",
+      "no": 2,
+      "title": "Up, Over and Out"
+    },
+    {
+      "composer": "Hank Mobley",
+      "disc_no": 1,
+      "length": "5:19",
+      "no": 3,
+      "title": "Lookin' East"
+    },
+    {
+      "composer": [
+        "Teddy Randazzo",
+        "Bob Weinstein"
+      ],
+      "disc_no": 1,
+      "length": "7:25",
+      "no": 4,
+      "title": "Goin' Out of My Head"
+    },
+    {
+      "composer": "Hank Mobley",
+      "disc_no": 1,
+      "length": "5:30",
+      "no": 5,
+      "title": "Good Pickin's"
+    },
+    {
+      "composer": "LaMont Johnson",
+      "disc_no": 1,
+      "length": "7:01",
+      "no": 6,
+      "title": "Beverly"
+    }
+  ]
+}

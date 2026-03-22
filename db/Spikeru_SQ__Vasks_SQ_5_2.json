@@ -11,7 +11,15 @@
     "personnel": {
         "group": [
             {
-                "name": "Spikeru String Quartet"
+                "name": "Spikeru String Quartet",
+                "abbr": "SSQ",
+                "members": [
+                    {"name": "Marta Sparnina", "instruments": "Violin", "tracks": "all"},
+                    {"name": "Antti Kortelainen", "instruments": "Violin", "tracks": "all"},
+                    {"name": "Ineta Abakuka", "instruments": "Viola", "tracks": "all"},
+                    {"name": "Enks Kirsfelds", "instruments": "Cello", "tracks": "all"},
+                    {"name": "Ieva Upatniece", "instruments": "Cello", "tracks": "all"}
+                ]
             }
         ]
     },

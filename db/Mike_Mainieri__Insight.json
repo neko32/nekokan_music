@@ -1,0 +1,116 @@
+{
+  "comment": "今までのビブラフォンプレイヤーと一線を画するセンスのプレイヤーが現れた、という印象が強烈な一枚。白人ゆえのブルースフィーリングというより現代的なセンスが光り、のちのフュージョンフィールドでの活躍が十分に予見できる。",
+  "date": "2026/03/12",
+  "id": "SS-18029",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Neo Hard Bop"
+    ]
+  },
+  "label": "Solid State Records",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Vibraphone, Arrangement",
+        "name": "Mike Mainieri",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Guitar",
+        "name": "Joe Beck",
+        "tracks": "all except 7"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Lyn Christie",
+        "tracks": "all except 7"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Don McDonald",
+        "tracks": "all except 7"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1968
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/release/1531293-The-Mike-Mainieri-Quartet-Insight"
+    }
+  ],
+  "release_year": 1968,
+  "score": 4,
+  "title": "Insight",
+  "tracks": [
+    {
+      "composer": [
+        "Jacques Prevert",
+        "Johnny Mercer",
+        "Joseph Kosma"
+      ],
+      "disc_no": 1,
+      "length": "7:00",
+      "no": 1,
+      "title": "Autumn Leaves"
+    },
+    {
+      "composer": [
+        "John Lewis",
+        "Judy Spence"
+      ],
+      "disc_no": 1,
+      "length": "8:00",
+      "no": 2,
+      "title": "Skating in Central Park"
+    },
+    {
+      "composer": "Mike Mainieri",
+      "disc_no": 1,
+      "length": "6:00",
+      "no": 3,
+      "title": "Rain Child"
+    },
+    {
+      "composer": [
+        "Ferde Grofe",
+        "Harold Adamson"
+      ],
+      "disc_no": 1,
+      "length": "6:47",
+      "no": 4,
+      "title": "On The Trail"
+    },
+    {
+      "composer": "Mike Mainieri",
+      "disc_no": 1,
+      "length": "6:35",
+      "no": 5,
+      "title": "Instant Garlic"
+    },
+    {
+      "composer": "Lyn Christie",
+      "disc_no": 1,
+      "length": "2:45",
+      "no": 6,
+      "title": "Minnesota Thins"
+    },
+    {
+      "composer": "Claude Debussy",
+      "disc_no": 1,
+      "length": "5:00",
+      "no": 7,
+      "title": "La Plus Que Lente"
+    }
+  ]
+}

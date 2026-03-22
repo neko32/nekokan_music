@@ -1,0 +1,160 @@
+{
+  "comment": "メセニーグループの透明さ、ノスタルジーは2002年も変わらず。70分長じっくりメセニーワールドに浸れる至福の一枚。",
+  "date": "2026/02/28",
+  "id": "9362-48025-2",
+  "janre": {
+    "main": "Fusion",
+    "sub": [
+      "Soft"
+    ]
+  },
+  "label": "Warner Bros.",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Guitar, Electric Guitar, Synthesizer",
+        "name": "Pat Metheny",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet, Vocal",
+        "name": "Cuong Vu",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano, Keyboard",
+        "name": "Lyle Mays",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass, Cello",
+        "name": "Steve Rodby",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Vocal, Percussion, Guitar, Fretless Bass",
+        "name": "Richard Bona",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Antonio Sanchez",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Percussion, Marimba",
+        "name": "Dave Samuels",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    2002
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Speaking_of_Now"
+    }
+  ],
+  "release_year": 2002,
+  "score": 5,
+  "title": "Speaking of Now",
+  "tracks": [
+    {
+      "composer": [
+        "Pat Metheny",
+        "Lyle Mayes"
+      ],
+      "disc_no": 1,
+      "length": "7:42",
+      "no": 1,
+      "title": "As It Is"
+    },
+    {
+      "composer": [
+        "Pat Metheny",
+        "Lyle Mayes"
+      ],
+      "disc_no": 1,
+      "length": "10:18",
+      "no": 2,
+      "title": "Proof"
+    },
+    {
+      "composer": "Pat Metheny",
+      "disc_no": 1,
+      "length": "7:13",
+      "no": 3,
+      "title": "Another Life"
+    },
+    {
+      "composer": [
+        "Pat Metheny",
+        "Lyle Mayes"
+      ],
+      "disc_no": 1,
+      "length": "9:27",
+      "no": 4,
+      "title": "The Gathering Sky"
+    },
+    {
+      "composer": "Pat Metheny",
+      "disc_no": 1,
+      "length": "8:57",
+      "no": 5,
+      "title": "You"
+    },
+    {
+      "composer": [
+        "Pat Metheny",
+        "Lyle Mayes"
+      ],
+      "disc_no": 1,
+      "length": "5:42",
+      "no": 6,
+      "title": "On Her Way"
+    },
+    {
+      "composer": [
+        "Pat Metheny",
+        "Lyle Mayes"
+      ],
+      "disc_no": 1,
+      "length": "9:54",
+      "no": 7,
+      "title": "A Place in the World"
+    },
+    {
+      "composer": "Pat Metheny",
+      "disc_no": 1,
+      "length": "4:46",
+      "no": 8,
+      "title": "Afternoon"
+    },
+    {
+      "composer": [
+        "Pat Metheny",
+        "Lyle Mayes"
+      ],
+      "disc_no": 1,
+      "length": "8:04",
+      "no": 9,
+      "title": "Wherever You Go"
+    },
+    {
+      "composer": "Pat Metheny",
+      "disc_no": 1,
+      "length": "4:07",
+      "no": 10,
+      "title": "Epilogue"
+    }
+  ]
+}

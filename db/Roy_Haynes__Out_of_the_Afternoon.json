@@ -1,0 +1,116 @@
+{
+  "comment": "[殿堂入り] これは一瞬のスキも無いアルバムで全演奏、全曲全プレイヤーが聴きどころを随所にまき散らしてくる油断のならない名作。ヘインズのシャープなドラミング、カークの才気煥発ぶり、ヘンリーグライムスのベースはときおりポールチェンバースのよう、トミフラのエレガントなピアノと上げればきりがない。",
+  "date": "2026/03/18",
+  "id": "A-23",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Post Hard Bop"
+    ]
+  },
+  "label": "Impulse!",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Drums",
+        "name": "Roy Haynes",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone, Manzello, Stritch, C Flute, Nose Flute",
+        "name": "Roland Kirk",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Tommy Flanagan",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Henry Grimes",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1962
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Out_of_the_Afternoon"
+    }
+  ],
+  "release_year": 1962,
+  "score": 6,
+  "title": "Out of the Afternoon",
+  "tracks": [
+    {
+      "composer": [
+        "Artie Shaw",
+        "Paul Madison",
+        "Arthur Quenzer"
+      ],
+      "disc_no": 1,
+      "length": "6:41",
+      "no": 1,
+      "title": "Moon Ray"
+    },
+    {
+      "composer": "Bart Howard",
+      "disc_no": 1,
+      "length": "6:40",
+      "no": 2,
+      "title": "Fly Me To The Moon"
+    },
+    {
+      "composer": "Roy Haynes",
+      "disc_no": 1,
+      "length": "6:01",
+      "no": 3,
+      "title": "Raoul"
+    },
+    {
+      "composer": "Roy Haynes",
+      "disc_no": 1,
+      "length": "4:11",
+      "no": 4,
+      "title": "Snap Crackle"
+    },
+    {
+      "composer": [
+        "Leo Robin",
+        "Ralph Rainger"
+      ],
+      "disc_no": 1,
+      "length": "5:49",
+      "no": 5,
+      "title": "If I Should Lose You"
+    },
+    {
+      "composer": "Roy Haynes",
+      "disc_no": 1,
+      "length": "4:42",
+      "no": 6,
+      "title": "Long Wharf"
+    },
+    {
+      "composer": [
+        "Arthur Herzog Jr.",
+        "Irene Kitchings"
+      ],
+      "disc_no": 1,
+      "length": "3:39",
+      "no": 7,
+      "title": "Some Other Spring"
+    }
+  ]
+}

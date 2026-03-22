@@ -1,0 +1,117 @@
+{
+  "comment": "ビル・エヴァンスのビレッジ・ヴァンガードでのライブ録音(1974年)。割合渋めのプレイと曲で、たぶん一番の利き所はドルフィン・ダンスだろう。ほかは割合地味目な印象はぬぐえないが演奏の質は悪くなく、エヴァンス晩年の寂寥感はただよっている(ただし薄め)。",
+  "date": "2026/03/02",
+  "id": "F 9608",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Post Hard Bop"
+    ]
+  },
+  "label": "Fantasy",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Bill Evans",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Double Bass",
+        "name": "Eddie Gomez",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Marty Morell",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1974
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Re:_Person_I_Knew"
+    }
+  ],
+  "release_year": 1981,
+  "score": 3,
+  "title": "Re: Person I Knew",
+  "tracks": [
+    {
+      "composer": "Bill Evans",
+      "disc_no": 1,
+      "length": "5:20",
+      "no": 1,
+      "title": "Re: Person I Knew"
+    },
+    {
+      "composer": "Bill Evans",
+      "disc_no": 1,
+      "length": "8:17",
+      "no": 2,
+      "title": "Sugar Plum"
+    },
+    {
+      "composer": [
+        "Burt Bacharach",
+        "Hal David"
+      ],
+      "disc_no": 1,
+      "length": "4:59",
+      "no": 3,
+      "title": "Alfie"
+    },
+    {
+      "composer": "Bill Evans",
+      "disc_no": 1,
+      "length": "5:31",
+      "no": 4,
+      "title": "T.T.T (Twelve Tone Tune)"
+    },
+    {
+      "composer": [
+        "Herbie Hancock",
+        "Bill Evans"
+      ],
+      "disc_no": 1,
+      "length": "7:26",
+      "no": 5,
+      "title": "Excerpt from Dolphiin Dance / Very Early"
+    },
+    {
+      "composer": "Bill Evans",
+      "disc_no": 1,
+      "length": "6:05",
+      "no": 6,
+      "title": "34 Skidoo"
+    },
+    {
+      "composer": [
+        "Johnny Mandel",
+        "Johnny Mercer"
+      ],
+      "disc_no": 1,
+      "length": "5:17",
+      "no": 7,
+      "title": "Emily"
+    },
+    {
+      "composer": "Bill Evans",
+      "disc_no": 1,
+      "length": "6:21",
+      "no": 8,
+      "title": "Are You All the Things"
+    }
+  ]
+}

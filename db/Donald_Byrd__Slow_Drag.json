@@ -1,0 +1,117 @@
+{
+  "comment": "バードがファンク路線に切り替えていく直前のドキュメント。当時流行り(?)のポエム入りのタイトルナンバーからスタンダードまで堅実な演奏が楽しめる。",
+  "date": "2026/03/20",
+  "id": "BST 84292",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Trumpet",
+        "name": "Donald Byrd",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Sonny Red",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Cedar Walton",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Walter Booker",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums, Vocal",
+        "name": "Billy Higgins",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1967
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Slow_Drag_(album)"
+    }
+  ],
+  "release_year": 1968,
+  "score": 4,
+  "title": "Slow Drag",
+  "tracks": [
+    {
+      "composer": "Donald Byrd",
+      "disc_no": 1,
+      "length": "9:47",
+      "no": 1,
+      "title": "Slow Drag"
+    },
+    {
+      "composer": [
+        "Samy Fain",
+        "Paul Francis Webster"
+      ],
+      "disc_no": 1,
+      "length": "3:57",
+      "no": 2,
+      "title": "Secret Love"
+    },
+    {
+      "composer": [
+        "Walter Booker",
+        "Cedar Walton"
+      ],
+      "disc_no": 1,
+      "length": "6:52",
+      "no": 3,
+      "title": "Book's Bossa"
+    },
+    {
+      "composer": "Sonny Red Kyner",
+      "disc_no": 1,
+      "length": "5:21",
+      "no": 4,
+      "title": "Jelly Roll"
+    },
+    {
+      "composer": [
+        "Ronnie Mathews",
+        "Cedar Walton"
+      ],
+      "disc_no": 1,
+      "length": "6:17",
+      "no": 5,
+      "title": "The Loner"
+    },
+    {
+      "composer": [
+        "Richard A. Whiting",
+        "Newell Chase",
+        "Leo Robin"
+      ],
+      "disc_no": 1,
+      "length": "6:21",
+      "no": 6,
+      "title": "My Ideal"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "comment": "ソウルフルでファンキーなソウルジャズの名作。ローチの控え目ながらソウルにまみれたオルガンの演奏に加え珍しくソウルジャズ畑で張り切るジョーヘンの姿が！",
+  "date": "2026/03/10",
+  "id": "BST 84168",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Soul"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Organ",
+        "name": "Freddie Roach",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Joe Henderson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Guitar",
+        "name": "Eddie Wright",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Clarence Johnston",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1964
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Brown_Sugar_(Freddie_Roach_album)"
+    }
+  ],
+  "release_year": 1964,
+  "score": 4,
+  "title": "Brown Sugar",
+  "tracks": [
+    {
+      "composer": "Freddie Roach",
+      "disc_no": 1,
+      "length": "4:22",
+      "no": 1,
+      "title": "Brown Sugar"
+    },
+    {
+      "composer": "Jerry herman",
+      "disc_no": 1,
+      "length": "7:18",
+      "no": 2,
+      "title": "The Right Time"
+    },
+    {
+      "composer": [
+        "Harold Logan",
+        "Lloyd Price"
+      ],
+      "disc_no": 1,
+      "length": "6:43",
+      "no": 3,
+      "title": "Have You Ever Had the Blues"
+    },
+    {
+      "composer": [
+        "Dorcas Cochran",
+        "Quincy Jones",
+        "Henri Salvador"
+      ],
+      "disc_no": 1,
+      "length": "6:55",
+      "no": 4,
+      "title": "The Midnight Sun Will Never Set"
+    },
+    {
+      "composer": [
+        "Earl Forest",
+        "William G. Harvey"
+      ],
+      "disc_no": 1,
+      "length": "5:07",
+      "no": 5,
+      "title": "Next Time You See Me"
+    },
+    {
+      "composer": "Curtis Reginald Lewis",
+      "disc_no": 1,
+      "length": "6:40",
+      "no": 6,
+      "title": "All Night Long"
+    }
+  ]
+}

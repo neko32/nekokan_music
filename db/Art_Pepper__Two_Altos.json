@@ -1,0 +1,170 @@
+{
+  "comment": "いろいろな意味でチグハグな、雑なコンピレーション集。一応アートペッパーとソニーレッドのアルトということでまとめてはいるが... 唯一の収穫はエルヴィン・ジョーンズのドラム。ひと際目を引く演奏である。",
+  "date": "2026/02/27",
+  "id": "Regent MG 6069",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Regent",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Art Pepper",
+        "tracks": "1, 3, 5, 6"
+      },
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Sonny Red",
+        "tracks": "2, 4"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Jack Montrose",
+        "tracks": "1, 6"
+      },
+      {
+        "instruments": "Baritone Saxophone",
+        "name": "Pepper Adams",
+        "tracks": "2, 4"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Claude Williamson",
+        "tracks": "1, 6"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Wynton Kelly",
+        "tracks": "2, 4"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Russ Freeman",
+        "tracks": "3"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Hampton Hawes",
+        "tracks": "5"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Monty Budwig",
+        "tracks": "1, 6"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Doug Watkins",
+        "tracks": "2, 4"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Bob Whitlock",
+        "tracks": "3"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Joe Mondragon",
+        "tracks": "5"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Larry Bunker",
+        "tracks": "1, 5, 6"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Elvin Jones",
+        "tracks": "2, 4"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Bobby White",
+        "tracks": "5"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1952,
+    1953,
+    1954,
+    1957
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Two_Altos"
+    }
+  ],
+  "release_year": 1959,
+  "score": 2,
+  "title": "Two Altos",
+  "tracks": [
+    {
+      "composer": [
+        "Peter DeRose",
+        "Mitchell Parish"
+      ],
+      "disc_no": 1,
+      "length": "3:58",
+      "no": 1,
+      "title": "Deep Purple"
+    },
+    {
+      "composer": "Doug Watkins",
+      "disc_no": 1,
+      "length": "9:36",
+      "no": 2,
+      "title": "Watkins Production"
+    },
+    {
+      "composer": [
+        "Matt Dennis",
+        "Tom Adair"
+      ],
+      "disc_no": 1,
+      "length": "3:08",
+      "no": 3,
+      "title": "Everything Happens to Me"
+    },
+    {
+      "composer": "Sonny Red",
+      "disc_no": 1,
+      "length": "9:13",
+      "no": 4,
+      "title": "Redd's Head"
+    },
+    {
+      "composer": [
+        "Jack Strachey",
+        "Eric Maschwitz",
+        "Harry Link"
+      ],
+      "disc_no": 1,
+      "length": "2:41",
+      "no": 5,
+      "title": "These Foolish Things"
+    },
+    {
+      "composer": [
+        "Bob Haggart",
+        "Johnny Burke"
+      ],
+      "disc_no": 1,
+      "length": "3:25",
+      "no": 6,
+      "title": "What's New"
+    }
+  ]
+}

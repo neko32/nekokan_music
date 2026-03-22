@@ -11,7 +11,8 @@
     "personnel": {
         "group": [
             {
-                "name": "Elvin Jones Jazz Machine", 
+                "name": "Elvin Jones Jazz Machine",
+                "abbr": "EJ_JM",
                 "members": [
                     {"name": "Sonny Fortune", "instruments": "Tenor Saxophone", "tracks": "all"},
                     {"name": "Pat LaBarbera", "instruments": "Tenor Saxophone,Soprano Saxophone", "tracks": "all"},

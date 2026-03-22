@@ -1,0 +1,119 @@
+{
+  "comment": "マッコイ円熟期でスタンダーズ、ヘッドハンターズ、RTF, CTI Allstarsの面々が連なった非常に豪華なアルバム。全体としてマッコイイズムにあふれるも曲の提供が様々に散らばっているせいか幅の広さも見せる懐深い作品。",
+  "date": "2026/03/08",
+  "id": "M-9087",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Neo Hard Bop"
+    ]
+  },
+  "label": "Milestone",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "McCoy Tyner",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet, Flugelhorn",
+        "name": "Freddie Hubbard",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Flute, Alto Flute",
+        "name": "Hubert Laws",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tenor Saxophone, Bass Clarinet",
+        "name": "Bennie Maupin",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Vibraphone, Marimba",
+        "name": "Bobby Hutcherson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Stanley Clarke",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Jack DeJohnette",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Conga, Percussion",
+        "name": "Bill Summers",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1978
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Together_(McCoy_Tyner_album)"
+    }
+  ],
+  "release_year": 1979,
+  "score": 4,
+  "title": "Together",
+  "tracks": [
+    {
+      "composer": "McCoy Tyner",
+      "disc_no": 1,
+      "length": "8:08",
+      "no": 1,
+      "title": "Nubia"
+    },
+    {
+      "composer": "Hubert Laws",
+      "disc_no": 1,
+      "length": "7:43",
+      "no": 2,
+      "title": "Shades of Light"
+    },
+    {
+      "composer": "Jack DeJohnette",
+      "disc_no": 1,
+      "length": "4:49",
+      "no": 3,
+      "title": "Bayou Fever"
+    },
+    {
+      "composer": "Freddie Hubbard",
+      "disc_no": 1,
+      "length": "7:05",
+      "no": 4,
+      "title": "One of Another Kind"
+    },
+    {
+      "composer": "McCoy Tyner",
+      "disc_no": 1,
+      "length": "7:19",
+      "no": 5,
+      "title": "Ballad for Aisha"
+    },
+    {
+      "composer": "Bobby Hutcherson",
+      "disc_no": 1,
+      "length": "6:11",
+      "no": 6,
+      "title": "Highway One"
+    }
+  ]
+}

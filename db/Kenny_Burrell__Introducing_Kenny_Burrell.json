@@ -1,0 +1,117 @@
+{
+  "comment": "ケニーバレルのキャリア第一作は以外にもコンガ入りの楽しいラテンフィーリングあふれる一作で、なんと中にはドラムとコンガだけでバレルさえも不参加の一曲まで入っており謎である。後年のソウルフルな感じというよりは端正な都会的フィーリングを備えたギターの俊英ということが良く伝わってくる一枚。",
+  "date": "2026/03/14",
+  "id": "BLP 1523",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Guitar",
+        "name": "Kenny Burrell",
+        "tracks": "all except 6"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Piano",
+        "name": "Tommy Flanagan",
+        "tracks": "all except 6"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Paul Chambers",
+        "tracks": "all except 6"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Kenny Clarke",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Conga",
+        "name": "Candido Camero",
+        "tracks": "1,3,5,6,7"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1956
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Introducing_Kenny_Burrell"
+    }
+  ],
+  "release_year": 1956,
+  "score": 4,
+  "title": "Introducing Kenny Burrell",
+  "tracks": [
+    {
+      "composer": [
+        "Harold Arlen",
+        "Johnny Mercer"
+      ],
+      "disc_no": 1,
+      "length": "5:00",
+      "no": 1,
+      "title": "This Time The Dream's On Me"
+    },
+    {
+      "composer": "Kenny Burrell",
+      "disc_no": 1,
+      "length": "6:48",
+      "no": 2,
+      "title": "Fugue 'n' Blues"
+    },
+    {
+      "composer": "Kenny Burrell",
+      "disc_no": 1,
+      "length": "4:19",
+      "no": 3,
+      "title": "Takeela"
+    },
+    {
+      "composer": [
+        "Jack Elliott",
+        "Victor Young"
+      ],
+      "disc_no": 1,
+      "length": "4:43",
+      "no": 4,
+      "title": "Weaver Of Dreams"
+    },
+    {
+      "composer": "Victor Young",
+      "disc_no": 1,
+      "length": "6:04",
+      "no": 5,
+      "title": "Delilah"
+    },
+    {
+      "composer": "Kenny Clarke",
+      "disc_no": 1,
+      "length": "6:28",
+      "no": 6,
+      "title": "Rhythmorama"
+    },
+    {
+      "composer": "Kenny Burrell",
+      "disc_no": 1,
+      "length": "8:08",
+      "no": 7,
+      "title": "Blues For Skeeter"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "comment": "ソウル脱却後のジョン・パットン一連の独特？な境地に至ったのちの連作。メインストリームでもない、ソウルでもない、中間を行くような極めて独特な作風である。ジェームス・ウルマーのギターは後にオーネットコールマン一派になる前で全く別人のように大人しいギターを聞かせて肩透かし感がある。",
+  "date": "2026/03/09",
+  "id": "UCCQ-5010",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Neo Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Organ",
+        "name": "Big John Patton",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Flute, Soprano Saxophone, Tenor Saxophone",
+        "name": "Marvin Cabell",
+        "tracks": "alll"
+      },
+      {
+        "instruments": "Guitar",
+        "name": "James \"Blood\" Ulmer",
+        "tracks": "1-5"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Leroy Williams",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "George Coleman",
+        "tracks": "6-11"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1969,
+    1970
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/release/7700931-John-Patton-Memphis-To-New-York-Spirit"
+    }
+  ],
+  "release_year": 1970,
+  "score": 3,
+  "title": "Memphis To New York Spirit",
+  "tracks": [
+    {
+      "composer": "Big John Patton",
+      "disc_no": 1,
+      "length": "5:57",
+      "no": 1,
+      "title": "Memphis"
+    },
+    {
+      "composer": "Wayne Shorter",
+      "disc_no": 1,
+      "length": "6:24",
+      "no": 2,
+      "title": "Footprints"
+    },
+    {
+      "composer": "Marvin Cabell",
+      "disc_no": 1,
+      "length": "7:55",
+      "no": 3,
+      "title": "The Mandingo"
+    },
+    {
+      "composer": "James Ulmer",
+      "disc_no": 1,
+      "length": "8:22",
+      "no": 4,
+      "title": "Boodyun"
+    },
+    {
+      "composer": "Big John Patton",
+      "disc_no": 1,
+      "length": "9:17",
+      "no": 5,
+      "title": "Steno"
+    },
+    {
+      "composer": "McCoy Tyner",
+      "disc_no": 1,
+      "length": "6:19",
+      "no": 6,
+      "title": "Man From Tanganika"
+    },
+    {
+      "composer": [
+        "Art Neville",
+        "George Porter",
+        "Joseph Modeliste",
+        "Leo Nocentelli"
+      ],
+      "disc_no": 1,
+      "length": "6:56",
+      "no": 7,
+      "title": "Cissy Strut"
+    },
+    {
+      "composer": "Marvin Cabell",
+      "disc_no": 1,
+      "length": "6:38",
+      "no": 8,
+      "title": "Dragon Slayer"
+    },
+    {
+      "composer": "Big John Patton",
+      "disc_no": 1,
+      "length": "6:36",
+      "no": 9,
+      "title": "Buddy Boy"
+    },
+    {
+      "composer": "Big John Patton",
+      "disc_no": 1,
+      "length": "7:47",
+      "no": 10,
+      "title": "2J"
+    },
+    {
+      "composer": "Big John Patton",
+      "disc_no": 1,
+      "length": "5:22",
+      "no": 11,
+      "title": "Sweat Pea"
+    }
+  ]
+}

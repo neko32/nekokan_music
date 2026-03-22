@@ -11,7 +11,8 @@
     "personnel": {
         "group": [
             {
-                "name": "The Interpreters", 
+                "name": "The Interpreters",
+                "abbr": "Interpreters",
                 "members": [
                     {"name": "Cleo Griffin", "instruments": "Trumpet", "tracks": "all"},
                     {"name": "George Patterson, Jr.", "instruments": "Alto Saxophone,Soprano Saxophone", "tracks": "all", "leader": true},

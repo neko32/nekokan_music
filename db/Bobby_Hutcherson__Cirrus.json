@@ -1,0 +1,113 @@
+{
+  "comment": "ハッチャーソンのheads onにつながる、シリアス・エレキ・アコースティック混合、マリンバ・ビブラフォン併用、ハロルド・ランド共作等様々なコンテクストをつなぐ秀作。",
+  "date": "2026/03/04",
+  "id": "BN LA 257",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Neo Hard Bop",
+      "Modern"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Vibes, Marimba",
+        "name": "Bobby Hutcherson",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Woody Shaw",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tenor Saxophone, Flute",
+        "name": "Emanuel Boyd",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tenor Saxophone, Flute",
+        "name": "Harold Land",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano, Electric Piano",
+        "name": "William Henderson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Ray Drummond",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Larry Hancock",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Percussion",
+        "name": "Kenneth Nash",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1974
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cirrus_(album)"
+    }
+  ],
+  "release_year": 1974,
+  "score": 4,
+  "title": "Cirrus",
+  "tracks": [
+    {
+      "composer": "Woody Shaw",
+      "disc_no": 1,
+      "length": "7:40",
+      "no": 1,
+      "title": "Rosewood"
+    },
+    {
+      "composer": "Bobby Hutcherson",
+      "disc_no": 1,
+      "length": "8:56",
+      "no": 2,
+      "title": "Even Later"
+    },
+    {
+      "composer": "Bobby Hutcherson",
+      "disc_no": 1,
+      "length": "7:26",
+      "no": 3,
+      "title": "Wrong or Right"
+    },
+    {
+      "composer": "Bobby Hutcherson",
+      "disc_no": 1,
+      "length": "8:25",
+      "no": 4,
+      "title": "Zuri Dance"
+    },
+    {
+      "composer": "Bobby Hutcherson",
+      "disc_no": 1,
+      "length": "7:18",
+      "no": 5,
+      "title": "Cirrus"
+    }
+  ]
+}

@@ -12,6 +12,7 @@
   "personnel": {
     "company": [],
     "conductor": [],
+    "group": [],
     "leader": [
       {
         "instruments": "Vibraphone",
@@ -49,7 +50,7 @@
     }
   ],
   "release_year": 1963,
-  "score": 1,
+  "score": 3,
   "title": "To My Queen",
   "tracks": [
     {

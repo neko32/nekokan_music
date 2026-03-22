@@ -1,0 +1,126 @@
+{
+  "comment": "メセニー2014年の新境地の堂々とした力作。新しい音作りと可能性を探る一方メセニーの抒情性はしっかり保たれており、メンバーの力量もたいしたもの。",
+  "date": "2026/03/14",
+  "id": "7559-79581-0",
+  "janre": {
+    "main": "Fusion",
+    "sub": [
+      "Soft",
+      "Straight Ahead"
+    ]
+  },
+  "label": "Nonsuch",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Guitar, Electric Guitar, Synthesizer, Orchestrionics",
+        "name": "Pat Metheny",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone, Soprano Saxophone, Clarinet, Bass Clarinet, Alto Flute, Bass Flute",
+        "name": "Chris Potter",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano, Trumpet, Trombone, French Horn, Cello, Vibraphone, Clarinet, Flute, Recorder, Alto Saxophone, Wurlitzer, Whistling, Vocal",
+        "name": "Giulio Carmassi",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass, Electric Bass",
+        "name": "Ben Williams",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums, Cajon",
+        "name": "Antonio Sanchez",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    2013
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kin_(Pat_Metheny_album)"
+    }
+  ],
+  "release_year": 2014,
+  "score": 5,
+  "title": "KIN (←→)",
+  "tracks": [
+    {
+      "composer": "Pat Metheny",
+      "disc_no": 1,
+      "length": "15:16",
+      "no": 1,
+      "title": "On Day One"
+    },
+    {
+      "composer": "Pat Metheny",
+      "disc_no": 1,
+      "length": "11:57",
+      "no": 2,
+      "title": "Rise Up"
+    },
+    {
+      "composer": "Pat Metheny",
+      "disc_no": 1,
+      "length": "2:14",
+      "no": 3,
+      "title": "Adagia"
+    },
+    {
+      "composer": "Pat Metheny",
+      "disc_no": 1,
+      "length": "10:14",
+      "no": 4,
+      "title": "Sign of the Season"
+    },
+    {
+      "composer": "Pat Metheny",
+      "disc_no": 1,
+      "length": "11:06",
+      "no": 5,
+      "title": "KIN (←→)"
+    },
+    {
+      "composer": "Pat Metheny",
+      "disc_no": 1,
+      "length": "7:51",
+      "no": 6,
+      "title": "Born"
+    },
+    {
+      "composer": "Pat Metheny",
+      "disc_no": 1,
+      "length": "0:38",
+      "no": 7,
+      "title": "Genealogy"
+    },
+    {
+      "composer": "Pat Metheny",
+      "disc_no": 1,
+      "length": "5:33",
+      "no": 8,
+      "title": "We Go On"
+    },
+    {
+      "composer": "Pat Metheny",
+      "disc_no": 1,
+      "length": "5:27",
+      "no": 9,
+      "title": "Kqu"
+    }
+  ]
+}

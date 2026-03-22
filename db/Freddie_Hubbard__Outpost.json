@@ -1,0 +1,95 @@
+{
+  "comment": "ハバード1981年のストレートジャズ回帰。VSOPの成功でイマイチだった彼のフュージョン路線から軌道修正。やはりハバードはストレートジャズが良く似合うのはYou Don't Know What Love Isを聴いて確信。Hub-TonesやDual Force(これはThe PrisonerのFire Waterと一緒！)もうれしい。アル・フォスターの連続ハイハット打ちはあまり披露されないのはマイルス時代の演奏を期待しているとすれば肩透かし。",
+  "date": "2026/03/18",
+  "id": "enja 3095",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Neo Hard Bop"
+    ]
+  },
+  "label": "Enja",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Trumpet",
+        "name": "Freddie Hubbard",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Piano",
+        "name": "KennyBarron",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Buster Williams",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Al Foster",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1981
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Outpost_(Freddie_Hubbard_album)"
+    }
+  ],
+  "release_year": 1981,
+  "score": 4,
+  "title": "Outpost",
+  "tracks": [
+    {
+      "composer": "Freddie Hubbard",
+      "disc_no": 1,
+      "length": "9:36",
+      "no": 1,
+      "title": "Santa Anna Winds"
+    },
+    {
+      "composer": [
+        "Gene Vincent DePaul",
+        "Don Raye"
+      ],
+      "disc_no": 1,
+      "length": "6:31",
+      "no": 2,
+      "title": "You Don't Know What Love Is"
+    },
+    {
+      "composer": "Freddie Hubbard",
+      "disc_no": 1,
+      "length": "4:18",
+      "no": 3,
+      "title": "Hub-Tones"
+    },
+    {
+      "composer": "Buster Williams",
+      "disc_no": 1,
+      "length": "7:10",
+      "no": 4,
+      "title": "Dual Force"
+    },
+    {
+      "composer": "Eric Dolphy",
+      "disc_no": 1,
+      "length": "10:02",
+      "no": 5,
+      "title": "Les"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "comment": "やや暴れる音で引く野趣味をチラ見せするジーン・ハリスのようなピアノ。1971年の純ジャズトリオの新譜というのはなかなか珍しいのではないか。意欲的にも聞こえるも当時はフリーとフュージョン全盛期、これでも実におとなしめに見えたことだろう。なかなか聴いてて面白いアルバム。",
+  "date": "2026/03/11",
+  "id": "OPL-2001",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Post Hard Bop"
+    ]
+  },
+  "label": "Black Jazz Records",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Gene Russell",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Double Bass",
+        "name": "Henry Franklin",
+        "tracks": "all except 1 and 8"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Larry Gates",
+        "tracks": "1 and 8"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Steve Clover",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Congas",
+        "name": "Tony William (aka. Tony Williams)",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1971
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/release/10402930-Gene-Russell-New-Direction"
+    }
+  ],
+  "release_year": 1972,
+  "score": 4,
+  "title": "New Direction",
+  "tracks": [
+    {
+      "composer": "Neal Hefti",
+      "disc_no": 1,
+      "length": "3:13",
+      "no": 1,
+      "title": "Black Orchid"
+    },
+    {
+      "composer": "Richard Carpenter",
+      "disc_no": 1,
+      "length": "4:42",
+      "no": 2,
+      "title": "Hitting The Jug"
+    },
+    {
+      "composer": "Ann Ronell",
+      "disc_no": 1,
+      "length": "4:58",
+      "no": 3,
+      "title": "Willow Weep For Me"
+    },
+    {
+      "composer": "Eddy Harris",
+      "disc_no": 1,
+      "length": "3:15",
+      "no": 4,
+      "title": "Listen Here"
+    },
+    {
+      "composer": [
+        "Bronislaw Kaper",
+        "Ned Washington"
+      ],
+      "disc_no": 1,
+      "length": "5:02",
+      "no": 5,
+      "title": "On Green Dolphin Street"
+    },
+    {
+      "composer": "Horace Silver",
+      "disc_no": 1,
+      "length": "4:54",
+      "no": 6,
+      "title": "Silver's Serenade"
+    },
+    {
+      "composer": [
+        "Henry Crosby",
+        "Stevie Wonder",
+        "Silvia Moy"
+      ],
+      "disc_no": 1,
+      "length": "3:01",
+      "no": 7,
+      "title": "My Cherie Amour"
+    },
+    {
+      "composer": "Gene Harris",
+      "disc_no": 1,
+      "length": "3:21",
+      "no": 8,
+      "title": "Making Bread"
+    }
+  ]
+}

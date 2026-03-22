@@ -11,7 +11,8 @@
     "personnel": {
         "group": [
             {
-                "name": "The Crusaders", 
+                "name": "The Crusaders",
+                "abbr": "crusaders",
                 "members": [
                     {"name": "Wilton Felder", "instruments": "Saxophones", "tracks": "all"},
                     {"name": "Billy Rogers", "instruments": "Electric Guitar", "tracks": "all"},

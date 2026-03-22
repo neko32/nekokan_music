@@ -1,0 +1,117 @@
+{
+  "comment": "ケニー・バロンのフュージョンの淡い味わいをまとわせつつ純ジャズに切り込む好印象の一枚。キーボードの音色が心地よく響くなかしっかりしたジャズが紡がれていく良作。",
+  "date": "2026/03/12",
+  "id": "WOLF 1203",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Neo Hard Bop"
+    ]
+  },
+  "label": "Wolf",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Keyboards",
+        "name": "Kenny Barron",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Jimmy Owens",
+        "tracks": "4,5"
+      },
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Sonny Fortune",
+        "tracks": "1-3"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Buster Williams",
+        "tracks": "1-3"
+      },
+      {
+        "instruments": "Electric Bass",
+        "name": "Gary King",
+        "tracks": "4,5"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Brian Brake",
+        "tracks": "4,5"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Ben Riley",
+        "tracks": "1-3"
+      },
+      {
+        "instruments": "Percussion",
+        "name": "Rafael Cruz",
+        "tracks": "1-3"
+      },
+      {
+        "instruments": "Percussion",
+        "name": "Billy Hart",
+        "tracks": "4,5"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1978
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Innocence_(Kenny_Barron_album)"
+    }
+  ],
+  "release_year": 1978,
+  "score": 4,
+  "title": "Innocence",
+  "tracks": [
+    {
+      "composer": "Kenny Barron",
+      "disc_no": 1,
+      "length": "12:05",
+      "no": 1,
+      "title": "Sunshower"
+    },
+    {
+      "composer": "Kenny Barron",
+      "disc_no": 1,
+      "length": "10:07",
+      "no": 2,
+      "title": "Innocence"
+    },
+    {
+      "composer": "Kenny Barron",
+      "disc_no": 1,
+      "length": "7:58",
+      "no": 3,
+      "title": "Bacchanal"
+    },
+    {
+      "composer": "Kenny Barron",
+      "disc_no": 1,
+      "length": "8:40",
+      "no": 4,
+      "title": "Sunday Morning"
+    },
+    {
+      "composer": "Jimmy Owens",
+      "disc_no": 1,
+      "length": "7:21",
+      "no": 5,
+      "title": "Nothing To Fear"
+    }
+  ]
+}

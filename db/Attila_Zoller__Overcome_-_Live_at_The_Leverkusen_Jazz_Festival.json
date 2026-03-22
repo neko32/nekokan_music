@@ -1,0 +1,85 @@
+{
+  "comment": "ドイツ レバークーゼン、1988年のジャズフェスティバルにおける白熱のライブ。アッティラゾラー唯一無二のギタープレイは圧巻で、ほかのプレイヤーもプレイもハイレベル・ハイテンションでよいライブだったことがよくわかる。",
+  "date": "2026/03/19",
+  "id": "enja 5053 1",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Neo Hard Bop"
+    ]
+  },
+  "label": "Enja",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Guitar",
+        "name": "Attila Zoller",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Piano",
+        "name": "Kirk Lightsey",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Michael Formanek",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Daniel Humair",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1988
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/release/4823812-Attila-Zoller-Overcome-Live-At-The-Leverkusen-Jazz-Festival"
+    }
+  ],
+  "release_year": 1988,
+  "score": 4,
+  "title": "Overcome - Live at The Leverkusen Jazz Festival",
+  "tracks": [
+    {
+      "composer": "Attila Zoller",
+      "disc_no": 1,
+      "length": "10:09",
+      "no": 1,
+      "title": "Overcome"
+    },
+    {
+      "composer": "Michael Formanek",
+      "disc_no": 1,
+      "length": "13:01",
+      "no": 2,
+      "title": "Starry Night"
+    },
+    {
+      "composer": "Kenny Barron",
+      "disc_no": 1,
+      "length": "10:32",
+      "no": 3,
+      "title": "Lullabye"
+    },
+    {
+      "composer": "Attila Zoller",
+      "disc_no": 1,
+      "length": "11:43",
+      "no": 4,
+      "title": "Lev Blues"
+    }
+  ]
+}
