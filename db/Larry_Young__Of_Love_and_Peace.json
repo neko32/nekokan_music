@@ -1,0 +1,98 @@
+{
+  "comment": "ツインドラムの奔放な演奏の上でこれまた奔放なエディゲイルのトランペットとハーバート・モーガンのテナー、そして闘士スポールディングスのアルトが咆哮、そしてヤングの壮絶オルガンが重なる(やかましい)狂宴。アヴァンギャルドでありながらメロディ等音楽として必要な要件もしっかり満たした、凡百のアヴァンギャルドやフリーとは一線を画した名作。",
+  "date": "2026/03/22",
+  "id": "BST 84242",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Avrant-Garde"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Organ",
+        "name": "Larry Young",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Eddie Gale",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Alto Saxophone, Flute",
+        "name": "James Spaulding",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Herbert Morgan",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Wilson Moorman III",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Jerry Thomas",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1966
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Of_Love_and_Peace"
+    }
+  ],
+  "release_year": 1967,
+  "score": 5,
+  "title": "Of Love and Peace",
+  "tracks": [
+    {
+      "composer": "Morton Gould",
+      "disc_no": 1,
+      "length": "14:11",
+      "no": 1,
+      "title": "Pavanne"
+    },
+    {
+      "composer": "Larry Young",
+      "disc_no": 1,
+      "length": "6:31",
+      "no": 2,
+      "title": "Of Love and Peace"
+    },
+    {
+      "composer": [
+        "Miles Davis",
+        "Victor Feldman"
+      ],
+      "disc_no": 1,
+      "length": "10:17",
+      "no": 3,
+      "title": "Seven Steps to Heaven"
+    },
+    {
+      "composer": "Larry Young",
+      "disc_no": 1,
+      "length": "10:09",
+      "no": 4,
+      "title": "Falaq"
+    }
+  ]
+}

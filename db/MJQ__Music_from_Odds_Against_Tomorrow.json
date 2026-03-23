@@ -1,0 +1,104 @@
+{
+  "comment": "品があって、映画音楽として耳障りに決してならない品行方正で端正な音楽である。がゆえに刺激も薄めでやや退屈な仕上がりと言わざるを得ない。しかしこの作品における演奏そのもののクオリティはやはりさすがのMLQというべき高さ。",
+  "date": "2026/03/22",
+  "id": "UAL 4063,4072,5072",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Chamber Music"
+    ]
+  },
+  "label": "United Artists",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [
+      {
+        "abbr": "MJQ",
+        "members": [
+          {
+            "instruments": "Vibraphone",
+            "name": "Milt Jackson",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Piano",
+            "name": "John Lewis",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Double Bass",
+            "name": "Percy Heath",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Drums",
+            "name": "Connie Kay",
+            "tracks": "all"
+          }
+        ],
+        "name": "Modern Jazz Quartet"
+      }
+    ],
+    "leader": [],
+    "orchestra": [],
+    "sidemen": [],
+    "soloists": []
+  },
+  "record_year": [
+    1959
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Music_from_Odds_Against_Tomorrow"
+    }
+  ],
+  "release_year": 1959,
+  "score": 3,
+  "title": "Music from Odds Against Tomorrow",
+  "tracks": [
+    {
+      "composer": "John Lewis",
+      "disc_no": 1,
+      "length": "6:07",
+      "no": 1,
+      "title": "Skating in Central Park"
+    },
+    {
+      "composer": "John Lewis",
+      "disc_no": 1,
+      "length": "5:18",
+      "no": 2,
+      "title": "No Happiness for Slater"
+    },
+    {
+      "composer": "John Lewis",
+      "disc_no": 1,
+      "length": "4:45",
+      "no": 3,
+      "title": "A Social Call"
+    },
+    {
+      "composer": "John Lewis",
+      "disc_no": 1,
+      "length": "5:00",
+      "no": 4,
+      "title": "Cue No.9"
+    },
+    {
+      "composer": "John Lewis",
+      "disc_no": 1,
+      "length": "7:29",
+      "no": 5,
+      "title": "A Cold Wind Is Blowing"
+    },
+    {
+      "composer": "John Lewis",
+      "disc_no": 1,
+      "length": "3:33",
+      "no": 6,
+      "title": "Odds Against Tomorrow"
+    }
+  ]
+}
