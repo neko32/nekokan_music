@@ -1,0 +1,111 @@
+{
+  "comment": "ドーハムとBNハウスメンバーによる大変上質なハードバップセッション。テキサス風の味付けが全体に漂うコンセプトアルバムっぽい部分もあるも中身はいつもの上質BNハードバップ。",
+  "date": "2026/03/23",
+  "id": "BST 84063",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Trumpet",
+        "name": "Kenny Dorham",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Hank Mobley",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Kenny Drew",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Paul Chambers",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Philly Joe Jones",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1961
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Whistle_Stop_(album)"
+    }
+  ],
+  "release_year": 1961,
+  "score": 5,
+  "title": "Whistle Stop",
+  "tracks": [
+    {
+      "composer": "Kenny Dorham",
+      "disc_no": 1,
+      "length": "5:39",
+      "no": 1,
+      "title": "Philly Twist"
+    },
+    {
+      "composer": "Kenny Dorham",
+      "disc_no": 1,
+      "length": "7:43",
+      "no": 2,
+      "title": "Buffalo"
+    },
+    {
+      "composer": "Kenny Dorham",
+      "disc_no": 1,
+      "length": "6:20",
+      "no": 3,
+      "title": "Sunset"
+    },
+    {
+      "composer": "Kenny Dorham",
+      "disc_no": 1,
+      "length": "5:56",
+      "no": 4,
+      "title": "Whistle Stop"
+    },
+    {
+      "composer": "Kenny Dorham",
+      "disc_no": 1,
+      "length": "5:39",
+      "no": 5,
+      "title": "Sunrise in Mexico"
+    },
+    {
+      "composer": "Kenny Dorham",
+      "disc_no": 1,
+      "length": "6:17",
+      "no": 6,
+      "title": "Windmill"
+    },
+    {
+      "composer": "Kenny Dorham",
+      "disc_no": 1,
+      "length": "1:09",
+      "no": 7,
+      "title": "Dorham's Epitaph"
+    }
+  ]
+}

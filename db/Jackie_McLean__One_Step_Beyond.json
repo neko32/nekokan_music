@@ -1,0 +1,90 @@
+{
+  "comment": "[殿堂入り] もう何といってもトニー・ウィリアムスの目ん玉飛び出るドラミングに尽きる。もうこのタイム感覚とセンス、すごすぎる。ほかのメンバーもワンステップビヨンド飛び越えて新しい何かを探し始めて旅立ち始めたドキュメンタリーだ。",
+  "date": "2026/03/23",
+  "id": "BST 84137",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "New Mainstream"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Jackie McLean",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trombone",
+        "name": "Grachan Moncur III",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Vibraphone",
+        "name": "Bobby Hutcherson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Eddie Khan",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Tony Williams",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1963
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/One_Step_Beyond_(Jackie_McLean_album)"
+    }
+  ],
+  "release_year": 1964,
+  "score": 6,
+  "title": "One Step Beyond",
+  "tracks": [
+    {
+      "composer": "Jackie McLean",
+      "disc_no": 1,
+      "length": "10:30",
+      "no": 1,
+      "title": "Saturday and Sunday"
+    },
+    {
+      "composer": "Grachan Moncur III",
+      "disc_no": 1,
+      "length": "7:32",
+      "no": 2,
+      "title": "Frankenstein"
+    },
+    {
+      "composer": "Jackie McLean",
+      "disc_no": 1,
+      "length": "4:52",
+      "no": 3,
+      "title": "Blue Rondo"
+    },
+    {
+      "composer": "Grachan Moncur III",
+      "disc_no": 1,
+      "length": "14:39",
+      "no": 4,
+      "title": "Ghost Town"
+    }
+  ]
+}
