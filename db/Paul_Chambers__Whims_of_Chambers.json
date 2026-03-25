@@ -1,0 +1,116 @@
+{
+  "comment": "一見まとまりのない６人だがまあなんと実に心地の良い、高品質なハードバップを組織化された演奏で構築できていることか。チェンバースのきまぐれ(Whims)がブルーノートの魔法で至高の芸術作品に昇華。",
+  "date": "2026/03/24",
+  "id": "BLP 1534",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Double Bass",
+        "name": "Paul Chambers",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Donald Byrd",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "John Coltrane",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Guitar",
+        "name": "Kenny Burrell",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Horace Silver",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Philly Joe Jones",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1956
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Whims_of_Chambers"
+    }
+  ],
+  "release_year": 1957,
+  "score": 5,
+  "title": "Whims of Chambers",
+  "tracks": [
+    {
+      "composer": "Donald Byrd",
+      "disc_no": 1,
+      "length": "7:21",
+      "no": 1,
+      "title": "Omicron"
+    },
+    {
+      "composer": "Paul Chambers",
+      "disc_no": 1,
+      "length": "4:06",
+      "no": 2,
+      "title": "Whims of Chambers"
+    },
+    {
+      "composer": "John Coltrane",
+      "disc_no": 1,
+      "length": "6:34",
+      "no": 3,
+      "title": "Nita"
+    },
+    {
+      "composer": "Donald Byrd",
+      "disc_no": 1,
+      "length": "7:42",
+      "no": 4,
+      "title": "We Six"
+    },
+    {
+      "composer": "Paul Chambers",
+      "disc_no": 1,
+      "length": "4:21",
+      "no": 5,
+      "title": "Dear Ann"
+    },
+    {
+      "composer": "Paul Chambers",
+      "disc_no": 1,
+      "length": "4:44",
+      "no": 6,
+      "title": "Tale of the Fingers"
+    },
+    {
+      "composer": "John Coltrane",
+      "disc_no": 1,
+      "length": "3:43",
+      "no": 7,
+      "title": "Just for the Love"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "comment": "室内楽ジャズといってよい品と趣味の良さと程よいアヴァンギャルドそしてマイルドハードバップの塩梅のいいミックス。やはりエリックドルフィーの存在感に尽きるといってしまうもロン・カーターのベースも若々しく良い感じで歯切れのよい、特にブラシが冴えるパーシップも良い人選。",
+  "date": "2026/03/24",
+  "id": "NJ 8265",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Avrant-Garde"
+    ]
+  },
+  "label": "New Jazz",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Double Bass, Cello",
+        "name": "Ron Carter",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Alto Saxophone, Bass Clarinet, Flute",
+        "name": "Eric Dolphy",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Mal Waldron",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "George Duvivier",
+        "tracks": "1,2,4,5"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Charlie Persip",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1961
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Where%3F_(album)"
+    }
+  ],
+  "release_year": 1961,
+  "score": 4,
+  "title": "Where",
+  "tracks": [
+    {
+      "composer": "Ron Carter",
+      "disc_no": 1,
+      "length": "5:42",
+      "no": 1,
+      "title": "Rally"
+    },
+    {
+      "composer": "Ron Carter",
+      "disc_no": 1,
+      "length": "5:43",
+      "no": 2,
+      "title": "Bass Duet"
+    },
+    {
+      "composer": [
+        "Oscar Hammerstein II",
+        "Sigmund Romberg"
+      ],
+      "disc_no": 1,
+      "length": "7:37",
+      "no": 3,
+      "title": "Softly, as in a Morning Sunrise"
+    },
+    {
+      "composer": "Randy Weston",
+      "disc_no": 1,
+      "length": "5:58",
+      "no": 4,
+      "title": "Where?"
+    },
+    {
+      "composer": "Sy Oliver",
+      "disc_no": 1,
+      "length": "5:51",
+      "no": 5,
+      "title": "Yes Indeed"
+    },
+    {
+      "composer": "Randy Weston",
+      "disc_no": 1,
+      "length": "5:08",
+      "no": 6,
+      "title": "Saucer Eyes"
+    }
+  ]
+}

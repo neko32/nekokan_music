@@ -1,0 +1,111 @@
+{
+  "comment": "WR円熟期の安定さを示すスタジオ録音。前期よりもさらにWRらしいというかフュージョンらしいフュージョンの音作りとなり、メンバーも興味深い人選。",
+  "date": "2026/03/24",
+  "id": "CBS 80734",
+  "janre": {
+    "main": "Fusion",
+    "sub": [
+      "Fusion"
+    ]
+  },
+  "label": "Columbia",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [
+      {
+        "abbr": "WR",
+        "members": [
+          {
+            "instruments": "Soprano Saxophone, Tenor Saxophone",
+            "leader": true,
+            "name": "Wayne Shorter",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Electric Piano, Synthesizer, Organ, Vocal, Drums",
+            "leader": true,
+            "name": "Joe Zawinul",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Electric Bass",
+            "name": "Alphonso Johnson",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Drums",
+            "name": "Leon \"Ndugu\" Chancler",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Percussion",
+            "name": "Alyrio Lima",
+            "tracks": "all"
+          }
+        ],
+        "name": "Weather Report"
+      }
+    ],
+    "leader": [],
+    "orchestra": [],
+    "sidemen": [],
+    "soloists": []
+  },
+  "record_year": [
+    1975
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tale_Spinnin%27"
+    }
+  ],
+  "release_year": 1975,
+  "score": 4,
+  "title": "Tale Spinnin'",
+  "tracks": [
+    {
+      "composer": "Joe Zawinul",
+      "disc_no": 1,
+      "length": "6:29",
+      "no": 1,
+      "title": "Man in the Green Shirt"
+    },
+    {
+      "composer": "Wayne Shorter",
+      "disc_no": 1,
+      "length": "7:25",
+      "no": 2,
+      "title": "Lustianos"
+    },
+    {
+      "composer": "Joe Zawinul",
+      "disc_no": 1,
+      "length": "9:33",
+      "no": 3,
+      "title": "Between the Thighs"
+    },
+    {
+      "composer": "Joe Zawinul",
+      "disc_no": 1,
+      "length": "5:21",
+      "no": 4,
+      "title": "Badia"
+    },
+    {
+      "composer": "Wayne Shorter",
+      "disc_no": 1,
+      "length": "7:29",
+      "no": 5,
+      "title": "Freezing Fire"
+    },
+    {
+      "composer": "Joe Zawinul",
+      "disc_no": 1,
+      "length": "6:56",
+      "no": 6,
+      "title": "Five Short Stories"
+    }
+  ]
+}

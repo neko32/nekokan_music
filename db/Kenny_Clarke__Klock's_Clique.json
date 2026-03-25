@@ -1,0 +1,115 @@
+{
+  "comment": "きれいにまとまった、割合無個性なセッション。特にこれといった強い主張が伝わってくるわけでもない。",
+  "date": "2026/03/24",
+  "id": "MG 12065",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Savoy",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Drums",
+        "name": "Kenny Clarke",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Donald Byrd",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Alto Saxophone",
+        "name": "John LaPorta",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Ronnie Ball",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Wendell Marshall",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1956
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Klook%27s_Clique"
+    }
+  ],
+  "release_year": 1956,
+  "score": 3,
+  "title": "Klock's Clique",
+  "tracks": [
+    {
+      "composer": "Kenny Clarke",
+      "disc_no": 1,
+      "length": "6:01",
+      "no": 1,
+      "title": "Volcano"
+    },
+    {
+      "composer": "John LaPorta",
+      "disc_no": 1,
+      "length": "5:54",
+      "no": 2,
+      "title": "La Porta-Thority"
+    },
+    {
+      "composer": [
+        "George Fragos",
+        "Jack Baker",
+        "Dick Gasparre"
+      ],
+      "disc_no": 1,
+      "length": "4:48",
+      "no": 3,
+      "title": "I Hear a Rhapsody"
+    },
+    {
+      "composer": "John LaPorta",
+      "disc_no": 1,
+      "length": "7:04",
+      "no": 4,
+      "title": "Will Wail"
+    },
+    {
+      "composer": [
+        "Jerome Kern",
+        "Otto Harbach"
+      ],
+      "disc_no": 1,
+      "length": "5:58",
+      "no": 5,
+      "title": "Yesterdays"
+    },
+    {
+      "composer": [
+        "Arthur Altman",
+        "Emery Deutsch",
+        "Jack Lawrence"
+      ],
+      "disc_no": 1,
+      "length": "4:32",
+      "no": 6,
+      "title": "Play Fiddle Play"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "comment": "フレディローチのいい面での控え目さ、というより品の良さがポジティブに強調された一枚。他のソウルジャズアルバムと一線を画すアクの無さはローチ、フランス、そして何よりバレルのギターの洗練さにより醸成されたものだろう",
+  "date": "2026/03/24",
+  "id": "BST 84113",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Soul"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Organ",
+        "name": "Freddie Roach",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Percy France",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Guitar",
+        "name": "Kenny Burrell",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Clarence Johnston",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1962
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Down_to_Earth_(Freddie_Roach_album)"
+    }
+  ],
+  "release_year": 1962,
+  "score": 5,
+  "title": "Down to Earth",
+  "tracks": [
+    {
+      "composer": "Freddie Roach",
+      "disc_no": 1,
+      "length": "6:46",
+      "no": 1,
+      "title": "De Bug"
+    },
+    {
+      "composer": "Freddie Roach",
+      "disc_no": 1,
+      "length": "5:53",
+      "no": 2,
+      "title": "Ahm Miz"
+    },
+    {
+      "composer": "Henry Mancini",
+      "disc_no": 1,
+      "length": "6:33",
+      "no": 3,
+      "title": "Jujon"
+    },
+    {
+      "composer": "Freddie Roach",
+      "disc_no": 1,
+      "length": "8:11",
+      "no": 4,
+      "title": "Althea Soon"
+    },
+    {
+      "composer": "Freddie Roach",
+      "disc_no": 1,
+      "length": "6:39",
+      "no": 5,
+      "title": "More Mileage"
+    },
+    {
+      "composer": "Freddie Roach",
+      "disc_no": 1,
+      "length": "4:55",
+      "no": 6,
+      "title": "Lion Down"
+    }
+  ]
+}

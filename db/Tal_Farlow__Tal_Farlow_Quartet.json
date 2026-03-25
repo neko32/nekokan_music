@@ -1,0 +1,105 @@
+{
+  "comment": "非常にエレガントかつ才気煥発なギター名人芸を堪能できる一作。ピアノレス編成ということもありさらにギターのスペースが増えている。ハードバップ以前で短曲中心だがこっちのほうが彼には会っているのかもしれない",
+  "date": "2026/03/24",
+  "id": "BLP 5042",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Cool"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Guitar",
+        "name": "Tal Farlow",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Guitar",
+        "name": "Don Arnone",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Clyde Lombardi",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Joe Morello",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1954
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/release/6626902-The-Tal-Farlow-Quartet-Tal-Farlow-Quartet"
+    }
+  ],
+  "release_year": 1954,
+  "score": 5,
+  "title": "Tal Farlow Quartet",
+  "tracks": [
+    {
+      "composer": [
+        "Richard Rodgers",
+        "Lorenz Hart"
+      ],
+      "disc_no": 1,
+      "length": "4:03",
+      "no": 1,
+      "title": "Lover"
+    },
+    {
+      "composer": [
+        "Edmund Anderson",
+        "Theodor Grouya"
+      ],
+      "disc_no": 1,
+      "length": "4:30",
+      "no": 2,
+      "title": "Flamingo"
+    },
+    {
+      "composer": "Hank Sylvern",
+      "disc_no": 1,
+      "length": "3:33",
+      "no": 3,
+      "title": "Splash"
+    },
+    {
+      "composer": "Tal Farlow",
+      "disc_no": 1,
+      "length": "4:01",
+      "no": 4,
+      "title": "Rock 'N' Rye"
+    },
+    {
+      "composer": "Cole Porter",
+      "disc_no": 1,
+      "length": "4:04",
+      "no": 5,
+      "title": "All Through The Night"
+    },
+    {
+      "composer": "Travis Edmonson",
+      "disc_no": 1,
+      "length": "3:57",
+      "no": 6,
+      "title": "Tina"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "comment": "プレスティッジお得意の適当・いいかげんなジャムセッション系録音。しかしこれはBNが入念なリハーサルと録音編集による芸術作品とすると、こちらは当時の生の空気感を伝えるドキュメンタリなのかもしれない。演奏はなかなかのクオリティでそれぞれが味のある演奏を披露している。",
+  "date": "2026/03/24",
+  "id": "PRLP 7131",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Prestige",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone, Flute",
+        "name": "Frank Wess",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "John Coltrane",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Paul Quinichette",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Mal Waldron",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Doug Watkins",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Art Taylor",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1957
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wheelin%27_%26_Dealin%27_(Prestige_Records_album)"
+    }
+  ],
+  "release_year": 1958,
+  "score": 4,
+  "title": "Wheelin' & Dealin'",
+  "tracks": [
+    {
+      "composer": [
+        "Mercer Ellington",
+        "Ted Persons"
+      ],
+      "disc_no": 1,
+      "length": "8:27",
+      "no": 1,
+      "title": "Things Ain't What They Used to Be"
+    },
+    {
+      "composer": "Mal Waldron",
+      "disc_no": 1,
+      "length": "11:22",
+      "no": 2,
+      "title": "Wheelin' (Take 2)"
+    },
+    {
+      "composer": "Mal Waldron",
+      "disc_no": 1,
+      "length": "10:25",
+      "no": 3,
+      "title": "Wheelin' (Take 1)"
+    },
+    {
+      "composer": [
+        "Illinois Jacquet",
+        "Bob Russell",
+        "Sir Charles Thompson"
+      ],
+      "disc_no": 1,
+      "length": "15:33",
+      "no": 4,
+      "title": "Robbins' Nest"
+    },
+    {
+      "composer": "Mal Waldron",
+      "disc_no": 1,
+      "length": "10:16",
+      "no": 5,
+      "title": "Dealin' (Take 2)"
+    },
+    {
+      "composer": "Mal Waldron",
+      "disc_no": 1,
+      "length": "9:59",
+      "no": 6,
+      "title": "Dealin' (Take 1)"
+    }
+  ]
+}

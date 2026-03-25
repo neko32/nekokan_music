@@ -1,0 +1,99 @@
+{
+  "comment": "大人になったトニー・ウィリアムスが印象深い、イーストウィンド発純ジャズアルバム。やや企画もの感があり、耳障りの良いジャズをビッグネームで無難に演奏といった趣が強い、イージーリスニング寄りといってしまっても過言ではない一作。",
+  "date": "2026/03/24",
+  "id": "EW-10005",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Neo Hard Bop"
+    ]
+  },
+  "label": "East Wind",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [
+      {
+        "abbr": "GJT",
+        "members": [
+          {
+            "instruments": "Piano",
+            "name": "Hank Jones",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Double Bass",
+            "name": "Ron Carter",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Drums",
+            "name": "Tony Williams",
+            "tracks": "all"
+          }
+        ],
+        "name": "The Great Jazz Trio (1st Gen)"
+      }
+    ],
+    "leader": [],
+    "orchestra": [],
+    "sidemen": [],
+    "soloists": []
+  },
+  "record_year": [
+    1978
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/release/2776982-The-Great-Jazz-Trio-The-Great-Jazz-Trio-Direct-From-LA"
+    }
+  ],
+  "release_year": 1978,
+  "score": 3,
+  "title": "Direct From L.A.",
+  "tracks": [
+    {
+      "composer": [
+        "Diggie Gilliespie",
+        "Frank Paparelli"
+      ],
+      "disc_no": 1,
+      "length": "8:00",
+      "no": 1,
+      "title": "A Night In Tunisia"
+    },
+    {
+      "composer": [
+        "Bernie Hanighen",
+        "Cootie Williams",
+        "Thelonious Monk"
+      ],
+      "disc_no": 1,
+      "length": "6:13",
+      "no": 2,
+      "title": "'Round About Midnight"
+    },
+    {
+      "composer": [
+        "Billy Strayhorn",
+        "Duke Ellington",
+        "Johnny Mercer"
+      ],
+      "disc_no": 1,
+      "length": "8:26",
+      "no": 3,
+      "title": "Satin Doll"
+    },
+    {
+      "composer": [
+        "Richard Rodgers",
+        "Lorenz Hart"
+      ],
+      "disc_no": 1,
+      "length": "6:20",
+      "no": 4,
+      "title": "My Funny Valentine"
+    }
+  ]
+}
