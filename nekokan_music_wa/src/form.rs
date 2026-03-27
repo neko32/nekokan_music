@@ -121,6 +121,7 @@ pub fn form(props: &FormProps) -> Html {
     let sub_opts = sub_janres_for_main(&props.data.janre.main);
     let title_input_ref = use_node_ref();
     let filename_input_ref = use_node_ref();
+    let score_select_ref = use_node_ref();
     let record_year_text = use_state(|| record_year_join(&props.data.record_year));
 
     let on_save = props.on_save.clone();
@@ -133,6 +134,17 @@ pub fn form(props: &FormProps) -> Html {
         let record_year_text = record_year_text.clone();
         use_effect_with(ry, move |r| {
             record_year_text.set(record_year_join(r));
+            || ()
+        });
+    }
+
+    {
+        let score_select_ref = score_select_ref.clone();
+        let score = props.data.score;
+        use_effect_with(score, move |&score| {
+            if let Some(sel) = score_select_ref.cast::<web_sys::HtmlSelectElement>() {
+                sel.set_value(&score.to_string());
+            }
             || ()
         });
     }
@@ -285,8 +297,8 @@ pub fn form(props: &FormProps) -> Html {
                 <div class="field">
                     <label>{"Score"}</label>
                     <select
+                        ref={score_select_ref.clone()}
                         class={input_class(props, "score")}
-                        value={props.data.score.to_string()}
                         onchange={update_score(props.data.clone(), props.on_data_change.clone())}
                     >
                         { for [1,2,3,4,5,6].iter().map(|&v| {
