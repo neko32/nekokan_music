@@ -1,0 +1,111 @@
+{
+  "comment": "BNで珍しい西海岸録音(プロデューサもJack Tracy)。そしてロイ・エアーズがまだ純ジャズのヴィブラフォンをたたいている貴重なドキュメンタリでもある。中身は大変真面目で大変東海岸寄り西海岸ジャズ。メロディにも富み、またダブルベースの曲による創意工夫も見られ意欲的。録音の質がよく楽器の音色が良くダイレクトに伝わってくる。",
+  "date": "2026/03/26",
+  "id": "BST 84251",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Post Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Jack Wilson",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Vibraphone",
+        "name": "Roy Ayers",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass, Cello",
+        "name": "Ray Brown",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Charles 'Buster' Williams",
+        "tracks": "1,2"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Varney Barlow",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1966
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Something_Personal"
+    }
+  ],
+  "release_year": 1967,
+  "score": 5,
+  "title": "Something Personal",
+  "tracks": [
+    {
+      "composer": "Jack Wilson",
+      "disc_no": 1,
+      "length": "6:53",
+      "no": 1,
+      "title": "Most Unsoulful Woman"
+    },
+    {
+      "composer": "Ornette Coleman",
+      "disc_no": 1,
+      "length": "5:07",
+      "no": 2,
+      "title": "The Sphinx"
+    },
+    {
+      "composer": "Blues in F",
+      "disc_no": 1,
+      "length": "8:59",
+      "no": 3,
+      "title": "Shosh"
+    },
+    {
+      "composer": "Leroy Anderson",
+      "disc_no": 1,
+      "length": "6:58",
+      "no": 4,
+      "title": "Serenata"
+    },
+    {
+      "composer": "Jack Wilson",
+      "disc_no": 1,
+      "length": "7:12",
+      "no": 5,
+      "title": "Harbor Freeway 5 P.M."
+    },
+    {
+      "composer": "Jack Wilson",
+      "disc_no": 1,
+      "length": "4:58",
+      "no": 6,
+      "title": "C.F.D."
+    },
+    {
+      "composer": "John Coltrane",
+      "disc_no": 1,
+      "length": "4:51",
+      "no": 7,
+      "title": "One and Four (aka. \"Mr. Day\")"
+    }
+  ]
+}
