@@ -1,0 +1,130 @@
+{
+  "comment": "ポール・デスモンドの甘くてソフトな音色はむしろフュージョンのほうがイージーリスニング色を強めて、むしろ相性がよかった？と感じさせる一作。収録曲もオリジナル、スタンダード、フォーク、クラシックなど幅広い。ガボール・ザボとの連名作品かと思わんばかりのギターフィーチャー。",
+  "date": "2026/03/27",
+  "id": "CTI 6039",
+  "janre": {
+    "main": "Fusion",
+    "sub": [
+      "Soft"
+    ]
+  },
+  "label": "CTI",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Paul Desmond",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Guitar",
+        "name": "Gene Bertoncini",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Guitar",
+        "name": "Gabor Szabo",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano, Electric Piano",
+        "name": "Bob James",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Cello",
+        "name": "George Ricci",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Ron Carter",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Jack DeJohnnette",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Percussion",
+        "name": "Ralph MacDonald",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Arranger",
+        "name": "Don Sebesky",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1973
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Skylark_(Paul_Desmond_album)"
+    }
+  ],
+  "release_year": 1974,
+  "score": 4,
+  "title": "Skylark",
+  "tracks": [
+    {
+      "composer": "Paul Desmond",
+      "disc_no": 1,
+      "length": "6:08",
+      "no": 1,
+      "title": "Take Ten"
+    },
+    {
+      "composer": "Traditional",
+      "disc_no": 1,
+      "length": "9:40",
+      "no": 2,
+      "title": "Romance de Amor"
+    },
+    {
+      "composer": "Paul Simon",
+      "disc_no": 1,
+      "length": "4:52",
+      "no": 3,
+      "title": "Was a Sunny Day"
+    },
+    {
+      "composer": "Henry Purcell",
+      "disc_no": 1,
+      "length": "6:45",
+      "no": 4,
+      "title": "Music for a While"
+    },
+    {
+      "composer": [
+        "Hoagy Carmichael",
+        "Johnny Mercer"
+      ],
+      "disc_no": 1,
+      "length": "5:21",
+      "no": 5,
+      "title": "Skylark"
+    },
+    {
+      "composer": [
+        "Al Dubin",
+        "Victor Herbert"
+      ],
+      "disc_no": 1,
+      "length": "4:00",
+      "no": 6,
+      "title": "Indian Summer"
+    }
+  ]
+}

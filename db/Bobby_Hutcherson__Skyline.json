@@ -1,0 +1,128 @@
+{
+  "comment": "ボビー・ハッチャーソンいまだに健在。1998年録音でも衰えしらずで、当時の若手精鋭との演奏でも大御所感を出して鎮座しているのでもなく衰えを若手でカバーしてもらっているのでもなく、しっかり一緒に演奏して高品質な音楽を作り出している。The Coasterの収録には新主流派ファンには嬉し涙",
+  "date": "2026/03/27",
+  "id": "559 616-2",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Neo Hard Bop"
+    ]
+  },
+  "label": "Verve",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Vibraphone, Marimba",
+        "name": "Bobby Hutcherson",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Kenny Garrett",
+        "tracks": "1,2,5,7,8"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Geri Allen",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Christian McBride",
+        "tracks": "all except 9"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Al Folster",
+        "tracks": "1-5,7,8"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1998
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://www.discogs.com/release/2544143-Bobby-Hutcherson-Skyline"
+    }
+  ],
+  "release_year": 1999,
+  "score": 4,
+  "title": "Skyline",
+  "tracks": [
+    {
+      "composer": "Bobby Hutcherson",
+      "disc_no": 1,
+      "length": "7:30",
+      "no": 1,
+      "title": "Who's Got You"
+    },
+    {
+      "composer": [
+        "Al Dubin",
+        "Harry Warren"
+      ],
+      "disc_no": 1,
+      "length": "6:44",
+      "no": 2,
+      "title": "I Only Have Eyes For You"
+    },
+    {
+      "composer": "Victor Young",
+      "disc_no": 1,
+      "length": "6:31",
+      "no": 3,
+      "title": "Delilah"
+    },
+    {
+      "composer": "Herbie Hancock",
+      "disc_no": 1,
+      "length": "5:22",
+      "no": 4,
+      "title": "Chan's Song"
+    },
+    {
+      "composer": "Bobby Hutcherson",
+      "disc_no": 1,
+      "length": "7:23",
+      "no": 5,
+      "title": "Pomponio"
+    },
+    {
+      "composer": "John Williams",
+      "disc_no": 1,
+      "length": "6:15",
+      "no": 6,
+      "title": "Love Theme from Superman (Can You Read My Mind)"
+    },
+    {
+      "composer": "Osvaldo Farres",
+      "disc_no": 1,
+      "length": "6:10",
+      "no": 7,
+      "title": "Tres Palabras"
+    },
+    {
+      "composer": "Grachan Moncur III",
+      "disc_no": 1,
+      "length": "6:40",
+      "no": 8,
+      "title": "The Coaster"
+    },
+    {
+      "composer": "Bobby Hutcherson",
+      "disc_no": 1,
+      "length": "5:21",
+      "no": 9,
+      "title": "Candle"
+    }
+  ]
+}
