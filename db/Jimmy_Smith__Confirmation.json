@@ -1,0 +1,98 @@
+{
+  "comment": "1979年までお蔵入りさせられていたのがよくわからない至高のハードバップでありジミー・スミスのソウル化して積んらなくなる前の迫力と本物のジャズを見せつける時代の産物。ジャムセッションだがまあメンバーがなんと豪華なこと！",
+  "date": "2026/03/28",
+  "id": "LT-992",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Organ",
+        "name": "Jimmy Smith",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Lee Morgan",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Trombone",
+        "name": "Curtis Fuller",
+        "tracks": "1,3"
+      },
+      {
+        "instruments": "Alto Saxophone",
+        "name": "George Coleman",
+        "tracks": "1,3"
+      },
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Lou Donaldson",
+        "tracks": "2"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Tina Brooks",
+        "tracks": "2"
+      },
+      {
+        "instruments": "Guitar",
+        "name": "Kenny Burrell",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Art Blakey",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1958
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/release/1260005-Jimmy-Smith-Confirmation"
+    }
+  ],
+  "release_year": 1979,
+  "score": 5,
+  "title": "Confirmation",
+  "tracks": [
+    {
+      "composer": "Cole Porter",
+      "disc_no": 1,
+      "length": "15:13",
+      "no": 1,
+      "title": "What Is This Thing Called Love"
+    },
+    {
+      "composer": "Charlie Parker",
+      "disc_no": 1,
+      "length": "10:31",
+      "no": 2,
+      "title": "Confirmation"
+    },
+    {
+      "composer": "Ray Noble",
+      "disc_no": 1,
+      "length": "20:20",
+      "no": 3,
+      "title": "Cherokee"
+    }
+  ]
+}

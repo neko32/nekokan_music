@@ -1,0 +1,124 @@
+{
+  "comment": "カル・マッセイの名曲バカイから幕を開ける。コルトレーンもさることながらサヒブ・シハブのバリトンサックスはかなり印象深く、当時のトレーンよりむしろシハブのほうが強い印象を残すことに成功している気がする。",
+  "date": "2026/03/28",
+  "id": "PRLP 7105",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Prestige",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "John Coltrane",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Johnnie Splawn",
+        "tracks": "1,4,5,6"
+      },
+      {
+        "instruments": "Baritone Saxophone",
+        "name": "Sahib Shihab",
+        "tracks": "1,4,6"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Red Garland",
+        "tracks": "1,2,3"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Mal Waldron",
+        "tracks": "4,5,6"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Paul Chambers",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Albert \"Tootie\" Heath",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1957
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Coltrane_(1957_album)"
+    }
+  ],
+  "release_year": 1957,
+  "score": 4,
+  "title": "Bakai",
+  "tracks": [
+    {
+      "composer": "Calvin Massey",
+      "disc_no": 1,
+      "length": "8:44",
+      "no": 1,
+      "title": "Bakai"
+    },
+    {
+      "composer": [
+        "Tom Adair",
+        "Matt Dennis"
+      ],
+      "disc_no": 1,
+      "length": "6:18",
+      "no": 2,
+      "title": "Violets for Your Furs"
+    },
+    {
+      "composer": [
+        "Gabriel Luna de la Fuente",
+        "Paz Miguel Prado",
+        "Bob Russell"
+      ],
+      "disc_no": 1,
+      "length": "7:31",
+      "no": 3,
+      "title": "Time Was"
+    },
+    {
+      "composer": "John Coltrane",
+      "disc_no": 1,
+      "length": "6:21",
+      "no": 4,
+      "title": "Straight Street"
+    },
+    {
+      "composer": [
+        "Gus Kahn",
+        "Bronislaw Kaper"
+      ],
+      "disc_no": 1,
+      "length": "4:44",
+      "no": 5,
+      "title": "While My Lady Sleeps"
+    },
+    {
+      "composer": "John Coltrane",
+      "disc_no": 1,
+      "length": "8:12",
+      "no": 6,
+      "title": "Chronic Blues"
+    }
+  ]
+}
