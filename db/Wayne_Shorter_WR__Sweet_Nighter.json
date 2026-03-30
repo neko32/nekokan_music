@@ -1,0 +1,126 @@
+{
+  "comment": "WRの中でも最も純ジャズよりのアルバムかもしれないのはやはり純ジャズの指向が強めだったヴィトウスのせいか、1973年いまだデジタルシンセサイザ普及前だったことか。いずれにしても純ジャズ耳で聞いても後年のいかにもフュージョンくささがないせいかスリリングな演奏も多い。特にスウィートナイターの徐々に盛り上がっていく、ザヴィヌルお得意のラヴェルのボレロ風スタイルが聴き所。",
+  "date": "2026/03/30",
+  "id": "65532",
+  "janre": {
+    "main": "Fusion",
+    "sub": [
+      "Straight Ahead"
+    ]
+  },
+  "label": "Columbia",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [
+      {
+        "abbr": "WR",
+        "members": [
+          {
+            "instruments": "Tenor Saxophone, Soprano Saxophone",
+            "leader": true,
+            "name": "Wayne Shorter",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Piano, Electric Piano, Synthesizer",
+            "leader": true,
+            "name": "Joe Zawinul",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Double Bass, Electric Bass",
+            "name": "Miroslav Vitous",
+            "tracks": "1,2,3,5"
+          },
+          {
+            "instruments": "Electric Bass, English Horn",
+            "name": "Andrew Whilte",
+            "tracks": "3,5"
+          },
+          {
+            "instruments": "Drums",
+            "name": "Herschel Dwellingham",
+            "tracks": "1,2,4,6"
+          },
+          {
+            "instruments": "Drums",
+            "name": "Eric Gravatt",
+            "tracks": "2,4"
+          },
+          {
+            "instruments": "Percussion",
+            "name": "Muruga Booker",
+            "tracks": "1,2,3,4"
+          },
+          {
+            "instruments": "Percussion",
+            "name": "Dom Um Romao",
+            "tracks": "all"
+          }
+        ],
+        "name": "Weather Report"
+      }
+    ],
+    "leader": [],
+    "orchestra": [],
+    "sidemen": [],
+    "soloists": []
+  },
+  "record_year": [
+    1973
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sweetnighter"
+    }
+  ],
+  "release_year": 1973,
+  "score": 4,
+  "title": "Sweet Nighter",
+  "tracks": [
+    {
+      "composer": "Joe Zawinul",
+      "disc_no": 1,
+      "length": "13:06",
+      "no": 1,
+      "title": "Boogie Woogie Waltz"
+    },
+    {
+      "composer": "Wayne Shorter",
+      "disc_no": 1,
+      "length": "5:58",
+      "no": 2,
+      "title": "Manolete"
+    },
+    {
+      "composer": "Joe Zawinul",
+      "disc_no": 1,
+      "length": "3:02",
+      "no": 3,
+      "title": "Adios"
+    },
+    {
+      "composer": "Joe Zawinul",
+      "disc_no": 1,
+      "length": "12:16",
+      "no": 4,
+      "title": "125th Street Congress"
+    },
+    {
+      "composer": "Miroslav Vitous",
+      "disc_no": 1,
+      "length": "6:22",
+      "no": 5,
+      "title": "Will"
+    },
+    {
+      "composer": "Wayne Shorter",
+      "disc_no": 1,
+      "length": "3:53",
+      "no": 6,
+      "title": "Non-Stop Home"
+    }
+  ]
+}
