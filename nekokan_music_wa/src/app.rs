@@ -288,7 +288,7 @@ pub fn app() -> Html {
             </aside>
             <main class="content">
                 <div class="content-inner">
-                    <h1 class="app-title">{"Nekokan Music"}</h1>
+                    <h1 class="app-title">{ crate::APP_TITLE_WITH_VERSION }</h1>
                     if let Some(ref msg) = *load_error {
                         <p class="load-err">{"ロードエラー: "}{ msg.clone() }</p>
                     }
