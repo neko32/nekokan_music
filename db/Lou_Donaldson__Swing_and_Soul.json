@@ -1,0 +1,117 @@
+{
+  "comment": "冒頭からバラード、というのはかなり意表をついた趣向だが、バレットのコンガ入りで快活な側面もあるアルバム。しっとり聴かせるバラード系、バレットのコンガとフォスターの端麗なピアノが楽しい快活系の２トラックで聞き飽きない一品。",
+  "date": "2026/03/30",
+  "id": "BLP 1566",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Lou Donaldson",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Piano",
+        "name": "Herman Foster",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Peck Morrison",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Dave Bailey",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Congas",
+        "name": "Ray Baretto",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1957
+  ],
+  "references": [
+    {
+      "name": "Lou Donaldson",
+      "url": "https://en.wikipedia.org/wiki/Swing_and_Soul"
+    }
+  ],
+  "release_year": 1957,
+  "score": 4,
+  "title": "Swing and Soul",
+  "tracks": [
+    {
+      "composer": "Rudy Nichols",
+      "disc_no": 1,
+      "length": "5:25",
+      "no": 1,
+      "title": "Dorothy"
+    },
+    {
+      "composer": [
+        "Al Frisch",
+        "Fritz Wise"
+      ],
+      "disc_no": 1,
+      "length": "4:23",
+      "no": 2,
+      "title": "I Won't Cry Any More"
+    },
+    {
+      "composer": "Herman Foster",
+      "disc_no": 1,
+      "length": "4:56",
+      "no": 3,
+      "title": "Herman's Mambo"
+    },
+    {
+      "composer": "Lou Donaldson",
+      "disc_no": 1,
+      "length": "5:23",
+      "no": 4,
+      "title": "Peck Time"
+    },
+    {
+      "composer": [
+        "Mack Gordon",
+        "Harry Warren"
+      ],
+      "disc_no": 1,
+      "length": "5:08",
+      "no": 5,
+      "title": "There'll Never Be Another You"
+    },
+    {
+      "composer": "Lou Donaldson",
+      "disc_no": 1,
+      "length": "6:19",
+      "no": 6,
+      "title": "Groove Junction"
+    },
+    {
+      "composer": "Lou Donaldson",
+      "disc_no": 1,
+      "length": "6:18",
+      "no": 7,
+      "title": "Grits and Gravy"
+    }
+  ]
+}
