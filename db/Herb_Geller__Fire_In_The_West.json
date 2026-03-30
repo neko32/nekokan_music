@@ -1,0 +1,119 @@
+{
+  "comment": "編成はトランペット・アルト・テナーサックス３管だがゲラーのアレンジはなかなか優れていてまるでラージコンボかちょっとしたビッグバンドのようなアンサンブルに聴こえ、感心。演奏全体は残念ながらウェストコーストで軽く流れる感じになってしまっている。しかしケニー・ドーハムの存在はなんといっても特筆すべき。",
+  "date": "2026/03/29",
+  "id": "JLP 1044",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "West Coast"
+    ]
+  },
+  "label": "Jubilee",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Alto Saxophone, Arranger",
+        "name": "Herb Geller",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Kenny Dorham",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Harold Land",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Lou Levy",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Ray Brown",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Lawrence Marable",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1957
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/release/4332676-Herb-Geller-Fire-In-The-West"
+    }
+  ],
+  "release_year": 1957,
+  "score": 3,
+  "title": "Fire In The West",
+  "tracks": [
+    {
+      "composer": "Herb Geller",
+      "disc_no": 1,
+      "length": "5:53",
+      "no": 1,
+      "title": "S'Pacific View"
+    },
+    {
+      "composer": "Thomas Waller",
+      "disc_no": 1,
+      "length": "5:45",
+      "no": 2,
+      "title": "Jitterbug Waltz"
+    },
+    {
+      "composer": "Bud Powell",
+      "disc_no": 1,
+      "length": "6:13",
+      "no": 3,
+      "title": "The Fruit"
+    },
+    {
+      "composer": [
+        "Harold Arlen",
+        "Ira Gershwin"
+      ],
+      "disc_no": 1,
+      "length": "4:41",
+      "no": 4,
+      "title": "Here's What I'm Here For"
+    },
+    {
+      "composer": "Herb Geller",
+      "disc_no": 1,
+      "length": "4:40",
+      "no": 5,
+      "title": "Marable Eyes"
+    },
+    {
+      "composer": "Herb Geller",
+      "disc_no": 1,
+      "length": "3:41",
+      "no": 6,
+      "title": "An Air For An Heir"
+    },
+    {
+      "composer": "Herb Geller",
+      "disc_no": 1,
+      "length": "4:09",
+      "no": 7,
+      "title": "Melrose And Sam"
+    }
+  ]
+}

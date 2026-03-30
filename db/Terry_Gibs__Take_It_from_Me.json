@@ -1,0 +1,119 @@
+{
+  "comment": "マットでリバーブ抑え目のドライな音色が特徴。ケニーバレルとルイス・ヘイズの演奏がなかなか良い感じ。小気味よいスイングが聴ける。",
+  "date": "2026/03/29",
+  "id": "AS-58",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Impulse!",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Vibraphone",
+        "name": "Terry Gibs",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Guitar",
+        "name": "Kenny Burrell",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Sam Jones",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Louis Hayes",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1964
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Take_It_from_Me_(album)"
+    }
+  ],
+  "release_year": 1964,
+  "score": 4,
+  "title": "Take It from Me",
+  "tracks": [
+    {
+      "composer": "Terry Gibs",
+      "disc_no": 1,
+      "length": "4:21",
+      "no": 1,
+      "title": "Take It from Me"
+    },
+    {
+      "composer": "Terry Gibs",
+      "disc_no": 1,
+      "length": "3:56",
+      "no": 2,
+      "title": "El Fasto"
+    },
+    {
+      "composer": "Terry Gibs",
+      "disc_no": 1,
+      "length": "3:11",
+      "no": 3,
+      "title": "Oge"
+    },
+    {
+      "composer": "Terry Gibs",
+      "disc_no": 1,
+      "length": "2:30",
+      "no": 4,
+      "title": "Pauline's Place"
+    },
+    {
+      "composer": "Terry Gibs",
+      "disc_no": 1,
+      "length": "2:30",
+      "no": 5,
+      "title": "8 LBS., 10 OZS."
+    },
+    {
+      "composer": "Terry Gibs",
+      "disc_no": 1,
+      "length": "6:14",
+      "no": 6,
+      "title": "Gee, Dad, It's A Degan"
+    },
+    {
+      "composer": [
+        "Jerome Kern",
+        "Oscar Hammerstein II"
+      ],
+      "disc_no": 1,
+      "length": "4:21",
+      "no": 7,
+      "title": "All The Things You Are"
+    },
+    {
+      "composer": [
+        "Fats Waller",
+        "Andy Razaf"
+      ],
+      "disc_no": 1,
+      "length": "4:40",
+      "no": 8,
+      "title": "Honeysuckle Rose"
+    }
+  ]
+}

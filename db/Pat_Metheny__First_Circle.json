@@ -1,0 +1,133 @@
+{
+  "comment": "最初の曲で「うーん、これはやばいかもな..」と思うが次の曲からは一転、いつもの上質なメセニーの音楽世界に戻る。なかでもタイトル曲は白眉で、10分足らずだが壮大なドラマを感じさせる曲の仕掛けがあり圧倒される。",
+  "date": "2026/03/29",
+  "id": "823 342-2",
+  "janre": {
+    "main": "Fusion",
+    "sub": [
+      "Fusion"
+    ]
+  },
+  "label": "ECM",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Electric Guitar, Electric Sitar, Guitar, Synthesizer",
+        "name": "Pat Metheny",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Piano, Synthesizer, Organ, Trumpet, Agogo bells",
+        "name": "Lyle Mays",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass, Electric Bass, Kick Drum",
+        "name": "Steve Rodby",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums, Percussion",
+        "name": "Paul Wertico",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Vocals, Percussion, Guitar, Whistle",
+        "name": "Pedro Aznar",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1984
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/First_Circle_(album)"
+    }
+  ],
+  "release_year": 1984,
+  "score": 4,
+  "title": "First Circle",
+  "tracks": [
+    {
+      "composer": "Pat Metheny",
+      "disc_no": 1,
+      "length": "2:47",
+      "no": 1,
+      "title": "Forward March"
+    },
+    {
+      "composer": "Lyle Mays",
+      "disc_no": 1,
+      "length": "4:43",
+      "no": 2,
+      "title": "Yolanda, You Learn"
+    },
+    {
+      "composer": [
+        "Pat Metheny",
+        "Lyle Mays"
+      ],
+      "disc_no": 1,
+      "length": "9:10",
+      "no": 3,
+      "title": "The First Circle"
+    },
+    {
+      "composer": "Pat Metheny",
+      "disc_no": 1,
+      "length": "6:54",
+      "no": 4,
+      "title": "If I Could"
+    },
+    {
+      "composer": [
+        "Pat Metheny",
+        "Lyle Mays"
+      ],
+      "disc_no": 1,
+      "length": "7:55",
+      "no": 5,
+      "title": "Tell It All"
+    },
+    {
+      "composer": [
+        "Pat Metheny",
+        "Lyle Mays"
+      ],
+      "disc_no": 1,
+      "length": "7:57",
+      "no": 6,
+      "title": "End of the Game"
+    },
+    {
+      "composer": [
+        "Pat Metheny",
+        "Pedro Aznar"
+      ],
+      "disc_no": 1,
+      "length": "5:37",
+      "no": 7,
+      "title": "Mas Alla (Beyond)"
+    },
+    {
+      "composer": [
+        "Pat Metheny",
+        "Lyle Mays"
+      ],
+      "disc_no": 1,
+      "length": "4:19",
+      "no": 8,
+      "title": "Praise"
+    }
+  ]
+}
