@@ -1,0 +1,105 @@
+{
+  "comment": "かつて入手するのがとても難しい超レアアルバム。実にBNらしいハウスメンバーによる大変素晴らしいBNハードバップ。アートテイラーがまるでフィリージョーのよう！曲も様々なプレイヤーのオリジナルのラインアップで楽しい。バグスグルーブが嬉しい。",
+  "date": "2026/03/30",
+  "id": "BLP 1568",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Hank Mobley",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Bill Hardman",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Alto Saxophone, Tenor Saxophone",
+        "name": "Curtis Porter",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Sonny Clark",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Paul Chambers",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Art Taylor",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1957
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hank_Mobley_(album)"
+    }
+  ],
+  "release_year": 1958,
+  "score": 5,
+  "title": "Hank Mobley",
+  "tracks": [
+    {
+      "composer": "Curtis Porter",
+      "disc_no": 1,
+      "length": "6:53",
+      "no": 1,
+      "title": "Mighty Moe and Joe"
+    },
+    {
+      "composer": [
+        "Lorenz Hart",
+        "Richard Rodgers"
+      ],
+      "disc_no": 1,
+      "length": "5:26",
+      "no": 2,
+      "title": "Falling in Love with Love"
+    },
+    {
+      "composer": "Milt Jackson",
+      "disc_no": 1,
+      "length": "5:53",
+      "no": 3,
+      "title": "Bag's Groove"
+    },
+    {
+      "composer": "Hank Mobley",
+      "disc_no": 1,
+      "length": "8:04",
+      "no": 4,
+      "title": "Double Exposure"
+    },
+    {
+      "composer": "Curtis Porter",
+      "disc_no": 1,
+      "length": "8:12",
+      "no": 5,
+      "title": "News"
+    }
+  ]
+}
