@@ -1,0 +1,95 @@
+{
+  "comment": "静かでレイジーで寂寥感にあふれるタイトル曲から快活なJean De Fleur等、格調高い名盤。グリーンはこういう気品溢れる作品もできるんだ、というマニフェスト。",
+  "date": "2026/03/31",
+  "id": "BST 84154",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "New Mainstream"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Guitar",
+        "name": "Grant Green",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Joe Henderson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Vibraphone",
+        "name": "Bobby Hutcherson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Duke Pearson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Bob Cranshaw",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Al Harewood",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1963
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Idle_Moments#:~:text=Idle%20Moments%20is%20an%20album%20by%20American%20jazz,Pearson%2C%20bassist%20Bob%20Cranshaw%20and%20drummer%20Al%20Harewood."
+    }
+  ],
+  "release_year": 1965,
+  "score": 5,
+  "title": "Idle Moments",
+  "tracks": [
+    {
+      "composer": "Duke Pearson",
+      "disc_no": 1,
+      "length": "14:56",
+      "no": 1,
+      "title": "Idle Moments"
+    },
+    {
+      "composer": "Grant Green",
+      "disc_no": 1,
+      "length": "6:49",
+      "no": 2,
+      "title": "Jean De Fleur"
+    },
+    {
+      "composer": "John Lewis",
+      "disc_no": 1,
+      "length": "8:44",
+      "no": 3,
+      "title": "Django"
+    },
+    {
+      "composer": "Duke Pearson",
+      "disc_no": 1,
+      "length": "12:16",
+      "no": 4,
+      "title": "Nomad"
+    }
+  ]
+}
