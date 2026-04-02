@@ -236,6 +236,8 @@ pub fn app() -> Html {
         .map(|(k, v)| (k.clone(), v.clone()))
         .collect();
 
+    let on_add_new_top = on_add_new.clone();
+
     html! {
         <div class="layout">
             if *save_in_progress {
@@ -251,6 +253,13 @@ pub fn app() -> Html {
                 if *loading {
                     <p class="sidebar-loading">{"読込中..."}</p>
                 } else {
+                    <a
+                        href="#"
+                        class="add-new-link add-new-link-top"
+                        onclick={move |e: MouseEvent| { e.prevent_default(); on_add_new_top.emit(()); }}
+                    >
+                        {"Add New Music"}
+                    </a>
                     <ul class="file-list">
                         { for file_list.iter().map(|entry| {
                             let filename = entry.filename.clone();
