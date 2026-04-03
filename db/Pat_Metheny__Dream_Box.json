@@ -1,0 +1,111 @@
+{
+  "comment": "メセニーのソロアルバムで多重録音を駆使した作品。メセニーの抒情性をじっくり味わえる一品。ただしアルバム自体が長く割合似た調子の曲が続き、かつ大きな展開やうねりはないのでやや退屈感を感じるのも事実。",
+  "date": "2026/04/02",
+  "id": "538891691",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Chamber Music"
+    ]
+  },
+  "label": "BMG",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Guitar, Electric Guitar, Baritone Guitar",
+        "name": "Pat Metheny",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [],
+    "soloists": []
+  },
+  "record_year": [
+    2021,
+    2022
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dream_Box"
+    }
+  ],
+  "release_year": 2023,
+  "score": 3,
+  "title": "Dream Box",
+  "tracks": [
+    {
+      "composer": "Pat Metheny",
+      "disc_no": 1,
+      "length": "5:39",
+      "no": 1,
+      "title": "The Waves Are Not the Ocean"
+    },
+    {
+      "composer": "Pat Metheny",
+      "disc_no": 1,
+      "length": "8:20",
+      "no": 2,
+      "title": "From the Mountains"
+    },
+    {
+      "composer": "Pat Metheny",
+      "disc_no": 1,
+      "length": "6:33",
+      "no": 3,
+      "title": "Ole & Gard"
+    },
+    {
+      "composer": "Pat Metheny",
+      "disc_no": 1,
+      "length": "5:28",
+      "no": 4,
+      "title": "Trust Your Angels"
+    },
+    {
+      "composer": "Russ Long",
+      "disc_no": 1,
+      "length": "5:57",
+      "no": 5,
+      "title": "Never Was Love"
+    },
+    {
+      "composer": [
+        "Jule Styne",
+        "Sammy Cahn"
+      ],
+      "disc_no": 1,
+      "length": "5:08",
+      "no": 6,
+      "title": "I Fall in Love Too Easily"
+    },
+    {
+      "composer": "Pat Metheny",
+      "disc_no": 1,
+      "length": "5:00",
+      "no": 7,
+      "title": "P.C. of Belgium"
+    },
+    {
+      "composer": [
+        "Luiz Bonfa",
+        "Antonio Maria"
+      ],
+      "disc_no": 1,
+      "length": "6:42",
+      "no": 8,
+      "title": "Morning of the Carnival"
+    },
+    {
+      "composer": "Pat Metheny",
+      "disc_no": 1,
+      "length": "7:14",
+      "no": 9,
+      "title": "Clouds Can't Change the Sky"
+    }
+  ]
+}
