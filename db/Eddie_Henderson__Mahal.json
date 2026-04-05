@@ -1,0 +1,146 @@
+{
+  "comment": "セクステット時代のメンバーで1978当時ハービーのやっていたディスコ・ファンクの路線(Sunlightが1978年)をやってみたら...というコンセプトアルバムかもしれないがやっぱりセクステット時代のアングラな感じを感じさせる曲のほうがよく合ってる。",
+  "date": "2026/04/04",
+  "id": "ST 11846",
+  "janre": {
+    "main": "Fusion",
+    "sub": [
+      "Funk",
+      "Disco",
+      "Fusion"
+    ]
+  },
+  "label": "Capitol",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Trumpet, Flugelhorn",
+        "name": "Eddie Henderson",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trombone",
+        "name": "Julian Priester",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tenor Saxophone, Saxello",
+        "name": "Bennie Maupin",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Flute",
+        "name": "Hubert Laws",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Electric Guitar",
+        "name": "Ray Obiedo",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Electric Piano, Clavinet, Synthesizer",
+        "name": "Herbie Hancock",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Synthesizer, Programming",
+        "name": "John Bowen",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano, Congas",
+        "name": "Mtume",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Electric Bass",
+        "name": "Paul Jackson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Howard King",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Congas, Percussion",
+        "name": "Bill Summers",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1978
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mahal_(Eddie_Henderson_album)"
+    }
+  ],
+  "release_year": 1978,
+  "score": 4,
+  "title": "Mahal",
+  "tracks": [
+    {
+      "composer": [
+        "Herbie Hancock",
+        "Bennie Maupin"
+      ],
+      "disc_no": 1,
+      "length": "8:05",
+      "no": 1,
+      "title": "Butterfly"
+    },
+    {
+      "composer": "James Mtume",
+      "disc_no": 1,
+      "length": "5:18",
+      "no": 2,
+      "title": "Cyclops"
+    },
+    {
+      "composer": "Eddie Henderson",
+      "disc_no": 1,
+      "length": "4:59",
+      "no": 3,
+      "title": "Emotions"
+    },
+    {
+      "composer": "James Mtume",
+      "disc_no": 1,
+      "length": "5:16",
+      "no": 4,
+      "title": "Prance On"
+    },
+    {
+      "composer": "Bennie Maupin",
+      "disc_no": 1,
+      "length": "5:38",
+      "no": 5,
+      "title": "Amoroso"
+    },
+    {
+      "composer": "Eddie Henderson",
+      "disc_no": 1,
+      "length": "4:27",
+      "no": 6,
+      "title": "Mahal"
+    },
+    {
+      "composer": "Eddie Henderson",
+      "disc_no": 1,
+      "length": "3:25",
+      "no": 7,
+      "title": "Ecstasy"
+    }
+  ]
+}

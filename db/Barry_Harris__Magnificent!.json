@@ -1,0 +1,112 @@
+{
+  "comment": "1970年にバド・パウエルが帰ってきた？！バドパウエルのエピゴーネンと言ったら悪いがバドを思わせんばかりの打鍵のクセと呻きとピアノトリオのフォーマット。急速調ではThe Amazing Bud vol1/2時代を思わせミッドテンポではVol.3/4/5時代を思わせる演奏もあり聴いてて楽しい。",
+  "date": "2026/04/04",
+  "id": "PR 7733",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Prestige",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Barry Harris",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Double Bass",
+        "name": "Ron Carter",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Leroy Williams",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1969
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Magnificent!"
+    }
+  ],
+  "release_year": 1970,
+  "score": 5,
+  "title": "Magnificent!",
+  "tracks": [
+    {
+      "composer": "Coleman Hawkins",
+      "disc_no": 1,
+      "length": "6:41",
+      "no": 1,
+      "title": "Bean and the Boys"
+    },
+    {
+      "composer": "Barry Harris",
+      "disc_no": 1,
+      "length": "4:04",
+      "no": 2,
+      "title": "You Sweet and Fancy Lady"
+    },
+    {
+      "composer": "Barry Harris",
+      "disc_no": 1,
+      "length": "4:15",
+      "no": 3,
+      "title": "Rouge"
+    },
+    {
+      "composer": "Charlie Parker",
+      "disc_no": 1,
+      "length": "4:00",
+      "no": 4,
+      "title": "Ah-Leu-Cha"
+    },
+    {
+      "composer": "Barry Harris",
+      "disc_no": 1,
+      "length": "6:05",
+      "no": 5,
+      "title": "Just Open Your Heart"
+    },
+    {
+      "composer": "Barry Harris",
+      "disc_no": 1,
+      "length": "4:21",
+      "no": 6,
+      "title": "Sun Dance"
+    },
+    {
+      "composer": [
+        "Harry Link",
+        "Holt Marvell",
+        "Jack Strachey"
+      ],
+      "disc_no": 1,
+      "length": "5:20",
+      "no": 7,
+      "title": "These Foolish Things"
+    },
+    {
+      "composer": "Charlie Parker",
+      "disc_no": 1,
+      "length": "4:27",
+      "no": 8,
+      "title": "Dexterity"
+    }
+  ]
+}
