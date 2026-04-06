@@ -1,0 +1,117 @@
+{
+  "comment": "ケニードーハムの名曲のカバーが多く、まるでトミータレンタインの割合ヒョロヒョロなトランペットがドーハムのように聴こえてくる。油が乗り切ったマックスローチのドラミングはさすがの切れ味。スタンリーはまだまだヤングボーイであった。ピアノレスの重厚な三管アレンジは聞きもの。",
+  "date": "2026/04/05",
+  "id": "ENJ 4074",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Enja",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Drums",
+        "name": "Max Roach",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Tommy Turrentine",
+        "tracks": "all except 2 and 7"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Stanley Turrentine",
+        "tracks": "all except 2 and 7"
+      },
+      {
+        "instruments": "Trombone",
+        "name": "Julian Priester",
+        "tracks": "all except 2 and 7"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Bob Boswell",
+        "tracks": "all except 2 and 7"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1960
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Long_as_You%27re_Living"
+    }
+  ],
+  "release_year": 1984,
+  "score": 5,
+  "title": "Long As You're Living",
+  "tracks": [
+    {
+      "composer": "Kenny Dorham",
+      "disc_no": 1,
+      "length": "7:33",
+      "no": 1,
+      "title": "Lotus Blossom"
+    },
+    {
+      "composer": "Max Roach",
+      "disc_no": 1,
+      "length": "6:55",
+      "no": 2,
+      "title": "Drums Conversation"
+    },
+    {
+      "composer": "Kenny Dorham",
+      "disc_no": 1,
+      "length": "7:39",
+      "no": 3,
+      "title": "The Villa"
+    },
+    {
+      "composer": [
+        "Julian Priester",
+        "Tommy Turrentine"
+      ],
+      "disc_no": 1,
+      "length": "10:27",
+      "no": 4,
+      "title": "Long as You're Living"
+    },
+    {
+      "composer": [
+        "Dizzy Gillespie",
+        "Frank Paparelli"
+      ],
+      "disc_no": 1,
+      "length": "12:07",
+      "no": 5,
+      "title": "A Night in Tunisia"
+    },
+    {
+      "composer": "Consuela Lee",
+      "disc_no": 1,
+      "length": "8:03",
+      "no": 6,
+      "title": "Prelude"
+    },
+    {
+      "composer": "Max Roach",
+      "disc_no": 1,
+      "length": "2:17",
+      "no": 7,
+      "title": "Drum Talk"
+    }
+  ]
+}

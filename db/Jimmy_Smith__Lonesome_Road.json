@@ -1,0 +1,128 @@
+{
+  "comment": "1957年ジミースミス最盛期であるが本アルバムはいわゆるお蔵入り曲集。どうしてなかなか、いい演奏ではあるが割合きれいに終わらせたスタンダード感があり、Pretty Plays For Youとかといったしっとりバラード集の趣もある。快活なオリジナルが挟まっていたらCrazy Babyみたいになっていたかもしれない？",
+  "date": "2026/04/05",
+  "id": "TOCJ-1615",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Organ",
+        "name": "Jimmy Smith",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Guitar",
+        "name": "Eddie McFadden",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Donald Bailey",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1957
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/release/22779782-Jimmy-Smith-Lonesome-Road"
+    }
+  ],
+  "release_year": 1996,
+  "score": 3,
+  "title": "Lonesome Road",
+  "tracks": [
+    {
+      "composer": [
+        "Benny Davis",
+        "Con Conrad",
+        "J. Russel Robinson"
+      ],
+      "disc_no": 1,
+      "length": "5:51",
+      "no": 1,
+      "title": "Margie"
+    },
+    {
+      "composer": [
+        "Gene Austin",
+        "Nathaniel Shildret"
+      ],
+      "disc_no": 1,
+      "length": "4:46",
+      "no": 2,
+      "title": "Lonesome Road"
+    },
+    {
+      "composer": [
+        "Billy Moll",
+        "Murray Mencher"
+      ],
+      "disc_no": 1,
+      "length": "5:14",
+      "no": 3,
+      "title": "I Want A Little Girl"
+    },
+    {
+      "composer": [
+        "Erno Rapee",
+        "Lew Pollack"
+      ],
+      "disc_no": 1,
+      "length": "6:25",
+      "no": 4,
+      "title": "Diane"
+    },
+    {
+      "composer": "Edgar Sampson",
+      "disc_no": 1,
+      "length": "3:51",
+      "no": 5,
+      "title": "Blue Lou"
+    },
+    {
+      "composer": [
+        "George Gershwin",
+        "Ira Gershwin"
+      ],
+      "disc_no": 1,
+      "length": "5:41",
+      "no": 6,
+      "title": "Our Love Is Here To Stay"
+    },
+    {
+      "composer": "Fred Weatherly",
+      "disc_no": 1,
+      "length": "7:24",
+      "no": 7,
+      "title": "Danny Boy"
+    },
+    {
+      "composer": [
+        "John Latouche",
+        "Ted Fetter",
+        "Vernon Duke"
+      ],
+      "disc_no": 1,
+      "length": "4:40",
+      "no": 8,
+      "title": "Takin' A Chance On Love"
+    }
+  ]
+}
