@@ -1,0 +1,109 @@
+{
+  "comment": "実につまらないアルバム。キースの良いところ、このカルテットのいいところもこの中途半端なコンセプトで全てが台無し。いつものカルテットとは違う方向性の実験的な意欲作とでも取れば少しでも救いだが..",
+  "date": "2026/04/06",
+  "id": "IA-9334",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Neo Hard Bop"
+    ]
+  },
+  "label": "ABC Impulse!",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano, Soprano Saxophone, Percussion",
+        "name": "Keith Jarrett",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone, Musette",
+        "name": "Dewey Redman",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Charlie Haden",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums, Percussion",
+        "name": "Paul Motian",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1976
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bop-Be"
+    }
+  ],
+  "release_year": 1978,
+  "score": 2,
+  "title": "Bop-Be",
+  "tracks": [
+    {
+      "composer": "Dewey Redman",
+      "disc_no": 1,
+      "length": "6:03",
+      "no": 1,
+      "title": "Mushi Mushi"
+    },
+    {
+      "composer": "Charlie Haden",
+      "disc_no": 1,
+      "length": "3:16",
+      "no": 2,
+      "title": "Silence"
+    },
+    {
+      "composer": "Keith Jarrett",
+      "disc_no": 1,
+      "length": "6:59",
+      "no": 3,
+      "title": "Bop-Be"
+    },
+    {
+      "composer": "Dewey Redman",
+      "disc_no": 1,
+      "length": "3:41",
+      "no": 4,
+      "title": "Pyramids Moving"
+    },
+    {
+      "composer": "Dewey Redman",
+      "disc_no": 1,
+      "length": "10:35",
+      "no": 5,
+      "title": "Gotta Get Some Sleep"
+    },
+    {
+      "composer": [
+        "Loonis McGlohon",
+        "Alexsander Lafayette Chew Wilder"
+      ],
+      "disc_no": 1,
+      "length": "3:38",
+      "no": 6,
+      "title": "Blackberry Winter"
+    },
+    {
+      "composer": "Charlie Haden",
+      "disc_no": 1,
+      "length": "5:17",
+      "no": 7,
+      "title": "Pocket Full of Cherry"
+    }
+  ]
+}
