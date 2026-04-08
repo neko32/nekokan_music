@@ -1,0 +1,123 @@
+{
+  "comment": "マリガンカルテットにボブ・ブルックマイヤーのバルブTBを加えた、大変落ち着いた雰囲気のライブでいい雰囲気。",
+  "date": "2026/04/07",
+  "id": "PJ-1228",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Cool"
+    ]
+  },
+  "label": "Pacific Jazz",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Baritone Saxophone, Piano",
+        "name": "Gerry Mulligan",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Valve Trombone",
+        "name": "Bob Brookmeyer",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Bill Crow",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Save Bailey",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1956
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/release/11564659-Gerry-Mulligan-Quartet-At-Storyville"
+    }
+  ],
+  "release_year": 1957,
+  "score": 4,
+  "title": "At Storyville",
+  "tracks": [
+    {
+      "composer": "Gerry Mulligan",
+      "disc_no": 1,
+      "length": "6:39",
+      "no": 1,
+      "title": "Bweebida Bwobbida"
+    },
+    {
+      "composer": [
+        "Buddy G. De Sylva",
+        "Lew Brown",
+        "Ray Henderson"
+      ],
+      "disc_no": 1,
+      "length": "4:39",
+      "no": 2,
+      "title": "Birth of the Blues"
+    },
+    {
+      "composer": [
+        "George Forrest",
+        "Robert Craig Wright"
+      ],
+      "disc_no": 1,
+      "length": "3:28",
+      "no": 3,
+      "title": "Baubles, Bangles and Beads"
+    },
+    {
+      "composer": "Bob Brookmeyer",
+      "disc_no": 1,
+      "length": "4:52",
+      "no": 4,
+      "title": "Rustic Hop"
+    },
+    {
+      "composer": "Bob Brookmeyer",
+      "disc_no": 1,
+      "length": "5:45",
+      "no": 5,
+      "title": "Open Country"
+    },
+    {
+      "composer": "Gerry Mulligan",
+      "disc_no": 1,
+      "length": "5:37",
+      "no": 6,
+      "title": "Storyville Story"
+    },
+    {
+      "composer": [
+        "Lew Brown",
+        "Sammy Fain"
+      ],
+      "disc_no": 1,
+      "length": "4:09",
+      "no": 7,
+      "title": "That Old Feeling"
+    },
+    {
+      "composer": "Gerry Mulligan",
+      "disc_no": 1,
+      "length": "6:23",
+      "no": 8,
+      "title": "Bike Up The Stand-Utter Chaos"
+    }
+  ]
+}
