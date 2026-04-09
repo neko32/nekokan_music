@@ -1,0 +1,119 @@
+{
+  "comment": "全曲ヒルのオリジナルで実に素晴らしい創作世界が広がっている。めずらしいジョンギルモアの参加とボビー・ハッチャーソンの参加もうれしいし、リチャードデイヴィスのボコンボコンとしたベースも合ってる。",
+  "date": "2026/04/08",
+  "id": "BST 84203",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "New Mainstream",
+      "Avrant-Garde"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Andrew Hill",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "John Gilmore",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Vibraphone",
+        "name": "Bobby Hutcherson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Richard Davis",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Joe Chambers",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1964
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Andrew!!!"
+    }
+  ],
+  "release_year": 1968,
+  "score": 5,
+  "title": "Andrew!!!",
+  "tracks": [
+    {
+      "composer": "Andrew Hill",
+      "disc_no": 1,
+      "length": "6:04",
+      "no": 1,
+      "title": "The Griots"
+    },
+    {
+      "composer": "Andrew Hill",
+      "disc_no": 1,
+      "length": "8:55",
+      "no": 2,
+      "title": "Black Monday"
+    },
+    {
+      "composer": "Andrew Hill",
+      "disc_no": 1,
+      "length": "6:11",
+      "no": 3,
+      "title": "Duplicity"
+    },
+    {
+      "composer": "Andrew Hill",
+      "disc_no": 1,
+      "length": "6:55",
+      "no": 4,
+      "title": "La Serpent Qui Danse"
+    },
+    {
+      "composer": "Andrew Hill",
+      "disc_no": 1,
+      "length": "4:23",
+      "no": 5,
+      "title": "No Doubt"
+    },
+    {
+      "composer": "Andrew Hill",
+      "disc_no": 1,
+      "length": "7:08",
+      "no": 6,
+      "title": "Symmetry"
+    },
+    {
+      "composer": "Andrew Hill",
+      "disc_no": 1,
+      "length": "5:06",
+      "no": 7,
+      "title": "The Griots (alt. take)"
+    },
+    {
+      "composer": "Andrew Hill",
+      "disc_no": 1,
+      "length": "6:31",
+      "no": 8,
+      "title": "Symmetry (alt. take)"
+    }
+  ]
+}

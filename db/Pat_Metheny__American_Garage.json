@@ -1,0 +1,107 @@
+{
+  "comment": "鳴り物をあまり使ってない、比較的ソフトロック寄りなテイストのコンセプトだろうか。ゆえか比較的メセニーの抒情性、アメリカ中西部のノスタルジーといった彼の唯一無二の魅力が薄れている気がする。",
+  "date": "2026/04/08",
+  "id": "ECM-1-1155",
+  "janre": {
+    "main": "Fusion",
+    "sub": [
+      "Soft"
+    ]
+  },
+  "label": "ECM",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Guitar, Electric Guitar",
+        "name": "Pat Metheny",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Piano, Synthesizer, Autoharp, Organ",
+        "name": "Lyle Mays",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Marg Egan",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Dan Gottlieb",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1979
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/American_Garage"
+    }
+  ],
+  "release_year": 1979,
+  "score": 3,
+  "title": "American Garage",
+  "tracks": [
+    {
+      "composer": [
+        "Pat Metheny",
+        "Lyle Mays"
+      ],
+      "disc_no": 1,
+      "length": "6:55",
+      "no": 1,
+      "title": "(Cross the) Heartland"
+    },
+    {
+      "composer": [
+        "Pat Metheny",
+        "Lyle Mays"
+      ],
+      "disc_no": 1,
+      "length": "6:20",
+      "no": 2,
+      "title": "Airstream"
+    },
+    {
+      "composer": [
+        "Pat Metheny",
+        "Lyle Mays"
+      ],
+      "disc_no": 1,
+      "length": "4:54",
+      "no": 3,
+      "title": "The Search"
+    },
+    {
+      "composer": [
+        "Pat Metheny",
+        "Lyle Mays"
+      ],
+      "disc_no": 1,
+      "length": "4:13",
+      "no": 4,
+      "title": "American Garage"
+    },
+    {
+      "composer": [
+        "Pat Metheny",
+        "Lyle Mays"
+      ],
+      "disc_no": 1,
+      "length": "12:59",
+      "no": 5,
+      "title": "The Epic"
+    }
+  ]
+}
