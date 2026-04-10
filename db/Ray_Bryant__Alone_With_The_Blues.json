@@ -1,0 +1,94 @@
+{
+  "comment": "レイ・ブライアントのブルージーなピアノにひたすら浸れる贅沢な一枚。彼のブルースフィーリングへのノイズは一切ないソロピアノ。",
+  "date": "2026/04/09",
+  "id": "8213",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "New Jazz",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Ray Bryant",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [],
+    "soloists": []
+  },
+  "record_year": [
+    1959
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Alone_with_the_Blues_(Ray_Bryant_album)"
+    }
+  ],
+  "release_year": 1959,
+  "score": 4,
+  "title": "Alone With The Blues",
+  "tracks": [
+    {
+      "composer": "Ray Bryant",
+      "disc_no": 1,
+      "length": "7:15",
+      "no": 1,
+      "title": "Blues No.3"
+    },
+    {
+      "composer": "Ray Bryant",
+      "disc_no": 1,
+      "length": "3:59",
+      "no": 2,
+      "title": "Joy (Blues No.2)"
+    },
+    {
+      "composer": [
+        "Jimmy Davis",
+        "Ram Ramirez",
+        "Jimmy Sherman"
+      ],
+      "disc_no": 1,
+      "length": "3:52",
+      "no": 3,
+      "title": "Lover Man"
+    },
+    {
+      "composer": "Ray Bryant",
+      "disc_no": 1,
+      "length": "5:00",
+      "no": 4,
+      "title": "Me and the Blues (Blues No.1)"
+    },
+    {
+      "composer": "Ray Bryant",
+      "disc_no": 1,
+      "length": "7:40",
+      "no": 5,
+      "title": "My Blues (Blues No.5)"
+    },
+    {
+      "composer": "Hoagy Carmichael",
+      "disc_no": 1,
+      "length": "5:16",
+      "no": 6,
+      "title": "Rockin' Chair"
+    },
+    {
+      "composer": "Ray Bryant",
+      "disc_no": 1,
+      "length": "4:47",
+      "no": 7,
+      "title": "Stocking Feet"
+    }
+  ]
+}
