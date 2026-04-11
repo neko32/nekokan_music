@@ -1,0 +1,120 @@
+{
+  "comment": "なかなか幻の一発屋の隠れ名プレイヤーによる隠れ名盤というべきか。ケニー・ドーハムのようなトランペットのプレイと実力者揃いのサイドメンによる演奏はちゃんと一級のハードバップセッション。",
+  "date": "2026/04/10",
+  "id": "JLP 45",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Lazzland",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Trumpet",
+        "name": "Don Sleet",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Jimmy Heath",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Wynton Kelly",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Ron Carter",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Jimmy Cobb",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1961
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/release/4392600-Don-Sleet-With-Jimmy-Heath-Wynton-Kelly-Jimmy-Cobb-Ron-Carter-All-Members"
+    }
+  ],
+  "release_year": 1961,
+  "score": 4,
+  "title": "All Members",
+  "tracks": [
+    {
+      "composer": "Clifford Jordan",
+      "disc_no": 1,
+      "length": "5:40",
+      "no": 1,
+      "title": "Brooklyn Bridge"
+    },
+    {
+      "composer": [
+        "Paul Francis Webster",
+        "Sammy Fain"
+      ],
+      "disc_no": 1,
+      "length": "6:52",
+      "no": 2,
+      "title": "Secret Love"
+    },
+    {
+      "composer": [
+        "Oscar Hammerstein II",
+        "Sigmund Romberg"
+      ],
+      "disc_no": 1,
+      "length": "3:35",
+      "no": 3,
+      "title": "Softly As In A Morning Sunrise"
+    },
+    {
+      "composer": "Don Sleet",
+      "disc_no": 1,
+      "length": "5:54",
+      "no": 4,
+      "title": "Fast Company"
+    },
+    {
+      "composer": [
+        "Jimmy Van Hausen",
+        "Johnny Burke"
+      ],
+      "disc_no": 1,
+      "length": "7:34",
+      "no": 5,
+      "title": "But Beautiful"
+    },
+    {
+      "composer": "Jimmy Heath",
+      "disc_no": 1,
+      "length": "6:08",
+      "no": 6,
+      "title": "All Members"
+    },
+    {
+      "composer": "Clifford Jordan",
+      "disc_no": 1,
+      "length": "6:20",
+      "no": 7,
+      "title": "The Hearing"
+    }
+  ]
+}
