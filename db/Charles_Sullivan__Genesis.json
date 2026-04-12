@@ -1,0 +1,127 @@
+{
+  "comment": "1974年のストレートアヘッドジャズ。なかなかの熱量で迫る、シリアスな一枚で、エレクトリックファンクやフュージョン全盛の時代になかなか貴重な一枚だっただろう。",
+  "date": "2026/04/11",
+  "id": "SES 7413",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Neo Hard Bop"
+    ]
+  },
+  "label": "Strata-East",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Trumpet",
+        "name": "Charles Sullivan",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Sonny Fortune",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Stanley Cowell",
+        "tracks": "all except 2 & 3"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Onaje Allen Gumbs",
+        "tracks": "2"
+      },
+      {
+        "instruments": "Electric Piano",
+        "name": "Sharon Freeman",
+        "tracks": "3"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Alex Blake",
+        "tracks": "all except 3"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Anthony Jackson",
+        "tracks": "2"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Alphonse Mouzan",
+        "tracks": "3"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Billy Hart",
+        "tracks": "all except 3"
+      },
+      {
+        "instruments": "Percussion, Congas",
+        "name": "Lawrence Killian",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Vocal",
+        "name": "Dee Dee Bridgewater",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1974
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Genesis_(Charles_Sullivan_album)"
+    }
+  ],
+  "release_year": 1974,
+  "score": 4,
+  "title": "Genesis",
+  "tracks": [
+    {
+      "composer": "Charles Sullivan",
+      "disc_no": 1,
+      "length": "8:22",
+      "no": 1,
+      "title": "Evening Song"
+    },
+    {
+      "composer": "Charles Sullivan",
+      "disc_no": 1,
+      "length": "5:50",
+      "no": 2,
+      "title": "Good Bye Sweet John (In Memory of John Foster: Pianist)"
+    },
+    {
+      "composer": "Charles Sullivan",
+      "disc_no": 1,
+      "length": "3:51",
+      "no": 3,
+      "title": "Field Holler"
+    },
+    {
+      "composer": "Charles Sullivan",
+      "disc_no": 1,
+      "length": "4:32",
+      "no": 4,
+      "title": "Now I'll Sleep"
+    },
+    {
+      "composer": "Charles Sullivan",
+      "disc_no": 1,
+      "length": "17:27",
+      "no": 5,
+      "title": "Genesis"
+    }
+  ]
+}

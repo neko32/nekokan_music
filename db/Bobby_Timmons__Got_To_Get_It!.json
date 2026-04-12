@@ -1,0 +1,180 @@
+{
+  "comment": "アレンジ入りの曲は正直逆にホーンアンサンブルがうるさく感じ、むしろティモンズのピアノの濃度を薄くして邪魔かもしれない。ギター入りカルテットの演奏とJM時代の曲の再演が利き所だろう。",
+  "date": "2026/04/11",
+  "id": "MSP 9011",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Neo Hard Bop"
+    ]
+  },
+  "label": "Milestone",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Bobby Timmons",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet, Flugelhorn",
+        "name": "Jimmy Owens",
+        "tracks": "1,2,4,6,8"
+      },
+      {
+        "instruments": "Flute",
+        "name": "Hubert Laws",
+        "tracks": "1,2,4,6,8"
+      },
+      {
+        "instruments": "Flute, Tenor Saxophone",
+        "name": "Joe Farrell",
+        "tracks": "1,2,4,6,8"
+      },
+      {
+        "instruments": "Flute, Tenor Saxophone",
+        "name": "James Moody",
+        "tracks": "1,2,4,6,8"
+      },
+      {
+        "instruments": "Baritone Saxophone",
+        "name": "George Barrow",
+        "tracks": ""
+      },
+      {
+        "instruments": "Guitar",
+        "name": "Joe Beck",
+        "tracks": "3,5,7,9"
+      },
+      {
+        "instruments": "Guitar",
+        "name": "Howard Collins",
+        "tracks": "2,8"
+      },
+      {
+        "instruments": "Guitar",
+        "name": "Eric Gale",
+        "tracks": "1,4,6"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Ron Carter",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Jimmy Cobb",
+        "tracks": "2,3,5,7-9"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Billy Higgins",
+        "tracks": "1,4,6"
+      },
+      {
+        "instruments": "Arranger, Conductor",
+        "name": "Tom McIntosh",
+        "tracks": "1,2,4,6,8"
+      },
+      {
+        "instruments": "Voice",
+        "name": "Unidentified Voices",
+        "tracks": "1,4,6"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1967
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Got_to_Get_It!"
+    }
+  ],
+  "release_year": 1967,
+  "score": 3,
+  "title": "Got To Get It!",
+  "tracks": [
+    {
+      "composer": "Tom McIntosh",
+      "disc_no": 1,
+      "length": "3:14",
+      "no": 1,
+      "title": "If You Ain't Got It (I Got to Get It Somewhere)"
+    },
+    {
+      "composer": "Jimmy Webb",
+      "disc_no": 1,
+      "length": "4:06",
+      "no": 2,
+      "title": "Up, Up and Away"
+    },
+    {
+      "composer": [
+        "Jimmy Mundy",
+        "Trummy Young",
+        "Johnny Mercer"
+      ],
+      "disc_no": 1,
+      "length": "5:06",
+      "no": 3,
+      "title": "Travelin' Light"
+    },
+    {
+      "composer": "Duke Ellington",
+      "disc_no": 1,
+      "length": "3:02",
+      "no": 4,
+      "title": "Come Sunday"
+    },
+    {
+      "composer": "Bobby Timmons",
+      "disc_no": 1,
+      "length": "4:42",
+      "no": 5,
+      "title": "One Down"
+    },
+    {
+      "composer": "Bobby Timmons",
+      "disc_no": 1,
+      "length": "2:54",
+      "no": 6,
+      "title": "So Tired"
+    },
+    {
+      "composer": [
+        "Johnny Burke",
+        "Jimmy Van Heusen"
+      ],
+      "disc_no": 1,
+      "length": "3:22",
+      "no": 7,
+      "title": "Here's That Rainy Day"
+    },
+    {
+      "composer": "Thelonious Monk",
+      "disc_no": 1,
+      "length": "6:04",
+      "no": 8,
+      "title": "Straight, No Chaser"
+    },
+    {
+      "composer": [
+        "Walter Booker",
+        "Cedar Walton"
+      ],
+      "disc_no": 1,
+      "length": "5:02",
+      "no": 9,
+      "title": "Booker's Boosa"
+    }
+  ]
+}

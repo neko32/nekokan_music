@@ -1,0 +1,97 @@
+{
+  "comment": "晦渋でハードコア、一見お断りの真摯なジャズ。全曲ロー・ミッドテンポ、ピアノレス、スリーホーンの玄人好みのフォーマット。図太いパーラのベースとエルヴィンの重いドラムがピアノレスの空虚な空間を支配する。",
+  "date": "2026/04/11",
+  "id": "BST 84369",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Post Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Drums",
+        "name": "Elvin Jones",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone, Soprano Saxophone",
+        "name": "Joe Farrell",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tenor Saxophone, Soprano Saxophone",
+        "name": "Dave Liebman",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tenor Saxophone, Alto Flute, Alto Clarinet",
+        "name": "Frank Foster",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass, Electric Bass",
+        "name": "Gene Perla",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1971
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Genesis_(Elvin_Jones_album)"
+    }
+  ],
+  "release_year": 1971,
+  "score": 5,
+  "title": "Genesis",
+  "tracks": [
+    {
+      "composer": "Gene Perla",
+      "disc_no": 1,
+      "length": "5:00",
+      "no": 1,
+      "title": "P.P.Phonenix"
+    },
+    {
+      "composer": "Gene Perla",
+      "disc_no": 1,
+      "length": "10:07",
+      "no": 2,
+      "title": "For All The Other Times"
+    },
+    {
+      "composer": "Dave Liebman",
+      "disc_no": 1,
+      "length": "5:32",
+      "no": 3,
+      "title": "Slumber"
+    },
+    {
+      "composer": "Elvin Jones",
+      "disc_no": 1,
+      "length": "8:27",
+      "no": 4,
+      "title": "Three Card Molly"
+    },
+    {
+      "composer": "Frank Foster",
+      "disc_no": 1,
+      "length": "10:06",
+      "no": 5,
+      "title": "Cecilia Is Love"
+    }
+  ]
+}
