@@ -1,0 +1,114 @@
+{
+  "comment": "シダー渾身のデビュー作は実に素晴らしい内容のハードパッピッシュな名作となった。シダーの流麗なタッチのピアノがドーハムのバッキングのとき良く映える。リロイ・ヴィネガーのベースも大変良く弾んでいる。",
+  "date": "2026/04/12",
+  "id": "PR 7519",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Prestige",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Cedar Walton",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Kenny Dorham",
+        "tracks": "all except 3"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Junior Cook",
+        "tracks": "1,5,6"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Leroy Vinnegar",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Billy Higgins",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1967
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cedar!"
+    }
+  ],
+  "release_year": 1967,
+  "score": 5,
+  "title": "Cedar!",
+  "tracks": [
+    {
+      "composer": "Cedar Walton",
+      "disc_no": 1,
+      "length": "7:19",
+      "no": 1,
+      "title": "Turquoise Twice"
+    },
+    {
+      "composer": "Cedar Walton",
+      "disc_no": 1,
+      "length": "4:20",
+      "no": 2,
+      "title": "Twilight Waltz"
+    },
+    {
+      "composer": [
+        "Ira Gershwin",
+        "Kurt Weill"
+      ],
+      "disc_no": 1,
+      "length": "5:34",
+      "no": 3,
+      "title": "My Ship"
+    },
+    {
+      "composer": "Cedar Walton",
+      "disc_no": 1,
+      "length": "6:25",
+      "no": 4,
+      "title": "Short Stuff"
+    },
+    {
+      "composer": "Cedar Walton",
+      "disc_no": 1,
+      "length": "4:15",
+      "no": 5,
+      "title": "Head and Shoulders"
+    },
+    {
+      "composer": "Duke Ellington",
+      "disc_no": 1,
+      "length": "6:59",
+      "no": 6,
+      "title": "Come Sunday"
+    },
+    {
+      "composer": "Billy Strayhorn",
+      "disc_no": 1,
+      "length": "3:29",
+      "no": 7,
+      "title": "Take the \"A\" Train"
+    }
+  ]
+}
