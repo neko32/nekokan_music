@@ -1,0 +1,114 @@
+{
+  "comment": "ベーシストとしての主張はあるがミンガスらしいかと言われると微妙な感じもする、ブルースとスタンダード集。\nミンガスらしいアレンジの妙はあるにはある。",
+  "date": "2026/04/14",
+  "id": "JLP 1054",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Jubilee",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Double Bass",
+        "name": "Charles Mingus",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Piano",
+        "name": "Hampton Hawes",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums, Tambourine",
+        "name": "Dannie Richmond",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1957
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mingus_Three"
+    }
+  ],
+  "release_year": 1957,
+  "score": 3,
+  "title": "Mingus Three",
+  "tracks": [
+    {
+      "composer": [
+        "Otto Harbach",
+        "Jerome Kern"
+      ],
+      "disc_no": 1,
+      "length": "4:13",
+      "no": 1,
+      "title": "Yesterdays"
+    },
+    {
+      "composer": "Charles Mingus",
+      "disc_no": 1,
+      "length": "5:29",
+      "no": 2,
+      "title": "Back Home Blues"
+    },
+    {
+      "composer": [
+        "Vernon Duke",
+        "Ira Gershwin"
+      ],
+      "disc_no": 1,
+      "length": "6:28",
+      "no": 3,
+      "title": "I Can't Get Started"
+    },
+    {
+      "composer": "Hampton Hawes",
+      "disc_no": 1,
+      "length": "3:52",
+      "no": 4,
+      "title": "Hamp's New Blues"
+    },
+    {
+      "composer": [
+        "George Gershwin",
+        "Ira Gershwin",
+        "DuBose Heyward"
+      ],
+      "disc_no": 1,
+      "length": "4:28",
+      "no": 5,
+      "title": "Summertime"
+    },
+    {
+      "composer": "Charles Mingus",
+      "disc_no": 1,
+      "length": "6:51",
+      "no": 6,
+      "title": "Dizzy Moods"
+    },
+    {
+      "composer": [
+        "Johnny Mercer",
+        "David Raksin"
+      ],
+      "disc_no": 1,
+      "length": "6:33",
+      "no": 7,
+      "title": "Laura"
+    }
+  ]
+}

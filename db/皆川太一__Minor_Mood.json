@@ -1,0 +1,137 @@
+{
+  "comment": "おお、なんかちょっと現代的なモブレーとケニーバレルかなぁ、と思ってうれしくなってしまった、現代新進気鋭の日本のプレイヤー達の見本市のようなアルバム。ジャズの歴史はアメリカではなく日本で受け継がれていたのだろうか...",
+  "date": "2026/04/14",
+  "id": "TYR-1052",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Neo Hard Bop"
+    ]
+  },
+  "label": "寺島レコード",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Guitar",
+        "name": "皆川太一",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "杉本匡教",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "清水昭好",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "横山和明",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    2016
+  ],
+  "references": [
+    {
+      "name": "Vento Azul",
+      "url": "https://ventoazul.shop-pro.jp/?pid=97752977"
+    }
+  ],
+  "release_year": 2016,
+  "score": 4,
+  "title": "Minor Mood",
+  "tracks": [
+    {
+      "composer": "Bent Jadig",
+      "disc_no": 1,
+      "length": "3:59",
+      "no": 1,
+      "title": "Minor Blues"
+    },
+    {
+      "composer": "Bent Jadig",
+      "disc_no": 1,
+      "length": "3:29",
+      "no": 2,
+      "title": "Doo's Blues"
+    },
+    {
+      "composer": "Bent Jadig",
+      "disc_no": 1,
+      "length": "3:48",
+      "no": 3,
+      "title": "B's Waltz"
+    },
+    {
+      "composer": "皆川太一",
+      "disc_no": 1,
+      "length": "4:28",
+      "no": 4,
+      "title": "No More"
+    },
+    {
+      "composer": "Jorgen Ryg",
+      "disc_no": 1,
+      "length": "3:45",
+      "no": 5,
+      "title": "I Didn't Know"
+    },
+    {
+      "composer": "Eddie Miller",
+      "disc_no": 1,
+      "length": "5:14",
+      "no": 6,
+      "title": "Slow Mood"
+    },
+    {
+      "composer": "Hank Mobley",
+      "disc_no": 1,
+      "length": "5:27",
+      "no": 7,
+      "title": "Avila And Tequila"
+    },
+    {
+      "composer": "皆川太一",
+      "disc_no": 1,
+      "length": "5:22",
+      "no": 8,
+      "title": "Rain Shadow"
+    },
+    {
+      "composer": [
+        "Bent Axen",
+        "Bent Jadig"
+      ],
+      "disc_no": 1,
+      "length": "5:34",
+      "no": 9,
+      "title": "To Iskol's Hof"
+    },
+    {
+      "composer": "Vincent Youmans",
+      "disc_no": 1,
+      "length": "5:32",
+      "no": 10,
+      "title": "Without A Slong"
+    },
+    {
+      "composer": "皆川太一",
+      "disc_no": 1,
+      "length": "5:03",
+      "no": 11,
+      "title": "Beautiful Love"
+    }
+  ]
+}
