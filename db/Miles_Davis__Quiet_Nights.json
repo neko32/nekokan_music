@@ -1,0 +1,305 @@
+{
+  "comment": "マイルス自叙伝曰く父を亡くした辛さを忘れるためのやっつけ仕事だったらしいがなぜかどうして私には私には大変素晴らしい作品。ボッサベースのギル・エヴァンスとのコラボに時間合わせのためにSeven Steps To Heavenのおこぼれ一曲とボーナス追加一曲。ボーナス追加のタイム・オブ・バラクーダはギルの他のアルバムでも演奏しているがこちらのアレンジは変奏曲風で非常に面白い佳曲。",
+  "date": "2026/04/15",
+  "id": "CL 2106",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Bigband",
+      "Mode"
+    ]
+  },
+  "label": "Columbia",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Trumpet",
+        "name": "Miles Davis",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Shorty Baker",
+        "tracks": "1-6"
+      },
+      {
+        "instruments": "Trumpet",
+        "name": "Bernie Glow",
+        "tracks": "1-6"
+      },
+      {
+        "instruments": "Trumpet",
+        "name": "Louis Mucci",
+        "tracks": "1-6"
+      },
+      {
+        "instruments": "Trumpet",
+        "name": "Ernie Royal",
+        "tracks": "1-6"
+      },
+      {
+        "instruments": "Trombone",
+        "name": "J.J. Johnson",
+        "tracks": "1-6"
+      },
+      {
+        "instruments": "Trombone",
+        "name": "Frank Rehak",
+        "tracks": "1-6"
+      },
+      {
+        "instruments": "French Horn",
+        "name": "Ray Alonge",
+        "tracks": "1-6"
+      },
+      {
+        "instruments": "French Horn",
+        "name": "Don Corrado",
+        "tracks": "1-6"
+      },
+      {
+        "instruments": "French Horn",
+        "name": "Julius Watkins",
+        "tracks": "1-6"
+      },
+      {
+        "instruments": "Soprano Saxophone",
+        "name": "Steve Lacy",
+        "tracks": "1-6"
+      },
+      {
+        "instruments": "Flute",
+        "name": "Albert Block",
+        "tracks": "1-6"
+      },
+      {
+        "instruments": "Woodwinds",
+        "name": "Ray Beckenstein",
+        "tracks": "1-6"
+      },
+      {
+        "instruments": "Woodwinds",
+        "name": "Jerome Richardson",
+        "tracks": "1-6"
+      },
+      {
+        "instruments": "Bassoon",
+        "name": "Garvin Bushell",
+        "tracks": "1-6"
+      },
+      {
+        "instruments": "Bassoon",
+        "name": "Bob Tricarico",
+        "tracks": "1-6"
+      },
+      {
+        "instruments": "Tuba",
+        "name": "Bill Barber",
+        "tracks": "1-6"
+      },
+      {
+        "instruments": "Harp",
+        "name": "Janet Putnam",
+        "tracks": "1-6"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Paul Chambers",
+        "tracks": "1-6"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Jimmy Cobb",
+        "tracks": "1-6"
+      },
+      {
+        "instruments": "Bongos",
+        "name": "Willie Bobo",
+        "tracks": "1-6"
+      },
+      {
+        "instruments": "Percussion",
+        "name": "Elvin Jones",
+        "tracks": "1-6"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "George Coleman",
+        "tracks": "7"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Victor Feldman",
+        "tracks": "7"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Ron Carter",
+        "tracks": "7,8"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Frank Butler",
+        "tracks": "7"
+      },
+      {
+        "instruments": "Bass Trombone",
+        "name": "Dick Lieb",
+        "tracks": "8"
+      },
+      {
+        "instruments": "French Horn",
+        "name": "Bill Hinshaw",
+        "tracks": "8"
+      },
+      {
+        "instruments": "French Horn",
+        "name": "Art Maeba",
+        "tracks": "8"
+      },
+      {
+        "instruments": "French Horn",
+        "name": "Richard Perissi",
+        "tracks": "8"
+      },
+      {
+        "instruments": "Woodwinds",
+        "name": "Gene Cipriano",
+        "tracks": "8"
+      },
+      {
+        "instruments": "Woodwinds",
+        "name": "Buddy Collette",
+        "tracks": "8"
+      },
+      {
+        "instruments": "Woodwinds",
+        "name": "Paul Horn",
+        "tracks": "8"
+      },
+      {
+        "instruments": "Bassoon",
+        "name": "Fred Dutton",
+        "tracks": "8"
+      },
+      {
+        "instruments": "Harp",
+        "name": "Marjorie Call",
+        "tracks": "8"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Herbie Hancock",
+        "tracks": "8"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Tony Williams",
+        "tracks": "8"
+      },
+      {
+        "instruments": "Arranger",
+        "name": "Gil Evans",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1963
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Quiet_Nights_(Miles_Davis_album)"
+    }
+  ],
+  "release_year": 1963,
+  "score": 5,
+  "title": "Quiet Nights",
+  "tracks": [
+    {
+      "composer": [
+        "Trad.",
+        "Gil Evans",
+        "Miles Davis"
+      ],
+      "disc_no": 1,
+      "length": "1:40",
+      "no": 1,
+      "title": "Song #2"
+    },
+    {
+      "composer": [
+        "Johnny Mercer",
+        "Michel Legrand",
+        "Eddie Barclay",
+        "Eddy Marnay"
+      ],
+      "disc_no": 1,
+      "length": "3:27",
+      "no": 2,
+      "title": "Once Upon a Summertime"
+    },
+    {
+      "composer": [
+        "Marino Pinto",
+        "Jose Goncalves"
+      ],
+      "disc_no": 1,
+      "length": "4:18",
+      "no": 3,
+      "title": "Aos pes da cruz"
+    },
+    {
+      "composer": "Miles Davis",
+      "disc_no": 1,
+      "length": "4:37",
+      "no": 4,
+      "title": "Song No.1"
+    },
+    {
+      "composer": [
+        "Richard Rodgers",
+        "Lorenz Hart"
+      ],
+      "disc_no": 1,
+      "length": "4:06",
+      "no": 5,
+      "title": "Wait Till You See Her"
+    },
+    {
+      "composer": "Antonio Carlos Jobim",
+      "disc_no": 1,
+      "length": "2:45",
+      "no": 6,
+      "title": "Corcovado"
+    },
+    {
+      "composer": [
+        "Harry Warren",
+        "Al Dubin"
+      ],
+      "disc_no": 1,
+      "length": "6:04",
+      "no": 7,
+      "title": "Summer Night"
+    },
+    {
+      "composer": [
+        "Gil Evans",
+        "Miles Davis"
+      ],
+      "disc_no": 1,
+      "length": "12:45",
+      "no": 8,
+      "title": "The Time of the Barracudas"
+    }
+  ]
+}
