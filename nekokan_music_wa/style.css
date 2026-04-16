@@ -335,6 +335,16 @@ select.input[multiple] {
   background: rgba(229, 83, 75, 0.35);
 }
 
+.btn-remove:disabled {
+  background: rgba(102, 102, 102, 0.3);
+  color: #9aa3ad;
+  cursor: not-allowed;
+}
+
+.btn-remove:disabled:hover {
+  background: rgba(102, 102, 102, 0.3);
+}
+
 .btn-save {
   margin-top: 0.5rem;
   background: var(--base);

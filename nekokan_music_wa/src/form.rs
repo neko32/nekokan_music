@@ -1180,8 +1180,10 @@ fn tracks_section(props: &TracksSectionProps) -> Html {
         let on_data_change = props.on_data_change.clone();
         Callback::from(move |_| {
             let mut d = data.clone();
-            d.tracks.remove(i);
-            on_data_change.emit(d);
+            if d.tracks.len() > 1 {
+                d.tracks.remove(i);
+                on_data_change.emit(d);
+            }
         })
     };
     let tracks_section_err = props.errors.get("tracks").cloned();
@@ -1190,6 +1192,7 @@ fn tracks_section(props: &TracksSectionProps) -> Html {
             <h3>{"Tracks"}</h3>
             { for tracks_section_err.into_iter().map(|e| html! { <span class="error-text">{ e }</span> }) }
             { for props.data.tracks.iter().enumerate().map(|(i, t)| {
+                let can_remove_track = props.data.tracks.len() > 1;
                 let key_title = format!("tracks[{}].title", i);
                 let key_composer = format!("tracks[{}].composer", i);
                 let key_length = format!("tracks[{}].length", i);
@@ -1219,7 +1222,14 @@ fn tracks_section(props: &TracksSectionProps) -> Html {
                                 oninput={update_track_field_str(data.clone(), on_data_change.clone(), i, 4)}/>
                             { for err_length.into_iter().map(|e| html! { <span class="error-text">{ e }</span> }) }
                         </span>
-                        <button type="button" class="btn-remove" onclick={remove(i)}>{"削除"}</button>
+                        <button
+                            type="button"
+                            class="btn-remove"
+                            disabled={!can_remove_track}
+                            onclick={remove(i)}
+                        >
+                            {"削除"}
+                        </button>
                     </div>
                 }
             }) }
