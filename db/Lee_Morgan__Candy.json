@@ -1,0 +1,120 @@
+{
+  "comment": "たかだが19,20の歳でこのようなスタンダードの解釈をして、ここまでに端正で落ち着いたプレイができるとは..驚きの連続である。C.T.A.がジミーヒース作曲で唯一のジャズオリジナルだがこれも実にいい感じのペースチェンジャー。ソニー・クラークのピアノというのも大変なプラス要素。",
+  "date": "2026/04/16",
+  "id": "BLP 1590",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Trumpet",
+        "name": "Lee Morgan",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Piano",
+        "name": "Sonny Clark",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Doug Watkins",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Art Taylor",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1957,
+    1958
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Candy_(Lee_Morgan_album)"
+    }
+  ],
+  "release_year": 1958,
+  "score": 5,
+  "title": "Candy",
+  "tracks": [
+    {
+      "composer": [
+        "Mack David",
+        "Alex Kramer",
+        "John Whitney Kramer"
+      ],
+      "disc_no": 1,
+      "length": "7:06",
+      "no": 1,
+      "title": "Candy"
+    },
+    {
+      "composer": "Buddy Johnson",
+      "disc_no": 1,
+      "length": "5:39",
+      "no": 2,
+      "title": "Since I Fell For You"
+    },
+    {
+      "composer": "Jimmy Heath",
+      "disc_no": 1,
+      "length": "5:06",
+      "no": 3,
+      "title": "C.T.A."
+    },
+    {
+      "composer": [
+        "Sammy Cahn",
+        "Jimmy Van Heusen"
+      ],
+      "disc_no": 1,
+      "length": "7:27",
+      "no": 4,
+      "title": "All The Way"
+    },
+    {
+      "composer": "Irving Berlin",
+      "disc_no": 1,
+      "length": "5:01",
+      "no": 5,
+      "title": "Who Do You Love, I Hope"
+    },
+    {
+      "composer": [
+        "Johnny Burke",
+        "Jimmy Van Heusen"
+      ],
+      "disc_no": 1,
+      "length": "6:16",
+      "no": 6,
+      "title": "Personality"
+    },
+    {
+      "composer": [
+        "Oscar Hammerstein II",
+        "Richard Charles Rodgers"
+      ],
+      "disc_no": 1,
+      "length": "5:26",
+      "no": 7,
+      "title": "All At Once You Love Her"
+    }
+  ]
+}

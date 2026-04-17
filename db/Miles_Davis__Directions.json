@@ -1,0 +1,340 @@
+{
+  "comment": "選外になった曲集ということになってしまうのだが実に素晴らしい曲ばかりでいかにマイルスグループの質の高さがわかるかというもの。1960-1970までの変遷は実にジャズの歴史そのものだ。",
+  "date": "2026/04/16",
+  "id": "88514",
+  "janre": {
+    "main": "Fusion",
+    "sub": [
+      "Straight Ahead",
+      "Fusion",
+      "Rock"
+    ]
+  },
+  "label": "Columbia",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Trumpet",
+        "name": "Miles Davis",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Bernie Glow",
+        "tracks": "1-1"
+      },
+      {
+        "instruments": "Trumpet",
+        "name": "Ernie Royal",
+        "tracks": "1-1"
+      },
+      {
+        "instruments": "Trumpet",
+        "name": "Johnny Coles",
+        "tracks": "1-1"
+      },
+      {
+        "instruments": "Trombone",
+        "name": "Frank Rehak",
+        "tracks": "1-1"
+      },
+      {
+        "instruments": "Trombone",
+        "name": "Dick Nixon",
+        "tracks": "1-1"
+      },
+      {
+        "instruments": "French Horn",
+        "name": "Jimmy Buffington",
+        "tracks": "1-1"
+      },
+      {
+        "instruments": "French Horn",
+        "name": "Joseph Singer",
+        "tracks": "1-1"
+      },
+      {
+        "instruments": "French Horn",
+        "name": "Tony Miranda",
+        "tracks": "1-1"
+      },
+      {
+        "instruments": "Flute",
+        "name": "Albert Block",
+        "tracks": "1-1"
+      },
+      {
+        "instruments": "Flute",
+        "name": "Harold Feldman",
+        "tracks": "1-1"
+      },
+      {
+        "instruments": "Clarinet",
+        "name": "Danny Bank",
+        "tracks": "1-1"
+      },
+      {
+        "instruments": "Oboe",
+        "name": "Romeo Penque",
+        "tracks": "1-1"
+      },
+      {
+        "instruments": "Bassoon",
+        "name": "Jack Knitzer",
+        "tracks": "1-1"
+      },
+      {
+        "instruments": "Tuba",
+        "name": "Bill Barber",
+        "tracks": "1-1"
+      },
+      {
+        "instruments": "Harp",
+        "name": "Janet Putnam",
+        "tracks": "1-1"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Paul Chambers",
+        "tracks": "1-1,1-2"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Jimmy Cobb",
+        "tracks": "1-1,1-2"
+      },
+      {
+        "instruments": "Percussion",
+        "name": "Elvin Jones",
+        "tracks": "1-1"
+      },
+      {
+        "instruments": "Arranger",
+        "name": "Gil Evans",
+        "tracks": "1-1"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Hank Mobley",
+        "tracks": "1-2"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Wynton Kelly",
+        "tracks": "1-2"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "George Coleman",
+        "tracks": "1-3"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Victor Feldman",
+        "tracks": "1-3"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Ron Carter",
+        "tracks": "1-3,1-5,1-6"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Frank Butler",
+        "tracks": "1-3"
+      },
+      {
+        "instruments": "Tenor Saxophone, Soprano Saxophone",
+        "name": "Wayne Shorter",
+        "tracks": "1-4,1-5,1-6,1-7,1-8,2-1,2-2"
+      },
+      {
+        "instruments": "Piano, Electric Piano",
+        "name": "Herbie Hancock",
+        "tracks": "1-4,1-5,1-6,1-7,1-8,2-1"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Buster Williams",
+        "tracks": "1-4"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Tony Williams",
+        "tracks": "1-4,1-5,1-6"
+      },
+      {
+        "instruments": "Guitar",
+        "name": "Joe Beck",
+        "tracks": "1-5"
+      },
+      {
+        "instruments": "Electric Piano",
+        "name": "Chick Corea",
+        "tracks": "1-7,1-8,2-1"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Joe Zawinul",
+        "tracks": "1-7,1-8,2-1"
+      },
+      {
+        "instruments": "Electric Bass",
+        "name": "Dave Holland",
+        "tracks": "1-7,1-8,2-1,2-2,2-4"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Jack DeJohnette",
+        "tracks": "1-7,1-8,2-1,2-4"
+      },
+      {
+        "instruments": "Bass Clarinet",
+        "name": "Bennie Maupin",
+        "tracks": "2-2"
+      },
+      {
+        "instruments": "Electric Guitar",
+        "name": "John McLaughlin",
+        "tracks": "2-2,2-3,2-4"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Billy Cobham",
+        "tracks": "2-2"
+      },
+      {
+        "instruments": "Electric Piano",
+        "name": "Keith Jarrett",
+        "tracks": "2-3"
+      },
+      {
+        "instruments": "Percussion",
+        "name": "Airto Moreira",
+        "tracks": "2-3"
+      },
+      {
+        "instruments": "Soprano Saxophone",
+        "name": "Steve Grossman",
+        "tracks": "2-4"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1960,
+    1961,
+    1963,
+    1967,
+    1968,
+    1970
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Directions_(Miles_Davis_album)"
+    }
+  ],
+  "release_year": 1981,
+  "score": 1,
+  "title": "Directions",
+  "tracks": [
+    {
+      "composer": "Heitor Villa-Lobos",
+      "disc_no": 1,
+      "length": "3:27",
+      "no": 1,
+      "title": "Song of Our Contry"
+    },
+    {
+      "composer": [
+        "Thelonious Monk",
+        "Cootie Williams",
+        "Bernie Hanighen"
+      ],
+      "disc_no": 1,
+      "length": "7:44",
+      "no": 2,
+      "title": "'Round Midnight"
+    },
+    {
+      "composer": [
+        "Tony Crombie",
+        "Bennie Green"
+      ],
+      "disc_no": 1,
+      "length": "5:18",
+      "no": 3,
+      "title": "So Near, So Far"
+    },
+    {
+      "composer": "Wayne Shorter",
+      "disc_no": 1,
+      "length": "5:33",
+      "no": 4,
+      "title": "Limbo"
+    },
+    {
+      "composer": "Miles Davis",
+      "disc_no": 1,
+      "length": "7:04",
+      "no": 5,
+      "title": "Water on the Pond"
+    },
+    {
+      "composer": "Miles Davis",
+      "disc_no": 1,
+      "length": "4:12",
+      "no": 6,
+      "title": "Fun"
+    },
+    {
+      "composer": "Joe Zawinul",
+      "disc_no": 1,
+      "length": "6:51",
+      "no": 7,
+      "title": "Directions, No.1"
+    },
+    {
+      "composer": "Joe Zawinul",
+      "disc_no": 1,
+      "length": "4:51",
+      "no": 8,
+      "title": "Directions, No.2"
+    },
+    {
+      "composer": "Joe Zawinul",
+      "disc_no": 2,
+      "length": "14:44",
+      "no": 1,
+      "title": "Ascent"
+    },
+    {
+      "composer": "Miles Davis",
+      "disc_no": 2,
+      "length": "11:00",
+      "no": 2,
+      "title": "Duran"
+    },
+    {
+      "composer": "Miles Davis",
+      "disc_no": 2,
+      "length": "14:10",
+      "no": 3,
+      "title": "Konda"
+    },
+    {
+      "composer": "Miles Davis",
+      "disc_no": 2,
+      "length": "10:21",
+      "no": 4,
+      "title": "Willie Nelson"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "comment": "[殿堂入り] 日本でのダイレクトカッティングという一発録音だったというこの作品は実に完成度高く、名曲のスタジオ録音による再演というのもうれしい。Sunlight -> Feetsというファンクディスコポップという流れの中この純ジャズに近いジャズフュージョン作品は大変価値がある。",
+  "date": "2026/04/16",
+  "id": "SRCS 7169",
+  "janre": {
+    "main": "Fusion",
+    "sub": [
+      "Funk",
+      "Straight Ahead",
+      "Fusion"
+    ]
+  },
+  "label": "CBS/Sony",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Electric Piano, Synthesizer, Keyboard",
+        "name": "Herbie Hancock",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Soprano Saxophone, Tenor Saxophone, Lyricon",
+        "name": "Bennie Maupin",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Electric Guitar",
+        "name": "Ray Obiedo",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Organ, Keyboard, Synthesizer",
+        "name": "Webster Lewis",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Electric Bass",
+        "name": "Paul Jackson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Alphonse Mouzon",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Percussion",
+        "name": "Bill Summers",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1978
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/An_Evening_with_Herbie_Hancock_%26_Chick_Corea:_In_Concert"
+    }
+  ],
+  "release_year": 1979,
+  "score": 6,
+  "title": "Directstep",
+  "tracks": [
+    {
+      "composer": [
+        "Herbie Hancock",
+        "Bennie Maupin"
+      ],
+      "disc_no": 1,
+      "length": "7:53",
+      "no": 1,
+      "title": "Butterfly"
+    },
+    {
+      "composer": [
+        "Herbie Hancock",
+        "Paul Jackson",
+        "Harvey Mason",
+        "Bill Summers"
+      ],
+      "disc_no": 1,
+      "length": "7:10",
+      "no": 2,
+      "title": "Shiftless Shuffle"
+    },
+    {
+      "composer": [
+        "Jeffrey Cohen",
+        "Herbie Hancock",
+        "Melvin Ragin"
+      ],
+      "disc_no": 1,
+      "length": "15:27",
+      "no": 3,
+      "title": "I Thought It Was You"
+    }
+  ]
+}
