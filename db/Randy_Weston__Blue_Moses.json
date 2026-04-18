@@ -1,0 +1,181 @@
+{
+  "comment": "ウェストンお得意のアフリカ・アラブテイストとCTIハウスメンバーによる大編成の融合は傑作と相成った。特にブルー・モーゼス、マラケシュブルースといった大作は聞きもの。",
+  "date": "2026/04/17",
+  "id": "CTI 6011",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Neo Hard Bop",
+      "Bigband"
+    ]
+  },
+  "label": "CTI",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Electric Piano",
+        "name": "Randy Weston",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Freddie Hubbard",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Trumpet, Flugelhorn",
+        "name": "John Frosk",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Trumpet, Flugelhorn",
+        "name": "Alan Rubin",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Trumpet, Flugelhorn",
+        "name": "Marvin Stamm",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Trombone",
+        "name": "Garnett Brown",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Trombone",
+        "name": "Warren Covington",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Trombone, Baritone Horn",
+        "name": "Wayne Andre",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Bass Trombone",
+        "name": "Paul Faulise",
+        "tracks": "all"
+      },
+      {
+        "instruments": "French Horn",
+        "name": "James Buffington",
+        "tracks": "all"
+      },
+      {
+        "instruments": "French Horn",
+        "name": "Brooks Tillotson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Groover Washington, Jr.",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Flute, Alto Flute, Bass Flute, Piccolo",
+        "name": "Hubert Laws",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Clarinet, Flute, Alto Flute, Bass Flute, Piccolo, Oboe, English Horn",
+        "name": "Romeo Penque",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Clarinet, Flute, Alto Flute, Bass Flute, English Horn",
+        "name": "George Marge",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Synthesizer",
+        "name": "David Horowitz",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Ron Carter",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Vishnu Bill Wood",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Billy Cobham",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Percussion",
+        "name": "Phil Kraus",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Percussion",
+        "name": "Airto Moreira",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Percussion",
+        "name": "Azzedin Weston",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Arranger",
+        "name": "Don Sebesky",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1972
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Blue_Moses_(album)"
+    }
+  ],
+  "release_year": 1972,
+  "score": 5,
+  "title": "Blue Moses",
+  "tracks": [
+    {
+      "composer": "Randy Weston",
+      "disc_no": 1,
+      "length": "5:16",
+      "no": 1,
+      "title": "Ifrane"
+    },
+    {
+      "composer": "Randy Weston",
+      "disc_no": 1,
+      "length": "12:29",
+      "no": 2,
+      "title": "Ganawa (Blue Moses)"
+    },
+    {
+      "composer": "Randy Weston",
+      "disc_no": 1,
+      "length": "6:50",
+      "no": 3,
+      "title": "Night in Medina"
+    },
+    {
+      "composer": "Randy Weston",
+      "disc_no": 1,
+      "length": "12:17",
+      "no": 4,
+      "title": "Marrakesh Blues"
+    }
+  ]
+}

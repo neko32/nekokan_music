@@ -1,0 +1,99 @@
+{
+  "comment": "クール期のマイナーな一枚。クールはややもするとムード音楽または退屈な感じになってしまいがちだが、これはその線には落ちなかったが、では何かがあるかというとそうでもない。メンバーの妙が一番興味を引くポイントかも。",
+  "date": "2026/04/17",
+  "id": "DEB-120",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Cool"
+    ]
+  },
+  "label": "Debut",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Trumpet",
+        "name": "Miles Davis",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trombone",
+        "name": "Britt Woodman",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Vibraphone",
+        "name": "Teddy Charles",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Charles Mingus",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Elvin Jones",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1955
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Blue_Moods"
+    }
+  ],
+  "release_year": 1955,
+  "score": 3,
+  "title": "Blue Moods",
+  "tracks": [
+    {
+      "composer": "Eden Ahbez",
+      "disc_no": 1,
+      "length": "6:14",
+      "no": 1,
+      "title": "Nature Boy"
+    },
+    {
+      "composer": [
+        "Arthur Schwartz",
+        "Howard Dietz"
+      ],
+      "disc_no": 1,
+      "length": "7:17",
+      "no": 2,
+      "title": "Alone Together"
+    },
+    {
+      "composer": [
+        "Hal Hopper",
+        "Tom Adair"
+      ],
+      "disc_no": 1,
+      "length": "8:06",
+      "no": 3,
+      "title": "There's No You"
+    },
+    {
+      "composer": [
+        "Ralph Rainger",
+        "Leo Robin"
+      ],
+      "disc_no": 1,
+      "length": "5:03",
+      "no": 4,
+      "title": "Easy Living"
+    }
+  ]
+}

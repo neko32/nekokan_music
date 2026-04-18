@@ -1,0 +1,93 @@
+{
+  "comment": "相も変わらずレッドガーランドのブロッキング奏法が映えるゴキゲンな一枚。5年のお蔵入りというのはある意味ガーランドがこの時期矢継ぎ早にアルバムを出し、リリースを取って置けるくらい多作で売り上げも充実していたのだろうか。",
+  "date": "2026/04/17",
+  "id": "PRLP 7276",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Prestige",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Red Garland",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Double Bass",
+        "name": "Paul Chambers",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Art Taylor",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1958
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Can%27t_See_for_Lookin%27"
+    }
+  ],
+  "release_year": 1963,
+  "score": 4,
+  "title": "Can't See For Lookin'",
+  "tracks": [
+    {
+      "composer": [
+        "Nat King Cole",
+        "Arnold 'Dok' Stanford"
+      ],
+      "disc_no": 1,
+      "length": "9:28",
+      "no": 1,
+      "title": "I Can't See For Lookin'"
+    },
+    {
+      "composer": [
+        "George Gershwin",
+        "Ira Gershwin"
+      ],
+      "disc_no": 1,
+      "length": "6:56",
+      "no": 2,
+      "title": "Soon"
+    },
+    {
+      "composer": [
+        "Avery Parrish",
+        "Sammy Lowe"
+      ],
+      "disc_no": 1,
+      "length": "8:56",
+      "no": 3,
+      "title": "Blackout"
+    },
+    {
+      "composer": [
+        "Ervin Drake",
+        "Jimmy Shirl",
+        "Al Sears"
+      ],
+      "disc_no": 1,
+      "length": "9:45",
+      "no": 4,
+      "title": "Castle Rock"
+    }
+  ]
+}

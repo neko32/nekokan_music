@@ -1,0 +1,103 @@
+{
+  "comment": "ビバップの語法を引きずりながらハードバップへ歩んでいる途上のドキュメンタリーのような若いバードの快作。\n活き活きとした溌剌とした演奏にも後の落ち着きを感じさせる大物感を感じさせる。スタンダードの演奏では悩みながらも、という顔を見せるあたりが初々しくて逆に良い。",
+  "date": "2026/04/17",
+  "id": "MG 12032",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Savoy",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Trumpet",
+        "name": "Donald Byrd",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Frank Foster",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Hank Jones",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Paul Chambers",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Kenny Clarke",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1955
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Byrd%27s_Word"
+    }
+  ],
+  "release_year": 1956,
+  "score": 4,
+  "title": "Byrd's Word",
+  "tracks": [
+    {
+      "composer": "Frank Foster",
+      "disc_no": 1,
+      "length": "7:14",
+      "no": 1,
+      "title": "Winterset"
+    },
+    {
+      "composer": "Donald Byrd",
+      "disc_no": 1,
+      "length": "9:53",
+      "no": 2,
+      "title": "Gotcha Goin' n' Comin'"
+    },
+    {
+      "composer": "Donald Byrd",
+      "disc_no": 1,
+      "length": "4:32",
+      "no": 3,
+      "title": "Long Green"
+    },
+    {
+      "composer": [
+        "Gene de Paul",
+        "Don Raye"
+      ],
+      "disc_no": 1,
+      "length": "7:49",
+      "no": 4,
+      "title": "Star Eyes"
+    },
+    {
+      "composer": [
+        "George Gershwin",
+        "Ira Gershwin"
+      ],
+      "disc_no": 1,
+      "length": "7:38",
+      "no": 5,
+      "title": "Someone to Watch Over Me"
+    }
+  ]
+}
