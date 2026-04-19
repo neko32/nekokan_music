@@ -1,0 +1,100 @@
+{
+  "comment": "この時代フュージョンではなくストレートジャズで直球勝負のブルーミッチェル。ジミーフォレストというビバップの雄が1970年ネオハードバップですさまじい演奏を聴かせる。70年代ストレートジャズのカッコよさに存分に浸れる一枚。",
+  "date": "2026/04/18",
+  "id": "MRL 315",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Neo Hard Bop"
+    ]
+  },
+  "label": "Mainstream",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Trumpet",
+        "name": "Blue Mitchell",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Jimmy Forest",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Electric Piano, Piano",
+        "name": "Walter Bishop, Jr.",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Larry Gales",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Doug Sides",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1971
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Blue_Mitchell_(album)"
+    }
+  ],
+  "release_year": 1971,
+  "score": 1,
+  "title": "Blue Mitchell (aka. Soul Village)",
+  "tracks": [
+    {
+      "composer": "Blue Mitchell",
+      "disc_no": 1,
+      "length": "6:16",
+      "no": 1,
+      "title": "Soul Village"
+    },
+    {
+      "composer": "Blue Mitchell",
+      "disc_no": 1,
+      "length": "7:03",
+      "no": 2,
+      "title": "Blues For Thelma"
+    },
+    {
+      "composer": "Blue Mitchell",
+      "disc_no": 1,
+      "length": "4:51",
+      "no": 3,
+      "title": "Queen Bey"
+    },
+    {
+      "composer": [
+        "Benny Golson",
+        "Sergio Mihanovich"
+      ],
+      "disc_no": 1,
+      "length": "7:21",
+      "no": 4,
+      "title": "Are You Real"
+    },
+    {
+      "composer": "Blue Mitchell",
+      "disc_no": 1,
+      "length": "5:17",
+      "no": 5,
+      "title": "Mi Hermano"
+    }
+  ]
+}

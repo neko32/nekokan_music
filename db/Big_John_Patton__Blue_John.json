@@ -1,0 +1,104 @@
+{
+  "comment": "なんでお蔵入り？なのか理解に苦しむとても楽しい一枚。ジョージ・ブレイスとグラント・グリーンがサイドメン！ほかに言葉はいらないゴキゲン異色ソウルジャズ。バミューダ・クレイ・ハウスなんてちょっとシリアスな顔も見せたりもしている。",
+  "date": "2026/04/18",
+  "id": "BST 84143",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Soul"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Organ",
+        "name": "Big John Patton",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Tommy Turrentine",
+        "tracks": "5,6"
+      },
+      {
+        "instruments": "Soprano Saxophone, Stritch",
+        "name": "George Braith",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Guitar",
+        "name": "Grant Green",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Ben Dixon",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1963
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Blue_John_(album)"
+    }
+  ],
+  "release_year": 1986,
+  "score": 1,
+  "title": "Blue John",
+  "tracks": [
+    {
+      "composer": "George Braith",
+      "disc_no": 1,
+      "length": "7:55",
+      "no": 1,
+      "title": "Hot Sauce"
+    },
+    {
+      "composer": "George Braith",
+      "disc_no": 1,
+      "length": "5:55",
+      "no": 2,
+      "title": "Bermuda Clay House"
+    },
+    {
+      "composer": "Grant Green",
+      "disc_no": 1,
+      "length": "6:15",
+      "no": 3,
+      "title": "Dem Dirty Blues"
+    },
+    {
+      "composer": "Big John Patton",
+      "disc_no": 1,
+      "length": "6:51",
+      "no": 4,
+      "title": "Country Girl"
+    },
+    {
+      "composer": "Ben Dixon",
+      "disc_no": 1,
+      "length": "5:30",
+      "no": 5,
+      "title": "Nicety"
+    },
+    {
+      "composer": "Big John Patton",
+      "disc_no": 1,
+      "length": "7:55",
+      "no": 6,
+      "title": "Blue John"
+    }
+  ]
+}

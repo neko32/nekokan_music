@@ -1,0 +1,104 @@
+{
+  "comment": "ケニーバレルをリーダーとして、BNハウスメンバーによる貴重なジャムセッションのVol.1。バレルのプレイはともかくメンバーが実に面白い。ルイ・スミスのトランペット、ティナ・ブルックスのテナーという貴重なフロントにサム・ジョーンズとブレイキーというヘビー級リズム隊が入る取り合わせの妙。",
+  "date": "2026/04/18",
+  "id": "BLP 1596",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Guitar",
+        "name": "Kenny Burrell",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Louis Smith",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Tina Brooks",
+        "tracks": "2,3"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Junior Cook",
+        "tracks": "1,4"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Duke Jordan",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Same Jones",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Art Blakey",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1958
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Blue_Lights,_Vols._1_%26_2"
+    }
+  ],
+  "release_year": 1958,
+  "score": 5,
+  "title": "Blue Lights Vol.1",
+  "tracks": [
+    {
+      "composer": "Kenny Burrell",
+      "disc_no": 1,
+      "length": "11:15",
+      "no": 1,
+      "title": "Yes Baby"
+    },
+    {
+      "composer": "Duke Jordan",
+      "disc_no": 1,
+      "length": "8:00",
+      "no": 2,
+      "title": "Scotch Blues"
+    },
+    {
+      "composer": "Vernon Duke",
+      "disc_no": 1,
+      "length": "5:44",
+      "no": 3,
+      "title": "Autumn in New York"
+    },
+    {
+      "composer": [
+        "Duke Ellington",
+        "Irving Mills",
+        "Juan Tizol"
+      ],
+      "disc_no": 1,
+      "length": "9:55",
+      "no": 4,
+      "title": "Caravan"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "comment": "Vol.2に続く名作ジャムセッション。Vol.1からの主な違いはピアノがデューク・ジョーダンからボビー・ティモンズに代わり、かなりアーシーさが増した。ケニー・バレルもソウルフルなプレイの名手であることからアクが強めな味付けにうまく仕上がった。",
+  "date": "2026/04/18",
+  "id": "BLP 1597",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Guitar",
+        "name": "Kenny Burrell",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Louis Smith",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Tina Brooks",
+        "tracks": "1-3"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Junior Cook",
+        "tracks": "1-3"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Bobby Timmons",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Sam  Jones",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Art Blakey",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1958
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Blue_Lights,_Vols._1_%26_2"
+    }
+  ],
+  "release_year": 1958,
+  "score": 5,
+  "title": "Blue Lights Vol.2",
+  "tracks": [
+    {
+      "composer": "Kenny Burrell",
+      "disc_no": 1,
+      "length": "11:19",
+      "no": 1,
+      "title": "Rock Salt"
+    },
+    {
+      "composer": [
+        "George Gershwin",
+        "Ira Gershwin"
+      ],
+      "disc_no": 1,
+      "length": "6:47",
+      "no": 2,
+      "title": "The Man I Love"
+    },
+    {
+      "composer": "Sam Jones",
+      "disc_no": 1,
+      "length": "12:10",
+      "no": 3,
+      "title": "Chuckin'"
+    },
+    {
+      "composer": "Kenny Burrell",
+      "disc_no": 1,
+      "length": "9:47",
+      "no": 4,
+      "title": "Phinupi"
+    }
+  ]
+}
