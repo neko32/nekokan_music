@@ -136,6 +136,15 @@ pub struct Track {
     pub length: String,
 }
 
+/// フォームの「トラック追加」で並べる次の `(disc_no, no)`。直前トラックと同じディスクで、番号は直前+1（issue #23）。
+#[must_use]
+pub fn disc_and_track_no_for_append(tracks: &[Track]) -> (i32, i32) {
+    match tracks.last() {
+        Some(t) => (t.disc_no, t.no.saturating_add(1)),
+        None => (1, 1),
+    }
+}
+
 fn deserialize_composer<'de, D>(deserializer: D) -> Result<String, D::Error>
 where
     D: serde::Deserializer<'de>,
@@ -203,5 +212,41 @@ pub fn sub_janres_for_main(main: &str) -> &'static [&'static str] {
         "Game" => &["Game", "Jazz", "Fusion", "Classical"],
         "Rock" => &["Progressive Rock", "Punk", "Rock"],
         _ => MAIN_JANRES,
+    }
+}
+
+#[cfg(test)]
+mod disc_track_append_tests {
+    use super::{disc_and_track_no_for_append, Track};
+
+    fn t(disc: i32, no: i32) -> Track {
+        Track {
+            disc_no: disc,
+            no,
+            ..Default::default()
+        }
+    }
+
+    #[test]
+    fn empty_defaults_to_disc1_track1() {
+        assert_eq!(disc_and_track_no_for_append(&[]), (1, 1));
+    }
+
+    #[test]
+    fn continues_same_disc_and_increments_track() {
+        let tracks = vec![t(1, 1), t(1, 2)];
+        assert_eq!(disc_and_track_no_for_append(&tracks), (1, 3));
+    }
+
+    #[test]
+    fn follows_last_row_disc_not_always_one() {
+        let tracks = vec![t(1, 1), t(1, 2), t(2, 1), t(2, 2), t(2, 3)];
+        assert_eq!(disc_and_track_no_for_append(&tracks), (2, 4));
+    }
+
+    #[test]
+    fn after_first_track_of_second_disc_next_is_track2_same_disc() {
+        let tracks = vec![t(1, 8), t(2, 1)];
+        assert_eq!(disc_and_track_no_for_append(&tracks), (2, 2));
     }
 }

@@ -1165,9 +1165,10 @@ fn tracks_section(props: &TracksSectionProps) -> Html {
         let on_data_change = props.on_data_change.clone();
         Callback::from(move |_| {
             let mut d = data.clone();
+            let (disc_no, no) = disc_and_track_no_for_append(&d.tracks);
             d.tracks.push(Track {
-                disc_no: 1,
-                no: (d.tracks.len() + 1) as i32,
+                disc_no,
+                no,
                 title: String::new(),
                 composer: String::new(),
                 length: String::new(),
