@@ -1,0 +1,112 @@
+{
+  "comment": "テナーの重鎮ホーキンスの1962年のライブアルバム。歌うのが上手なフラナガンとメジャーホリーは大変良い人選。実際ジェリコの戦いの演奏は白眉で、とりわけベースがすごい。歌もの系のスタンダードはさすがの情感たっぷりの演奏でお見事。",
+  "date": "2026/04/20",
+  "id": "V/V6 8509",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Verve",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Coleman Hawkins",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Piano",
+        "name": "Tommy Flanagan",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Major Holley",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Eddie Locke",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1962
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hawkins!_Alive!_At_the_Village_Gate"
+    }
+  ],
+  "release_year": 1963,
+  "score": 4,
+  "title": "Hawkins! Alive! At the Village Gate",
+  "tracks": [
+    {
+      "composer": [
+        "Oscar Hammerstein II",
+        "Jerome Kern"
+      ],
+      "disc_no": 1,
+      "length": "8:16",
+      "no": 1,
+      "title": "All the Things You Are"
+    },
+    {
+      "composer": "Traditional",
+      "disc_no": 1,
+      "length": "10:43",
+      "no": 2,
+      "title": "Joshua Fit the Battle of Jericho"
+    },
+    {
+      "composer": [
+        "Kurt Weill",
+        "Bertolt Brecht"
+      ],
+      "disc_no": 1,
+      "length": "8:50",
+      "no": 3,
+      "title": "Mack the Knife"
+    },
+    {
+      "composer": [
+        "Jerry Livingston",
+        "Al J. Neiburg",
+        "Marty Symes"
+      ],
+      "disc_no": 1,
+      "length": "9:28",
+      "no": 4,
+      "title": "It's the Talk of the Town"
+    },
+    {
+      "composer": "Coleman Hawkins",
+      "disc_no": 1,
+      "length": "7:02",
+      "no": 5,
+      "title": "Bean and the Boys"
+    },
+    {
+      "composer": [
+        "Ted Shapiro",
+        "Irving King"
+      ],
+      "disc_no": 1,
+      "length": "8:35",
+      "no": 6,
+      "title": "If I Had You"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "comment": "フォープレイによるスムース・フュージョン。大物４人、さすがの貫禄の一枚。ややワンパターン気味に感じる時もあるのは否定できないがイージーリスニングとしても良い出来だと思う。",
+  "date": "2026/04/20",
+  "id": "82876 61358 2",
+  "janre": {
+    "main": "Fusion",
+    "sub": [
+      "Soft",
+      "Fusion"
+    ]
+  },
+  "label": "Bluebird",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [
+      {
+        "abbr": "Fourplay",
+        "members": [
+          {
+            "instruments": "Electric Guitar, Guitar",
+            "name": "Larry Carlton",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Keyboards",
+            "name": "Bob James",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Electric Bass, Vocal",
+            "name": "Nathan East",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Drums, Vibraphone, Sequencer, Percussion",
+            "name": "Harvey Mason",
+            "tracks": "all"
+          }
+        ],
+        "name": "Fourplay"
+      }
+    ],
+    "leader": [],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Turntable",
+        "name": "Cody \"Peyote\" Cassiero",
+        "tracks": "2"
+      },
+      {
+        "instruments": "Vocal, Shaker",
+        "name": "Bikki Johnson",
+        "tracks": "4"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    2004
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Journey_(Fourplay_album)"
+    }
+  ],
+  "release_year": 2004,
+  "score": 4,
+  "title": "Journey",
+  "tracks": [
+    {
+      "composer": "Sting",
+      "disc_no": 1,
+      "length": "5:40",
+      "no": 1,
+      "title": "Fields of Gold"
+    },
+    {
+      "composer": "Nathan East",
+      "disc_no": 1,
+      "length": "5:04",
+      "no": 2,
+      "title": "Play Around It"
+    },
+    {
+      "composer": "Bob James",
+      "disc_no": 1,
+      "length": "5:54",
+      "no": 3,
+      "title": "From Day One"
+    },
+    {
+      "composer": "Nathan East",
+      "disc_no": 1,
+      "length": "3:27",
+      "no": 4,
+      "title": "Journey"
+    },
+    {
+      "composer": "Harvey Mason",
+      "disc_no": 1,
+      "length": "5:29",
+      "no": 5,
+      "title": "Rozil"
+    },
+    {
+      "composer": "Larry Carlton",
+      "disc_no": 1,
+      "length": "5:31",
+      "no": 6,
+      "title": "Cool Train"
+    },
+    {
+      "composer": "Bob James",
+      "disc_no": 1,
+      "length": "6:09",
+      "no": 7,
+      "title": "Avalabop"
+    },
+    {
+      "composer": "Nathan East",
+      "disc_no": 1,
+      "length": "5:36",
+      "no": 8,
+      "title": "The Firehouse Chill"
+    },
+    {
+      "composer": "Bob James",
+      "disc_no": 1,
+      "length": "5:16",
+      "no": 9,
+      "title": "Departure"
+    },
+    {
+      "composer": "Larry Carlton",
+      "disc_no": 1,
+      "length": "5:49",
+      "no": 10,
+      "title": "147 4th St."
+    }
+  ]
+}

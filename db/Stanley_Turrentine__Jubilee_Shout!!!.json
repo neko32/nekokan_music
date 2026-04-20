@@ -1,0 +1,115 @@
+{
+  "comment": "1986までお蔵入りになったタレンタインの一枚。例にもれずお蔵入りした理由がよくわからないほど良い出来。ケニー・バレルとタレンタインの競演はMidnight Blueのようにブルージーでソウルフルな感じで傑出したがこちらはもう少し伝統的なハードパップでのコラボ。こちらもすごく良い。トミータレンタインも頑張っている。",
+  "date": "2026/04/20",
+  "id": "BST 84122",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Stanley Turrentine",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Tommy Turrentine",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Guitar",
+        "name": "Kenny Burrell",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Sonny Clark",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Butch Warren",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Al Harewood",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1962
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jubilee_Shout!!!"
+    }
+  ],
+  "release_year": 1986,
+  "score": 4,
+  "title": "Jubilee Shout!!!",
+  "tracks": [
+    {
+      "composer": "Stanley Turrentine",
+      "disc_no": 1,
+      "length": "10:44",
+      "no": 1,
+      "title": "Jubilee Shout"
+    },
+    {
+      "composer": [
+        "Kurt Weill",
+        "Ira Gershwin"
+      ],
+      "disc_no": 1,
+      "length": "5:59",
+      "no": 2,
+      "title": "My Ship"
+    },
+    {
+      "composer": "Tommy Turrentine",
+      "disc_no": 1,
+      "length": "5:36",
+      "no": 3,
+      "title": "You Said It"
+    },
+    {
+      "composer": "Stanley Turrentine",
+      "disc_no": 1,
+      "length": "7:43",
+      "no": 4,
+      "title": "Brother Tom"
+    },
+    {
+      "composer": "Stanley Turrentine",
+      "disc_no": 1,
+      "length": "10:58",
+      "no": 5,
+      "title": "Cotton Walk"
+    },
+    {
+      "composer": [
+        "Richard Rodgers",
+        "Lorenz Hart"
+      ],
+      "disc_no": 1,
+      "length": "6:27",
+      "no": 6,
+      "title": "Little Girl Blue"
+    }
+  ]
+}
