@@ -12,6 +12,19 @@ fn log_validation_errors(errs: &FieldErrors) {
     }
 }
 
+/// ページ最上部へスムーススクロール（Issue #27）。
+/// 長い曲リストから下の方の曲を選択した際、ロードされたフォームが画面外にあり
+/// 見えないため、選択時にウィンドウを最上部へ戻す。
+fn scroll_to_top() {
+    if let Some(win) = web_sys::window() {
+        let opts = web_sys::ScrollToOptions::new();
+        opts.set_top(0.0);
+        opts.set_left(0.0);
+        opts.set_behavior(web_sys::ScrollBehavior::Smooth);
+        win.scroll_to_with_scroll_to_options(&opts);
+    }
+}
+
 fn today_str() -> String {
     let d = Date::new_0();
     let y = d.get_full_year();
@@ -92,6 +105,7 @@ pub fn app() -> Html {
             errors.set(FieldErrors::new());
             load_error.set(None);
             save_status.set(None); // 別曲編集開始時に「保存しました。」を消す
+            scroll_to_top(); // Issue #27: フォームが画面外にある場合を考慮して最上部へ
             wasm_bindgen_futures::spawn_local(async move {
                 match api::get_file(&name).await {
                     Ok(mut data) => {
