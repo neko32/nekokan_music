@@ -1,0 +1,135 @@
+{
+  "comment": "モンクらしいモンクを安定したビバップの達人サイドメンたちと楽しめる安定の一枚。1956年リリースで当時でもビバップのやや懐かしい感じがしたのかも",
+  "date": "2026/04/19",
+  "id": "PRLP 7053",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Bebop"
+    ]
+  },
+  "label": "Prestige",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Thelonious Monk",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Ray Copeland",
+        "tracks": "1-4"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Frank Foster",
+        "tracks": "1-4"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Curly Russell",
+        "tracks": "1-4"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Art Blakey",
+        "tracks": "1-4"
+      },
+      {
+        "instruments": "French Horn",
+        "name": "Julius Watkins",
+        "tracks": "5-7"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Sonny Rollins",
+        "tracks": "5-7"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Percy Heath",
+        "tracks": "5-7"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Willie Jones",
+        "tracks": "5-7"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1953,
+    1954
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Monk_(1956_album)"
+    }
+  ],
+  "release_year": 1956,
+  "score": 4,
+  "title": "Monk (1956)",
+  "tracks": [
+    {
+      "composer": "Thelonious Monk",
+      "disc_no": 1,
+      "length": "5:16",
+      "no": 1,
+      "title": "We See"
+    },
+    {
+      "composer": [
+        "Otto Harbach",
+        "Jerome Kern"
+      ],
+      "disc_no": 1,
+      "length": "4:34",
+      "no": 2,
+      "title": "Smoke Gets in Your Eyes"
+    },
+    {
+      "composer": "Thelonious Monk",
+      "disc_no": 1,
+      "length": "6:23",
+      "no": 3,
+      "title": "Locomotive"
+    },
+    {
+      "composer": "Thelonious Monk",
+      "disc_no": 1,
+      "length": "5:13",
+      "no": 4,
+      "title": "Hackensack"
+    },
+    {
+      "composer": "Thelonious Monk",
+      "disc_no": 1,
+      "length": "5:08",
+      "no": 5,
+      "title": "Let's Call This"
+    },
+    {
+      "composer": "Thelonious Monk",
+      "disc_no": 1,
+      "length": "5:47",
+      "no": 6,
+      "title": "Think of One [Take 2]"
+    },
+    {
+      "composer": "Thelonious Monk",
+      "disc_no": 1,
+      "length": "5:37",
+      "no": 7,
+      "title": "Think of One [Take 1]"
+    }
+  ]
+}

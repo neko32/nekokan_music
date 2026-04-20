@@ -1,0 +1,222 @@
+{
+  "comment": "ディスク1は室内楽オケとジャズクインテットの協奏曲で前作スペインとピアノ協奏曲の発展形...といいたかったのだろうがこれはちょっとキツイ。表題と内容の不一致というか長尺で淡泊、似たような展開と曲調がずっと続く。ディスク２はオケ無しでドーハムの名曲とオリジナルとスタンダード。むしろDisc2のほうがよっぽど良い。Disc1で評価２，Disc2で評価４、平均で3という評価に落ち着く。",
+  "date": "2026/04/19",
+  "id": "477 9952",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Symphonic"
+    ]
+  },
+  "label": "Deutsche Grammophon",
+  "personnel": {
+    "company": [],
+    "conductor": [
+      {
+        "name": "Steven Mercurio",
+        "tracks": "1-all"
+      }
+    ],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Chick Corea",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [
+      {
+        "name": "Chamber Orchestra",
+        "tracks": "1-all"
+      }
+    ],
+    "sidemen": [
+      {
+        "instruments": "Trombone",
+        "name": "Steve Davis",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tenor Saxophone, Flute",
+        "name": "Tim Garland",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Bass Guitar",
+        "name": "Hans Glawischnig",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Marcus Gilmore",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    2012
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/release/3752821-Chick-Corea-The-Continents-Concerto-For-Jazz-Quintet-Chamber-Orchestra"
+    }
+  ],
+  "release_year": 2012,
+  "score": 3,
+  "title": "The Continent",
+  "tracks": [
+    {
+      "composer": "Chick Corea",
+      "disc_no": 1,
+      "length": "8:22",
+      "no": 1,
+      "title": "Africa"
+    },
+    {
+      "composer": "Chick Corea",
+      "disc_no": 1,
+      "length": "20:28",
+      "no": 2,
+      "title": "Europe"
+    },
+    {
+      "composer": "Chick Corea",
+      "disc_no": 1,
+      "length": "6:26",
+      "no": 3,
+      "title": "Australia"
+    },
+    {
+      "composer": "Chick Corea",
+      "disc_no": 1,
+      "length": "12:32",
+      "no": 4,
+      "title": "Amertica"
+    },
+    {
+      "composer": "Chick Corea",
+      "disc_no": 1,
+      "length": "11:09",
+      "no": 5,
+      "title": "Asia"
+    },
+    {
+      "composer": "Chick Corea",
+      "disc_no": 1,
+      "length": "12:45",
+      "no": 6,
+      "title": "Antartica"
+    },
+    {
+      "composer": "Kenny Dorham",
+      "disc_no": 2,
+      "length": "14:31",
+      "no": 1,
+      "title": "Lotus Blossom"
+    },
+    {
+      "composer": "Kenny Dorham",
+      "disc_no": 2,
+      "length": "6:20",
+      "no": 2,
+      "title": "Blue Bossa"
+    },
+    {
+      "composer": "Chick Corea",
+      "disc_no": 2,
+      "length": "5:16",
+      "no": 3,
+      "title": "What's This"
+    },
+    {
+      "composer": [
+        "John Klenner",
+        "Sam Lewis"
+      ],
+      "disc_no": 2,
+      "length": "9:17",
+      "no": 4,
+      "title": "Just Friends"
+    },
+    {
+      "composer": "Chick Corea",
+      "disc_no": 2,
+      "length": "1:05",
+      "no": 5,
+      "title": "Solo Continuum 31"
+    },
+    {
+      "composer": "Chick Corea",
+      "disc_no": 2,
+      "length": "2:05",
+      "no": 6,
+      "title": "Solo Continuum 42"
+    },
+    {
+      "composer": "Chick Corea",
+      "disc_no": 2,
+      "length": "1:15",
+      "no": 7,
+      "title": "Solo Continuum 53"
+    },
+    {
+      "composer": "Chick Corea",
+      "disc_no": 2,
+      "length": "2:44",
+      "no": 8,
+      "title": "Solo Continuum 64"
+    },
+    {
+      "composer": "Chick Corea",
+      "disc_no": 2,
+      "length": "7:24",
+      "no": 9,
+      "title": "Solo Continuum 75"
+    },
+    {
+      "composer": "Chick Corea",
+      "disc_no": 2,
+      "length": "2:52",
+      "no": 10,
+      "title": "Solo Continuum 86"
+    },
+    {
+      "composer": "Chick Corea",
+      "disc_no": 2,
+      "length": "1:27",
+      "no": 11,
+      "title": "Solo Continuum 97"
+    },
+    {
+      "composer": "Chick Corea",
+      "disc_no": 2,
+      "length": "2:56",
+      "no": 12,
+      "title": "Solo Continuum 108"
+    },
+    {
+      "composer": "Chick Corea",
+      "disc_no": 2,
+      "length": "3:10",
+      "no": 13,
+      "title": "Solo Continuum 119"
+    },
+    {
+      "composer": "Chick Corea",
+      "disc_no": 2,
+      "length": "3:46",
+      "no": 14,
+      "title": "Solo Continuum 1310"
+    },
+    {
+      "composer": "Chick Corea",
+      "disc_no": 2,
+      "length": "3:28",
+      "no": 15,
+      "title": "Solo Continuum 1411"
+    }
+  ]
+}

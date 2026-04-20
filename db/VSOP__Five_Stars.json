@@ -1,0 +1,110 @@
+{
+  "comment": "VSOP待望のスタジオ録音で全曲新規オリジナルの嬉しい作品。この５人が揃って繰り出される演奏はもう完全保存もの。",
+  "date": "2026/04/19",
+  "id": "30AP 1036",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "New Mainstream",
+      "Neo Hard Bop"
+    ]
+  },
+  "label": "CBS/Sony",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [
+      {
+        "abbr": "VSOP",
+        "members": [
+          {
+            "instruments": "Trumpet, Flugelhorn",
+            "name": "Freddie Hubbard",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Tenor Saxophone, Soprano Saxophone",
+            "name": "Wayne Shorter",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Piano",
+            "name": "Herbie Hancock",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Double Bass",
+            "name": "Ron Carter",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Drums",
+            "name": "Tony Williams",
+            "tracks": "all"
+          }
+        ],
+        "name": "The V.S.O.P. Quintet"
+      }
+    ],
+    "leader": [],
+    "orchestra": [],
+    "sidemen": [],
+    "soloists": []
+  },
+  "record_year": [
+    1979
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/release/5194650-The-VSOP-Quintet-Five-Stars"
+    }
+  ],
+  "release_year": 1979,
+  "score": 5,
+  "title": "Five Stars",
+  "tracks": [
+    {
+      "composer": "Freddie Hubbard",
+      "disc_no": 1,
+      "length": "10:15",
+      "no": 1,
+      "title": "Skagly"
+    },
+    {
+      "composer": "Herbie Hancock",
+      "disc_no": 1,
+      "length": "6:44",
+      "no": 2,
+      "title": "Finger Painting"
+    },
+    {
+      "composer": "Tony Williams",
+      "disc_no": 1,
+      "length": "11:06",
+      "no": 3,
+      "title": "Mutants On The Beach"
+    },
+    {
+      "composer": "Wayne Shorter",
+      "disc_no": 1,
+      "length": "4:31",
+      "no": 4,
+      "title": "Circe"
+    },
+    {
+      "composer": "Freddie Hubbard",
+      "disc_no": 1,
+      "length": "10:16",
+      "no": 5,
+      "title": "Skagly [CD Version]"
+    },
+    {
+      "composer": "Herbie Hancock",
+      "disc_no": 1,
+      "length": "6:43",
+      "no": 6,
+      "title": "Finger Painting [CD Version]"
+    }
+  ]
+}

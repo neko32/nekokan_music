@@ -1,0 +1,98 @@
+{
+  "comment": "グリフィンが様々なタイプの異なる曲を豪快に調理していくワンホーンアルバム。ゴスペルライクなタイトル曲、ラテンフィーリングあふれる名曲 Latin Quarter, スタンダード、ブルースどれもグリフィンの豪快なテナーでグリフィン色に塗り替えていく様は圧巻。クラークのピアノもうれしい。",
+  "date": "2026/04/19",
+  "id": "BLP 1580",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Johnny Griffin",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Piano",
+        "name": "Sonny Clark",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Paul Chambers",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Kenny Dennis",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1957
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Congregation_(Johnny_Griffin_album)"
+    }
+  ],
+  "release_year": 1958,
+  "score": 4,
+  "title": "The Congregation",
+  "tracks": [
+    {
+      "composer": "Johnny Griffin",
+      "disc_no": 1,
+      "length": "6:47",
+      "no": 1,
+      "title": "The Congregation"
+    },
+    {
+      "composer": "John Jenkins",
+      "disc_no": 1,
+      "length": "6:29",
+      "no": 2,
+      "title": "Latin Quarter"
+    },
+    {
+      "composer": [
+        "Jimmy Dorsey",
+        "Paul Mertz"
+      ],
+      "disc_no": 1,
+      "length": "5:10",
+      "no": 3,
+      "title": "I'm Glad There Is You"
+    },
+    {
+      "composer": "Johnny Griffin",
+      "disc_no": 1,
+      "length": "6:33",
+      "no": 4,
+      "title": "Main Spring"
+    },
+    {
+      "composer": [
+        "Sammy Cahn",
+        "Jule Styne"
+      ],
+      "disc_no": 1,
+      "length": "4:52",
+      "no": 5,
+      "title": "It's You or No One"
+    }
+  ]
+}

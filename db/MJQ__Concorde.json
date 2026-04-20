@@ -1,0 +1,114 @@
+{
+  "comment": "MJQ最初期を捉えたアルバムだがもうすでにここでMJQのベースとなるヨーロッパ志向・室内楽ジャズが出来上がっていることに驚き。ミルトジャクソンのドライブ感はやはり只者でない。このアルバムからMJQのドラマーは正式にKenny ClarkeからConnie Kayにバトンタッチ。",
+  "date": "2026/04/19",
+  "id": "PR 7005",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Chamber Music"
+    ]
+  },
+  "label": "Prestige",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [
+      {
+        "abbr": "MJQ",
+        "members": [
+          {
+            "instruments": "Vibraphone",
+            "name": "Milt Jackson",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Piano",
+            "name": "John Lewis",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Double Bass",
+            "name": "Percy Heath",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Drums",
+            "name": "Connie Kay",
+            "tracks": "all"
+          }
+        ],
+        "name": "Modern Jazz Quartet"
+      }
+    ],
+    "leader": [],
+    "orchestra": [],
+    "sidemen": [],
+    "soloists": []
+  },
+  "record_year": [
+    1955
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Concorde_(album)"
+    }
+  ],
+  "release_year": 1955,
+  "score": 4,
+  "title": "Concorde",
+  "tracks": [
+    {
+      "composer": "Milt Jackson",
+      "disc_no": 1,
+      "length": "7:08",
+      "no": 1,
+      "title": "Ralph's New Blues"
+    },
+    {
+      "composer": "Cole Porter",
+      "disc_no": 1,
+      "length": "4:31",
+      "no": 2,
+      "title": "All of You"
+    },
+    {
+      "composer": [
+        "Gene de Paul",
+        "Patricia Johnston",
+        "Don Raye"
+      ],
+      "disc_no": 1,
+      "length": "5:09",
+      "no": 3,
+      "title": "I'll Remember April"
+    },
+    {
+      "composer": [
+        "George Gershwin",
+        "Ira Gershwin"
+      ],
+      "disc_no": 1,
+      "length": "7:54",
+      "no": 4,
+      "title": "Gershwin Medley: Soon; For You, For Me, For Everymore; Love Walked In; Our Love Is Here To Stay"
+    },
+    {
+      "composer": [
+        "Oscar Hammerstein II",
+        "Sigmund Romberg"
+      ],
+      "disc_no": 1,
+      "length": "7:54",
+      "no": 5,
+      "title": "Softly, as in a Morning Sunrise"
+    },
+    {
+      "composer": "John Lewis",
+      "disc_no": 1,
+      "length": "3:42",
+      "no": 6,
+      "title": "Concorde"
+    }
+  ]
+}
