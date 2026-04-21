@@ -1,0 +1,107 @@
+{
+  "comment": "Black Fire, Smoke Stackに続く第３作目もアンドリューヒルワールド全開。今度はハッチャーソンのビブラフォンで華麗にアヴァンギャルドスペースを染め上げてエルヴィンとデイヴィスのスーパーヘビーリズムセクションでハードコアな味付け。全曲オリジナルもまたとてもよく、彼の想像力に感心しきり。新主流派に聴こえたり、アヴァンギャルドだったり、一瞬比較的トラッドなハードバップっぽくなったらまたアヴァンギャルドに戻ったりと万華鏡かのよう。",
+  "date": "2026/04/20",
+  "id": "BST 84159",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop",
+      "Avrant-Garde"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Andrew Hill",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Vibraphone",
+        "name": "Bobby Hutcherson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Richard Davis",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Elvin Jones",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1964
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Judgment!"
+    }
+  ],
+  "release_year": 1964,
+  "score": 5,
+  "title": "Judgment!",
+  "tracks": [
+    {
+      "composer": "Andrew Hill",
+      "disc_no": 1,
+      "length": "8:58",
+      "no": 1,
+      "title": "Siete Ocho"
+    },
+    {
+      "composer": "Andrew Hill",
+      "disc_no": 1,
+      "length": "7:21",
+      "no": 2,
+      "title": "Flea Flop"
+    },
+    {
+      "composer": "Andrew Hill",
+      "disc_no": 1,
+      "length": "5:17",
+      "no": 3,
+      "title": "Yokada Yokada"
+    },
+    {
+      "composer": "Andrew Hill",
+      "disc_no": 1,
+      "length": "7:04",
+      "no": 4,
+      "title": "Alfred"
+    },
+    {
+      "composer": "Andrew Hill",
+      "disc_no": 1,
+      "length": "6:53",
+      "no": 5,
+      "title": "Judgment"
+    },
+    {
+      "composer": "Andrew Hill",
+      "disc_no": 1,
+      "length": "7:24",
+      "no": 6,
+      "title": "Reconciliation"
+    },
+    {
+      "composer": "Andrew Hill",
+      "disc_no": 1,
+      "length": "5:12",
+      "no": 7,
+      "title": "Yokada Yokada [alternate take]"
+    }
+  ]
+}
