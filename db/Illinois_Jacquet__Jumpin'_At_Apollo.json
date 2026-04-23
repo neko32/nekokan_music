@@ -1,0 +1,294 @@
+{
+  "comment": "ビバップそのものとジャケーのテキサステナーがすでにこのビバップ全盛の時代油に乗り切っていたことをよく示すドキュメンタリー。ビバップレジェンドに囲まれてジャンプがよく跳ねる跳ねる。",
+  "date": "2026/04/22",
+  "id": "DE-538",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Bebop"
+    ]
+  },
+  "label": "Delmark Records",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Illinois Jacquet",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Joe Newman",
+        "tracks": "1,4-7,10,11,13,14,19,21,22"
+      },
+      {
+        "instruments": "Trumpet,Vocal",
+        "name": "Russell Jacquet",
+        "tracks": "2,3,8,9,12,15-18,20,23"
+      },
+      {
+        "instruments": "Trombone",
+        "name": "Trummy Young",
+        "tracks": "5,7,13,14,19"
+      },
+      {
+        "instruments": "Alto Saxophone",
+        "name": "John Brown",
+        "tracks": "2,3,8,9,12,15-18,20,23"
+      },
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Ray Perry",
+        "tracks": "5,7,13,14,19"
+      },
+      {
+        "instruments": "Baritone Saxophone",
+        "name": "Arthur Dennis",
+        "tracks": "2,3,8,9,12,15-18,20,23"
+      },
+      {
+        "instruments": "Baritone Saxophone",
+        "name": "Leo Parker",
+        "tracks": "1,4,6,10,11,21,22"
+      },
+      {
+        "instruments": "Guitar",
+        "name": "Freddie Green",
+        "tracks": "5,7,13,14,19"
+      },
+      {
+        "instruments": "Guitar",
+        "name": "Ulysses Livingston",
+        "tracks": "2,3,8,9,12,15-18,20,23"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Bill Doggett",
+        "tracks": "2,3,5,7-9,12-19,20,23"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Sir Charles Thompson",
+        "tracks": "1,4,6,10,11,21,22"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Al Lucas",
+        "tracks": "1,4,6,10,11,21,22"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Charles Mingus",
+        "tracks": "2,3,8,9,12,15-18,20,23"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "John Simmons",
+        "tracks": "5,7,13,14,19"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Al Wichard",
+        "tracks": "2,3,8,9,12,15-18,20,23"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Denzil Best",
+        "tracks": "5,7,13,14,19"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Shadow Wilson",
+        "tracks": "1,4,6,10,11,21,22"
+      },
+      {
+        "instruments": "Vocal",
+        "name": "Wynonie Harris",
+        "tracks": "16,17"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1945,
+    1947
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/release/11251594-Illinois-Jacquet-Jumpin-At-Apollo"
+    }
+  ],
+  "release_year": 2002,
+  "score": 4,
+  "title": "Jumpin' At Apollo",
+  "tracks": [
+    {
+      "composer": "Illinois Jacquet",
+      "disc_no": 1,
+      "length": "2:49",
+      "no": 1,
+      "title": "Diggin' The Count"
+    },
+    {
+      "composer": "Illinois Jacquet",
+      "disc_no": 1,
+      "length": "2:55",
+      "no": 2,
+      "title": "Bottoms Up"
+    },
+    {
+      "composer": "Illinois Jacquet",
+      "disc_no": 1,
+      "length": "3:08",
+      "no": 3,
+      "title": "Ghost of a Chance"
+    },
+    {
+      "composer": "Illinois Jacquet",
+      "disc_no": 1,
+      "length": "2:45",
+      "no": 4,
+      "title": "South Street Special"
+    },
+    {
+      "composer": "Illinois Jacquet",
+      "disc_no": 1,
+      "length": "2:52",
+      "no": 5,
+      "title": "Jacquet Bounce"
+    },
+    {
+      "composer": "Illinois Jacquet",
+      "disc_no": 1,
+      "length": "2:54",
+      "no": 6,
+      "title": "Robbin's Nest"
+    },
+    {
+      "composer": "Illinois Jacquet",
+      "disc_no": 1,
+      "length": "2:55",
+      "no": 7,
+      "title": "Jumpin' At Apollo"
+    },
+    {
+      "composer": "Illinois Jacquet",
+      "disc_no": 1,
+      "length": "2:37",
+      "no": 8,
+      "title": "What's This"
+    },
+    {
+      "composer": "Illinois Jacquet",
+      "disc_no": 1,
+      "length": "3:11",
+      "no": 9,
+      "title": "Memories of You"
+    },
+    {
+      "composer": "Illinois Jacquet",
+      "disc_no": 1,
+      "length": "2:45",
+      "no": 10,
+      "title": "Music Hall Beat"
+    },
+    {
+      "composer": "Illinois Jacquet",
+      "disc_no": 1,
+      "length": "2:45",
+      "no": 11,
+      "title": "Jumpin' at The Woodwide"
+    },
+    {
+      "composer": "Illinois Jacquet",
+      "disc_no": 1,
+      "length": "2:55",
+      "no": 12,
+      "title": "Merie's Mood"
+    },
+    {
+      "composer": "Illinois Jacquet",
+      "disc_no": 1,
+      "length": "2:47",
+      "no": 13,
+      "title": "She's Funny That Way"
+    },
+    {
+      "composer": "Illinois Jacquet",
+      "disc_no": 1,
+      "length": "2:45",
+      "no": 14,
+      "title": "12 Minutes To Go"
+    },
+    {
+      "composer": "Illinois Jacquet",
+      "disc_no": 1,
+      "length": "3:06",
+      "no": 15,
+      "title": "Wondering And Thinking of You"
+    },
+    {
+      "composer": "Illinois Jacquet",
+      "disc_no": 1,
+      "length": "2:54",
+      "no": 16,
+      "title": "Here Comes The Blues"
+    },
+    {
+      "composer": "Illinois Jacquet",
+      "disc_no": 1,
+      "length": "2:47",
+      "no": 17,
+      "title": "Wynonie's Blues"
+    },
+    {
+      "composer": "Illinois Jacquet",
+      "disc_no": 1,
+      "length": "2:56",
+      "no": 18,
+      "title": "Bottoms Up"
+    },
+    {
+      "composer": "Illinois Jacquet",
+      "disc_no": 1,
+      "length": "2:44",
+      "no": 19,
+      "title": "12 Minutes To Go"
+    },
+    {
+      "composer": "Illinois Jacquet",
+      "disc_no": 1,
+      "length": "2:54",
+      "no": 20,
+      "title": "Merie's Mood"
+    },
+    {
+      "composer": "Illinois Jacquet",
+      "disc_no": 1,
+      "length": "2:41",
+      "no": 21,
+      "title": "South Street Special"
+    },
+    {
+      "composer": "Illinois Jacquet",
+      "disc_no": 1,
+      "length": "2:43",
+      "no": 22,
+      "title": "Jumpin' at The Woodside"
+    },
+    {
+      "composer": "Illinois Jacquet",
+      "disc_no": 1,
+      "length": "2:26",
+      "no": 23,
+      "title": "Jacquet Mood"
+    }
+  ]
+}

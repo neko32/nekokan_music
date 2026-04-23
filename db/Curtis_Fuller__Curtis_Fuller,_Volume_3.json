@@ -1,0 +1,107 @@
+{
+  "comment": "フラーの音色も音の張りもソロの質も極めて充実した時期を捉えた名作。ソニー・クラークのピアノがとてもよく、ルイス・ヘイズの迫力あるドラムも素晴らしい。ジョージ・タッカーのような強めのベースを選んだのも酔眼。",
+  "date": "2026/04/22",
+  "id": "BLP 1583",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Trombone",
+        "name": "Curtis Fuller",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Art Farmer",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Sonny Clark",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "George Tucker",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Louis Hayes",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1957
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Curtis_Fuller,_Volume_3"
+    }
+  ],
+  "release_year": 1960,
+  "score": 5,
+  "title": "Curtis Fuller, Volume 3",
+  "tracks": [
+    {
+      "composer": "Curtis Fuller",
+      "disc_no": 1,
+      "length": "6:21",
+      "no": 1,
+      "title": "Little Messagers"
+    },
+    {
+      "composer": "Curtis Fuller",
+      "disc_no": 1,
+      "length": "6:13",
+      "no": 2,
+      "title": "Quantrale"
+    },
+    {
+      "composer": "Curtis Fuller",
+      "disc_no": 1,
+      "length": "6:49",
+      "no": 3,
+      "title": "Jeanie"
+    },
+    {
+      "composer": "Curtis Fuller",
+      "disc_no": 1,
+      "length": "6:59",
+      "no": 4,
+      "title": "Carvon"
+    },
+    {
+      "composer": "Curtis Fuller",
+      "disc_no": 1,
+      "length": "6:33",
+      "no": 5,
+      "title": "Two Quarters of a Mile"
+    },
+    {
+      "composer": [
+        "Burton Lane",
+        "Alan Jay Lerner"
+      ],
+      "disc_no": 1,
+      "length": "6:54",
+      "no": 6,
+      "title": "It's Too Late Now"
+    }
+  ]
+}

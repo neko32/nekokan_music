@@ -1,0 +1,100 @@
+{
+  "comment": "新主流派ウェインショーターの実に彼らしいミステリアスな雰囲気を漂わせてJMのファンキーさを残しつつJCリズム隊をうまくコントロールし自分の世界に引き込んでいる。実に素晴らしい一枚。",
+  "date": "2026/04/22",
+  "id": "BLP 4182",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "New Mainstream",
+      "Mode"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Wayne Shorter",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Piano",
+        "name": "McCoy Tyner",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Reggie Workman",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Elvin Jones",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1964
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/JuJu_(album)"
+    }
+  ],
+  "release_year": 1965,
+  "score": 5,
+  "title": "Juju",
+  "tracks": [
+    {
+      "composer": "Wayne Shorter",
+      "disc_no": 1,
+      "length": "8:30",
+      "no": 1,
+      "title": "Juju"
+    },
+    {
+      "composer": "Wayne Shorter",
+      "disc_no": 1,
+      "length": "6:49",
+      "no": 2,
+      "title": "Deluge"
+    },
+    {
+      "composer": "Wayne Shorter",
+      "disc_no": 1,
+      "length": "6:49",
+      "no": 3,
+      "title": "House of Jade"
+    },
+    {
+      "composer": "Wayne Shorter",
+      "disc_no": 1,
+      "length": "7:39",
+      "no": 4,
+      "title": "Mahjong"
+    },
+    {
+      "composer": "Wayne Shorter",
+      "disc_no": 1,
+      "length": "6:34",
+      "no": 5,
+      "title": "Yes or No"
+    },
+    {
+      "composer": "Wayne Shorter",
+      "disc_no": 1,
+      "length": "5:26",
+      "no": 6,
+      "title": "Twelve More Bars to Go"
+    }
+  ]
+}

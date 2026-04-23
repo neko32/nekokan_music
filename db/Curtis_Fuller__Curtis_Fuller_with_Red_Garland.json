@@ -1,0 +1,113 @@
+{
+  "comment": "カーティスフラーが本来だったらデビュー後２作目になるはずだったアルバムだったが1963年リリースまでお蔵入りになった作品だが、内容はステーブルなハードバップでフラーのトロンボーンがバラード・オリジナル双方で堪能できる一枚。ガーランド色はやや薄めでどっちかというとフラーの顔見せアルバム。",
+  "date": "2026/04/22",
+  "id": "NJLP 8277",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "New Jazz",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Trombone",
+        "name": "Curtis Fuller",
+        "tracks": "all except 5"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Red Garlaned",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Sonny Red",
+        "tracks": "all except 2"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Paul Chambers",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Louis hayes",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1957
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Curtis_Fuller_with_Red_Garland"
+    }
+  ],
+  "release_year": 1963,
+  "score": 4,
+  "title": "Curtis Fuller with Red Garland",
+  "tracks": [
+    {
+      "composer": [
+        "Sonny Red",
+        "Barry Harris"
+      ],
+      "disc_no": 1,
+      "length": "7:35",
+      "no": 1,
+      "title": "Seeing Red"
+    },
+    {
+      "composer": [
+        "Harold Arlen",
+        "Ted Koehler"
+      ],
+      "disc_no": 1,
+      "length": "7:00",
+      "no": 2,
+      "title": "Stormy Weather"
+    },
+    {
+      "composer": "Curtis Fuller",
+      "disc_no": 1,
+      "length": "7:17",
+      "no": 3,
+      "title": "Cashmere"
+    },
+    {
+      "composer": "Sonny Red",
+      "disc_no": 1,
+      "length": "6:45",
+      "no": 4,
+      "title": "Slenderella"
+    },
+    {
+      "composer": [
+        "Johnny Burke",
+        "Jimmy Van Heusen"
+      ],
+      "disc_no": 1,
+      "length": "7:43",
+      "no": 5,
+      "title": "Moonlight Becomes You"
+    },
+    {
+      "composer": "Teddy Charles",
+      "disc_no": 1,
+      "length": "7:42",
+      "no": 6,
+      "title": "Roc and Troll"
+    }
+  ]
+}
