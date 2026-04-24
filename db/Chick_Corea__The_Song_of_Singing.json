@@ -1,0 +1,102 @@
+{
+  "comment": "コリアのフリー志向時代の代表作といっていいアルバム。ホランド、アルツシュルというフリーの闘士を従えて存分に創造性を発揮する。ここまでフリーに振り切ったのはブルーノートでは珍しい。",
+  "date": "2026/04/23",
+  "id": "BST 84353",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Free"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Chick Corea",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Double Bass",
+        "name": "Dave Holland",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Barry Altschul",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1970
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Song_of_Singing"
+    }
+  ],
+  "release_year": 1971,
+  "score": 5,
+  "title": "The Song of Singing",
+  "tracks": [
+    {
+      "composer": "Dave Holland",
+      "disc_no": 1,
+      "length": "5:51",
+      "no": 1,
+      "title": "Toy Rooms"
+    },
+    {
+      "composer": [
+        "Chick Corea",
+        "Dave Holland",
+        "Barry Altschul"
+      ],
+      "disc_no": 1,
+      "length": "4:17",
+      "no": 2,
+      "title": "Balland I"
+    },
+    {
+      "composer": "Chick Corea",
+      "disc_no": 1,
+      "length": "6:50",
+      "no": 3,
+      "title": "Rhymes"
+    },
+    {
+      "composer": "Chick Corea",
+      "disc_no": 1,
+      "length": "6:06",
+      "no": 4,
+      "title": "Flesh"
+    },
+    {
+      "composer": [
+        "Chick Corea",
+        "Dave Holland",
+        "Barry Altschul"
+      ],
+      "disc_no": 1,
+      "length": "5:34",
+      "no": 5,
+      "title": "Balland III"
+    },
+    {
+      "composer": "Wayne Shorter",
+      "disc_no": 1,
+      "length": "7:05",
+      "no": 6,
+      "title": "Nefertiti"
+    }
+  ]
+}

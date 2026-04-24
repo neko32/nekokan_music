@@ -1,0 +1,142 @@
+{
+  "comment": "奇才サム・ジョーンズの魅力と才がフルに発揮された意欲作。ベースのみならずチェロも弾き彼の突飛なメロディの才能も存分に堪能できる作り。ジミーヒースの編曲もあるのだろうか、アンサンブルの質も非常に良い。",
+  "date": "2026/04/23",
+  "id": "RLP 12-324",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Riverside",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Double Bass, Cello",
+        "name": "Sam Jones",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Cornet",
+        "name": "Nat Adderley",
+        "tracks": "1,4,6,7"
+      },
+      {
+        "instruments": "Trumpet",
+        "name": "Blue Mitchell",
+        "tracks": "2,3,5,8"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Jimmy Heath",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Baritone Saxophone",
+        "name": "Charles Davis",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Bobby Timmons",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Keter Betts",
+        "tracks": "1,4,6,7"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Louis Hayes",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1960
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Soul_Society"
+    }
+  ],
+  "release_year": 1960,
+  "score": 5,
+  "title": "The Soul Society",
+  "tracks": [
+    {
+      "composer": "Keter Betts",
+      "disc_no": 1,
+      "length": "5:49",
+      "no": 1,
+      "title": "Some Kinda Mean"
+    },
+    {
+      "composer": "Jimmy Heath",
+      "disc_no": 1,
+      "length": "4:11",
+      "no": 2,
+      "title": "All Members"
+    },
+    {
+      "composer": [
+        "Curtis Lewis",
+        "Nat Adderley"
+      ],
+      "disc_no": 1,
+      "length": "6:05",
+      "no": 3,
+      "title": "The Old Country"
+    },
+    {
+      "composer": [
+        "John Klenner",
+        "Sam M. Lewis"
+      ],
+      "disc_no": 1,
+      "length": "4:13",
+      "no": 4,
+      "title": "Just Friends"
+    },
+    {
+      "composer": "Cannonball Adderley",
+      "disc_no": 1,
+      "length": "5:13",
+      "no": 5,
+      "title": "Home"
+    },
+    {
+      "composer": "Sam Jones",
+      "disc_no": 1,
+      "length": "4:57",
+      "no": 6,
+      "title": "Deep Blue Cello"
+    },
+    {
+      "composer": [
+        "Isham Jones",
+        "Marty Symes"
+      ],
+      "disc_no": 1,
+      "length": "3:41",
+      "no": 7,
+      "title": "There Is No Greater Love"
+    },
+    {
+      "composer": "Bobby Timmons",
+      "disc_no": 1,
+      "length": "6:17",
+      "no": 8,
+      "title": "So Tired"
+    }
+  ]
+}

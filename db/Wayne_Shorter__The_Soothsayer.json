@@ -1,0 +1,116 @@
+{
+  "comment": "1979年までリリースされなかったのは信じられないくらいの素晴らしいアルバム。ショーターワールド、新主流派の一流サイドメン、特にトニーウィリアムスのスーパードラミングときたらいうことはない。",
+  "date": "2026/04/23",
+  "id": "LT 988",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "New Mainstream"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Wayne Shorter",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Freddie Hubbard",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Alto Saxophone",
+        "name": "James Spaulding",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "McCoy Tyner",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Ron Carter",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Tony Williams",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1965
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Soothsayer"
+    }
+  ],
+  "release_year": 1979,
+  "score": 5,
+  "title": "The Soothsayer",
+  "tracks": [
+    {
+      "composer": "Wayne Shorter",
+      "disc_no": 1,
+      "length": "7:12",
+      "no": 1,
+      "title": "Lost"
+    },
+    {
+      "composer": "Wayne Shorter",
+      "disc_no": 1,
+      "length": "4:48",
+      "no": 2,
+      "title": "Angola"
+    },
+    {
+      "composer": "Wayne Shorter",
+      "disc_no": 1,
+      "length": "6:41",
+      "no": 3,
+      "title": "Angola [alt. take]"
+    },
+    {
+      "composer": "Wayne Shorter",
+      "disc_no": 1,
+      "length": "8:18",
+      "no": 4,
+      "title": "The Big Push"
+    },
+    {
+      "composer": "Wayne Shorter",
+      "disc_no": 1,
+      "length": "9:35",
+      "no": 5,
+      "title": "The Soothsayer"
+    },
+    {
+      "composer": "Wayne Shorter",
+      "disc_no": 1,
+      "length": "5:31",
+      "no": 6,
+      "title": "Lady Day"
+    },
+    {
+      "composer": "Jean Sibelius",
+      "disc_no": 1,
+      "length": "7:35",
+      "no": 7,
+      "title": "Valse Triste"
+    }
+  ]
+}
