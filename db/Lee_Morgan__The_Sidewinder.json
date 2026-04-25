@@ -1,0 +1,104 @@
+{
+  "comment": "ジャズロック不朽の名盤。８ビートジャズ、というかジャズロックとモーガンのいなせなプレイは大変良く合うし、割と泥臭いジョーヘンのテナーも柔軟に良く合っている。このころのヒギンスのドラムはのりにのっている。",
+  "date": "2026/04/24",
+  "id": "BST 84157",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Jazzrock"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Trumpet",
+        "name": "Lee Morgan",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Joe Henderson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Barry Harris",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Bob Cranshaw",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Billy Higgins",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1963
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Sidewinder"
+    }
+  ],
+  "release_year": 1964,
+  "score": 5,
+  "title": "The Sidewinder",
+  "tracks": [
+    {
+      "composer": "Lee Morgan",
+      "disc_no": 1,
+      "length": "10:25",
+      "no": 1,
+      "title": "The Sidewinder"
+    },
+    {
+      "composer": "Lee Morgan",
+      "disc_no": 1,
+      "length": "10:11",
+      "no": 2,
+      "title": "Totem Pole"
+    },
+    {
+      "composer": "Lee Morgan",
+      "disc_no": 1,
+      "length": "6:03",
+      "no": 3,
+      "title": "Gary's Notebook"
+    },
+    {
+      "composer": "Lee Morgan",
+      "disc_no": 1,
+      "length": "7:30",
+      "no": 4,
+      "title": "Boy, What a Night"
+    },
+    {
+      "composer": "Lee Morgan",
+      "disc_no": 1,
+      "length": "6:21",
+      "no": 5,
+      "title": "Hocus-Pocus"
+    },
+    {
+      "composer": "Lee Morgan",
+      "disc_no": 1,
+      "length": "9:57",
+      "no": 6,
+      "title": "Totem Pole [Alternative take]"
+    }
+  ]
+}
