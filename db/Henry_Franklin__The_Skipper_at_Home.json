@@ -1,0 +1,119 @@
+{
+  "comment": "ボルドなジャズファンクが存分に楽しめる一枚。",
+  "date": "2026/04/25",
+  "id": "BJQD/17",
+  "janre": {
+    "main": "Fusion",
+    "sub": [
+      "Funk"
+    ]
+  },
+  "label": "Black Jazz Records",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Electric Bass",
+        "name": "Henry Franklin",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Oscar Brashear",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Trombone",
+        "name": "Al Hall, Jr.",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Soprano Saxophone",
+        "name": "Kemang Sunduza",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Charles Owens",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Electric Guitar",
+        "name": "Kenny Climas",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Leon Ndugu Chancelor",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "David Durrah",
+        "tracks": "5,6"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1974
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://www.discogs.com/artist/333635-Henry-Franklin"
+    }
+  ],
+  "release_year": 1974,
+  "score": 4,
+  "title": "The Skipper at Home",
+  "tracks": [
+    {
+      "composer": "Al Hall, Jr.",
+      "disc_no": 1,
+      "length": "7:03",
+      "no": 1,
+      "title": "Blue Lights"
+    },
+    {
+      "composer": "Chick Corea",
+      "disc_no": 1,
+      "length": "8:28",
+      "no": 2,
+      "title": "What Was"
+    },
+    {
+      "composer": "Al Hall, Jr.",
+      "disc_no": 1,
+      "length": "7:35",
+      "no": 3,
+      "title": "Soft Spirit"
+    },
+    {
+      "composer": "Al Hall, Jr.",
+      "disc_no": 1,
+      "length": "8:49",
+      "no": 4,
+      "title": "The Magic Boy"
+    },
+    {
+      "composer": "David Durrah",
+      "disc_no": 1,
+      "length": "6:17",
+      "no": 5,
+      "title": "Venus Fly Trap"
+    },
+    {
+      "composer": "David Durrah",
+      "disc_no": 1,
+      "length": "3:33",
+      "no": 6,
+      "title": "Waltz For Boobuss"
+    }
+  ]
+}
