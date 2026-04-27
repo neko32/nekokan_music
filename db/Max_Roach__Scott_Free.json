@@ -1,0 +1,71 @@
+{
+  "comment": "長尺の２曲からなるシリアスジャズ系。イタリアのマイナーレーベル録音のせいか流通少なく知られざる作品となってしまっているがそれにはもったいない内容。タイロン・ブラウンのベースギターがなかなかいい感じである。評点が3に落ち着いてしまったのは個人的な録音音質の好みゆえ。この録音、実にスタジオスタジオ感強すぎて特にローチのドラムソロの際もっと空間を感じたい。迫力が台無しになっている感じだ。",
+  "date": "2026/04/26",
+  "id": "121 103-2",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Neo Hard Bop"
+    ]
+  },
+  "label": "Soul Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Drums",
+        "name": "Max Roach",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet, Flugelhorn",
+        "name": "Cecil Bridgewater",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Odean Pope",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Bass Guitar",
+        "name": "Tyron Brown",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1984
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Scott_Free_%28album%29"
+    }
+  ],
+  "release_year": 1985,
+  "score": 3,
+  "title": "Scott Free",
+  "tracks": [
+    {
+      "composer": "Cecil Bridgewater",
+      "disc_no": 1,
+      "length": "19:58",
+      "no": 1,
+      "title": "Scott Free Part 1"
+    },
+    {
+      "composer": "Cecil Bridgewater",
+      "disc_no": 1,
+      "length": "20:17",
+      "no": 2,
+      "title": "Scott Free Part 2"
+    }
+  ]
+}

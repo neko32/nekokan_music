@@ -1,0 +1,102 @@
+{
+  "comment": "長尺で内省的なタイトル曲でしんみり始まるが次の曲からはいつものモーガンである。JMと新主流派の精鋭、グリーンのギター、ヒギンスのドラムと実にゴージャスなメンツだが特にハービーとグリーンはなぜかいつもよりおとなしめでなんかもったいない感じがする。",
+  "date": "2026/04/26",
+  "id": "BST 84169",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Post Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Trumpet",
+        "name": "Lee Morgan",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Wayne Shorter",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Guitar",
+        "name": "Grant Green",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Herbie Hancock",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Reggie Workman",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Billy Higgins",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1964
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Search_for_the_New_Land"
+    }
+  ],
+  "release_year": 1966,
+  "score": 4,
+  "title": "Search for the New Land",
+  "tracks": [
+    {
+      "composer": "Lee Morgan",
+      "disc_no": 1,
+      "length": "15:45",
+      "no": 1,
+      "title": "Search for the New Land"
+    },
+    {
+      "composer": "Lee Morgan",
+      "disc_no": 1,
+      "length": "5:04",
+      "no": 2,
+      "title": "The Joker"
+    },
+    {
+      "composer": "Lee Morgan",
+      "disc_no": 1,
+      "length": "8:43",
+      "no": 3,
+      "title": "Mr. Kenyatta"
+    },
+    {
+      "composer": "Lee Morgan",
+      "disc_no": 1,
+      "length": "6:14",
+      "no": 4,
+      "title": "Melancholee"
+    },
+    {
+      "composer": "Lee Morgan",
+      "disc_no": 1,
+      "length": "6:30",
+      "no": 5,
+      "title": "Morgan the Pirate"
+    }
+  ]
+}
