@@ -1,0 +1,185 @@
+{
+  "comment": "1976 - 1984にかけての録音をメセニー本人が選んだ選曲集。音色が変われどメセニーの郷愁溢れる、アメリカ中西部の広大さを感じさせる音作りは一貫していて実に感動的である。",
+  "date": "2026/04/26",
+  "id": "014 163-2",
+  "janre": {
+    "main": "Fusion",
+    "sub": [
+      "Soft"
+    ]
+  },
+  "label": "ECM",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Guitar, Electric Guitar, Synthesizer, Electric Bass",
+        "name": "Pat Metheny",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Micheal Brecker",
+        "tracks": "5"
+      },
+      {
+        "instruments": "Guitar, Vocal, Bells, Percussion",
+        "name": "Pedro Aznar",
+        "tracks": "8"
+      },
+      {
+        "instruments": "Piano, Synthesizer, Autoharp",
+        "name": "Lyle Mays",
+        "tracks": "2,4,6,7,8"
+      },
+      {
+        "instruments": "Electric Bass",
+        "name": "Jaco Pastrius",
+        "tracks": "1"
+      },
+      {
+        "instruments": "Electric Bass",
+        "name": "Mark Egan",
+        "tracks": "2,4"
+      },
+      {
+        "instruments": "Electric Bass",
+        "name": "Steve Rodby",
+        "tracks": "7,8"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Charlie Haden",
+        "tracks": "5,9"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Bob Moses",
+        "tracks": "1"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Dan Gottlieb",
+        "tracks": "2,4,7"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Jack DeJohnette",
+        "tracks": "5"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Billy Higgins",
+        "tracks": "9"
+      },
+      {
+        "instruments": "Percussion, Voice",
+        "name": "Nana Vasconcelos",
+        "tracks": "6,7"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1976,
+    1978,
+    1980,
+    1981,
+    1983,
+    1984
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/release/4208086-Pat-Metheny-Selected-Recordings"
+    }
+  ],
+  "release_year": 2004,
+  "score": 5,
+  "title": "Selected Recordings",
+  "tracks": [
+    {
+      "composer": "Pat Metheny",
+      "disc_no": 1,
+      "length": "4:48",
+      "no": 1,
+      "title": "Bright Size Life"
+    },
+    {
+      "composer": [
+        "Pat Metheny",
+        "Lyle Mays"
+      ],
+      "disc_no": 1,
+      "length": "8:17",
+      "no": 2,
+      "title": "Phase Dance"
+    },
+    {
+      "composer": "Pat Metheny",
+      "disc_no": 1,
+      "length": "5:15",
+      "no": 3,
+      "title": "New Chautauqua"
+    },
+    {
+      "composer": [
+        "Pat Metheny",
+        "Lyle Mays"
+      ],
+      "disc_no": 1,
+      "length": "6:17",
+      "no": 4,
+      "title": "Airstream"
+    },
+    {
+      "composer": "Pat Metheny",
+      "disc_no": 1,
+      "length": "13:14",
+      "no": 5,
+      "title": "Every Day (I Thank You)"
+    },
+    {
+      "composer": [
+        "Pat Metheny",
+        "Lyle Mays"
+      ],
+      "disc_no": 1,
+      "length": "8:17",
+      "no": 6,
+      "title": "It's For You"
+    },
+    {
+      "composer": [
+        "Pat Metheny",
+        "Lyle Mays"
+      ],
+      "disc_no": 1,
+      "length": "9:17",
+      "no": 7,
+      "title": "Are You Going With Me?"
+    },
+    {
+      "composer": [
+        "Pat Metheny",
+        "Lyle Mays"
+      ],
+      "disc_no": 1,
+      "length": "9:13",
+      "no": 8,
+      "title": "The First Circle"
+    },
+    {
+      "composer": "Pat Metheny",
+      "disc_no": 1,
+      "length": "6:46",
+      "no": 9,
+      "title": "Lonely Woman"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "comment": "極めてオーソドックスでハイレベルなハードバップが純粋に楽しめる一枚。1957年のフィリージョーの充実ぶりがもしかしたらこのアルバムの価値を大いに高めているのかもしれない。",
+  "date": "2026/04/27",
+  "id": "RLP 12-237",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Riverside",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Trumpet",
+        "name": "Clark Terry",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Johnny Griffin",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Wynton Kelly",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Paul Chambers",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Philly Joe Jones",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1957
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Serenade_to_a_Bus_Seat"
+    }
+  ],
+  "release_year": 1957,
+  "score": 5,
+  "title": "Serenade to a Bus Seat",
+  "tracks": [
+    {
+      "composer": "Charlie Parker",
+      "disc_no": 1,
+      "length": "4:04",
+      "no": 1,
+      "title": "Donna Lee"
+    },
+    {
+      "composer": "Clark Terry",
+      "disc_no": 1,
+      "length": "7:01",
+      "no": 2,
+      "title": "Boardwalk"
+    },
+    {
+      "composer": "Clark Terry",
+      "disc_no": 1,
+      "length": "6:01",
+      "no": 3,
+      "title": "Boomerang"
+    },
+    {
+      "composer": "Clark Terry",
+      "disc_no": 1,
+      "length": "4:08",
+      "no": 4,
+      "title": "Digits"
+    },
+    {
+      "composer": "Clark Terry",
+      "disc_no": 1,
+      "length": "4:37",
+      "no": 5,
+      "title": "Serenade to a Bus Seat"
+    },
+    {
+      "composer": [
+        "Hoagy Carmichael",
+        "Mitchell Parish"
+      ],
+      "disc_no": 1,
+      "length": "5:15",
+      "no": 6,
+      "title": "Stardust"
+    },
+    {
+      "composer": "Clark Terry",
+      "disc_no": 1,
+      "length": "8:27",
+      "no": 7,
+      "title": "Cruising"
+    },
+    {
+      "composer": [
+        "Harold Arlen",
+        "Johnny Mercer"
+      ],
+      "disc_no": 1,
+      "length": "1:59",
+      "no": 8,
+      "title": "That Old Black Magic"
+    }
+  ]
+}
