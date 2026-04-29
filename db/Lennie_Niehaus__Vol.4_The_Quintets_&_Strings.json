@@ -1,0 +1,143 @@
+{
+  "comment": "チャーリーパーカー stringsのような古めかしいストリングスアレンジが好きならおすすめ。レニーのアルトは軽快でこういうイージーリスニング風な味付けによく合う。シェリーマンのドラミングがクリスプで大変良い。",
+  "date": "2026/04/28",
+  "id": "C 3510",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "West Coast"
+    ]
+  },
+  "label": "Contemporary",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Lennie Niehaus",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet, Valve Trombone",
+        "name": "Stu Williamson",
+        "tracks": "2,5,6"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Bill Perkins",
+        "tracks": "4"
+      },
+      {
+        "instruments": "Baritone Saxophone",
+        "name": "Bob Gordon",
+        "tracks": "4"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Hampton Hawes",
+        "tracks": "2,5,6"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Monty Budwig",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Shelly Manne",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Viola",
+        "name": "Barbara Simons",
+        "tracks": "1,3,4"
+      },
+      {
+        "instruments": "Viola",
+        "name": "Christopher Kuzell",
+        "tracks": "1,3,4"
+      },
+      {
+        "instruments": "Viola",
+        "name": "Thomas Hall",
+        "tracks": "1,3,4"
+      },
+      {
+        "instruments": "Cello",
+        "name": "Charlotte Harrison",
+        "tracks": "1,3,4"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1955
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/release/3493253-Lennie-Niehaus-Vol-4-The-Quintets-Strings"
+    }
+  ],
+  "release_year": 1955,
+  "score": 4,
+  "title": "Vol.4 The Quintets & Strings",
+  "tracks": [
+    {
+      "composer": "Jerome Kern",
+      "disc_no": 1,
+      "length": "3:47",
+      "no": 1,
+      "title": "All The Things You Are"
+    },
+    {
+      "composer": [
+        "Richard Rodgers",
+        "Lorenz Hart"
+      ],
+      "disc_no": 1,
+      "length": "3:15",
+      "no": 2,
+      "title": "My Heart Stood Still"
+    },
+    {
+      "composer": [
+        "Leo Robin",
+        "Ralph Rainger"
+      ],
+      "disc_no": 1,
+      "length": "2:56",
+      "no": 3,
+      "title": "Easy Living"
+    },
+    {
+      "composer": [
+        "Leo Robin",
+        "Ralph Rainger"
+      ],
+      "disc_no": 1,
+      "length": "3:15",
+      "no": 4,
+      "title": "If I Should Lose You"
+    },
+    {
+      "composer": "Lennie Niehaus",
+      "disc_no": 1,
+      "length": "4:32",
+      "no": 5,
+      "title": "More Than The Blues"
+    },
+    {
+      "composer": "Lennie Niehaus",
+      "disc_no": 1,
+      "length": "2:38",
+      "no": 6,
+      "title": "Full House"
+    }
+  ]
+}

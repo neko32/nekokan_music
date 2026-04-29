@@ -1,0 +1,131 @@
+{
+  "comment": "ビバップからウェストコーストへの延長を見る。ウェストコーストビッグネームによる演奏は快活で楽しいが録音が良くない。時々入る強いノイズが不快である。",
+  "date": "2026/04/28",
+  "id": "C 3518",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "West Coast"
+    ]
+  },
+  "label": "Contemporary",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Lennie Niehaus",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Valve Trombone, Trumpet",
+        "name": "Stu Williamson",
+        "tracks": "2,5"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Jack Montrose",
+        "tracks": "1,3,4,6"
+      },
+      {
+        "instruments": "Baritone Saxophone",
+        "name": "Bob Gordon",
+        "tracks": "1,3,4,6"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Hampton Hawes",
+        "tracks": "2,5"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Red Mitchell",
+        "tracks": "2,5"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Monty Budwig",
+        "tracks": "1,3,4,6"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Shelly Manne",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1954,
+    1956
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/release/5913321-Lennie-Niehaus-Vol1-The-Quintets"
+    }
+  ],
+  "release_year": 1956,
+  "score": 2,
+  "title": "Vol.1 The Quintets",
+  "tracks": [
+    {
+      "composer": [
+        "Johnny Mercer",
+        "Victor Schertzinger"
+      ],
+      "disc_no": 1,
+      "length": "2:34",
+      "no": 1,
+      "title": "I Remember You"
+    },
+    {
+      "composer": [
+        "Buddy Bernier",
+        "Manuel Lliso",
+        "Nat Simon"
+      ],
+      "disc_no": 1,
+      "length": "3:49",
+      "no": 2,
+      "title": "Poinciana"
+    },
+    {
+      "composer": "Lennie Niehaus",
+      "disc_no": 1,
+      "length": "3:20",
+      "no": 3,
+      "title": "Whose Blues"
+    },
+    {
+      "composer": "Lennie Niehaus",
+      "disc_no": 1,
+      "length": "3:09",
+      "no": 4,
+      "title": "Prime Rib"
+    },
+    {
+      "composer": [
+        "Axel Stordahl",
+        "Paul Weston",
+        "Sammy Cahn"
+      ],
+      "disc_no": 1,
+      "length": "3:14",
+      "no": 5,
+      "title": "I Should Care"
+    },
+    {
+      "composer": "Lennie Niehaus",
+      "disc_no": 1,
+      "length": "2:56",
+      "no": 6,
+      "title": "Inside Out"
+    }
+  ]
+}

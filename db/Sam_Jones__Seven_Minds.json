@@ -1,0 +1,102 @@
+{
+  "comment": "サム・ジョーンズのボルドなベースと弦楽四重奏、端正なシダーのピアノとステディで迫力あるヒギンスのドラム。どれをとっても魅力的。スタンダードの演奏も美しく、Seven Mindsのような長尺の大作もシリアスで良い感じ。",
+  "date": "2026/04/28",
+  "id": "EW-7010",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Neo Hard Bop"
+    ]
+  },
+  "label": "East Wind Records",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Double Bass",
+        "name": "Sam Jones",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Piano",
+        "name": "Cedar Walton",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Billy Higgins",
+        "tracks": "all"
+      },
+      {
+        "instruments": "String Quartet",
+        "name": "Masaya Katsura Strings Quartet",
+        "tracks": "2,4,6"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1974
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Seven_Minds"
+    }
+  ],
+  "release_year": 1975,
+  "score": 5,
+  "title": "Seven Minds",
+  "tracks": [
+    {
+      "composer": "Sam Jones",
+      "disc_no": 1,
+      "length": "4:49",
+      "no": 1,
+      "title": "Blues for Amos"
+    },
+    {
+      "composer": "Cedar Walton",
+      "disc_no": 1,
+      "length": "6:18",
+      "no": 2,
+      "title": "Holy Land"
+    },
+    {
+      "composer": "Sam Jones",
+      "disc_no": 1,
+      "length": "11:55",
+      "no": 3,
+      "title": "Seven Minds"
+    },
+    {
+      "composer": [
+        "Lorenz Hart",
+        "Richard Rodgers"
+      ],
+      "disc_no": 1,
+      "length": "6:47",
+      "no": 4,
+      "title": "I Didn't Know What Time It Was"
+    },
+    {
+      "composer": "Sam Jones",
+      "disc_no": 1,
+      "length": "5:25",
+      "no": 5,
+      "title": "Miss Morgan"
+    },
+    {
+      "composer": "Cedar Walton",
+      "disc_no": 1,
+      "length": "6:19",
+      "no": 6,
+      "title": "Le Maestro"
+    }
+  ]
+}
