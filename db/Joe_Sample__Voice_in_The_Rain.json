@@ -1,0 +1,157 @@
+{
+  "comment": "非常に洗練されたアーバンソウルのお手本のようなアルバム。ジョーサンプルのアーバンソウルのセンスの良さに加えこのアルバムでは室内楽的気品も漂わせているのが特徴。Sonata in Solitudeの品のあるレイ・ブラウンのベースワークに注目。",
+  "date": "2026/04/29",
+  "id": "MCA-5172",
+  "janre": {
+    "main": "Fusion",
+    "sub": [
+      "Soft",
+      "Urban Soul"
+    ]
+  },
+  "label": "MCA",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano, Synthesizer, Electric Piano, Arranger, Conductor",
+        "name": "Joe Sample",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet, Flugelhorn",
+        "name": "Jerry Hey",
+        "tracks": "1-4"
+      },
+      {
+        "instruments": "Flute",
+        "name": "Nika Rejto",
+        "tracks": "1-4"
+      },
+      {
+        "instruments": "Guitar",
+        "name": "Dean Parks",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Guitar",
+        "name": "John Collins",
+        "tracks": "7"
+      },
+      {
+        "instruments": "Violin",
+        "name": "Lakshminarayana Subramaniam",
+        "tracks": "7"
+      },
+      {
+        "instruments": "Programming",
+        "name": "Rory Kaplan",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Electric Bass",
+        "name": "Abraham Laboriel",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Ray Brown",
+        "tracks": "7"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Stix Hooper",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Percussion",
+        "name": "Paulinho da Costa",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Vocal",
+        "name": "Josie James",
+        "tracks": "2"
+      },
+      {
+        "instruments": "Vocal",
+        "name": "Flora Purim",
+        "tracks": "2,6"
+      },
+      {
+        "instruments": "Strings",
+        "name": "Sid Sharp",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1980
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/release/4220951-Joe-Sample-Voices-In-The-Rain"
+    }
+  ],
+  "release_year": 1981,
+  "score": 4,
+  "title": "Voice in The Rain",
+  "tracks": [
+    {
+      "composer": "Joe Sample",
+      "disc_no": 1,
+      "length": "6:23",
+      "no": 1,
+      "title": "Voice in The Rain"
+    },
+    {
+      "composer": "Joe Sample",
+      "disc_no": 1,
+      "length": "7:17",
+      "no": 2,
+      "title": "Burnin' Up The Carnival"
+    },
+    {
+      "composer": "Joe Sample",
+      "disc_no": 1,
+      "length": "5:24",
+      "no": 3,
+      "title": "Greener Grass"
+    },
+    {
+      "composer": "Joe Sample",
+      "disc_no": 1,
+      "length": "5:18",
+      "no": 4,
+      "title": "Eye of the Hurricane"
+    },
+    {
+      "composer": "Joe Sample",
+      "disc_no": 1,
+      "length": "4:48",
+      "no": 5,
+      "title": "Dream of Dreams"
+    },
+    {
+      "composer": "Joe Sample",
+      "disc_no": 1,
+      "length": "6:09",
+      "no": 6,
+      "title": "Shadows"
+    },
+    {
+      "composer": "Joe Sample",
+      "disc_no": 1,
+      "length": "5:57",
+      "no": 7,
+      "title": "Sonata in Solitude"
+    }
+  ]
+}
