@@ -1,0 +1,127 @@
+{
+  "comment": "演奏は素晴らしくゲッツのクールなテナーや西海岸の重鎮も健在ですばらしい... しかし少しオリジナルがあると、スタンダードバラード系ほぼ一本槍ではさすがにダレる。",
+  "date": "2026/04/30",
+  "id": "CCD 4500",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Cool"
+    ]
+  },
+  "label": "Concord Jazz",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Stan Getz",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Piano",
+        "name": "Lou Levy",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Monty Budwig",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Victor Lewis",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1981
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Spring_Is_Here_(album)"
+    }
+  ],
+  "release_year": 1992,
+  "score": 3,
+  "title": "Spring Is Here",
+  "tracks": [
+    {
+      "composer": [
+        "Burton Lane",
+        "Ralph Freed"
+      ],
+      "disc_no": 1,
+      "length": "10:08",
+      "no": 1,
+      "title": "How About You?"
+    },
+    {
+      "composer": [
+        "Ord Hamilton",
+        "Bruce Sievier"
+      ],
+      "disc_no": 1,
+      "length": "5:32",
+      "no": 2,
+      "title": "You're Blase"
+    },
+    {
+      "composer": [
+        "Ralph Rainger",
+        "Leo Robin"
+      ],
+      "disc_no": 1,
+      "length": "6:51",
+      "no": 3,
+      "title": "Easy Living"
+    },
+    {
+      "composer": [
+        "Cliff Burwell",
+        "Mitchell Parish"
+      ],
+      "disc_no": 1,
+      "length": "5:34",
+      "no": 4,
+      "title": "Sweet Lorraine"
+    },
+    {
+      "composer": [
+        "Burton Lane",
+        "Yip Harburg"
+      ],
+      "disc_no": 1,
+      "length": "10:18",
+      "no": 5,
+      "title": "Old Devil Moon"
+    },
+    {
+      "composer": [
+        "Jerome Kern",
+        "Johnny Mercer"
+      ],
+      "disc_no": 1,
+      "length": "6:41",
+      "no": 6,
+      "title": "I'm Old Fashioned"
+    },
+    {
+      "composer": [
+        "Richard Rodgers",
+        "Lorenz Hart"
+      ],
+      "disc_no": 1,
+      "length": "7:46",
+      "no": 7,
+      "title": "Spring Is Here"
+    }
+  ]
+}

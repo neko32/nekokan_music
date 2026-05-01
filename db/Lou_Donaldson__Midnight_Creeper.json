@@ -1,0 +1,97 @@
+{
+  "comment": "強力な布陣でのアリゲーターブーガルー路線最終作。やはりジョージベンソンの参加に目が行きがちだがやはりブルー・ミッチェルのトランペットもイドリース・ムハマッドのタイトなドラムも良い。",
+  "date": "2026/04/30",
+  "id": "BST 84280",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Soul"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Lou Donaldson",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Blue Mitchell",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Guitar",
+        "name": "George Benson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Organ",
+        "name": "Lonnie Smith",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Idris Muhammad",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1968
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Midnight_Creeper"
+    }
+  ],
+  "release_year": 1968,
+  "score": 4,
+  "title": "Midnight Creeper",
+  "tracks": [
+    {
+      "composer": "Lou Donaldson",
+      "disc_no": 1,
+      "length": "6:32",
+      "no": 1,
+      "title": "Midnight Creeper"
+    },
+    {
+      "composer": "Teddy Vann",
+      "disc_no": 1,
+      "length": "7:46",
+      "no": 2,
+      "title": "Love Power"
+    },
+    {
+      "composer": "Lou Donaldson",
+      "disc_no": 1,
+      "length": "5:37",
+      "no": 3,
+      "title": "Elizabeth"
+    },
+    {
+      "composer": "Lonnie Smith",
+      "disc_no": 1,
+      "length": "9:44",
+      "no": 4,
+      "title": "Bag of Jewels"
+    },
+    {
+      "composer": "Harold Ousley",
+      "disc_no": 1,
+      "length": "6:30",
+      "no": 5,
+      "title": "Dapper Dan"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "comment": "長尺２本、シリアスでハードコアなジャズがある。at the Jazz Workshopとの副題の通り、サンフランシスコのジャズワークショップという場所でのライブ。クリフォード・ジョーダンもローチも、そして柄にもなくウォルドロンもいつもより激しめ。",
+  "date": "2026/04/30",
+  "id": "LP 6007",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Fantasy",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Drums",
+        "name": "Max Roach",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Clifford Jordan",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "mal Waldron",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Eddie Khan",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1962
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Speak,_Brother,_Speak!"
+    }
+  ],
+  "release_year": 1963,
+  "score": 4,
+  "title": "Speak, Brother, Speak!",
+  "tracks": [
+    {
+      "composer": [
+        "Clifford Jordan",
+        "Eddie Khan",
+        "Max Roach",
+        "Mal Waldron"
+      ],
+      "disc_no": 1,
+      "length": "25:03",
+      "no": 1,
+      "title": "Speak, Brother, Speak!"
+    },
+    {
+      "composer": "Max Roach",
+      "disc_no": 1,
+      "length": "20:30",
+      "no": 2,
+      "title": "A Variation"
+    }
+  ]
+}

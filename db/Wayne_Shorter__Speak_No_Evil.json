@@ -1,0 +1,104 @@
+{
+  "comment": "V.S.O.P.のドラムがエルヴィンだったら...という夢を実現させてくれたといってもよいサイドメンでショーターワールドが展開される。ショーターのミステリアスさ、新主流派の洗練とエルヴィンのJCワールドの潮目は最高傑作を生みだした。",
+  "date": "2026/04/30",
+  "id": "BST 84194",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "New Mainstream"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Wayne Shorter",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Freddie Hubbard",
+        "tracks": "all except 5"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Herbie Hancock",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Ron Carter",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Elvin Jones",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1964
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Speak_No_Evil_(Wayne_Shorter_album)"
+    }
+  ],
+  "release_year": 1966,
+  "score": 5,
+  "title": "Speak No Evil",
+  "tracks": [
+    {
+      "composer": "Wayne Shorter",
+      "disc_no": 1,
+      "length": "8:11",
+      "no": 1,
+      "title": "Witch Hunt"
+    },
+    {
+      "composer": "Wayne Shorter",
+      "disc_no": 1,
+      "length": "5:54",
+      "no": 2,
+      "title": "Fee-Fi-Fo-Fum"
+    },
+    {
+      "composer": "Wayne Shorter",
+      "disc_no": 1,
+      "length": "6:45",
+      "no": 3,
+      "title": "Dance Cadaverous"
+    },
+    {
+      "composer": "Wayne Shorter",
+      "disc_no": 1,
+      "length": "8:23",
+      "no": 4,
+      "title": "Speak No Evil"
+    },
+    {
+      "composer": "Wayne Shorter",
+      "disc_no": 1,
+      "length": "6:54",
+      "no": 5,
+      "title": "Infant Eyes"
+    },
+    {
+      "composer": "Wayne Shorter",
+      "disc_no": 1,
+      "length": "6:06",
+      "no": 6,
+      "title": "Wild Flower"
+    }
+  ]
+}

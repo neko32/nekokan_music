@@ -1,0 +1,98 @@
+{
+  "comment": "前作Life Timeから引き続いて実験的作風の更にアブストラクト色が強くなった今作。前作はちょうどよい前衛具合と若げの至りのミックスだったが今作はやや空回り。トニー・ウィリアムスに求められているのはこの方向性ではなｋった。",
+  "date": "2026/04/30",
+  "id": "BST 84216",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "New Mainstream",
+      "Avrant-Garde"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Drums",
+        "name": "Tony Williams",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Wayne Shorter",
+        "tracks": "1,3,5"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Sam Rivers",
+        "tracks": "1,3-5"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Herbie Hancock",
+        "tracks": "3-5"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Gary Peacock",
+        "tracks": "1,3-5"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1965
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Spring_(Tony_Williams_album)"
+    }
+  ],
+  "release_year": 1966,
+  "score": 3,
+  "title": "Spring",
+  "tracks": [
+    {
+      "composer": "Tony Williams",
+      "disc_no": 1,
+      "length": "8:10",
+      "no": 1,
+      "title": "Extras"
+    },
+    {
+      "composer": "Tony Williams",
+      "disc_no": 1,
+      "length": "5:02",
+      "no": 2,
+      "title": "Echo"
+    },
+    {
+      "composer": "Tony Williams",
+      "disc_no": 1,
+      "length": "6:50",
+      "no": 3,
+      "title": "From Before"
+    },
+    {
+      "composer": "Tony Williams",
+      "disc_no": 1,
+      "length": "8:25",
+      "no": 4,
+      "title": "Love Song"
+    },
+    {
+      "composer": "Tony Williams",
+      "disc_no": 1,
+      "length": "10:29",
+      "no": 5,
+      "title": "Tee"
+    }
+  ]
+}
