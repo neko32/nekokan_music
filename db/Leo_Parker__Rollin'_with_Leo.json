@@ -1,0 +1,133 @@
+{
+  "comment": "ジャンプ系の代表と言われるレオ・パーカーの数少ない代表作だがなぜか1980年までお蔵入りになったが、その理由は良くわからないくらい激しく楽しい一作。まさにジャンピーというべきシャープさなどどうでもよい、ごりごりぶりぶりしたバリトンは力強い。",
+  "date": "2026/04/30",
+  "id": "BST 84095",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Baritone Saxophone",
+        "name": "Leo Parker",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Dave Burns",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Bill Swindell",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "John Acea",
+        "tracks": ""
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Stan Conover",
+        "tracks": "3,4"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Al Lucas",
+        "tracks": "all except 3,4"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Purnell Rice",
+        "tracks": "3,4"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Wilbert Hogan",
+        "tracks": "all except 3,4"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1961
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Leo_Parker"
+    }
+  ],
+  "release_year": 1980,
+  "score": 5,
+  "title": "Rollin' with Leo",
+  "tracks": [
+    {
+      "composer": "Leo Parker",
+      "disc_no": 1,
+      "length": "4:54",
+      "no": 1,
+      "title": "The Lion's Roar"
+    },
+    {
+      "composer": "Stan Conover",
+      "disc_no": 1,
+      "length": "6:17",
+      "no": 2,
+      "title": "Bad Girl"
+    },
+    {
+      "composer": "Leo Parker",
+      "disc_no": 1,
+      "length": "6:25",
+      "no": 3,
+      "title": "Rollin' with Leo"
+    },
+    {
+      "composer": "Illinois Jacquet",
+      "disc_no": 1,
+      "length": "4:56",
+      "no": 4,
+      "title": "Music Hall Beat"
+    },
+    {
+      "composer": "Leo Parker",
+      "disc_no": 1,
+      "length": "4:30",
+      "no": 5,
+      "title": "Jumpin' Leo"
+    },
+    {
+      "composer": "Leo Parker",
+      "disc_no": 1,
+      "length": "6:30",
+      "no": 6,
+      "title": "Talkin' the Blues"
+    },
+    {
+      "composer": "Coleman Hawkins",
+      "disc_no": 1,
+      "length": "5:41",
+      "no": 7,
+      "title": "Stuffy"
+    },
+    {
+      "composer": "Leo Parker",
+      "disc_no": 1,
+      "length": "4:35",
+      "no": 8,
+      "title": "Mad Lad Returns"
+    }
+  ]
+}
