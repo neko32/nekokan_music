@@ -1,0 +1,104 @@
+{
+  "comment": "ペッパー・バード双頭クインテットにキャリア開始直後のハービーがフィーチャーされた謎のマイナーアルバム。演奏自体は悪くないが地味な印象もあり、ハービーはまだ成長途上である。ジミー・コブがペッパー・バード双頭クインテットのドラムをやっているセッションが聴けるのが一番の収穫？",
+  "date": "2026/05/02",
+  "id": "TCB 1006",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "TCB Records",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Trumpet",
+        "name": "Donald Byrd",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Baritone Saxophone",
+        "name": "Pepper Adams",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Piano",
+        "name": "Herbie Hancock",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Raymond Jackson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Jimmy Cobb",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1961
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/master/163792-Herbie-Hancock-Jammin-With-Herbie-Hancock"
+    }
+  ],
+  "release_year": 1970,
+  "score": 3,
+  "title": "Jammin' With Herbie Hancock",
+  "tracks": [
+    {
+      "composer": "NA",
+      "disc_no": 1,
+      "length": "6:57",
+      "no": 1,
+      "title": "Jammin' With Herbie"
+    },
+    {
+      "composer": "NA",
+      "disc_no": 1,
+      "length": "6:07",
+      "no": 2,
+      "title": "Herbie's Blues"
+    },
+    {
+      "composer": "NA",
+      "disc_no": 1,
+      "length": "7:07",
+      "no": 3,
+      "title": "Rock Your Soul"
+    },
+    {
+      "composer": "NA",
+      "disc_no": 1,
+      "length": "4:08",
+      "no": 4,
+      "title": "T.C.B With Herbie"
+    },
+    {
+      "composer": "NA",
+      "disc_no": 1,
+      "length": "5:01",
+      "no": 5,
+      "title": "Soul Power"
+    },
+    {
+      "composer": "NA",
+      "disc_no": 1,
+      "length": "10:01",
+      "no": 6,
+      "title": "Cat Call"
+    }
+  ]
+}

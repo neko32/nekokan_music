@@ -1,0 +1,96 @@
+{
+  "comment": "ラフでリラックスなブローイングセッション。豪華な一流メンバーがほぼ即興でやってもなかなかいいものができる時代だったんだというのが伝わってくるが、これもひとえにウォルドロン、ワトキンスそしてなによりテイラーのドラムのなせる業かもしれない。マクリーンのアルトの存在感が薄めなのは残念。",
+  "date": "2026/05/02",
+  "id": "PRLP 7060",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Prestige",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Gene Ammons",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Donald Byrd",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Trumpet",
+        "name": "Art Farmer",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Jackie McLean",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Mal Waldron",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Doug Watkins",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Art Taylor",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1956
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jammin%27_with_Gene"
+    }
+  ],
+  "release_year": 1956,
+  "score": 4,
+  "title": "Jammin' with Gene",
+  "tracks": [
+    {
+      "composer": "Gene Ammons",
+      "disc_no": 1,
+      "length": "14:15",
+      "no": 1,
+      "title": "Jammin' With Gene"
+    },
+    {
+      "composer": [
+        "Carl T. Fischer",
+        "Frankie Laine"
+      ],
+      "disc_no": 1,
+      "length": "10:00",
+      "no": 2,
+      "title": "We'll Be Together Again"
+    },
+    {
+      "composer": "Johnny Mandel",
+      "disc_no": 1,
+      "length": "16:06",
+      "no": 3,
+      "title": "Not Really the Blues"
+    }
+  ]
+}
