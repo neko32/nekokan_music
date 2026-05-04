@@ -1,0 +1,105 @@
+{
+  "comment": "実に豪華なメンバーによる大変良質な演奏。1980までお蔵入りしたのはおそらく当時のグリーンの売り出し方と方針が合わなかったからか。グリーンはどちらかというとソウルジャズ->新主流派と邂逅->ファンクジャズだったがあまりストレートハードパップのコンテキストでは売ってなかったが、これはクラーク、サム・ジョーンズ、ルイスヘイズとのシリアスハードパップ。",
+  "date": "2026/05/03",
+  "id": "GXF 3058",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Guitar",
+        "name": "Grant Green",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Piano",
+        "name": "Sonny Clark",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Sam Jones",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Louis Hayes",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1961
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gooden%27s_Corner"
+    }
+  ],
+  "release_year": 1980,
+  "score": 5,
+  "title": "Gooden's Corner",
+  "tracks": [
+    {
+      "composer": [
+        "Bronislau Kaper",
+        "Ned Washington"
+      ],
+      "disc_no": 1,
+      "length": "6:26",
+      "no": 1,
+      "title": "On Green Dolphin Street"
+    },
+    {
+      "composer": "Robert MacGimsey",
+      "disc_no": 1,
+      "length": "6:23",
+      "no": 2,
+      "title": "Shardrack"
+    },
+    {
+      "composer": "Cole Porter",
+      "disc_no": 1,
+      "length": "5:50",
+      "no": 3,
+      "title": "What Is This Thing Called Love?"
+    },
+    {
+      "composer": [
+        "Henry Mancini",
+        "Johnny Mercer"
+      ],
+      "disc_no": 1,
+      "length": "5:37",
+      "no": 4,
+      "title": "Moon River"
+    },
+    {
+      "composer": "Grant Green",
+      "disc_no": 1,
+      "length": "8:14",
+      "no": 5,
+      "title": "Gooden's Corner"
+    },
+    {
+      "composer": "Grant Green",
+      "disc_no": 1,
+      "length": "7:41",
+      "no": 6,
+      "title": "Two for One"
+    }
+  ]
+}

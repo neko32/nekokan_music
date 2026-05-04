@@ -1,0 +1,104 @@
+{
+  "comment": "このアルバムは比較的ソロに重きを置いているようで他のアルバムと比較してゴルソンのアレンジは薄めなのでゴルソンハーモニーを期待してると以外に肩透かし。しかし最後の長尺の曲はききごたえがあり、ワトキンスの遅めのノリのベースソロを聴いているとモーニンを思い出す。",
+  "date": "2026/05/03",
+  "id": "NJLP 8248",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "New Jazz",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone, Arranger",
+        "name": "Benny Golson",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trombone",
+        "name": "Curtis Fuller",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Tommy Flanagan",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Doug Watkins",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Art Taylor",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1959
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gettin%27_with_It"
+    }
+  ],
+  "release_year": 1960,
+  "score": 4,
+  "title": "Gettin' With It",
+  "tracks": [
+    {
+      "composer": [
+        "Alexander Borodin",
+        "George Forrest",
+        "Robert Wright"
+      ],
+      "disc_no": 1,
+      "length": "6:16",
+      "no": 1,
+      "title": "Baubles, Bangles & Beads"
+    },
+    {
+      "composer": [
+        "Vernon Duke",
+        "Yip Harburg"
+      ],
+      "disc_no": 1,
+      "length": "5:07",
+      "no": 2,
+      "title": "April in Paris"
+    },
+    {
+      "composer": "Benny Golson",
+      "disc_no": 1,
+      "length": "6:55",
+      "no": 3,
+      "title": "Blue Streak"
+    },
+    {
+      "composer": "Benny Golson",
+      "disc_no": 1,
+      "length": "6:40",
+      "no": 4,
+      "title": "Tippin' on Thru"
+    },
+    {
+      "composer": "Benny Golson",
+      "disc_no": 1,
+      "length": "12:18",
+      "no": 5,
+      "title": "Bob Hurd's Blues"
+    }
+  ]
+}

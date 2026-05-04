@@ -1,0 +1,108 @@
+{
+  "comment": "ゴルソンハーモニーを堪能できる良作。フラーとの２ホーンもなかなか渋いハーモニーが面白い。",
+  "date": "2026/05/03",
+  "id": "NJLP 8235",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "New Jazz",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone, Arranger",
+        "name": "Benny Golson",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trombone",
+        "name": "Curtis Fuller",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Ray Bryant",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Tommy Bryant",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Al Harewood",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1959
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gone_with_Golson"
+    }
+  ],
+  "release_year": 1959,
+  "score": 5,
+  "title": "Gone with Golson",
+  "tracks": [
+    {
+      "composer": "Ray Bryant",
+      "disc_no": 1,
+      "length": "4:49",
+      "no": 1,
+      "title": "Staccato Swing"
+    },
+    {
+      "composer": [
+        "Joseph Kosma",
+        "Johnny Mercer",
+        "Jacques Prevert"
+      ],
+      "disc_no": 1,
+      "length": "6:48",
+      "no": 2,
+      "title": "Autumn Leaves"
+    },
+    {
+      "composer": "Benny Golson",
+      "disc_no": 1,
+      "length": "6:37",
+      "no": 3,
+      "title": "Soul Me"
+    },
+    {
+      "composer": "Benny Golson",
+      "disc_no": 1,
+      "length": "8:37",
+      "no": 4,
+      "title": "Blues After Dark"
+    },
+    {
+      "composer": "Benny Golson",
+      "disc_no": 1,
+      "length": "9:21",
+      "no": 5,
+      "title": "Jam for Bobbie"
+    },
+    {
+      "composer": "Curtis Fuller",
+      "disc_no": 1,
+      "length": "4:21",
+      "no": 6,
+      "title": "A Bit of Heaven"
+    }
+  ]
+}

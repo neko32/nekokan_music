@@ -1,0 +1,112 @@
+{
+  "comment": "グリフィンのソウルジャズ風、なのかハードバップの延長なのかどっちつかずではあるが内容はとてもよい。ジョーパス以外よく聞いたことないサイドメンではあるも演奏のクオリティは良い。ハモンドオルガンがあるがベースもあるという特殊編成。グリフィンはソウルジャズ風テナーもできるがやはり本業？のハードバップ風も聴かせるよという欲張りセット。",
+  "date": "2026/05/03",
+  "id": "RLP 437",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop",
+      "Soul"
+    ]
+  },
+  "label": "Riverside",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Johnny Griffin",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Guitar",
+        "name": "Joe Pass",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Organ",
+        "name": "Paul Bryant",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Jimmy Bond",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Doug Sides",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1962
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Grab_This!"
+    }
+  ],
+  "release_year": 1962,
+  "score": 5,
+  "title": "Grab This!",
+  "tracks": [
+    {
+      "composer": "Johnny Griffin",
+      "disc_no": 1,
+      "length": "6:06",
+      "no": 1,
+      "title": "Grab This!"
+    },
+    {
+      "composer": "Johnny Griffin",
+      "disc_no": 1,
+      "length": "5:34",
+      "no": 2,
+      "title": "63rd Street Theme"
+    },
+    {
+      "composer": [
+        "Duke Ellington",
+        "Bob Russell"
+      ],
+      "disc_no": 1,
+      "length": "8:37",
+      "no": 3,
+      "title": "Don't Get Around Much Anymore"
+    },
+    {
+      "composer": "Paul Bryant",
+      "disc_no": 1,
+      "length": "6:16",
+      "no": 4,
+      "title": "Offering Time"
+    },
+    {
+      "composer": [
+        "Harry Link",
+        "Holt Marvell",
+        "Jack Strachey"
+      ],
+      "disc_no": 1,
+      "length": "6:39",
+      "no": 5,
+      "title": "There Foolish Things"
+    },
+    {
+      "composer": "Johnny Griffin",
+      "disc_no": 1,
+      "length": "5:29",
+      "no": 6,
+      "title": "Cherry Float"
+    }
+  ]
+}

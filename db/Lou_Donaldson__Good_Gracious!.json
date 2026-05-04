@@ -1,0 +1,103 @@
+{
+  "comment": "ソウルジャズ一辺倒というテイストではなくハードパップ風味のロールバックもある今作。名曲Caracasの再演もうれしい。メンバーはソウルジャズとしての布陣で最強だがストレートアヘッドジャズも全然できるメンツであるからこの内容は当然。",
+  "date": "2026/05/03",
+  "id": "BST 84125",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop",
+      "Soul"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Lou Donaldson",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Guitar",
+        "name": "Grant Green",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Organ",
+        "name": "Big John Patton",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Ben Dixon",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1963
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Good_Gracious!"
+    }
+  ],
+  "release_year": 1964,
+  "score": 4,
+  "title": "Good Gracious!",
+  "tracks": [
+    {
+      "composer": "Lou Donaldson",
+      "disc_no": 1,
+      "length": "8:18",
+      "no": 1,
+      "title": "Bad John"
+    },
+    {
+      "composer": "Lou Donaldson",
+      "disc_no": 1,
+      "length": "8:38",
+      "no": 2,
+      "title": "The Holy Ghost"
+    },
+    {
+      "composer": "Don Redman",
+      "disc_no": 1,
+      "length": "5:17",
+      "no": 3,
+      "title": "Cherry"
+    },
+    {
+      "composer": "Lou Donaldson",
+      "disc_no": 1,
+      "length": "7:19",
+      "no": 4,
+      "title": "Caracas"
+    },
+    {
+      "composer": "Lou Donaldson",
+      "disc_no": 1,
+      "length": "6:52",
+      "no": 5,
+      "title": "Good Gracious"
+    },
+    {
+      "composer": [
+        "Rube Bloom",
+        "Ted Koehler"
+      ],
+      "disc_no": 1,
+      "length": "5:35",
+      "no": 6,
+      "title": "Don't Worry 'Bout Me"
+    }
+  ]
+}
