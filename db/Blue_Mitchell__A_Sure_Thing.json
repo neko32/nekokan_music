@@ -1,0 +1,145 @@
+{
+  "comment": "シュアなミッチェルのトランペットが巧みなジミー・ヒースのアレンジの中を駆け抜ける。トロンボーン無し、曲によってバリトンサックスも無い割合ミッド志向ラージコンボは副題でwith orchestraとあるがそれは言い過ぎだろう。",
+  "date": "2026/05/05",
+  "id": "RLP 414",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Riverside",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Trumpet",
+        "name": "Blue Mitchell",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Clark Terry",
+        "tracks": "all except 7"
+      },
+      {
+        "instruments": "French Horn",
+        "name": "Julius Watkins",
+        "tracks": "all except 7"
+      },
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Jerome Richardson",
+        "tracks": "all except 7"
+      },
+      {
+        "instruments": "Tenor Saxophone, Arranger",
+        "name": "Jimmy Heath",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Baritone Saxophone",
+        "name": "Pat Patricks",
+        "tracks": "6"
+      },
+      {
+        "instruments": "Baritone Saxophone",
+        "name": "Pepper Adams",
+        "tracks": "1"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Wynton Kelly",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Sam Jones",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Albert \"Tootie\" Heath",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1962
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/release/9846975-Blue-Mitchell-A-Sure-Thing"
+    }
+  ],
+  "release_year": 1962,
+  "score": 4,
+  "title": "A Sure Thing",
+  "tracks": [
+    {
+      "composer": "Wes Montgomery",
+      "disc_no": 1,
+      "length": "5:41",
+      "no": 1,
+      "title": "West Coast Blues"
+    },
+    {
+      "composer": [
+        "Ira Gershwin",
+        "Vernon Duke"
+      ],
+      "disc_no": 1,
+      "length": "3:44",
+      "no": 2,
+      "title": "I Can't Get Started With You"
+    },
+    {
+      "composer": "Jimmy Heath",
+      "disc_no": 1,
+      "length": "4:44",
+      "no": 3,
+      "title": "Blue On Blue"
+    },
+    {
+      "composer": [
+        "Ira Gershwin",
+        "Jerome Kern"
+      ],
+      "disc_no": 1,
+      "length": "4:29",
+      "no": 4,
+      "title": "A Sure Thing"
+    },
+    {
+      "composer": "Jay McShann",
+      "disc_no": 1,
+      "length": "5:20",
+      "no": 5,
+      "title": "Hootie Blues"
+    },
+    {
+      "composer": "Blue Mitchell",
+      "disc_no": 1,
+      "length": "4:57",
+      "no": 6,
+      "title": "Hip To It"
+    },
+    {
+      "composer": [
+        "Allie Wrubel",
+        "Herbert Magidson"
+      ],
+      "disc_no": 1,
+      "length": "5:57",
+      "no": 7,
+      "title": "Gone With The Wind"
+    }
+  ]
+}

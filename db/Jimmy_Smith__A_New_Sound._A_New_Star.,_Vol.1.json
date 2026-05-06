@@ -1,0 +1,134 @@
+{
+  "comment": "まさにニュースター誕生といわんばかりのインパクトをぐいぐい見せつけてくるジミー・スミスが発掘された直後のBN録音。自分のオリジナル、他人のオリジナル、スタンダード、クラシック曲全てをスミス色に染め上げるこの唯一無二、そしてソウルジャズ転向時に失われた圧倒的爆発力を目の当たりにするのがよい。",
+  "date": "2026/05/05",
+  "id": "BLP 1512",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Organ",
+        "name": "Jimmy Smith",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Guitar",
+        "name": "Thornel Schwartz",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Bay Perry",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1956
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/A_New_Sound..._A_New_Star...,_Vol._1"
+    }
+  ],
+  "release_year": 1956,
+  "score": 5,
+  "title": "A New Sound... A New Star..., Vol.1",
+  "tracks": [
+    {
+      "composer": [
+        "Dorothy Fields",
+        "Jerome Kern"
+      ],
+      "disc_no": 1,
+      "length": "5:04",
+      "no": 1,
+      "title": "The Way You Look Tonight"
+    },
+    {
+      "composer": "Jimmy Smith",
+      "disc_no": 1,
+      "length": "4:23",
+      "no": 2,
+      "title": "You Get 'Cha"
+    },
+    {
+      "composer": [
+        "Sonny Burke",
+        "Lionel Hampton",
+        "Johnny Mercer"
+      ],
+      "disc_no": 1,
+      "length": "4:26",
+      "no": 3,
+      "title": "Midnight Sun"
+    },
+    {
+      "composer": [
+        "George Gershwin",
+        "Ira Gershwin"
+      ],
+      "disc_no": 1,
+      "length": "5:49",
+      "no": 4,
+      "title": "Oh, Lady Be Good!"
+    },
+    {
+      "composer": [
+        "Dimitri Tiomkin",
+        "Ned Washington"
+      ],
+      "disc_no": 1,
+      "length": "4:21",
+      "no": 5,
+      "title": "The High and the Mighty"
+    },
+    {
+      "composer": [
+        "George Gershwin",
+        "Ira Gershwin"
+      ],
+      "disc_no": 1,
+      "length": "4:30",
+      "no": 6,
+      "title": "But Not for Me"
+    },
+    {
+      "composer": "Horace Silver",
+      "disc_no": 1,
+      "length": "4:35",
+      "no": 7,
+      "title": "The Preacher"
+    },
+    {
+      "composer": [
+        "Walter Gross",
+        "Jack Lawrence"
+      ],
+      "disc_no": 1,
+      "length": "3:56",
+      "no": 8,
+      "title": "Tenderly"
+    },
+    {
+      "composer": "Johann Sebastian Bach",
+      "disc_no": 1,
+      "length": "3:13",
+      "no": 9,
+      "title": "Joy"
+    }
+  ]
+}

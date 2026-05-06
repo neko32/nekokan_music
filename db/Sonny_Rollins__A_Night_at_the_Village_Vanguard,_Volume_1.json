@@ -1,0 +1,123 @@
+{
+  "comment": "ロリンズの豪快なテナーをライブ感たっぷりに楽しめる名作。スタンダードからオリジナルまで全てがロリンズ色に染まっていくのをライブで目の当たりにできた客は幸せである。昼夜同日２つのセッションからの選集となっていて、昼夜のチュニジアの夜でサイドメンとロリンズの調子の違いを楽しむのも一興。",
+  "date": "2026/05/05",
+  "id": "BLP 1581",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Sonny Rollins",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Double Bass",
+        "name": "Donald Bailey",
+        "tracks": "1 & 2"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Pete La Roca",
+        "tracks": "1 & 2"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Wilbur Ware",
+        "tracks": "all except 1 & 2"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Elvin Jones",
+        "tracks": "all except 1 & 2"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1957
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/ja/release/17050506-Sonny-Rollins-A-Night-At-The-Village-Vanguard-Volume-1"
+    }
+  ],
+  "release_year": 1958,
+  "score": 5,
+  "title": "A Night at the Village Vanguard, Volume 1",
+  "tracks": [
+    {
+      "composer": [
+        "Dizzy Gillespie",
+        "Frank Paparelli"
+      ],
+      "disc_no": 1,
+      "length": "7:35",
+      "no": 1,
+      "title": "A Night in Tunisia"
+    },
+    {
+      "composer": "Cole Porter",
+      "disc_no": 1,
+      "length": "9:48",
+      "no": 2,
+      "title": "I've Got You Under My Skin"
+    },
+    {
+      "composer": [
+        "Dizzie Gillespie",
+        "Frank Paparelli"
+      ],
+      "disc_no": 1,
+      "length": "8:52",
+      "no": 3,
+      "title": "A Night in Tunisia (Evening Take)"
+    },
+    {
+      "composer": [
+        "Oscar Hammerstein II",
+        "Sigmund Romberg"
+      ],
+      "disc_no": 1,
+      "length": "6:37",
+      "no": 4,
+      "title": "Softly As In A Morning Sunrise (Take 1)"
+    },
+    {
+      "composer": "Miles Davis",
+      "disc_no": 1,
+      "length": "8:27",
+      "no": 5,
+      "title": "Four"
+    },
+    {
+      "composer": "Dizzy Gillespie",
+      "disc_no": 1,
+      "length": "8:16",
+      "no": 6,
+      "title": "Woody 'N You"
+    },
+    {
+      "composer": [
+        "Burton Lane",
+        "Yip Harburg"
+      ],
+      "disc_no": 1,
+      "length": "7:30",
+      "no": 7,
+      "title": "Old Devil Moon"
+    }
+  ]
+}

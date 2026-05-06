@@ -1,0 +1,115 @@
+{
+  "comment": "1979年までお蔵入りしていたのは到底信じがたい名作。モブレーがラージコンボを率いて己の作曲・編曲の腕前を披露。作曲の才は以前から光っていたがラージコンボを得てついにその本領を発揮。サイドメンもすばらしく非の打ちどころがない。このころになるとモブレーの音楽もポストハードパップの色合いで彼なりの進化が見て取れる。A Touch of the Bluesは特に素晴らしい。",
+  "date": "2026/05/05",
+  "id": "LT 955",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Post Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Hank Mobley",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Lee Morgan",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Alto Saxophone",
+        "name": "James Spaulding",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Euphonium",
+        "name": "Kiane Zawadi",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tuba",
+        "name": "Howard Johnson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "McCoy Tyner",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Bob Cranshaw",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Billy Higgins",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1966
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/A_Slice_of_the_Top"
+    }
+  ],
+  "release_year": 1979,
+  "score": 5,
+  "title": "Slice of he Top",
+  "tracks": [
+    {
+      "composer": "Hank Mobley",
+      "disc_no": 1,
+      "length": "7:12",
+      "no": 1,
+      "title": "Hank's Other Bag"
+    },
+    {
+      "composer": [
+        "Mack Gordon",
+        "Harry Revel"
+      ],
+      "disc_no": 1,
+      "length": "5:25",
+      "no": 2,
+      "title": "There's a Lull in My Life"
+    },
+    {
+      "composer": "Hank Mobley",
+      "disc_no": 1,
+      "length": "7:36",
+      "no": 3,
+      "title": "Cute 'N Pretty"
+    },
+    {
+      "composer": "Hank Mobley",
+      "disc_no": 1,
+      "length": "8:46",
+      "no": 4,
+      "title": "A Touch of the Blues"
+    },
+    {
+      "composer": "Hank Mobley",
+      "disc_no": 1,
+      "length": "9:40",
+      "no": 5,
+      "title": "A Slice of the Top"
+    }
+  ]
+}
