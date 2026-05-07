@@ -1,0 +1,140 @@
+{
+  "comment": "フランス録音でフランスジャズ界の名手たちとのセッション。レネ・トーマスのギターがうれしい。バードのエピゴーネンにとどまらない実力をワンホーン＋ギターで堪能できる一枚。",
+  "date": "2026/05/06",
+  "id": "87 519",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Brunswick",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Sonny Criss",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Guitar",
+        "name": "Rene Thomas",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Organ, Piano",
+        "name": "Georges Arvanitas",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Pierre Michelot",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Philippe Combelle",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1963
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/ja/release/596617-Sonny-Criss-Mr-Blues-Pour-Flirter"
+    }
+  ],
+  "release_year": 1963,
+  "score": 4,
+  "title": "Mr Blues Pour Flirter",
+  "tracks": [
+    {
+      "composer": "Duke Ellington",
+      "disc_no": 1,
+      "length": "6:15",
+      "no": 1,
+      "title": "Don't Get Around Much Anymore"
+    },
+    {
+      "composer": [
+        "Lorenz Hart",
+        "Richard Rodgers"
+      ],
+      "disc_no": 1,
+      "length": "3:28",
+      "no": 2,
+      "title": "This Can't Be Love"
+    },
+    {
+      "composer": "Sonny Criss",
+      "disc_no": 1,
+      "length": "4:22",
+      "no": 3,
+      "title": "Early And Later Part 1"
+    },
+    {
+      "composer": "Sonny Criss",
+      "disc_no": 1,
+      "length": "4:35",
+      "no": 4,
+      "title": "Early And Later Part 2"
+    },
+    {
+      "composer": [
+        "Bud Green",
+        "Michael Edwards"
+      ],
+      "disc_no": 1,
+      "length": "3:39",
+      "no": 5,
+      "title": "Once In A While"
+    },
+    {
+      "composer": "William Christopher Handy",
+      "disc_no": 1,
+      "length": "4:59",
+      "no": 6,
+      "title": "Saint Louis Blues"
+    },
+    {
+      "composer": [
+        "Billy Strayhorn",
+        "Duke Ellington"
+      ],
+      "disc_no": 1,
+      "length": "4:40",
+      "no": 7,
+      "title": "Day Dream"
+    },
+    {
+      "composer": [
+        "Bronislaw Kaper",
+        "Ned Washington"
+      ],
+      "disc_no": 1,
+      "length": "3:26",
+      "no": 8,
+      "title": "On Green Dolphin Street"
+    },
+    {
+      "composer": [
+        "Arthur Herzog",
+        "Billie Holiday"
+      ],
+      "disc_no": 1,
+      "length": "6:07",
+      "no": 9,
+      "title": "God Bless The Child"
+    }
+  ]
+}

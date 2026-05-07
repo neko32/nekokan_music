@@ -1,0 +1,105 @@
+{
+  "comment": "モブレーのセクステットによる爽快なBN典型ハードバップ録音。ジョン・ジェンキンスのアルトが嬉しい。しかしやはりなんといってもバードとフィリー・ジョーの充実ぶりだろうか。彼らの溌剌としたプレイは周りを十分以上に鼓舞してやまない。",
+  "date": "2026/05/06",
+  "id": "BST 1560",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Hank Mobley",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Donald Byrd",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Alto Saxophone",
+        "name": "John Jenkins",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Bobby Timmons",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Wilbur Ware",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Philly Joe Jones",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1957
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hank_(album)"
+    }
+  ],
+  "release_year": 1957,
+  "score": 5,
+  "title": "Hank",
+  "tracks": [
+    {
+      "composer": "Hank Mobley",
+      "disc_no": 1,
+      "length": "7:24",
+      "no": 1,
+      "title": "Fit for a Hanker"
+    },
+    {
+      "composer": "Hank Mobley",
+      "disc_no": 1,
+      "length": "9:56",
+      "no": 2,
+      "title": "Hi Groove, Low Feedback"
+    },
+    {
+      "composer": "Hank Mobley",
+      "disc_no": 1,
+      "length": "5:39",
+      "no": 3,
+      "title": "You'd Be So Easy to Love"
+    },
+    {
+      "composer": [
+        "Sammy Cahn",
+        "Jule Styne"
+      ],
+      "disc_no": 1,
+      "length": "6:48",
+      "no": 4,
+      "title": "Time After Time"
+    },
+    {
+      "composer": "Hank Mobley",
+      "disc_no": 1,
+      "length": "7:54",
+      "no": 5,
+      "title": "Dance of the Infidels"
+    }
+  ]
+}

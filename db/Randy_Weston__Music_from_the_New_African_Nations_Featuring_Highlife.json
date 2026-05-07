@@ -1,0 +1,157 @@
+{
+  "comment": "[殿堂入り] メルバ・リストンのアレンジャー、ウェストンのリズムとメロディ、そして大胆さの並外れた才覚のショーケースと言える極めて優れたアルバムで退屈するところは一秒たりともない。アフリカのリズムとメロディを最良の形でとらえた芸術。",
+  "date": "2026/05/06",
+  "id": "CP 456",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop",
+      "Bigband"
+    ]
+  },
+  "label": "Colpix",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Randy Weston",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet, Frugelhorn",
+        "name": "Ray Copeland",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Trombone",
+        "name": "Jimmy Cleveland",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Trombone",
+        "name": "Quentin Jackson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Frenchhorn",
+        "name": "Julius Watkins",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Soprano Saxophone, Tenor Saxophone",
+        "name": "Budd Johnson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Booker Ervin",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tuba",
+        "name": "Aaron Bell",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Peck Morrison",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Charlie Persip",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums, Percussion",
+        "name": "Frankie Dunlop",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Congas, Percussion",
+        "name": "Archie Lee",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Percussion",
+        "name": "George Young",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Arranger",
+        "name": "Melba Liston",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1963
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Highlife_(Randy_Weston_album)"
+    }
+  ],
+  "release_year": 1963,
+  "score": 6,
+  "title": "Music from the New African Nations Featuring Highlife",
+  "tracks": [
+    {
+      "composer": "Randy Weston",
+      "disc_no": 1,
+      "length": "2:46",
+      "no": 1,
+      "title": "Caban Bamboo Highlife"
+    },
+    {
+      "composer": "Bobby Benson",
+      "disc_no": 1,
+      "length": "5:03",
+      "no": 2,
+      "title": "Niger Mambo"
+    },
+    {
+      "composer": "Randy Weston",
+      "disc_no": 1,
+      "length": "4:42",
+      "no": 3,
+      "title": "Zulu"
+    },
+    {
+      "composer": "Randy Weston",
+      "disc_no": 1,
+      "length": "7:46",
+      "no": 4,
+      "title": "In Memory Of"
+    },
+    {
+      "composer": "Randy Weston",
+      "disc_no": 1,
+      "length": "2:34",
+      "no": 5,
+      "title": "Congolese Children"
+    },
+    {
+      "composer": "Randy Weston",
+      "disc_no": 1,
+      "length": "6:23",
+      "no": 6,
+      "title": "Blues to Africa"
+    },
+    {
+      "composer": "Guy Warren",
+      "disc_no": 1,
+      "length": "7:41",
+      "no": 7,
+      "title": "Mystery of Love"
+    }
+  ]
+}

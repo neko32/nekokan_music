@@ -1,0 +1,106 @@
+{
+  "comment": "[殿堂入り] これはすばらしい劇音楽であると同時にハードバップのリアルと真髄をビシビシ伝えてくる力作。マクリーンの哀愁あるアルト、レッドのピアノ、マトスの安定したベースワークはさることながら実はラリー・リッチーのドラミングが与えている影響はとても大きいと思う。特徴的なスネアドラムのフィルインが聴いてて大変心地よい。",
+  "date": "2026/05/06",
+  "id": "BLP 4027",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Freddie Redd",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Jackie McLean",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Michael Mattos",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Larry Ritchie",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1960
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Music_from_%22The_Connection%22"
+    }
+  ],
+  "release_year": 1960,
+  "score": 6,
+  "title": "The Music from \"The Connection\"",
+  "tracks": [
+    {
+      "composer": "Freddie Redd",
+      "disc_no": 1,
+      "length": "5:21",
+      "no": 1,
+      "title": "Who Killed Cook Robin"
+    },
+    {
+      "composer": "Freddie Redd",
+      "disc_no": 1,
+      "length": "5:58",
+      "no": 2,
+      "title": "Wigglin'"
+    },
+    {
+      "composer": "Freddie Redd",
+      "disc_no": 1,
+      "length": "5:52",
+      "no": 3,
+      "title": "Music Forever"
+    },
+    {
+      "composer": "Freddie Redd",
+      "disc_no": 1,
+      "length": "6:24",
+      "no": 4,
+      "title": "Time To Smile"
+    },
+    {
+      "composer": "Freddie Redd",
+      "disc_no": 1,
+      "length": "4:43",
+      "no": 5,
+      "title": "(Theme for) Sister Salvation"
+    },
+    {
+      "composer": "Freddie Redd",
+      "disc_no": 1,
+      "length": "5:37",
+      "no": 6,
+      "title": "Jim Dunn's Dilemma"
+    },
+    {
+      "composer": "Freddie Redd",
+      "disc_no": 1,
+      "length": "4:41",
+      "no": 7,
+      "title": "O.D. (Overdose)"
+    }
+  ]
+}

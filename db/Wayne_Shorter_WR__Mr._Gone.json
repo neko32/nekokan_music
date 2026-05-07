@@ -1,0 +1,151 @@
+{
+  "comment": "WR全盛期の一枚でさすがの円熟ぶりの内容。知名度はヘビーウェザーやブラックマーケットなど全２作に劣るが更に実験的作風は一段と進み単純なフュージョンミュージックと言えないレベルに達している。それぞれのメンバーの主張・個性がいい意味でぶつかり合って混ざり合っている。ジャコの存在はやはり大きかった、と認識できる一枚でもある。",
+  "date": "2026/05/06",
+  "id": "CBS 82775",
+  "janre": {
+    "main": "Fusion",
+    "sub": [
+      "Fusion"
+    ]
+  },
+  "label": "Columbia",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [
+      {
+        "abbr": "WR",
+        "members": [
+          {
+            "instruments": "Tenor Saxophone, Soprano Saxophone, Vocal",
+            "leader": true,
+            "name": "Wayne Shorter",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Electric Piano, Piano, Synthesizer, Percussion, Drums, Vocal",
+            "leader": true,
+            "name": "Joe Zawinul",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Electric Bass, Drums, Tympani, Vocal",
+            "name": "Jaco Pastorius",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Drums, Vocal",
+            "name": "Peter Erskine",
+            "tracks": "all except 8"
+          }
+        ],
+        "name": "Weather Report"
+      }
+    ],
+    "leader": [],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Drums",
+        "name": "Tony Williams",
+        "tracks": "5 & 6"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Steve Gadd",
+        "tracks": "3 & 8"
+      },
+      {
+        "instruments": "Vocal",
+        "name": "Manolo Badrena",
+        "tracks": "1"
+      },
+      {
+        "instruments": "Vocal",
+        "name": "Jon Lucien",
+        "tracks": "1"
+      },
+      {
+        "instruments": "Vocal",
+        "name": "Deniece Williams",
+        "tracks": "8"
+      },
+      {
+        "instruments": "Vocal",
+        "name": "Maurice White",
+        "tracks": "8"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1978
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mr._Gone_(album)"
+    }
+  ],
+  "release_year": 1978,
+  "score": 5,
+  "title": "Mr. Gone",
+  "tracks": [
+    {
+      "composer": "Joe Zawinul",
+      "disc_no": 1,
+      "length": "5:03",
+      "no": 1,
+      "title": "The Pursuit of the Woman with the Feathered Hat"
+    },
+    {
+      "composer": "Jaco Pastorius",
+      "disc_no": 1,
+      "length": "4:50",
+      "no": 2,
+      "title": "River People"
+    },
+    {
+      "composer": "Joe Zawinul",
+      "disc_no": 1,
+      "length": "6:55",
+      "no": 3,
+      "title": "Young and Fine"
+    },
+    {
+      "composer": "Wayne Shorter",
+      "disc_no": 1,
+      "length": "4:21",
+      "no": 4,
+      "title": "The Elders"
+    },
+    {
+      "composer": "Joe Zawinul",
+      "disc_no": 1,
+      "length": "5:26",
+      "no": 5,
+      "title": "Mr. Gone"
+    },
+    {
+      "composer": "Jaco Pastorius",
+      "disc_no": 1,
+      "length": "5:09",
+      "no": 6,
+      "title": "Punk Jazz"
+    },
+    {
+      "composer": "Wayne Shorter",
+      "disc_no": 1,
+      "length": "2:26",
+      "no": 7,
+      "title": "Pinocchio"
+    },
+    {
+      "composer": "Sam Guest",
+      "disc_no": 1,
+      "length": "3:22",
+      "no": 8,
+      "title": "And Then"
+    }
+  ]
+}

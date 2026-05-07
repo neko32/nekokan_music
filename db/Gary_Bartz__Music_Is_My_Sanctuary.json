@@ -1,0 +1,178 @@
+{
+  "comment": "マイゼル兄弟プロデュースでずいぶんゴージャスなサイドメンに囲まれてゴージャスなアレンジ。トータルパッケージで売り出しという感じだが残念ながらマイゼル兄弟のらしさというかベストは過ぎてしまっていたのかもしれない。割合凝ったアレンジと曲の作りが逆にジャズの真味をぼかしてしまった感あり。",
+  "date": "2026/05/06",
+  "id": "ST-11647",
+  "janre": {
+    "main": "Fusion",
+    "sub": [
+      "Funk"
+    ]
+  },
+  "label": "Capitol",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Alto Saxophone, Piano, Electric Piano, Synthesizer, Vocal",
+        "name": "Gary Bartz",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Eddie Henderson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Trumpet",
+        "name": "Ray Brown",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Electric Guitar",
+        "name": "David T. Walker",
+        "tracks": "some"
+      },
+      {
+        "instruments": "Electric Guitar",
+        "name": "Juewett Bostick",
+        "tracks": "some"
+      },
+      {
+        "instruments": "Electric Guitar",
+        "name": "Wah-Wah Watson",
+        "tracks": "some"
+      },
+      {
+        "instruments": "Keyboards, Vocal",
+        "name": "Larry Mizell",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "George Cables",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Electric Bass",
+        "name": "Cursis Robinson, Jr.",
+        "tracks": "some"
+      },
+      {
+        "instruments": "Electric Bass",
+        "name": "Welton Gite",
+        "tracks": "some"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Howard King",
+        "tracks": "some"
+      },
+      {
+        "instruments": "Drums",
+        "name": "James Gadson",
+        "tracks": "some"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Nate Neblett",
+        "tracks": "some"
+      },
+      {
+        "instruments": "Percussion",
+        "name": "Bill Summers",
+        "tracks": "some"
+      },
+      {
+        "instruments": "Percussion",
+        "name": "James Mtume",
+        "tracks": "some"
+      },
+      {
+        "instruments": "Vocal",
+        "name": "Sigidi",
+        "tracks": "some"
+      },
+      {
+        "instruments": "Vocal",
+        "name": "Syreeta Wright",
+        "tracks": "some"
+      },
+      {
+        "instruments": "Strings",
+        "name": "Unidentified Strings",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1977
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Music_Is_My_Sanctuary"
+    }
+  ],
+  "release_year": 1977,
+  "score": 2,
+  "title": "Music Is My Sanctuary",
+  "tracks": [
+    {
+      "composer": [
+        "Gary Bartz",
+        "Sigidi"
+      ],
+      "disc_no": 1,
+      "length": "6:20",
+      "no": 1,
+      "title": "Music Is My Sanctuary"
+    },
+    {
+      "composer": "Gary Bartz",
+      "disc_no": 1,
+      "length": "5:55",
+      "no": 2,
+      "title": "Carnaval De L'Esprit"
+    },
+    {
+      "composer": "Skip Scarborough",
+      "disc_no": 1,
+      "length": "4:09",
+      "no": 3,
+      "title": "Love Ballad"
+    },
+    {
+      "composer": [
+        "Larry Mizell",
+        "Fonce Mizell"
+      ],
+      "disc_no": 1,
+      "length": "6:50",
+      "no": 4,
+      "title": "Swing Thing"
+    },
+    {
+      "composer": [
+        "Smokey Robinson",
+        "Pete Moore"
+      ],
+      "disc_no": 1,
+      "length": "5:52",
+      "no": 5,
+      "title": "Ooo Baby Baby"
+    },
+    {
+      "composer": "Gary Bartz",
+      "disc_no": 1,
+      "length": "6:42",
+      "no": 6,
+      "title": "Macaroni"
+    }
+  ]
+}

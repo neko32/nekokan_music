@@ -1,0 +1,119 @@
+{
+  "comment": "デフランコの流麗なクラリネットと才気煥発なソロを存分に楽しめるカルテット構成のアルバム。とにかくデフランコのソロがすばらしいのは間違いないがちょっと気になるのがアート・ブレイキーが彼らしくないおとなしめのたたずまい。ケニー・ドリューのピアノの華麗さ、ヒントンの安定したベースウォークも良い。",
+  "date": "2026/05/06",
+  "id": "MG N-1069",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Norgan Records",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Clarinet",
+        "name": "Buddy DeFranco",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Piano",
+        "name": "Kenny Drew",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Milt Hinton",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Art Blakey",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1953
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://www.discogs.com/ja/release/2609103-The-Buddy-De-Franco-Quartet-Mr-Clarinet"
+    }
+  ],
+  "release_year": 1956,
+  "score": 4,
+  "title": "Mr. Clarinet",
+  "tracks": [
+    {
+      "composer": "Buddy DeFranco",
+      "disc_no": 1,
+      "length": "9:03",
+      "no": 1,
+      "title": "Buddy's Blues"
+    },
+    {
+      "composer": "Art Blakey",
+      "disc_no": 1,
+      "length": "5:06",
+      "no": 2,
+      "title": "Ferdinando"
+    },
+    {
+      "composer": [
+        "Harold Adamson",
+        "Jimmy McHugh"
+      ],
+      "disc_no": 1,
+      "length": "4:22",
+      "no": 3,
+      "title": "It Could Happen To You"
+    },
+    {
+      "composer": "Vernon Duke",
+      "disc_no": 1,
+      "length": "3:54",
+      "no": 4,
+      "title": "Autumn In New York"
+    },
+    {
+      "composer": "Kenny Drew",
+      "disc_no": 1,
+      "length": "4:01",
+      "no": 5,
+      "title": "Left Field"
+    },
+    {
+      "composer": "Buddy DeFranco",
+      "disc_no": 1,
+      "length": "3:13",
+      "no": 6,
+      "title": "Show Eyes"
+    },
+    {
+      "composer": [
+        "George Gershwin",
+        "Ira Gershwin"
+      ],
+      "disc_no": 1,
+      "length": "7:00",
+      "no": 7,
+      "title": "But Not For Me"
+    },
+    {
+      "composer": "Kenny Drew",
+      "disc_no": 1,
+      "length": "7:50",
+      "no": 8,
+      "title": "Bass On Balls"
+    }
+  ]
+}

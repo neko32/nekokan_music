@@ -1,0 +1,201 @@
+{
+  "comment": "ドン・セベスキーによるゴージャスなアレンジによるスティットの珍しいフュージョンフォーマットの作品。聞きやすいポップス曲を通してスティットの歌回しを楽しめるが一番聞きごたえがあるのがスティットオリジナルでアレンジが最も薄いFifty Per Centというところがつまりのところ彼と音楽の真価を語っている。",
+  "date": "2026/05/06",
+  "id": "CA 50026",
+  "janre": {
+    "main": "Fusion",
+    "sub": [
+      "Soft",
+      "Straight Ahead"
+    ]
+  },
+  "label": "Cadet",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Alto Saxophone, Tenor Saxophone",
+        "name": "Sonny Stitt",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "French Horn",
+        "name": "Jimmy Buffington",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Alto Flute, Flute",
+        "name": "George Marge",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Electric Guitar",
+        "name": "Cornell Dupree",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Harp",
+        "name": "Gloria Agostini",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Vibraphone, Xylophone, Percussion",
+        "name": "Phil Kraus",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Electric Piano",
+        "name": "Roland Hanna",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Electric Bass",
+        "name": "Richard Davis",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Jimmy Johnson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Percussion",
+        "name": "Warren Smith",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Violin",
+        "name": "David Nadien",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Violin",
+        "name": "Harold Kobain",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Violin",
+        "name": "Emmanuel Green",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Violin",
+        "name": "Gene Orloff",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Violin",
+        "name": "Paul Gershman",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Violin",
+        "name": "Harry Lookofsky",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Violin",
+        "name": "Joseph Malia",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Cello",
+        "name": "Charles McCracken",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Cello",
+        "name": "George Ricci",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Arranger, Conductor",
+        "name": "Don Sebesky",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1973
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mr._Bojangles_(album)"
+    }
+  ],
+  "release_year": 1973,
+  "score": 3,
+  "title": "Mr. Bojangles",
+  "tracks": [
+    {
+      "composer": "Jerry Jeff Walker",
+      "disc_no": 1,
+      "length": "7:31",
+      "no": 1,
+      "title": "Mr. Bojangles"
+    },
+    {
+      "composer": [
+        "Papa Dee Allen",
+        "Harold Brown",
+        "B.B. Dickerson",
+        "Lonnie Jordan",
+        "Charles Miller",
+        "Lee Oskar",
+        "Howard E. Scott"
+      ],
+      "disc_no": 1,
+      "length": "6:56",
+      "no": 2,
+      "title": "World Is a Ghetto"
+    },
+    {
+      "composer": [
+        "Charles Fox",
+        "Norman Gimbel"
+      ],
+      "disc_no": 1,
+      "length": "4:41",
+      "no": 3,
+      "title": "Killing Me Softly with His Song"
+    },
+    {
+      "composer": "Esmond Edwards",
+      "disc_no": 1,
+      "length": "5:06",
+      "no": 4,
+      "title": "Blue Monsoon"
+    },
+    {
+      "composer": "Elliot Willensky",
+      "disc_no": 1,
+      "length": "3:33",
+      "no": 5,
+      "title": "Got To Be There"
+    },
+    {
+      "composer": "Sonny Stitt",
+      "disc_no": 1,
+      "length": "3:38",
+      "no": 6,
+      "title": "Fifty Per Cent"
+    },
+    {
+      "composer": [
+        "Donald Black",
+        "Walter Scharf"
+      ],
+      "disc_no": 1,
+      "length": "4:56",
+      "no": 7,
+      "title": "Ben"
+    }
+  ]
+}
