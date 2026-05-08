@@ -1,0 +1,117 @@
+{
+  "comment": "ドルフィーの薫陶を得たアヴァンギャルド寄りハードバップで一見よさそうな感じがあるも以外に空虚な中身かもしれない。せっかくのブッカー・アービンも思ったより個性を発揮しているような気もしないし何よりロン・カーターのチェロはやめたほうがいい。",
+  "date": "2026/05/07",
+  "id": "NJLP 8269",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop",
+      "Avrant-Garde"
+    ]
+  },
+  "label": "New Jazz",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Mal Waldron",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Alto Saxophone, Clarinet",
+        "name": "Eric Dolphy",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Booker Ervin",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Cello",
+        "name": "Ron Carter",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Joe Benjamin",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Charlie Persip",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1961
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Quest_(Mal_Waldron_album)"
+    }
+  ],
+  "release_year": 1962,
+  "score": 3,
+  "title": "The Quest",
+  "tracks": [
+    {
+      "composer": "Mal Waldron",
+      "disc_no": 1,
+      "length": "8:52",
+      "no": 1,
+      "title": "Status Seeking"
+    },
+    {
+      "composer": "Mal Waldron",
+      "disc_no": 1,
+      "length": "4:09",
+      "no": 2,
+      "title": "Duquility"
+    },
+    {
+      "composer": "Mal Waldron",
+      "disc_no": 1,
+      "length": "4:42",
+      "no": 3,
+      "title": "Thirteen"
+    },
+    {
+      "composer": "Mal Waldron",
+      "disc_no": 1,
+      "length": "4:23",
+      "no": 4,
+      "title": "We Diddit"
+    },
+    {
+      "composer": "Mal Waldron",
+      "disc_no": 1,
+      "length": "5:37",
+      "no": 5,
+      "title": "Warm Canto"
+    },
+    {
+      "composer": "Mal Waldron",
+      "disc_no": 1,
+      "length": "5:36",
+      "no": 6,
+      "title": "Warp and Woof"
+    },
+    {
+      "composer": "Mal Waldron",
+      "disc_no": 1,
+      "length": "7:58",
+      "no": 7,
+      "title": "Fire Waltz"
+    }
+  ]
+}

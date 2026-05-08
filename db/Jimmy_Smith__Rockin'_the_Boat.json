@@ -1,0 +1,118 @@
+{
+  "comment": "うーん、ジミースミスに求めてるのはコレジャナイ路線の総決算だろうか。ソウルにお目覚め路線の一作でルードナとの共演。いい感じでソウルフルでリラックス、スタジオにたまたま遊び来ていたジョン・パットンのタンバリンも加わってさぞかし楽しい雰囲気で録音が進んでいたのだろう。",
+  "date": "2026/05/07",
+  "id": "BST 84141",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Soul"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Organ",
+        "name": "Jimmy Smith",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Lou Donaldson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Guitar",
+        "name": "Quentin Warren",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Donald Bailey",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tambourine",
+        "name": "Big John Patton",
+        "tracks": "2,3,6"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1963
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rockin%27_the_Boat"
+    }
+  ],
+  "release_year": 1963,
+  "score": 3,
+  "title": "Rockin' the Boat",
+  "tracks": [
+    {
+      "composer": [
+        "Cliff Friend",
+        "Dave Franklin"
+      ],
+      "disc_no": 1,
+      "length": "7:29",
+      "no": 1,
+      "title": "When My Dreamboat Comes Home"
+    },
+    {
+      "composer": "Lou Donaldson",
+      "disc_no": 1,
+      "length": "7:39",
+      "no": 2,
+      "title": "Pork Chop"
+    },
+    {
+      "composer": "Harry Thomas",
+      "disc_no": 1,
+      "length": "2:59",
+      "no": 3,
+      "title": "Matilda, Matilda!"
+    },
+    {
+      "composer": "Jimmy Smith",
+      "disc_no": 1,
+      "length": "5:24",
+      "no": 4,
+      "title": "Can Heat"
+    },
+    {
+      "composer": "Percy Mayfield",
+      "disc_no": 1,
+      "length": "6:14",
+      "no": 5,
+      "title": "Please Send Me Someone to Love"
+    },
+    {
+      "composer": "Traditional",
+      "disc_no": 1,
+      "length": "3:48",
+      "no": 6,
+      "title": "Just a Closer Walk With Thee"
+    },
+    {
+      "composer": [
+        "Milton Ager",
+        "Jean Schwartz",
+        "Ned Wever"
+      ],
+      "disc_no": 1,
+      "length": "4:56",
+      "no": 7,
+      "title": "Trust in Me"
+    }
+  ]
+}

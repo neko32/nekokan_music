@@ -1,0 +1,105 @@
+{
+  "comment": "リチャードソンのめずらしいバリトンがたっぷり堪能できる一枚。比較的マイルドな音色のアタックが特徴。エキゾチックでオリエンタルなマーチン・デニーのような味付けのポインシアーナは面白い。バリトン、テナー、フルートとまぁ起用な人である。チャーリー・パーシップのドラム、ジョージ・タッカーの強めのベースがいいアクセントである。",
+  "date": "2026/05/07",
+  "id": "NJLP 8226",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "New Jazz",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone, Baritone Saxophone, Flute",
+        "name": "Jerome Richardson",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Piano",
+        "name": "Richard Wyands",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "George Tucker",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Charlie Persip",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1959
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Roamin%27_with_Richardson"
+    }
+  ],
+  "release_year": 1960,
+  "score": 4,
+  "title": "Roamin' with Richardson",
+  "tracks": [
+    {
+      "composer": "George Tucker",
+      "disc_no": 1,
+      "length": "5:36",
+      "no": 1,
+      "title": "Frier Tuck"
+    },
+    {
+      "composer": "Jerome Richardson",
+      "disc_no": 1,
+      "length": "6:20",
+      "no": 2,
+      "title": "Up at Teddy's Hill"
+    },
+    {
+      "composer": "Duke Ellington",
+      "disc_no": 1,
+      "length": "8:40",
+      "no": 3,
+      "title": "Warm Valley"
+    },
+    {
+      "composer": [
+        "Nat Simon",
+        "Buddy Bernier"
+      ],
+      "disc_no": 1,
+      "length": "7:33",
+      "no": 4,
+      "title": "Poinciana"
+    },
+    {
+      "composer": [
+        "Ted Fio Rito",
+        "Gus Kahn"
+      ],
+      "disc_no": 1,
+      "length": "6:38",
+      "no": 5,
+      "title": "I Never Knew"
+    },
+    {
+      "composer": "Richard Wyands",
+      "disc_no": 1,
+      "length": "4:25",
+      "no": 6,
+      "title": "Candied Sweets"
+    }
+  ]
+}

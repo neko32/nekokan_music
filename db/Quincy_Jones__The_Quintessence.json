@@ -1,0 +1,267 @@
+{
+  "comment": "こんな豪華なサイドメンを集めたスーパーオーケストラ... クインシーのアレンジャーの才能はすばらしい、それはよくわかる。しかしなにか物足りないのだ。きれいすぎる、整いすぎているのか？ステージングされすぎているような感じがしてしまう。",
+  "date": "2026/05/07",
+  "id": "A-11",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop",
+      "Bigband"
+    ]
+  },
+  "label": "Impulse!",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Arranger",
+        "name": "Quincy Jones",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Snoony Young",
+        "tracks": "all except 5 and 8"
+      },
+      {
+        "instruments": "Trumpet",
+        "name": "Ernie Royal",
+        "tracks": "1,4,7"
+      },
+      {
+        "instruments": "Trumpet",
+        "name": "Joe Newman",
+        "tracks": "all except 2,3 and 6"
+      },
+      {
+        "instruments": "Trumpet",
+        "name": "Thad Jones",
+        "tracks": "all except 5 and 8"
+      },
+      {
+        "instruments": "Trumpet",
+        "name": "Freddie Hubbard",
+        "tracks": "2,3,6"
+      },
+      {
+        "instruments": "Trumpet",
+        "name": "Al Derisi",
+        "tracks": "2,3,6"
+      },
+      {
+        "instruments": "Trombone",
+        "name": "Billy Byers",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Trombone",
+        "name": "Curtis Fuller",
+        "tracks": "1,4,7"
+      },
+      {
+        "instruments": "Trombone",
+        "name": "Thomas Mitchell",
+        "tracks": "1,4,7"
+      },
+      {
+        "instruments": "Trombone",
+        "name": "Melba Liston",
+        "tracks": "all except 1,4,7"
+      },
+      {
+        "instruments": "Trombone",
+        "name": "Paul Faulise",
+        "tracks": "all except 1,4,7"
+      },
+      {
+        "instruments": "Trombone",
+        "name": "Rodney Levitt",
+        "tracks": "2,3,6"
+      },
+      {
+        "instruments": "French Horn",
+        "name": "Julius Watkins",
+        "tracks": "all"
+      },
+      {
+        "instruments": "French Horn",
+        "name": "James Buffington",
+        "tracks": "1,4,7"
+      },
+      {
+        "instruments": "French Horn",
+        "name": "Earl Chapin",
+        "tracks": "1,4,7"
+      },
+      {
+        "instruments": "French Horn",
+        "name": "Ray Alonge",
+        "tracks": "1,4,7"
+      },
+      {
+        "instruments": "Saxophone",
+        "name": "Phil Woods",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Saxophone",
+        "name": "Oliver Nelson",
+        "tracks": "all except 5 and 8"
+      },
+      {
+        "instruments": "Saxophone",
+        "name": "Jerome Richardson",
+        "tracks": "all except 2,3,6"
+      },
+      {
+        "instruments": "Saxophone",
+        "name": "Eric Dixon",
+        "tracks": "all except 1,4,7"
+      },
+      {
+        "instruments": "Saxophone",
+        "name": "Frank Wess",
+        "tracks": "2,3,6"
+      },
+      {
+        "instruments": "Tuba",
+        "name": "Harvey Philips",
+        "tracks": "1,4,7"
+      },
+      {
+        "instruments": "Trumpet",
+        "name": "Jerome Kail",
+        "tracks": "5,8"
+      },
+      {
+        "instruments": "Trumpet",
+        "name": "Clark Terry",
+        "tracks": "5,8"
+      },
+      {
+        "instruments": "Trumpet",
+        "name": "Clyde Reasigner",
+        "tracks": "5,8"
+      },
+      {
+        "instruments": "Harp",
+        "name": "Gloria Agostini",
+        "tracks": "1,4,7"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Patricia Bown",
+        "tracks": "all except 5,8"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Bobby Scott",
+        "tracks": "5,8"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Milt Hinton",
+        "tracks": "all except 5,8"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "George Catlett",
+        "tracks": "5,8"
+      },
+      {
+        "instruments": "Drums",
+        "name": "James Johnson",
+        "tracks": "1,4,7"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Bill English",
+        "tracks": "2,3,6"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Stu Martin",
+        "tracks": "5,8"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1961
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Quintessence"
+    }
+  ],
+  "release_year": 1962,
+  "score": 3,
+  "title": "The Quintessence",
+  "tracks": [
+    {
+      "composer": "Quincy Jones",
+      "disc_no": 1,
+      "length": "4:21",
+      "no": 1,
+      "title": "The Quintessence"
+    },
+    {
+      "composer": "Billy Byers",
+      "disc_no": 1,
+      "length": "5:25",
+      "no": 2,
+      "title": "Robot Portrait"
+    },
+    {
+      "composer": "Benny Golson",
+      "disc_no": 1,
+      "length": "3:44",
+      "no": 3,
+      "title": "Little Karen"
+    },
+    {
+      "composer": "Thelonious Monk",
+      "disc_no": 1,
+      "length": "2:26",
+      "no": 4,
+      "title": "Straight, No Chaser"
+    },
+    {
+      "composer": "Quincy Jones",
+      "disc_no": 1,
+      "length": "4:17",
+      "no": 5,
+      "title": "For Lena and Lennie"
+    },
+    {
+      "composer": "Quincy Jones",
+      "disc_no": 1,
+      "length": "3:20",
+      "no": 6,
+      "title": "Hard Sock Dance"
+    },
+    {
+      "composer": [
+        "Bronislaw Kaper",
+        "Paul Francis Webster"
+      ],
+      "disc_no": 1,
+      "length": "3:35",
+      "no": 7,
+      "title": "Invitation"
+    },
+    {
+      "composer": "Billy Byers",
+      "disc_no": 1,
+      "length": "3:50",
+      "no": 8,
+      "title": "The Twitch"
+    }
+  ]
+}
