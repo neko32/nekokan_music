@@ -1,0 +1,107 @@
+{
+  "comment": "モーガン・モブレー鉄壁のフロントコンビとポールチェンバースのベースによるBN往年のハードパップにウォルトン、ヒギンスの後期BNハードパップの組み合わせの妙は重心は従来型のハードパップに寄り気味、というのはBNハードパップファンには嬉しいボーナス。しかしそれゆえ1966年からすると時代ずれした感があったに違いない。だから1985年のリリースと相成ったとみる。",
+  "date": "2026/05/08",
+  "id": "BST 84426",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Trumpet",
+        "name": "Lee Morgan",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Hank Mobley",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Cedar Walton",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Paul Chambers",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Billy Higgins",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1966
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Rajah_(album)"
+    }
+  ],
+  "release_year": 1985,
+  "score": 4,
+  "title": "The Rajah",
+  "tracks": [
+    {
+      "composer": "Cal Massey",
+      "disc_no": 1,
+      "length": "13:34",
+      "no": 1,
+      "title": "A Pilgrim's Funny Farm"
+    },
+    {
+      "composer": "Lee Morgan",
+      "disc_no": 1,
+      "length": "9:10",
+      "no": 2,
+      "title": "The Rajah"
+    },
+    {
+      "composer": "Duke Pearson",
+      "disc_no": 1,
+      "length": "5:18",
+      "no": 3,
+      "title": "Is That So?"
+    },
+    {
+      "composer": "Walter Davis, Jr.",
+      "disc_no": 1,
+      "length": "6:46",
+      "no": 4,
+      "title": "Davisamba"
+    },
+    {
+      "composer": "Gilbert Becaud",
+      "disc_no": 1,
+      "length": "5:22",
+      "no": 5,
+      "title": "What Now, My Love?"
+    },
+    {
+      "composer": [
+        "Leslie Charles Bricusse",
+        "Anthony Newley"
+      ],
+      "disc_no": 1,
+      "length": "5:50",
+      "no": 6,
+      "title": "Once in a Lifetime"
+    }
+  ]
+}

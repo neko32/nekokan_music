@@ -1,0 +1,108 @@
+{
+  "comment": "ジャケ写にはあどけない少年が巨大なチューバを抱えている。こんな少年がチューバを縦横無尽に駆使して巧みなソロを繰り広げているとは想像もつかない。しかしこのサイドメンである。まだ若いコルトレーン、伝説となったギル・コギンス、JMで活躍したデブレスト、Music from connectionで極めて印象的なドラミングを披露したラリー・リッチー。ドレイパーは作曲のセンスもあるようで、魅力的な曲で魅力的な演奏で、チューバという奇異な話題性だけではない、とても楽しい一枚。",
+  "date": "2026/05/08",
+  "id": "NJLP 8228",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "New Jazz",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tuba",
+        "name": "Ray Draper",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "John Coltrane",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Gil Coggins",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Spanky DeBrest",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Larry Ritchie",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1957
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Ray_Draper_Quintet_featuring_John_Coltrane"
+    }
+  ],
+  "release_year": 1958,
+  "score": 5,
+  "title": "The Ray Draper Quintet Featuring John Coltrane",
+  "tracks": [
+    {
+      "composer": "Ray Draper",
+      "disc_no": 1,
+      "length": "9:16",
+      "no": 1,
+      "title": "Clifford's Kappa"
+    },
+    {
+      "composer": "Ray Draper",
+      "disc_no": 1,
+      "length": "7:16",
+      "no": 2,
+      "title": "Filide"
+    },
+    {
+      "composer": "Ray Draper",
+      "disc_no": 1,
+      "length": "5:24",
+      "no": 3,
+      "title": "Two Sons"
+    },
+    {
+      "composer": "Sonny Rollins",
+      "disc_no": 1,
+      "length": "7:14",
+      "no": 4,
+      "title": "Paul's Pal"
+    },
+    {
+      "composer": [
+        "Jean Andre Brun",
+        "Kim Gannon",
+        "Hubert Giraud"
+      ],
+      "disc_no": 1,
+      "length": "7:47",
+      "no": 5,
+      "title": "Under Paris Skies"
+    },
+    {
+      "composer": "Ray Noble",
+      "disc_no": 1,
+      "length": "3:05",
+      "no": 6,
+      "title": "I Hadn't Anyone Till You"
+    }
+  ]
+}

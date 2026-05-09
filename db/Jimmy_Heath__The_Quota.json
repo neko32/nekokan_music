@@ -1,0 +1,122 @@
+{
+  "comment": "ヒース三兄弟そろい踏み、ハバードとジュリウス・ワトキンスとの巧妙で珍しいホルン入り３管編成と実にジミー・ヒースの策士っぷりを発揮。クオリティの高いアレンジと曲でしっかり聴き手の耳を引き付ける、お見事な一枚。",
+  "date": "2026/05/08",
+  "id": "RLP 372",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Riverside",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Jimmy Heath",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Freddie Hubbard",
+        "tracks": "all"
+      },
+      {
+        "instruments": "French Horn",
+        "name": "Julius Watkins",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Cedar Walton",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Percy Heath",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Albert Heath",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1961
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Quota_(Jimmy_Heath_album)"
+    }
+  ],
+  "release_year": 1961,
+  "score": 5,
+  "title": "The Quota",
+  "tracks": [
+    {
+      "composer": "Jimmy Heath",
+      "disc_no": 1,
+      "length": "5:08",
+      "no": 1,
+      "title": "The Quota"
+    },
+    {
+      "composer": "Jimmy Heath",
+      "disc_no": 1,
+      "length": "4:38",
+      "no": 2,
+      "title": "Lowland Lullaby"
+    },
+    {
+      "composer": [
+        "Harry Ruby",
+        "Bert Kalmar"
+      ],
+      "disc_no": 1,
+      "length": "5:08",
+      "no": 3,
+      "title": "Thinking of You"
+    },
+    {
+      "composer": "Milt Jackson",
+      "disc_no": 1,
+      "length": "4:55",
+      "no": 4,
+      "title": "Bells and Horns"
+    },
+    {
+      "composer": "Jimmy Heath",
+      "disc_no": 1,
+      "length": "5:47",
+      "no": 5,
+      "title": "Down Shift"
+    },
+    {
+      "composer": [
+        "Marvin Fisher",
+        "Jack Segal"
+      ],
+      "disc_no": 1,
+      "length": "6:29",
+      "no": 6,
+      "title": "When Sunny Gets Blue"
+    },
+    {
+      "composer": "Jimmy Heath",
+      "disc_no": 1,
+      "length": "6:23",
+      "no": 7,
+      "title": "Funny Time"
+    }
+  ]
+}
