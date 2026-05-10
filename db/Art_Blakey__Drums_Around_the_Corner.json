@@ -1,0 +1,137 @@
+{
+  "comment": "もしかしたらホリデー・フォー・スキンスの一環として録音されたがリジェクトされていた音源の発掘なのかもしれないが、とにかくゴージャス！内容も素晴らしくブレイキーのドラム３部作の中の隠されし名盤。Lee's Tuneはミラージュの別演奏で貴重。",
+  "date": "2026/05/09",
+  "id": "Blute Note 21455",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blute Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Drums, Tympani",
+        "name": "Art Blakey",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Lee Morgan",
+        "tracks": "all except 7,8"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Bobby Timmons",
+        "tracks": "all except 7,8"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Jymie Merritt",
+        "tracks": "all except 7,8"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Roy Haynes",
+        "tracks": "all except 7,8"
+      },
+      {
+        "instruments": "Drums, Tympani",
+        "name": "Philly Joe Jones",
+        "tracks": "all except 7,8"
+      },
+      {
+        "instruments": "Congas",
+        "name": "Ray Barretto",
+        "tracks": "all except 7,8"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Paul Chambers",
+        "tracks": "7,8"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1958,
+    1959
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Drums_Around_the_Corner"
+    }
+  ],
+  "release_year": 1999,
+  "score": 5,
+  "title": "Drums Around the Corner",
+  "tracks": [
+    {
+      "composer": "Charlie Parker",
+      "disc_no": 1,
+      "length": "15:19",
+      "no": 1,
+      "title": "Moose the Mooche"
+    },
+    {
+      "composer": "Art Blakey",
+      "disc_no": 1,
+      "length": "11:07",
+      "no": 2,
+      "title": "Blakey's Blues"
+    },
+    {
+      "composer": "Lee Morgan",
+      "disc_no": 1,
+      "length": "8:26",
+      "no": 3,
+      "title": "Lee's Tune"
+    },
+    {
+      "composer": "Art Blakey",
+      "disc_no": 1,
+      "length": "6:13",
+      "no": 4,
+      "title": "Let's Take 16 Bars"
+    },
+    {
+      "composer": "Art Blakey",
+      "disc_no": 1,
+      "length": "11:13",
+      "no": 5,
+      "title": "Drums in the Rain"
+    },
+    {
+      "composer": [
+        "Richard Rodgers",
+        "Lorenz Hart"
+      ],
+      "disc_no": 1,
+      "length": "7:24",
+      "no": 6,
+      "title": "Lover"
+    },
+    {
+      "composer": "Irving Berlin",
+      "disc_no": 1,
+      "length": "7:11",
+      "no": 7,
+      "title": "I've Got My Love to Keep Me Warm"
+    },
+    {
+      "composer": "Cole Porter",
+      "disc_no": 1,
+      "length": "5:43",
+      "no": 8,
+      "title": "What Is This Thing Called Love?"
+    }
+  ]
+}
