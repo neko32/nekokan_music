@@ -1,0 +1,91 @@
+{
+  "comment": "２大ジャズ・フュージョンスターのアコースティックピアノによるデュオ。CD化にあたって権利関係とレベニューシェアリングで大変だったことは想像に難くないが、ありがたいことにこのような素晴らしい音楽遺産が残されたことは感謝。二人とも互いへの敬意と楽しさに満ちた素晴らしいライブ。",
+  "date": "2026/05/10",
+  "id": "MPZ 8125/6",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Neo Hard Bop"
+    ]
+  },
+  "label": "Polydor",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Chick Corea",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Herbie Hancock",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [],
+    "soloists": []
+  },
+  "record_year": [
+    1978
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/ja/release/2093162-Corea-Hancock-An-Evening-With-Chick-Corea-And-Herbie-Hancock"
+    }
+  ],
+  "release_year": 1979,
+  "score": 4,
+  "title": "An Evening with Chick Corea And Herbie Hancock",
+  "tracks": [
+    {
+      "composer": "Chick Corea",
+      "disc_no": 1,
+      "length": "19:10",
+      "no": 1,
+      "title": "Homecoming"
+    },
+    {
+      "composer": "Bela Bartok",
+      "disc_no": 1,
+      "length": "2:37",
+      "no": 2,
+      "title": "Ostinato (from Mikrocosmos for two pianos, four hands)"
+    },
+    {
+      "composer": [
+        "Chick Corea",
+        "Herbie Hancock"
+      ],
+      "disc_no": 1,
+      "length": "13:15",
+      "no": 3,
+      "title": "The Hook"
+    },
+    {
+      "composer": "Chick Corea",
+      "disc_no": 1,
+      "length": "18:54",
+      "no": 4,
+      "title": "Bouquet"
+    },
+    {
+      "composer": "Herbie Hancock",
+      "disc_no": 1,
+      "length": "10:42",
+      "no": 5,
+      "title": "Maiden Voyage"
+    },
+    {
+      "composer": "Chick Corea",
+      "disc_no": 1,
+      "length": "16:45",
+      "no": 6,
+      "title": "La Fiesta"
+    }
+  ]
+}

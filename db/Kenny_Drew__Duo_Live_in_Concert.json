@@ -1,0 +1,142 @@
+{
+  "comment": "ニールス・ヘニング・オーステッド・ペデルセンはやはり只者ではないベーシストである、いうことのショーケース。ケニー・ドリューの流麗なピアノは言わずもがなだが、ペデルセンの音の張りのよさ、ピッチ、リズム、発想、どれをとっても超一級品。",
+  "date": "2026/05/10",
+  "id": "SCS-1031",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Neo Hard Bop"
+    ]
+  },
+  "label": "SteepleChase",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Kenny Drew",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Niels-Henning Orsted Pedersen",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [],
+    "soloists": []
+  },
+  "record_year": [
+    1974
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Duo_Live_in_Concert"
+    }
+  ],
+  "release_year": 1975,
+  "score": 4,
+  "title": "Duo Live in Concert",
+  "tracks": [
+    {
+      "composer": "Dave Brubeck",
+      "disc_no": 1,
+      "length": "9:44",
+      "no": 1,
+      "title": "In Your Own Sweet Way"
+    },
+    {
+      "composer": "Charlie Parker",
+      "disc_no": 1,
+      "length": "5:26",
+      "no": 2,
+      "title": "My Little Suede Shoes"
+    },
+    {
+      "composer": [
+        "Gene DePaul",
+        "Don Raye"
+      ],
+      "disc_no": 1,
+      "length": "6:15",
+      "no": 3,
+      "title": "You Don't Know What Love Is"
+    },
+    {
+      "composer": [
+        "Harold Arlen",
+        "Johnny Mercer"
+      ],
+      "disc_no": 1,
+      "length": "8:45",
+      "no": 4,
+      "title": "My Shining Hour"
+    },
+    {
+      "composer": "Niels-Henning Orsted Pedersen",
+      "disc_no": 1,
+      "length": "5:50",
+      "no": 5,
+      "title": "Viking's Blues"
+    },
+    {
+      "composer": "Sonny Rollins",
+      "disc_no": 1,
+      "length": "0:36",
+      "no": 6,
+      "title": "Oleo"
+    },
+    {
+      "composer": [
+        "Louis Alter",
+        "Eddie DeLange"
+      ],
+      "disc_no": 1,
+      "length": "6:35",
+      "no": 7,
+      "title": "Do You Know What It Means to Miss New Orleans?"
+    },
+    {
+      "composer": "Kenny Drew",
+      "disc_no": 1,
+      "length": "4:27",
+      "no": 8,
+      "title": "Serenity"
+    },
+    {
+      "composer": "Miles Davis",
+      "disc_no": 1,
+      "length": "6:04",
+      "no": 9,
+      "title": "All Blues"
+    },
+    {
+      "composer": "Olle Adolphson",
+      "disc_no": 1,
+      "length": "5:00",
+      "no": 10,
+      "title": "Trubbel"
+    },
+    {
+      "composer": [
+        "Isham Jones",
+        "Marty Symes"
+      ],
+      "disc_no": 1,
+      "length": "9:21",
+      "no": 11,
+      "title": "There Is No Greater Love"
+    },
+    {
+      "composer": "Sonny Rollins",
+      "disc_no": 1,
+      "length": "2:14",
+      "no": 12,
+      "title": "Oleo"
+    }
+  ]
+}
