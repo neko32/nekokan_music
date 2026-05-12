@@ -1,0 +1,237 @@
+{
+  "comment": "[殿堂入り] 奇跡の２枚目も1951,1952年からのレジェンド達とのセッション。ミルトジャクソンとの共演の1951年、ケニー・ドーハムやルードナ、ラッキートンプソン、マックスローチとの1952年ともに至高の演奏。既にモンク・クラシックとビバップの集大成である。",
+  "date": "2026/05/11",
+  "id": "BLP 1511",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Bebop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Thelonious Monk",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Kenny Dorham",
+        "tracks": "10-18"
+      },
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Lou Donaldson",
+        "tracks": "10-18"
+      },
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Sahib Shihab",
+        "tracks": "1-4,5,6,8"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Lucky Thompson",
+        "tracks": "10-18"
+      },
+      {
+        "instruments": "Vibraphone",
+        "name": "Milt Jackson",
+        "tracks": "1-4,6-8"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Nelson Boyd",
+        "tracks": "10-18"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Al McKibbon",
+        "tracks": "1-9"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "John Simmons",
+        "tracks": "7"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Max Roach",
+        "tracks": "10-18"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Art Blakey",
+        "tracks": "1-9"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Shadow Wilson",
+        "tracks": "7"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1951,
+    1952
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Genius_of_Modern_Music,_Vols._One_%26_Two"
+    }
+  ],
+  "release_year": 1956,
+  "score": 6,
+  "title": "Genius of Modern Music, Vols. Two",
+  "tracks": [
+    {
+      "composer": "Thelonious Monk",
+      "disc_no": 1,
+      "length": "3:31",
+      "no": 1,
+      "title": "Four in One"
+    },
+    {
+      "composer": "Thelonious Monk",
+      "disc_no": 1,
+      "length": "2:57",
+      "no": 2,
+      "title": "Criss-Cross"
+    },
+    {
+      "composer": [
+        "Thelonious Monk",
+        "Idrees Sulieman",
+        "Sadik Hakim"
+      ],
+      "disc_no": 1,
+      "length": "3:05",
+      "no": 3,
+      "title": "Eronel"
+    },
+    {
+      "composer": "Thelonious Monk",
+      "disc_no": 1,
+      "length": "3:00",
+      "no": 4,
+      "title": "Straight, No Chaser"
+    },
+    {
+      "composer": "Thelonious Monk",
+      "disc_no": 1,
+      "length": "3:16",
+      "no": 5,
+      "title": "Ask Me Now"
+    },
+    {
+      "composer": "Ann Ronnell",
+      "disc_no": 1,
+      "length": "3:02",
+      "no": 6,
+      "title": "Willow Weep For Me"
+    },
+    {
+      "composer": [
+        "Thelonious Monk",
+        "Coleman Hawkins"
+      ],
+      "disc_no": 1,
+      "length": "3:29",
+      "no": 7,
+      "title": "I Mean You"
+    },
+    {
+      "composer": "Thelonious Monk",
+      "disc_no": 1,
+      "length": "2:51",
+      "no": 8,
+      "title": "Criss-Cross [alt. take]"
+    },
+    {
+      "composer": "Thelonious Monk",
+      "disc_no": 1,
+      "length": "4:30",
+      "no": 9,
+      "title": "Ask Me Now [alt. take]"
+    },
+    {
+      "composer": "Thelonious Monk",
+      "disc_no": 1,
+      "length": "3:01",
+      "no": 10,
+      "title": "Skippy"
+    },
+    {
+      "composer": "Thelonious Monk",
+      "disc_no": 1,
+      "length": "3:15",
+      "no": 11,
+      "title": "Hornin' In"
+    },
+    {
+      "composer": "Thelonious Monk",
+      "disc_no": 1,
+      "length": "3:42",
+      "no": 12,
+      "title": "Sixteen"
+    },
+    {
+      "composer": [
+        "Benny Davis",
+        "Joe Burke"
+      ],
+      "disc_no": 1,
+      "length": "3:29",
+      "no": 13,
+      "title": "Carolina Moon"
+    },
+    {
+      "composer": "Thelonious Monk",
+      "disc_no": 1,
+      "length": "3:49",
+      "no": 14,
+      "title": "Let's Cool One"
+    },
+    {
+      "composer": [
+        "Roy Turk",
+        "Fred E. Ahlert"
+      ],
+      "disc_no": 1,
+      "length": "3:48",
+      "no": 15,
+      "title": "I'll Follow You"
+    },
+    {
+      "composer": "Thelonious Monk",
+      "disc_no": 1,
+      "length": "3:10",
+      "no": 16,
+      "title": "Skippy [alt. take]"
+    },
+    {
+      "composer": "Thelonious Monk",
+      "disc_no": 1,
+      "length": "3:09",
+      "no": 17,
+      "title": "Hornin' In [alt. take]"
+    },
+    {
+      "composer": "Thelonious Monk",
+      "disc_no": 1,
+      "length": "3:28",
+      "no": 18,
+      "title": "Sixteen [alt. take]"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "comment": "スリーサウンズのときよりもより自由にハリスのピアノを堪能できる一枚。アクティブ・しっとりどちらも素晴らしい演奏を見せてくれる。レッド・ガーランドばりのブロック奏法もさまになっているし、ベン・タッカーの強めのベースが大正解の起用と言える。",
+  "date": "2026/05/11",
+  "id": "JGS 1115",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Jubilee",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Gene Harris",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Double Bass",
+        "name": "Ben Tucker",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Kenny Harris",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1960
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/ja/release/9014597-The-Gene-Harris-Trio-Genie-In-My-Soul"
+    }
+  ],
+  "release_year": 1960,
+  "score": 1,
+  "title": "Genie in My Soul",
+  "tracks": [
+    {
+      "composer": "Gene Harris",
+      "disc_no": 1,
+      "length": "3:28",
+      "no": 1,
+      "title": "There's A Genie In My Soul"
+    },
+    {
+      "composer": "Robert Brookmeyer",
+      "disc_no": 1,
+      "length": "3:08",
+      "no": 2,
+      "title": "Cool Mix"
+    },
+    {
+      "composer": "Gerry Mulligan",
+      "disc_no": 1,
+      "length": "3:35",
+      "no": 3,
+      "title": "Walking Shoes"
+    },
+    {
+      "composer": "Gene Harris",
+      "disc_no": 1,
+      "length": "2:18",
+      "no": 4,
+      "title": "I Wanna Go Where You Are"
+    },
+    {
+      "composer": "Gene Harris",
+      "disc_no": 1,
+      "length": "3:54",
+      "no": 5,
+      "title": "That's Oona"
+    },
+    {
+      "composer": "Cole Porter",
+      "disc_no": 1,
+      "length": "3:25",
+      "no": 6,
+      "title": "Love For Sale"
+    },
+    {
+      "composer": [
+        "Dee Libby",
+        "Sid Wayne"
+      ],
+      "disc_no": 1,
+      "length": "2:35",
+      "no": 7,
+      "title": "Mangos"
+    },
+    {
+      "composer": [
+        "Gus Kahn",
+        "Herb Nacio Brown"
+      ],
+      "disc_no": 1,
+      "length": "3:11",
+      "no": 8,
+      "title": "You Stepped Out Of A Dream"
+    },
+    {
+      "composer": [
+        "Lew Brown",
+        "Ray Henderson"
+      ],
+      "disc_no": 1,
+      "length": "3:36",
+      "no": 9,
+      "title": "The Trill Is Gone"
+    },
+    {
+      "composer": "Miles Davis",
+      "disc_no": 1,
+      "length": "2:56",
+      "no": 10,
+      "title": "Tune Up"
+    }
+  ]
+}

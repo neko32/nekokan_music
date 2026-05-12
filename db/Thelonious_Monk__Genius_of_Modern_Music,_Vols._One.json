@@ -1,0 +1,241 @@
+{
+  "comment": "[殿堂入り] モンク・クラシックが1947年既に完成形として存在していたという驚き。そしてまさにこのVol.1とVol.2で既にモンクとビバップの真髄としての聖典が出揃っているというこの奇跡。とにかくただ奇跡的に素晴らしいセッションの数々。",
+  "date": "2026/05/11",
+  "id": "BLP 1510",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Bebop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Thelonious Monk",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Idrees Sulieman",
+        "tracks": "1-6"
+      },
+      {
+        "instruments": "Trumpet",
+        "name": "George Taitt",
+        "tracks": "17-21"
+      },
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Danny Quebec West",
+        "tracks": "1-6"
+      },
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Sahib Shihab",
+        "tracks": "17-21"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Billy Smith",
+        "tracks": "1-6"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Gene Ramey",
+        "tracks": "1-16"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Bob Paige",
+        "tracks": "17-21"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Art Blakey",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1947
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Genius_of_Modern_Music,_Vols._One_%26_Two"
+    }
+  ],
+  "release_year": 1956,
+  "score": 6,
+  "title": "Genius of Modern Music, Vols. One",
+  "tracks": [
+    {
+      "composer": "Thelonious Monk",
+      "disc_no": 1,
+      "length": "2:54",
+      "no": 1,
+      "title": "Humph"
+    },
+    {
+      "composer": [
+        "Ike Quebec",
+        "Idrees Sulieman"
+      ],
+      "disc_no": 1,
+      "length": "3:04",
+      "no": 2,
+      "title": "Evonce"
+    },
+    {
+      "composer": "Ike Quebec",
+      "disc_no": 1,
+      "length": "3:01",
+      "no": 3,
+      "title": "Suburban Eyes"
+    },
+    {
+      "composer": "Thelonious Monk",
+      "disc_no": 1,
+      "length": "3:01",
+      "no": 4,
+      "title": "Thelonius"
+    },
+    {
+      "composer": [
+        "Ike Quebec",
+        "Idrees Sulieman"
+      ],
+      "disc_no": 1,
+      "length": "3:03",
+      "no": 5,
+      "title": "Evonce [alt. take]"
+    },
+    {
+      "composer": "Ike Quebec",
+      "disc_no": 1,
+      "length": "2:58",
+      "no": 6,
+      "title": "Suburban Eyes [alt. take]"
+    },
+    {
+      "composer": [
+        "George Gershwin",
+        "Ira Gershwin"
+      ],
+      "disc_no": 1,
+      "length": "3:01",
+      "no": 7,
+      "title": "Nice Work (If You Can Get It)"
+    },
+    {
+      "composer": "Thelonious Monk",
+      "disc_no": 1,
+      "length": "3:10",
+      "no": 8,
+      "title": "Ruby My Dear"
+    },
+    {
+      "composer": "Thelonious Monk",
+      "disc_no": 1,
+      "length": "2:59",
+      "no": 9,
+      "title": "Well You Needn't"
+    },
+    {
+      "composer": "Vernon Duke",
+      "disc_no": 1,
+      "length": "3:21",
+      "no": 10,
+      "title": "April In Paris"
+    },
+    {
+      "composer": "Thelonious Monk",
+      "disc_no": 1,
+      "length": "3:02",
+      "no": 11,
+      "title": "Off Minor"
+    },
+    {
+      "composer": "Thelonious Monk",
+      "disc_no": 1,
+      "length": "3:13",
+      "no": 12,
+      "title": "Introspection"
+    },
+    {
+      "composer": [
+        "George Gershwin",
+        "Ira Gershwin"
+      ],
+      "disc_no": 1,
+      "length": "3:03",
+      "no": 13,
+      "title": "Nice Work (If You Can Get it Done) [Alt. take]"
+    },
+    {
+      "composer": "Thelonious Monk",
+      "disc_no": 1,
+      "length": "3:07",
+      "no": 14,
+      "title": "Ruby My Dear [alt. take]"
+    },
+    {
+      "composer": "Thelonious Monk",
+      "disc_no": 1,
+      "length": "2:57",
+      "no": 15,
+      "title": "Well You Needn't [alt. take]"
+    },
+    {
+      "composer": "Vernon Duke",
+      "disc_no": 1,
+      "length": "2:42",
+      "no": 16,
+      "title": "April In Paris [alt. take]"
+    },
+    {
+      "composer": "Thelonious Monk",
+      "disc_no": 1,
+      "length": "2:57",
+      "no": 17,
+      "title": "In Walked Bud"
+    },
+    {
+      "composer": "Thelonious Monk",
+      "disc_no": 1,
+      "length": "3:10",
+      "no": 18,
+      "title": "Monk's Mood"
+    },
+    {
+      "composer": "Thelonious Monk",
+      "disc_no": 1,
+      "length": "2:45",
+      "no": 19,
+      "title": "Who Knows?"
+    },
+    {
+      "composer": "Thelonious Monk",
+      "disc_no": 1,
+      "length": "3:13",
+      "no": 20,
+      "title": "'Round Midnight"
+    },
+    {
+      "composer": "Thelonious Monk",
+      "disc_no": 1,
+      "length": "2:45",
+      "no": 21,
+      "title": "Who Knows? [alt. take]"
+    }
+  ]
+}
