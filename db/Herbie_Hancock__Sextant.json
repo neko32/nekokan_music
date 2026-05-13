@@ -1,0 +1,104 @@
+{
+  "comment": "[殿堂入り] セクステット時代、コロンビア移籍そしてヘッドハンターズ前の総決算。セクステット時代のこの独特の暗さ、怪しさは何物にも代えがたい。前にもまして最新機材、特にワウやノイズのエフェクタの使用が巧妙になる一方で、アコースティックピアノの響きが硬質で物理的な美しさが増して響く。",
+  "date": "2026/05/12",
+  "id": "32212",
+  "janre": {
+    "main": "Fusion",
+    "sub": [
+      "Fusion",
+      "Contemporary"
+    ]
+  },
+  "label": "Columbia",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano, Electric Piano, Synthesizer, Percussion",
+        "name": "Herbie Hancock",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet, Flugelhorn",
+        "name": "Eddie Henderson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Trombone, Bass Trombone, Alto Trombone, Cowbell",
+        "name": "Julian Priester",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Soprano Saxophone, Bass Clarinet, Piccolo, Flute, Afuche, \"Hum-a-zoo\"",
+        "name": "Bennie Maupin",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Synthesizer",
+        "name": "Patrick Gleeson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Electric Bass Guitar, Electric Bass",
+        "name": "Buster Williams",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Billy Hart",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Percussion",
+        "name": "Buck Clarke",
+        "tracks": "all"
+      },
+      {
+        "instruments": "\"Random Resonator\"",
+        "name": "FUNDI",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1973
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sextant_(album)"
+    }
+  ],
+  "release_year": 1973,
+  "score": 6,
+  "title": "Sextant",
+  "tracks": [
+    {
+      "composer": "Herbie Hancock",
+      "disc_no": 1,
+      "length": "9:16",
+      "no": 1,
+      "title": "Rain Dance"
+    },
+    {
+      "composer": "Herbie Hancock",
+      "disc_no": 1,
+      "length": "10:11",
+      "no": 2,
+      "title": "Hidden Shadows"
+    },
+    {
+      "composer": "Herbie Hancock",
+      "disc_no": 1,
+      "length": "19:35",
+      "no": 3,
+      "title": "Hornets"
+    }
+  ]
+}

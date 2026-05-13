@@ -1,0 +1,109 @@
+{
+  "comment": "純ジャズ度も高くアヴァンギャルドの色合いもややあるショーターワールド。何といってもハービーとカーターの存在感が大きい。前作Adam's Appleは比較的ストレートなジャズロック調もありつつというキャッチーな作品だが次はあの問題作Super Nova。まさにこの作品はその両方をつなぐといわんばかりの純ジャズ・アヴァンギャルドテイスト混在の世界。",
+  "date": "2026/05/12",
+  "id": "BST 84297",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "New Mainstream"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Wayne Shorter",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trombone",
+        "name": "Curtis Fuller",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Alto Saxophone",
+        "name": "James Spaulding",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Herbie Hancock",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Ron Carter",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Joe Chambers",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1967
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Schizophrenia_(Wayne_Shorter_album)"
+    }
+  ],
+  "release_year": 1969,
+  "score": 1,
+  "title": "Schizophrenia",
+  "tracks": [
+    {
+      "composer": "Wayne Shorter",
+      "disc_no": 1,
+      "length": "6:16",
+      "no": 1,
+      "title": "Tom Thumb"
+    },
+    {
+      "composer": "Wayne Shorter",
+      "disc_no": 1,
+      "length": "5:42",
+      "no": 2,
+      "title": "Go"
+    },
+    {
+      "composer": "Wayne Shorter",
+      "disc_no": 1,
+      "length": "6:50",
+      "no": 3,
+      "title": "Schizophrenia"
+    },
+    {
+      "composer": "James Spaulding",
+      "disc_no": 1,
+      "length": "6:29",
+      "no": 4,
+      "title": "Kryptonite"
+    },
+    {
+      "composer": "Wayne Shorter",
+      "disc_no": 1,
+      "length": "5:00",
+      "no": 5,
+      "title": "Miyako"
+    },
+    {
+      "composer": "Wayne Shorter",
+      "disc_no": 1,
+      "length": "6:20",
+      "no": 6,
+      "title": "Playground"
+    }
+  ]
+}

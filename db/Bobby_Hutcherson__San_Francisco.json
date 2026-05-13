@@ -1,0 +1,104 @@
+{
+  "comment": "このキャッチーなセンス、これは間違いなくジョー・サンプルによるものだと思う。電化しているがやはりそこはシリアスなジャズだ。ハロルドとのコンビはもう鉄板、そしてミッキー・ローカーという実力者もいる。そしてジョー・サンプルというグレートなスパイスときた。",
+  "date": "2026/05/11",
+  "id": "BST 84362",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Neo Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Vibraphone, Marimba, Percussion",
+        "name": "Bobby Hutcherson",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone, Flute, Oboe",
+        "name": "Harold Land",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano, Electric Piano",
+        "name": "Joe Sample",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass, Electric Bass",
+        "name": "John Williams",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Mickey Roker",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1970
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/San_Francisco_(Bobby_Hutcherson_album)"
+    }
+  ],
+  "release_year": 1971,
+  "score": 5,
+  "title": "San Francisco",
+  "tracks": [
+    {
+      "composer": "Joe Sample",
+      "disc_no": 1,
+      "length": "7:10",
+      "no": 1,
+      "title": "Goin' Down South"
+    },
+    {
+      "composer": "Bobby Hutcherson",
+      "disc_no": 1,
+      "length": "7:29",
+      "no": 2,
+      "title": "Prints Tie"
+    },
+    {
+      "composer": "Joe Sample",
+      "disc_no": 1,
+      "length": "5:26",
+      "no": 3,
+      "title": "Jazz"
+    },
+    {
+      "composer": "Bobby Hutcherson",
+      "disc_no": 1,
+      "length": "7:49",
+      "no": 4,
+      "title": "Ummh"
+    },
+    {
+      "composer": "Bobby Hutcherson",
+      "disc_no": 1,
+      "length": "5:46",
+      "no": 5,
+      "title": "Procession"
+    },
+    {
+      "composer": "Harold Land",
+      "disc_no": 1,
+      "length": "7:23",
+      "no": 6,
+      "title": "A Night in Barcelona"
+    }
+  ]
+}
