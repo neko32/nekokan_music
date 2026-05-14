@@ -1,0 +1,87 @@
+{
+  "comment": "[殿堂入り] こんなすごいライブ演奏が近年発掘されるなんて... まだまだ捨てたものじゃない... グリーンの最晩年(1979年死去)に近いがまだまだすごい演奏ができるのだ。グルーブ感がとにかくすごい。",
+  "date": "2026/05/13",
+  "id": "HCD-2034",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Neo Hard Bop"
+    ]
+  },
+  "label": "Resonance Records",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Guitar",
+        "name": "Grant Green",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Electric Piano",
+        "name": "Emmanuel Riggins",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Electric Bass",
+        "name": "Ronnie Ware",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Greg Williams",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Percussion",
+        "name": "Gerald Izzard",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1975
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Grant_Green_discography"
+    }
+  ],
+  "release_year": 2018,
+  "score": 6,
+  "title": "Slick! Live at Oil Can Harry's",
+  "tracks": [
+    {
+      "composer": "Charlie Parker",
+      "disc_no": 1,
+      "length": "8:16",
+      "no": 1,
+      "title": "Now's The Time"
+    },
+    {
+      "composer": [
+        "Antonio Carlos Jobim",
+        "Norman Gimbel",
+        "Vinicius De Moraes"
+      ],
+      "disc_no": 1,
+      "length": "26:02",
+      "no": 2,
+      "title": "How Insensitive"
+    },
+    {
+      "composer": "Many",
+      "disc_no": 1,
+      "length": "31:56",
+      "no": 3,
+      "title": "Medley (Vulcan Princess/Skin Tight/Woman's Gotta Have It/Boogie On Reggae Woman/For The Love Of Money)"
+    }
+  ]
+}

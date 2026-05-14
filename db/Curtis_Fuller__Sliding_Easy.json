@@ -1,0 +1,122 @@
+{
+  "comment": "ゴルソンとジジ・グライスがアレンジを分け合っているがどれも実に良くアレンジが練られていて何よりこのメンバーであって、悪かろうはずがない。ゴルソンとのコラボレーションは次作のBlues-etteにつながる非常に重要なラインである。とにかくタイトル通りフラーのトロンボーンのスライドは極めてスムーズ。",
+  "date": "2026/05/13",
+  "id": "UAL 4041",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "United Artists",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Trombone",
+        "name": "Curtis Fuller",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Lee Morgan",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Hank Mobley",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Tommy Flanagan",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Paul Chambers",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Elvin Jones",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Arranger",
+        "name": "Benny Golson",
+        "tracks": "1,3,4,5"
+      },
+      {
+        "instruments": "Arranger",
+        "name": "Gigi Gryce",
+        "tracks": "2,6"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1959
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sliding_Easy"
+    }
+  ],
+  "release_year": 1959,
+  "score": 5,
+  "title": "Sliding Easy",
+  "tracks": [
+    {
+      "composer": "Curtis Fuller",
+      "disc_no": 1,
+      "length": "5:25",
+      "no": 1,
+      "title": "Bit of Heaven"
+    },
+    {
+      "composer": "Curtis Fuller",
+      "disc_no": 1,
+      "length": "4:05",
+      "no": 2,
+      "title": "Down Home"
+    },
+    {
+      "composer": "Buddy Johnson",
+      "disc_no": 1,
+      "length": "5:52",
+      "no": 3,
+      "title": "I Wonder Where Our Love Has Gone"
+    },
+    {
+      "composer": "Charlie Parker",
+      "disc_no": 1,
+      "length": "7:50",
+      "no": 4,
+      "title": "Bongo Bop"
+    },
+    {
+      "composer": [
+        "Benny Carter",
+        "Spencer Williams"
+      ],
+      "disc_no": 1,
+      "length": "6:55",
+      "no": 5,
+      "title": "When Lights Are Low"
+    },
+    {
+      "composer": "Jimmy Heath",
+      "disc_no": 1,
+      "length": "5:09",
+      "no": 6,
+      "title": "C.T.A."
+    }
+  ]
+}

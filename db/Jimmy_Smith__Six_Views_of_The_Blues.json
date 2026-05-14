@@ -1,0 +1,104 @@
+{
+  "comment": "1999年までお蔵入りしていた1958年録音の隠れ名品。The Swingin' Shepherd Bluesだけがシングルカットされていたとのこと。内容は決して悪くなく、曲によって熱に波があるように見えるかもしれない。セシル・ペインとのバリトンとの共演というだけでも興味深いし、ケニー・バレルの演奏もすばらしい。ドラムは相対的におとなしめに演奏している。Blues No.4が特に素晴らしい。",
+  "date": "2026/05/13",
+  "id": "7243 5 21435 2 8",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Organ",
+        "name": "Jimmy Smith",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Baritone Saxophone",
+        "name": "Cecil Payne",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Guitar",
+        "name": "Kenny Burrell",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Art Blakey",
+        "tracks": "1-3"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Donald Bailey",
+        "tracks": "4-6"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1958
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Six_Views_of_the_Blues"
+    }
+  ],
+  "release_year": 1999,
+  "score": 4,
+  "title": "Six Views of The Blues",
+  "tracks": [
+    {
+      "composer": "William Christopher Handy",
+      "disc_no": 1,
+      "length": "8:38",
+      "no": 1,
+      "title": "St. Louis Blues"
+    },
+    {
+      "composer": "Moe Koffman",
+      "disc_no": 1,
+      "length": "3:55",
+      "no": 2,
+      "title": "The Swingin' Shepherd Blues"
+    },
+    {
+      "composer": "Jimmy Smith",
+      "disc_no": 1,
+      "length": "6:25",
+      "no": 3,
+      "title": "Blues No.1"
+    },
+    {
+      "composer": "Jimmy Smith",
+      "disc_no": 1,
+      "length": "7:10",
+      "no": 4,
+      "title": "Blues No.3"
+    },
+    {
+      "composer": "Jimmy Smith",
+      "disc_no": 1,
+      "length": "10:45",
+      "no": 5,
+      "title": "Blues No.4"
+    },
+    {
+      "composer": "Jimmy Smith",
+      "disc_no": 1,
+      "length": "9:00",
+      "no": 6,
+      "title": "Blues No.2"
+    }
+  ]
+}

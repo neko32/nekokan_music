@@ -1,0 +1,133 @@
+{
+  "comment": "実に端正な、何より録音が良い。ベースの響き、張りが本当にすばらしい。ピアノ、ドラムのブラシの音も本当にきれいにとらえられている。スリーピーのテナーボーナスもうれしい。レッド・ガーランドが好きな人には刺さるブロックコードでドライヴィン。",
+  "date": "2026/05/13",
+  "id": "PA-7059",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Trio Records",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "八城一夫",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "松本英彦",
+        "tracks": "2,5"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "原田正長",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "五十嵐武要",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1973
+  ],
+  "references": [
+    {
+      "name": "Hifido",
+      "url": "https://www.hifido.co.jp/sold/07-32988-00723-60.html"
+    }
+  ],
+  "release_year": 1973,
+  "score": 4,
+  "title": "ドライヴィン",
+  "tracks": [
+    {
+      "composer": [
+        "Abel Baer",
+        "Cliff Friend"
+      ],
+      "disc_no": 1,
+      "length": "5:37",
+      "no": 1,
+      "title": "６月の夜"
+    },
+    {
+      "composer": [
+        "George Cates",
+        "George Douglas",
+        "Mort Greene"
+      ],
+      "disc_no": 1,
+      "length": "8:21",
+      "no": 2,
+      "title": "Fantastic That's You"
+    },
+    {
+      "composer": [
+        "Duke Ellington",
+        "Bob Russell"
+      ],
+      "disc_no": 1,
+      "length": "5:36",
+      "no": 3,
+      "title": "Don't Get Around Much Anymore"
+    },
+    {
+      "composer": [
+        "Benny Goodman",
+        "Edgar Sampson",
+        "Mitchell Parish"
+      ],
+      "disc_no": 1,
+      "length": "5:00",
+      "no": 4,
+      "title": "その手はないよ"
+    },
+    {
+      "composer": [
+        "John Klenner",
+        "Sam M. Lewis"
+      ],
+      "disc_no": 1,
+      "length": "5:23",
+      "no": 5,
+      "title": "Just Friends"
+    },
+    {
+      "composer": [
+        "Sammy Karn",
+        "Jule Styne"
+      ],
+      "disc_no": 1,
+      "length": "3:44",
+      "no": 6,
+      "title": "過ぎし夏の想い出"
+    },
+    {
+      "composer": "Frank Churchill",
+      "disc_no": 1,
+      "length": "4:27",
+      "no": 7,
+      "title": "いつかは王子様が"
+    },
+    {
+      "composer": "Irving Berlin",
+      "disc_no": 1,
+      "length": "2:17",
+      "no": 8,
+      "title": "歌は終わりぬ"
+    }
+  ]
+}

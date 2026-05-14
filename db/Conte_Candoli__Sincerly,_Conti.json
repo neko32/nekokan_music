@@ -1,0 +1,132 @@
+{
+  "comment": "コンテカンドリのトランペットをビバップ後期のフォーマットで縦横無尽に楽しめる快作。やはり只者ではない。東海岸でガンガンやってても良かったんじゃないかと思ってしまうが... スタン・リーヴィーとクロード・ウィリアムソンもさすがのプレイでがっつり盛り上げる。",
+  "date": "2026/05/13",
+  "id": "BCP 1016",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "West Coast"
+    ]
+  },
+  "label": "Bethlehem Records",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Trumpet",
+        "name": "Conte Candoli",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Piano",
+        "name": "Claude Williamson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Max Bennett",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Stan Levey",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1954
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://www.discogs.com/ja/release/10751104-Conti-Candoli-Sincerely-Conti"
+    }
+  ],
+  "release_year": 1955,
+  "score": 5,
+  "title": "Sincerly, Conti",
+  "tracks": [
+    {
+      "composer": [
+        "Kay Swift",
+        "Paul James"
+      ],
+      "disc_no": 1,
+      "length": "3:14",
+      "no": 1,
+      "title": "Fine & Dandy"
+    },
+    {
+      "composer": "Conte Candoli",
+      "disc_no": 1,
+      "length": "2:38",
+      "no": 2,
+      "title": "Night Flight"
+    },
+    {
+      "composer": [
+        "Ira Gershwin",
+        "Vernon Duke"
+      ],
+      "disc_no": 1,
+      "length": "2:59",
+      "no": 3,
+      "title": "I Can't Get Started With You"
+    },
+    {
+      "composer": [
+        "Ira Gershwin",
+        "Vernon Duke"
+      ],
+      "disc_no": 1,
+      "length": "2:56",
+      "no": 4,
+      "title": "On The Alamo"
+    },
+    {
+      "composer": "Billy Taylor",
+      "disc_no": 1,
+      "length": "3:08",
+      "no": 5,
+      "title": "Tune For Tex"
+    },
+    {
+      "composer": [
+        "George Gershwin",
+        "Ira Gershwin"
+      ],
+      "disc_no": 1,
+      "length": "3:14",
+      "no": 6,
+      "title": "They Can't Take That Away From Me"
+    },
+    {
+      "composer": [
+        "Matt Dennis",
+        "Tom Adair"
+      ],
+      "disc_no": 1,
+      "length": "2:48",
+      "no": 7,
+      "title": "Everything Happens To Me"
+    },
+    {
+      "composer": [
+        "Don Raye",
+        "Gene DePaul",
+        "Patricia Johnston"
+      ],
+      "disc_no": 1,
+      "length": "2:32",
+      "no": 8,
+      "title": "I'll Remember April"
+    }
+  ]
+}

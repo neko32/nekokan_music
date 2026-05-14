@@ -1,0 +1,104 @@
+{
+  "comment": "ビル・エヴァンス晩年のリリシズムがいかんとなく発揮されたライブ録音。個人的にはWaltz for Debbyとかよりこちらの後期のほうの、痛ましいまでのしかしどこか暖かい、しかしどこか寂寥感、諦念に満ちた感じがたまらない。",
+  "date": "2026/05/13",
+  "id": "F 9501",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Post Hard Bop"
+    ]
+  },
+  "label": "Fantasy",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Bill Evans",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Double Bass",
+        "name": "Eddie Gomez",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Marty Morell",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1974
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Since_We_Met"
+    }
+  ],
+  "release_year": 1976,
+  "score": 5,
+  "title": "Since We Met",
+  "tracks": [
+    {
+      "composer": "Bill Evans",
+      "disc_no": 1,
+      "length": "8:52",
+      "no": 1,
+      "title": "Since We Met"
+    },
+    {
+      "composer": "Joe Zawinul",
+      "disc_no": 1,
+      "length": "6:53",
+      "no": 2,
+      "title": "Midnight Mood"
+    },
+    {
+      "composer": "Cy Coleman",
+      "disc_no": 1,
+      "length": "6:53",
+      "no": 3,
+      "title": "See-Saw"
+    },
+    {
+      "composer": "Earl Zindars",
+      "disc_no": 1,
+      "length": "6:39",
+      "no": 4,
+      "title": "Sareen Jurer"
+    },
+    {
+      "composer": "Bill Evans",
+      "disc_no": 1,
+      "length": "5:27",
+      "no": 5,
+      "title": "Time Remembered"
+    },
+    {
+      "composer": "Bill Evans",
+      "disc_no": 1,
+      "length": "5:07",
+      "no": 6,
+      "title": "Turn Out the Stars"
+    },
+    {
+      "composer": [
+        "Johnny Burke",
+        "Jimmy Van Heusen"
+      ],
+      "disc_no": 1,
+      "length": "6:21",
+      "no": 7,
+      "title": "But Beautiful"
+    }
+  ]
+}

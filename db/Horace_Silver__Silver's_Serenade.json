@@ -1,0 +1,97 @@
+{
+  "comment": "全曲シルバーのオリジナルでいつものシルバークインテットの安定な演奏。\n最初の曲は意外やスロー・ミッドテンポで始まるも他はいつもの感じできちんとシルバーのゲンコツ奏法が楽しめる。",
+  "date": "2026/05/12",
+  "id": "BST 84131",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Horace Silver",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Blue Mitchell",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Junior Cook",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Gene Taylor",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Roy Brooks",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1963
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Silver%27s_Serenade"
+    }
+  ],
+  "release_year": 1963,
+  "score": 4,
+  "title": "Silver's Serenade",
+  "tracks": [
+    {
+      "composer": "Horace Silver",
+      "disc_no": 1,
+      "length": "9:21",
+      "no": 1,
+      "title": "Silver's Serenade"
+    },
+    {
+      "composer": "Horace Silver",
+      "disc_no": 1,
+      "length": "7:24",
+      "no": 2,
+      "title": "Let's Get to the Nitty Gritty"
+    },
+    {
+      "composer": "Horace Silver",
+      "disc_no": 1,
+      "length": "7:34",
+      "no": 3,
+      "title": "Sweet Sweetie Dee"
+    },
+    {
+      "composer": "Horace Silver",
+      "disc_no": 1,
+      "length": "7:04",
+      "no": 4,
+      "title": "The Dragon Lady"
+    },
+    {
+      "composer": "Horace Silver",
+      "disc_no": 1,
+      "length": "6:21",
+      "no": 5,
+      "title": "Nineteen Bars"
+    }
+  ]
+}
