@@ -1,0 +1,115 @@
+{
+  "comment": "ジミースミスの跡を継がんとばかりのヤング若かりし、デビューアルバムとなるハードバップオルガントリオアルバム。２曲に珍しいテナーサックス奏者ジョー・ホリデイも参加。ジミー・スミスのバップ最盛期のようにはいかずともなかなかいい感じ。ジョー・ホリデイ提供の曲ではジミースミスの影も見えてきた。ギターにジミーを良く知るソーネル・シュワルツというのも面白いし、何よりドラマーがジミー・スミス(Jimmie, Jimmyでない)である。",
+  "date": "2026/05/14",
+  "id": "NJ 8249",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "New Jazz",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Organ",
+        "name": "Larry Young",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Joe Holiday",
+        "tracks": "3 & 7"
+      },
+      {
+        "instruments": "Guitar",
+        "name": "Thornel Schwartz",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Jimmie Smith",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1960
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Testifying_(album)"
+    }
+  ],
+  "release_year": 1960,
+  "score": 4,
+  "title": "Testifying",
+  "tracks": [
+    {
+      "composer": "Larry Young",
+      "disc_no": 1,
+      "length": "9:52",
+      "no": 1,
+      "title": "Testifying"
+    },
+    {
+      "composer": [
+        "Oscar Hammerstein II",
+        "Sigmund Romberg"
+      ],
+      "disc_no": 1,
+      "length": "5:15",
+      "no": 2,
+      "title": "When I Grow Too Old To Dream"
+    },
+    {
+      "composer": "Joe Holiday",
+      "disc_no": 1,
+      "length": "7:34",
+      "no": 3,
+      "title": "Exercise for Chihuahuas"
+    },
+    {
+      "composer": [
+        "Lorenz Hart",
+        "Richard Rodgers"
+      ],
+      "disc_no": 1,
+      "length": "5:04",
+      "no": 4,
+      "title": "Falling In Love With Love"
+    },
+    {
+      "composer": "Thornel Schwartz",
+      "disc_no": 1,
+      "length": "6:20",
+      "no": 5,
+      "title": "Some Thorny Blues"
+    },
+    {
+      "composer": "J.J. Johnson",
+      "disc_no": 1,
+      "length": "7:04",
+      "no": 6,
+      "title": "Wee Dot"
+    },
+    {
+      "composer": [
+        "Edmund Anderson",
+        "Ted Grouya"
+      ],
+      "disc_no": 1,
+      "length": "5:23",
+      "no": 7,
+      "title": "Flamingo"
+    }
+  ]
+}

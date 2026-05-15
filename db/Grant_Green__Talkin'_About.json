@@ -1,0 +1,93 @@
+{
+  "comment": "[殿堂入り] これはラリー・ヤングが主導した新主流派的セッションだったのではと思っている。リーダーはグリーンだが音楽の実質はラリーのものに感じる。しかしグリーンもこの超武闘派２人を従えては本人もスーパー化するほかないだろう。従来のオルガンとギターによるトリオとは全く別次元の次の、現代に急に飛び越えてしまった。",
+  "date": "2026/05/14",
+  "id": "BST 84183",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "New Mainstream"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Guitar",
+        "name": "Grant Green",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Organ",
+        "name": "Larry Young",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Elvin Jones",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1964
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Talkin%27_About!"
+    }
+  ],
+  "release_year": 1965,
+  "score": 6,
+  "title": "Talkin' About",
+  "tracks": [
+    {
+      "composer": "Larry Young",
+      "disc_no": 1,
+      "length": "11:45",
+      "no": 1,
+      "title": "Talkin' About J.C."
+    },
+    {
+      "composer": [
+        "Bob Merrill",
+        "Jule Styne"
+      ],
+      "disc_no": 1,
+      "length": "7:28",
+      "no": 2,
+      "title": "People"
+    },
+    {
+      "composer": "Larry Young",
+      "disc_no": 1,
+      "length": "7:43",
+      "no": 3,
+      "title": "Luny Tune"
+    },
+    {
+      "composer": [
+        "Gene De Paul",
+        "Don Raye"
+      ],
+      "disc_no": 1,
+      "length": "7:38",
+      "no": 4,
+      "title": "You Don't Know What Love Is"
+    },
+    {
+      "composer": "Johnny Mercer",
+      "disc_no": 1,
+      "length": "6:31",
+      "no": 5,
+      "title": "I'm an Old Cowhand (From the Rio Grande)"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "comment": "ハービーのデビューアルバムは既にのちの活躍を約束させるような姿が見て取れる。美しいピアノのコンピングはやはりハービーというほかない。ハバードヤウォーレン、そしてなによりヒギンスのサポートが素晴らしいがやはり特筆すべきはデクスター・ゴードンの参加だ。ウォーターメロンマンのアトノリのリズムにヒギンズのあえて後ろに拍をずらしたドラミングにデクスターはぴったりデクスター乗りでキメてくるのは最高。ハバードはいつもの端正で上手なハバードが良い対比。",
+  "date": "2026/05/14",
+  "id": "BST 84109",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Herbie Hancock",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Freddie Hubbard",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Dexter Gordon",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Butch Warren",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Billy Higgins",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1962
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Takin%27_Off"
+    }
+  ],
+  "release_year": 1962,
+  "score": 5,
+  "title": "Takin' Off",
+  "tracks": [
+    {
+      "composer": "Herbie Hancock",
+      "disc_no": 1,
+      "length": "7:09",
+      "no": 1,
+      "title": "Watermelon Man"
+    },
+    {
+      "composer": "Herbie Hancock",
+      "disc_no": 1,
+      "length": "5:27",
+      "no": 2,
+      "title": "Three Bags Full"
+    },
+    {
+      "composer": "Herbie Hancock",
+      "disc_no": 1,
+      "length": "6:09",
+      "no": 3,
+      "title": "Empty Pockets"
+    },
+    {
+      "composer": "Herbie Hancock",
+      "disc_no": 1,
+      "length": "6:45",
+      "no": 4,
+      "title": "The Maze"
+    },
+    {
+      "composer": "Herbie Hancock",
+      "disc_no": 1,
+      "length": "6:58",
+      "no": 5,
+      "title": "Driftin'"
+    },
+    {
+      "composer": "Herbie Hancock",
+      "disc_no": 1,
+      "length": "6:25",
+      "no": 6,
+      "title": "Alone And I"
+    },
+    {
+      "composer": "Herbie Hancock",
+      "disc_no": 1,
+      "length": "6:33",
+      "no": 7,
+      "title": "Watermelon Man [alt. take]"
+    },
+    {
+      "composer": "Herbie Hancock",
+      "disc_no": 1,
+      "length": "5:31",
+      "no": 8,
+      "title": "Three Bags Full [alt. take]"
+    },
+    {
+      "composer": "Herbie Hancock",
+      "disc_no": 1,
+      "length": "6:27",
+      "no": 9,
+      "title": "Empty Pockets"
+    }
+  ]
+}

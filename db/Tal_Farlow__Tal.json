@@ -1,0 +1,124 @@
+{
+  "comment": "タルの端正なギターをドラムレスで楽しめる良作。彼のスムーズなギターはクールにもビバップのような熱くてハードな量対応ができるがこちらのクールサイドはやはり独特の魅力がある。",
+  "date": "2026/05/14",
+  "id": "MGV-8021",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Cool"
+    ]
+  },
+  "label": "Verve",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Guitar",
+        "name": "Tal Farlow",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Piano",
+        "name": "Eddie Costa",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Vinnie Burke",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1957
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/ja/release/7946036-Tal-Farlow-Tal"
+    }
+  ],
+  "release_year": 1957,
+  "score": 4,
+  "title": "Tal",
+  "tracks": [
+    {
+      "composer": [
+        "Richard Rodgers",
+        "Lorenz Hart"
+      ],
+      "disc_no": 1,
+      "length": "10:15",
+      "no": 1,
+      "title": "Isn't It Romantic"
+    },
+    {
+      "composer": [
+        "Isham Jones",
+        "Marty Symes"
+      ],
+      "disc_no": 1,
+      "length": "4:00",
+      "no": 2,
+      "title": "There Is No Greater Love"
+    },
+    {
+      "composer": "Burton Lane & Ralph Freed",
+      "disc_no": 1,
+      "length": "6:06",
+      "no": 3,
+      "title": "How About You"
+    },
+    {
+      "composer": "Cole Porter",
+      "disc_no": 1,
+      "length": "5:12",
+      "no": 4,
+      "title": "Anything Goes"
+    },
+    {
+      "composer": [
+        "Jerome Kern",
+        "Otto Harbach"
+      ],
+      "disc_no": 1,
+      "length": "5:56",
+      "no": 5,
+      "title": "Yesterdays"
+    },
+    {
+      "composer": [
+        "Don Raye",
+        "Gene DePaul"
+      ],
+      "disc_no": 1,
+      "length": "4:24",
+      "no": 6,
+      "title": "You Don't Know What Love Is"
+    },
+    {
+      "composer": "Clark Terry",
+      "disc_no": 1,
+      "length": "5:00",
+      "no": 7,
+      "title": "Chuckles"
+    },
+    {
+      "composer": [
+        "Bill Bird",
+        "Henri Wood",
+        "Teddy McRae"
+      ],
+      "disc_no": 1,
+      "length": "6:19",
+      "no": 8,
+      "title": "Broadway"
+    }
+  ]
+}
