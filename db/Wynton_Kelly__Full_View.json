@@ -1,0 +1,134 @@
+{
+  "comment": "1967年にしては珍しくなったといえるオーソドックスなピアノトリオのスタンダード集。ケリーのピアノを十分堪能できるが、やはりレッド・ガーランドやマル・ウォルドロンにも通じるのだがバドパウエルとかといったような強烈な個性でない限りスタンダード集は没個性化しやすく、このアルバムも個人的には良く出来た、しかし他の強烈な個性に埋没する手の作品。オリジナルがもっと入っていれば違っていたか。",
+  "date": "2026/05/15",
+  "id": "MSP 9004",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Milestone",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Wynton Kelly",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Double Bass",
+        "name": "Ron McClure",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Jimmy Cobb",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1966
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Full_View"
+    }
+  ],
+  "release_year": 1967,
+  "score": 3,
+  "title": "Full View",
+  "tracks": [
+    {
+      "composer": [
+        "Murray Mencher",
+        "Billy Moll"
+      ],
+      "disc_no": 1,
+      "length": "4:42",
+      "no": 1,
+      "title": "I Want a Little Girl"
+    },
+    {
+      "composer": "Rudy Stevenson",
+      "disc_no": 1,
+      "length": "4:51",
+      "no": 2,
+      "title": "I Thought"
+    },
+    {
+      "composer": [
+        "Stanley Adams",
+        "Maria Grever"
+      ],
+      "disc_no": 1,
+      "length": "4:47",
+      "no": 3,
+      "title": "What a Diff'rence a Day Made"
+    },
+    {
+      "composer": [
+        "Joseph Kosma",
+        "Johnny Mercer",
+        "Jacques Prevert"
+      ],
+      "disc_no": 1,
+      "length": "3:51",
+      "no": 4,
+      "title": "Autumn Leaves"
+    },
+    {
+      "composer": "Rudy Stevenson",
+      "disc_no": 1,
+      "length": "4:27",
+      "no": 5,
+      "title": "Don't Cha Hear Me Callin' to Ya"
+    },
+    {
+      "composer": [
+        "Burton Lane",
+        "Alan Jay Lerner"
+      ],
+      "disc_no": 1,
+      "length": "3:14",
+      "no": 6,
+      "title": "On a Clear Day (You Can See Forever)"
+    },
+    {
+      "composer": "Wynton Kelly",
+      "disc_no": 1,
+      "length": "3:02",
+      "no": 7,
+      "title": "Scuffin'"
+    },
+    {
+      "composer": [
+        "Mel Torme",
+        "Robbert Wells"
+      ],
+      "disc_no": 1,
+      "length": "4:07",
+      "no": 8,
+      "title": "Born to Be Blue"
+    },
+    {
+      "composer": [
+        "Burt Bacharach",
+        "Hal David"
+      ],
+      "disc_no": 1,
+      "length": "3:15",
+      "no": 9,
+      "title": "Walk On By"
+    }
+  ]
+}

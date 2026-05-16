@@ -1,0 +1,104 @@
+{
+  "comment": "バードの本質はチャーチにあり、というマニフェスト。全曲バードオリジナルで全くブレの無いコンセプトアルバムに仕上がった。マクリーンの起用もブルージーな色合いを足すのに一役買っている。ファンキーでソウルフル、実に素晴らしいアルバム。日本のジャズ喫茶でかつて大流行りしたというのもうなずけるジャズの根本の真髄を伝える一作。",
+  "date": "2026/05/15",
+  "id": "BST 84026",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Pocket Trumpet",
+        "name": "Donald Byrd",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Jackie McLean",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Duke Pearson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Doug Watkins",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Lex Humphries",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1959
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fuego_(Donald_Byrd_album)"
+    }
+  ],
+  "release_year": 1960,
+  "score": 5,
+  "title": "Fuego",
+  "tracks": [
+    {
+      "composer": "Donald Byrd",
+      "disc_no": 1,
+      "length": "6:38",
+      "no": 1,
+      "title": "Fuego"
+    },
+    {
+      "composer": "Donald Byrd",
+      "disc_no": 1,
+      "length": "4:05",
+      "no": 2,
+      "title": "Bup a Loup"
+    },
+    {
+      "composer": "Donald Byrd",
+      "disc_no": 1,
+      "length": "10:58",
+      "no": 3,
+      "title": "Funky Mama"
+    },
+    {
+      "composer": "Donald Byrd",
+      "disc_no": 1,
+      "length": "6:02",
+      "no": 4,
+      "title": "Low Life"
+    },
+    {
+      "composer": "Donald Byrd",
+      "disc_no": 1,
+      "length": "8:27",
+      "no": 5,
+      "title": "Lament"
+    },
+    {
+      "composer": "Donald Byrd",
+      "disc_no": 1,
+      "length": "4:46",
+      "no": 6,
+      "title": "Amen"
+    }
+  ]
+}
