@@ -1,0 +1,125 @@
+{
+  "comment": "若い才能に一曲ずつ出させて他にショーターとスタンダードを一つ、という若手プッシュモードは本当に素晴らしい。ゆえにJMが若い才能を無数に発掘し送り出していったわけがよくわかる。ブレイキーはずいぶん年だろうが若い才能に食らいついていっている。ジョニー・オニールの端正なピアノが特に気になったが他の若手もすばらしい。",
+  "date": "2026/05/16",
+  "id": "SJP 165",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Neo Hard Bop"
+    ]
+  },
+  "label": "Timeless",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [
+      {
+        "abbr": "JM",
+        "members": [
+          {
+            "instruments": "Trumpet",
+            "name": "Terrence Blanchard",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Alto Saxophone",
+            "name": "Donald Harrison",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Tenor Saxophone",
+            "name": "Bill Pierce",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Piano",
+            "name": "Johnny O'Neal",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Double Bass",
+            "name": "Charles Fambrough",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Drums",
+            "leader": true,
+            "name": "Art Blakey",
+            "tracks": "all"
+          }
+        ],
+        "name": "Art Blakey & The Jazz Messagers"
+      }
+    ],
+    "leader": [],
+    "orchestra": [],
+    "sidemen": [],
+    "soloists": []
+  },
+  "record_year": [
+    1982
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Oh-By_the_Way"
+    }
+  ],
+  "release_year": 1982,
+  "score": 4,
+  "title": "Oh-By the Way",
+  "tracks": [
+    {
+      "composer": "Terrence Blanchard",
+      "disc_no": 1,
+      "length": "6:24",
+      "no": 1,
+      "title": "Oh-By the Way"
+    },
+    {
+      "composer": "Donald Harrison",
+      "disc_no": 1,
+      "length": "5:55",
+      "no": 2,
+      "title": "Duck Soup"
+    },
+    {
+      "composer": "Johnny O'Neal",
+      "disc_no": 1,
+      "length": "4:48",
+      "no": 3,
+      "title": "Tropical Breeze"
+    },
+    {
+      "composer": "Wayne Shorter",
+      "disc_no": 1,
+      "length": "5:18",
+      "no": 4,
+      "title": "One by One"
+    },
+    {
+      "composer": "Bill Pierce",
+      "disc_no": 1,
+      "length": "7:03",
+      "no": 5,
+      "title": "Sudan Blue"
+    },
+    {
+      "composer": [
+        "Richard Rodgers",
+        "Lorenz Hart"
+      ],
+      "disc_no": 1,
+      "length": "8:09",
+      "no": 6,
+      "title": "My Funny Valentine"
+    },
+    {
+      "composer": "Charles Fambrough",
+      "disc_no": 1,
+      "length": "5:54",
+      "no": 7,
+      "title": "Alicia"
+    }
+  ]
+}
