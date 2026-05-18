@@ -1,0 +1,152 @@
+{
+  "comment": "タイトル通り昔ながらのスタンダードをメインに据えての作品で、ロリンズの男らしいブローと歌心を堪能できる。ボブ・クランショウのコンビはいつも通り最高。今回はジミー・ヒース監修のラージコンボを頭とトリに据えて、これも嬉しいサプライズ。",
+  "date": "2026/05/17",
+  "id": "MCD-9215-2",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Post Hard Bop"
+    ]
+  },
+  "label": "Milestone",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Sonny Rollins",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Flugelhorn",
+        "name": "Jon Faddis",
+        "tracks": "1 & 7"
+      },
+      {
+        "instruments": "Flugelhorn",
+        "name": "Byron Stripling",
+        "tracks": "1 & 7"
+      },
+      {
+        "instruments": "Trombone",
+        "name": "Clifton Anderson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "French Horn",
+        "name": "Alex Brofsky",
+        "tracks": "1 & 7"
+      },
+      {
+        "instruments": "Tuba",
+        "name": "Bob Stewart",
+        "tracks": "1 & 7"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Tommy Flanagan",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Electric Bass",
+        "name": "Bob Cranshaw",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Jack DeJohnette",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Arranger, Conductor",
+        "name": "Jimmy Heath",
+        "tracks": "1 & 7"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1993
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Old_Flames"
+    }
+  ],
+  "release_year": 1993,
+  "score": 5,
+  "title": "Old Frames",
+  "tracks": [
+    {
+      "composer": [
+        "Eddie DeLange",
+        "Jimmy Van Heusen"
+      ],
+      "disc_no": 1,
+      "length": "6:56",
+      "no": 1,
+      "title": "Darn That Dream"
+    },
+    {
+      "composer": [
+        "Lorenz Hart",
+        "Richard Rodgers"
+      ],
+      "disc_no": 1,
+      "length": "8:09",
+      "no": 2,
+      "title": "Where or When"
+    },
+    {
+      "composer": [
+        "Same Coslow",
+        "Arthur Johnston"
+      ],
+      "disc_no": 1,
+      "length": "7:15",
+      "no": 3,
+      "title": "My Old Flame"
+    },
+    {
+      "composer": "Sonny Rollins",
+      "disc_no": 1,
+      "length": "6:58",
+      "no": 4,
+      "title": "Times Slimes"
+    },
+    {
+      "composer": [
+        "Howard Dietz",
+        "Arthur Schwartz"
+      ],
+      "disc_no": 1,
+      "length": "9:41",
+      "no": 5,
+      "title": "I See Your Face Befor Me"
+    },
+    {
+      "composer": "Franz Lehar",
+      "disc_no": 1,
+      "length": "9:48",
+      "no": 6,
+      "title": "Delia"
+    },
+    {
+      "composer": [
+        "Duke Ellington",
+        "Irving Gordon",
+        "Irving Mills"
+      ],
+      "disc_no": 1,
+      "length": "7:18",
+      "no": 7,
+      "title": "Prelude to a Kiss"
+    }
+  ]
+}

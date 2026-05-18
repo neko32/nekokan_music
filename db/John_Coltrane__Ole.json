@@ -1,0 +1,100 @@
+{
+  "comment": "スパニッシュテイストで長尺のOleがやはり目玉となるこのアルバムは前作Africa/Brass路線を引き継いで従来のコルトレーンカルテットを大幅に拡大。今度の目玉はやはりドルフィー、そしてツインベースによる奔放なベースラインだろう。ハイノートが特徴的で自由奔放なベースワークは曲を非常に複雑なものにしてそれもまた魅力。アンドリュー・ヒルのスモークスタックと並び自由なダブルベースの試みとして興味深い作品。",
+  "date": "2026/05/17",
+  "id": "SD 1373",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Mode"
+    ]
+  },
+  "label": "Atlantic",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone, Soprano Saxophone",
+        "name": "John Coltrane",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Freddie Hubbard",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Flute, Alto Saxophone",
+        "name": "Eric Dolphy (appeared as George Lane)",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "McCoy Tyner",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Reggie Workman",
+        "tracks": "1-3"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Art Davis",
+        "tracks": "1,2 & 4"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Elvin Jones",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1961
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ol%C3%A9_Coltrane"
+    }
+  ],
+  "release_year": 1961,
+  "score": 5,
+  "title": "Ole",
+  "tracks": [
+    {
+      "composer": "John Coltrane",
+      "disc_no": 1,
+      "length": "18:17",
+      "no": 1,
+      "title": "Ole"
+    },
+    {
+      "composer": "John Coltrane",
+      "disc_no": 1,
+      "length": "10:53",
+      "no": 2,
+      "title": "Dahomey Dance"
+    },
+    {
+      "composer": "McCoy Tyner",
+      "disc_no": 1,
+      "length": "7:40",
+      "no": 3,
+      "title": "Aisha"
+    },
+    {
+      "composer": "Billy Frazier",
+      "disc_no": 1,
+      "length": "8:54",
+      "no": 4,
+      "title": "To Her Ladyship"
+    }
+  ]
+}
