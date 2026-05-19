@@ -1,0 +1,90 @@
+{
+  "comment": "[殿堂入り] マクリーンの若い感性とバチバチのぶつかり合いだが、ここで注目したいのがグレシャン・モンカー３世とボビー・ハッチャーソンである。ピアノの代わりにハッチャーソンのビブラフォンを入れるのは最高に良い効果をもたらしている。静謐でスペーシャス、なにより新主流派のフレッシュで新進気鋭の空気が満ちた。グレシャン・モンカー３世のショーターにも通じるダークで怪しい秘術的志向もこのアルバムの特徴を際立たせている。",
+  "date": "2026/05/18",
+  "id": "BST 84165",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "New Mainstream"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Jackie McLean",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trombone",
+        "name": "Grachan Moncur III",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Vibraphone",
+        "name": "Bobby Hutcherson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Larry Ridley",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Roy Haynes",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1963
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Destination..._Out!"
+    }
+  ],
+  "release_year": 1964,
+  "score": 6,
+  "title": "Destination... Out!",
+  "tracks": [
+    {
+      "composer": "Grachan Moncur III",
+      "disc_no": 1,
+      "length": "8:25",
+      "no": 1,
+      "title": "Love and Hate"
+    },
+    {
+      "composer": "Grachan Moncur III",
+      "disc_no": 1,
+      "length": "9:02",
+      "no": 2,
+      "title": "Esoteric"
+    },
+    {
+      "composer": "Jackie McLean",
+      "disc_no": 1,
+      "length": "10:23",
+      "no": 3,
+      "title": "Kahlil the Prophet"
+    },
+    {
+      "composer": "Grachan Moncur III",
+      "disc_no": 1,
+      "length": "7:07",
+      "no": 4,
+      "title": "Riff Raff"
+    }
+  ]
+}

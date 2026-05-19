@@ -1,0 +1,155 @@
+{
+  "comment": "ハロルド・ローマの歌曲集を４人のトロンボーンバンダを伴ったラージコンボで演奏、リズム隊もにぎやかで楽しい作品。深さとは縁遠いもののさっくり楽しく聞き流すにはちょうどよい。どの曲も大変短尺なので各人の個性も取りにくいが例えばFair Warningとかウェストンらしい大胆でアフロなリズムとメロディはちゃんと楽しめる。",
+  "date": "2026/05/18",
+  "id": "UAL 4045",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop",
+      "Bigband"
+    ]
+  },
+  "label": "United Artists",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Randy Weston",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trombone",
+        "name": "Slide Hampton",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Trombone",
+        "name": "Bennie Green",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Trombone",
+        "name": "Melba Liston",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Trombone",
+        "name": "Frank Rehak",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Peck Morrison",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Elvin Jones",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Percussion",
+        "name": "Willie Rodriguez",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1959
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Destry_Rides_Again_(Randy_Weston_album)"
+    }
+  ],
+  "release_year": 1959,
+  "score": 4,
+  "title": "Destry Rides Again",
+  "tracks": [
+    {
+      "composer": "Harold Rome",
+      "disc_no": 1,
+      "length": "1:53",
+      "no": 1,
+      "title": "We're Ladies"
+    },
+    {
+      "composer": "Harold Rome",
+      "disc_no": 1,
+      "length": "2:29",
+      "no": 2,
+      "title": "I Know Your Kind"
+    },
+    {
+      "composer": "Harold Rome",
+      "disc_no": 1,
+      "length": "2:29",
+      "no": 3,
+      "title": "Rose Lovejoy of Paradise Alley"
+    },
+    {
+      "composer": "Harold Rome",
+      "disc_no": 1,
+      "length": "3:04",
+      "no": 4,
+      "title": "Anyone Would Love You"
+    },
+    {
+      "composer": "Harold Rome",
+      "disc_no": 1,
+      "length": "2:15",
+      "no": 5,
+      "title": "Once Knew a Fella"
+    },
+    {
+      "composer": "Harold Rome",
+      "disc_no": 1,
+      "length": "2:13",
+      "no": 6,
+      "title": "Every Once in a While"
+    },
+    {
+      "composer": "Harold Rome",
+      "disc_no": 1,
+      "length": "2:50",
+      "no": 7,
+      "title": "Fair Warning"
+    },
+    {
+      "composer": "Harold Rome",
+      "disc_no": 1,
+      "length": "1:46",
+      "no": 8,
+      "title": "Are You Ready Gyp Watson?"
+    },
+    {
+      "composer": "Harold Rome",
+      "disc_no": 1,
+      "length": "2:08",
+      "no": 9,
+      "title": "That Ring on the Finger"
+    },
+    {
+      "composer": "Harold Rome",
+      "disc_no": 1,
+      "length": "2:39",
+      "no": 10,
+      "title": "Once Knew a Fella (Reprise)"
+    },
+    {
+      "composer": "Harold Rome",
+      "disc_no": 1,
+      "length": "2:50",
+      "no": 11,
+      "title": "I Say Hello"
+    }
+  ]
+}

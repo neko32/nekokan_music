@@ -1,0 +1,108 @@
+{
+  "comment": "デトロイト出身のミュージシャンに囲まれてリラックスのサド・ジョン。サド・ジョーンズのトランペットは独特の抒情性があって聞き疲れしない。ミュートしてないのにミュートっぽい音が特徴的。ケニー・バレルの参加もうれしいが何よりとトミー・フラナガンがピッタリで、嬉しいビッグネームがオスカー・ペティフォード。",
+  "date": "2026/05/18",
+  "id": "BLP 1513",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Trumpet",
+        "name": "Thad Jones",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Billy Mitchell",
+        "tracks": "all except 3"
+      },
+      {
+        "instruments": "Guitar",
+        "name": "Kenny Burrell",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Tommy Flanagan",
+        "tracks": "all except 3"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Oscar Pettiford",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Shadow Wilson",
+        "tracks": "all except 3"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1956
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Detroit%E2%80%93New_York_Junction"
+    }
+  ],
+  "release_year": 1956,
+  "score": 1,
+  "title": "Detroit - New York Junction",
+  "tracks": [
+    {
+      "composer": [
+        "Lorenz Hart",
+        "Richard Rodgers"
+      ],
+      "disc_no": 1,
+      "length": "6:48",
+      "no": 1,
+      "title": "Blue Room"
+    },
+    {
+      "composer": "Thad Jones",
+      "disc_no": 1,
+      "length": "5:32",
+      "no": 2,
+      "title": "Tariff"
+    },
+    {
+      "composer": [
+        "Lorenz Hart",
+        "Richard Rodgers"
+      ],
+      "disc_no": 1,
+      "length": "2:52",
+      "no": 3,
+      "title": "Little Girl Blue"
+    },
+    {
+      "composer": "Thad Jones",
+      "disc_no": 1,
+      "length": "10:32",
+      "no": 4,
+      "title": "Scratch"
+    },
+    {
+      "composer": "Thad Jones",
+      "disc_no": 1,
+      "length": "8:46",
+      "no": 5,
+      "title": "Zec"
+    }
+  ]
+}

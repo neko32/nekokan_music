@@ -1,0 +1,113 @@
+{
+  "comment": "デックスのいろんな側面をしっかりとらえている一枚で、冒頭曲でブルージーでソウルフルな感じかと思いきや次のModal Moodsでモダンなモードでがっつりドリューやフィリージョーとバトル。お得意のバラードもしっかり入っているし、デックスのワンホーン幕の内弁当的アルバム。",
+  "date": "2026/05/18",
+  "id": "BST 84083",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Dexter Gordon",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Piano",
+        "name": "Kenny Drew",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Paul Chambers",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Philly Joe Jones",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1961
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dexter_Calling..."
+    }
+  ],
+  "release_year": 1962,
+  "score": 5,
+  "title": "Dexter Calling...",
+  "tracks": [
+    {
+      "composer": "Dexter Gordon",
+      "disc_no": 1,
+      "length": "7:45",
+      "no": 1,
+      "title": "Soul Sister"
+    },
+    {
+      "composer": "Kenny Drew",
+      "disc_no": 1,
+      "length": "5:23",
+      "no": 2,
+      "title": "Modal Mood"
+    },
+    {
+      "composer": "Dexter Gordon",
+      "disc_no": 1,
+      "length": "5:20",
+      "no": 3,
+      "title": "I Want More"
+    },
+    {
+      "composer": "Edward Redding",
+      "disc_no": 1,
+      "length": "6:53",
+      "no": 4,
+      "title": "The End of a Love Affair"
+    },
+    {
+      "composer": "Kenny Drew",
+      "disc_no": 1,
+      "length": "4:54",
+      "no": 5,
+      "title": "Clear the Dex"
+    },
+    {
+      "composer": "Dexter Gordon",
+      "disc_no": 1,
+      "length": "4:16",
+      "no": 6,
+      "title": "Ernie's Tune"
+    },
+    {
+      "composer": "Charlie Chaplin",
+      "disc_no": 1,
+      "length": "3:23",
+      "no": 7,
+      "title": "Smile"
+    },
+    {
+      "composer": "Dexter Gordon",
+      "disc_no": 1,
+      "length": "5:15",
+      "no": 8,
+      "title": "Landslide"
+    }
+  ]
+}

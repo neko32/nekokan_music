@@ -1,0 +1,105 @@
+{
+  "comment": "珍しいエレクトリックバンドのライブが発掘されて、中身も期待を裏切らない素晴らしい録音。この手のライブ音源発掘者は特に海外の場合演奏が素晴らしくても録音がひどくてしょうもない、ということも多いがこれは録音の質も良し。スコットヘンダーソンがすぐ脱退してしまったというからこの演奏は貴重なドキュメンタリでもあるわけだ。特にGot a Matchは必聴！クラシック調から始まりド迫力なシリアスジャズが展開され、完全にノックアウト。",
+  "date": "2026/05/18",
+  "id": "HHCD3225",
+  "janre": {
+    "main": "Fusion",
+    "sub": [
+      "Fusion"
+    ]
+  },
+  "label": "HI HAT",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [
+      {
+        "abbr": "CCEB",
+        "members": [
+          {
+            "instruments": "Electric Guitar",
+            "name": "Scott Henderson",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Keyboards",
+            "leader": true,
+            "name": "Chick Corea",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Electric Bass",
+            "name": "John Patitucci",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Drums",
+            "name": "Dave Weckl",
+            "tracks": "all"
+          }
+        ],
+        "name": "Chick Corea Elektric Band"
+      }
+    ],
+    "leader": [],
+    "orchestra": [],
+    "sidemen": [],
+    "soloists": []
+  },
+  "record_year": [
+    1986
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/ja/release/28121290-Chick-Corea-Elektric-Band-Bern-Jazz-Festival-1986"
+    }
+  ],
+  "release_year": 2023,
+  "score": 5,
+  "title": "Bern Jazz Festival 1986",
+  "tracks": [
+    {
+      "composer": "Chick Corea",
+      "disc_no": 1,
+      "length": "10:24",
+      "no": 1,
+      "title": "King Cockroach"
+    },
+    {
+      "composer": "Chick Corea",
+      "disc_no": 1,
+      "length": "9:43",
+      "no": 2,
+      "title": "India Town"
+    },
+    {
+      "composer": "Chick Corea",
+      "disc_no": 1,
+      "length": "16:24",
+      "no": 3,
+      "title": "Got a Match?"
+    },
+    {
+      "composer": "Chick Corea",
+      "disc_no": 1,
+      "length": "12:03",
+      "no": 4,
+      "title": "Silver Temple"
+    },
+    {
+      "composer": "Chick Corea",
+      "disc_no": 1,
+      "length": "13:06",
+      "no": 5,
+      "title": "Yes My Dear"
+    },
+    {
+      "composer": "Chick Corea",
+      "disc_no": 1,
+      "length": "14:05",
+      "no": 6,
+      "title": "No Zone"
+    }
+  ]
+}

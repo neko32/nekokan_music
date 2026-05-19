@@ -1,0 +1,96 @@
+{
+  "comment": "レイ・ブライアントのピアノ、ジョージ・モローのベースとマックスローチのドラムでのシンプルなワンホーンカルテット。ロリンズとローチの相性の良さが大変良く伝わってくるアルバム。ロリンズの快活で力強いブローはローチのメロディアスなドラムがよく合う。冒頭曲のローチのブライアントとローチのデュオソロはすごい！",
+  "date": "2026/05/18",
+  "id": "LP 7020",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Prestige",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Sonny Rollins",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Piano",
+        "name": "Ray Bryant",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "George Morrow",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Max Roach",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1955
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Work_Time"
+    }
+  ],
+  "release_year": 1956,
+  "score": 4,
+  "title": "Work Time",
+  "tracks": [
+    {
+      "composer": "Irving Berlin",
+      "disc_no": 1,
+      "length": "6:20",
+      "no": 1,
+      "title": "There's No Business Like Show Business"
+    },
+    {
+      "composer": "Sonny Rollins",
+      "disc_no": 1,
+      "length": "5:00",
+      "no": 2,
+      "title": "Paradox"
+    },
+    {
+      "composer": "Billy Strayhorn",
+      "disc_no": 1,
+      "length": "6:00",
+      "no": 3,
+      "title": "Raincheck"
+    },
+    {
+      "composer": [
+        "Stanley Adams",
+        "Abel Baer",
+        "Geroge W. Meyer"
+      ],
+      "disc_no": 1,
+      "length": "9:32",
+      "no": 4,
+      "title": "There Are Such Things"
+    },
+    {
+      "composer": "Cole Porter",
+      "disc_no": 1,
+      "length": "6:06",
+      "no": 5,
+      "title": "It's All Right with Me"
+    }
+  ]
+}
