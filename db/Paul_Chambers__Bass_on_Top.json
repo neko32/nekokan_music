@@ -1,0 +1,106 @@
+{
+  "comment": "[殿堂入り] ジャズベースの聖典。アルコでこんなにベースで歌ってソロを取って聴かせられる人はほかにいない、断言できる。サポートメンバーもいずれも繊細な演奏に対応できる名手たちをそろえている。バレルとジョーンズ、テイラーの抑制した静かな、しかし熱い演奏は実に心に染み入るものがある。",
+  "date": "2026/05/19",
+  "id": "BLP 1569",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Double Bass",
+        "name": "Paul Chambers",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Guitar",
+        "name": "Kenny Burrell",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Hank Jones",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Art Taylor",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1957
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bass_on_Top"
+    }
+  ],
+  "release_year": 1957,
+  "score": 6,
+  "title": "Bass on Top",
+  "tracks": [
+    {
+      "composer": [
+        "Otto Harbach",
+        "Jerome Kern"
+      ],
+      "disc_no": 1,
+      "length": "5:53",
+      "no": 1,
+      "title": "Yesterdays"
+    },
+    {
+      "composer": "Cole Porter",
+      "disc_no": 1,
+      "length": "7:16",
+      "no": 2,
+      "title": "You'd Be So Nice to Come Home To"
+    },
+    {
+      "composer": "Charlie Parker",
+      "disc_no": 1,
+      "length": "6:18",
+      "no": 3,
+      "title": "Chasin' the Bird"
+    },
+    {
+      "composer": "Traditional",
+      "disc_no": 1,
+      "length": "6:44",
+      "no": 4,
+      "title": "Dear Old Stockholm"
+    },
+    {
+      "composer": "Miles Davis",
+      "disc_no": 1,
+      "length": "6:15",
+      "no": 5,
+      "title": "The Theme"
+    },
+    {
+      "composer": [
+        "Doc Daugherty",
+        "Ellis Reynolds",
+        "Al Neiburg"
+      ],
+      "disc_no": 1,
+      "length": "4:13",
+      "no": 6,
+      "title": "Confessin'"
+    }
+  ]
+}
