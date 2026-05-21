@@ -1,0 +1,116 @@
+{
+  "comment": "デューク・ピアソンは優れた作曲家でアレンジャーでソロイストでバックリズム隊だという多面性を最良の形でとらえた一枚。大変魅力的なオリジナル曲を最高のサイドメンで飾る、BN後期の良心。ピアソンはだんだんブラジル・ボッサのほうに傾いていくがこのアルバムはまだそっちに染まらず、純ジャズを楽しむのにはちょうど良い。",
+  "date": "2026/05/20",
+  "id": "BST 84252",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Post Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Duke Pearson",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Freddie Hubbard",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Alto Saxophone, Flute",
+        "name": "James Spaulding",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Joe Henderson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Ron Carter",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Mickey Roker",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1966
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sweet_Honey_Bee"
+    }
+  ],
+  "release_year": 1967,
+  "score": 5,
+  "title": "Sweet Honey Bee",
+  "tracks": [
+    {
+      "composer": "Duke Pearson",
+      "disc_no": 1,
+      "length": "5:00",
+      "no": 1,
+      "title": "Sweet Honey Bee"
+    },
+    {
+      "composer": "Duke Pearson",
+      "disc_no": 1,
+      "length": "5:43",
+      "no": 2,
+      "title": "Sudel"
+    },
+    {
+      "composer": "Duke Pearson",
+      "disc_no": 1,
+      "length": "4:45",
+      "no": 3,
+      "title": "After the Rain"
+    },
+    {
+      "composer": "Duke Pearson",
+      "disc_no": 1,
+      "length": "6:01",
+      "no": 4,
+      "title": "Gaslight"
+    },
+    {
+      "composer": "Duke Pearson",
+      "disc_no": 1,
+      "length": "5:58",
+      "no": 5,
+      "title": "Big Bertha"
+    },
+    {
+      "composer": "Duke Pearson",
+      "disc_no": 1,
+      "length": "6:00",
+      "no": 6,
+      "title": "Empathy"
+    },
+    {
+      "composer": "Duke Pearson",
+      "disc_no": 1,
+      "length": "6:01",
+      "no": 7,
+      "title": "Ready Rudy?"
+    }
+  ]
+}

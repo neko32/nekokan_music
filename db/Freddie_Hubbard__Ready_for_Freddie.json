@@ -1,0 +1,119 @@
+{
+  "comment": "ハバード渾身の作品はバーナード・マッキニーとウェイン・ショーターとの３管フロント。ショーターの起用は大正解、マッキニーも独特の風情を作品に加えた。JCリズム隊とのコラボも素晴らしい。そして何より名曲揃い、とりわけ超名曲Crisisが初披露。",
+  "date": "2026/05/20",
+  "id": "BST 84085",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Mode"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Trumpet",
+        "name": "Freddie Hubbard",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Euphonium",
+        "name": "Bernerd McKinney",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Wayne Shorter",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "McCoy Tyner",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Art Davis",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Elvin Jones",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1961
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ready_for_Freddie"
+    }
+  ],
+  "release_year": 1962,
+  "score": 5,
+  "title": "Ready for Freddie",
+  "tracks": [
+    {
+      "composer": "Freddie Hubbard",
+      "disc_no": 1,
+      "length": "6:41",
+      "no": 1,
+      "title": "Arietis"
+    },
+    {
+      "composer": [
+        "Jack Elliott",
+        "Victor Young"
+      ],
+      "disc_no": 1,
+      "length": "6:35",
+      "no": 2,
+      "title": "Weaver of Dreams"
+    },
+    {
+      "composer": "Wayne Shorter",
+      "disc_no": 1,
+      "length": "6:38",
+      "no": 3,
+      "title": "Marie Antoinette"
+    },
+    {
+      "composer": "Freddie Hubbard",
+      "disc_no": 1,
+      "length": "10:15",
+      "no": 4,
+      "title": "Birdlike"
+    },
+    {
+      "composer": "Freddie Hubbard",
+      "disc_no": 1,
+      "length": "11:33",
+      "no": 5,
+      "title": "Crisis"
+    },
+    {
+      "composer": "Freddie Hubbard",
+      "disc_no": 1,
+      "length": "5:51",
+      "no": 6,
+      "title": "Arietis [alt.take]"
+    },
+    {
+      "composer": "Wayne Shorter",
+      "disc_no": 1,
+      "length": "6:15",
+      "no": 7,
+      "title": "Marie Antoinette [alt.take]"
+    }
+  ]
+}

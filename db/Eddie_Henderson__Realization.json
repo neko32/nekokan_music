@@ -1,0 +1,111 @@
+{
+  "comment": "ハービーのセクステットからスラスト時代を思わせるハードで、ひしゃげてダークな音楽世界が、ハービーの代理といわんばかりに繰り広げられる。ハービーがのちにファンク・ディスコ・ポップ路線に傾いていく一方ガンコなエディ・ヘンダーソンはこの時代の路線、つまりムワンディシ・バンドの遺産を守り続ける。Sextantあたりの音楽が好きなら最高。特にこのアルバム、ビリー・ハートとレニー・ホワイトのツインドラムという夢のコラボでもある。",
+  "date": "2026/05/20",
+  "id": "CP 0118",
+  "janre": {
+    "main": "Fusion",
+    "sub": [
+      "Straight Ahead",
+      "Fusion"
+    ]
+  },
+  "label": "Capricorn",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Trumpet, Flugelhorn, Cornet",
+        "name": "Eddie Henderson",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Bass Clarinet, Alto Flute, Tenor Saxophone",
+        "name": "Bennie Maupin",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Electric Piano",
+        "name": "Herbie Hancock",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Synthesizer, Organ",
+        "name": "Patrick Gleeson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Electric Bass, Double Bass",
+        "name": "Buster Williams",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums, Percussion",
+        "name": "Billy Hart",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Lenny White",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1973
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Realization_(Eddie_Henderson_album)"
+    }
+  ],
+  "release_year": 1973,
+  "score": 5,
+  "title": "Realization",
+  "tracks": [
+    {
+      "composer": "Eddie Henderson",
+      "disc_no": 1,
+      "length": "11:12",
+      "no": 1,
+      "title": "Scorpio-Libra"
+    },
+    {
+      "composer": "Eddie Henderson",
+      "disc_no": 1,
+      "length": "8:40",
+      "no": 2,
+      "title": "Mars in Libra"
+    },
+    {
+      "composer": "Bennie Maupin",
+      "disc_no": 1,
+      "length": "8:50",
+      "no": 3,
+      "title": "Anua"
+    },
+    {
+      "composer": "Eddie Henderson",
+      "disc_no": 1,
+      "length": "2:38",
+      "no": 4,
+      "title": "Spiritual Awakening"
+    },
+    {
+      "composer": [
+        "Herbie Hancock",
+        "Eddie Henderson"
+      ],
+      "disc_no": 1,
+      "length": "8:00",
+      "no": 5,
+      "title": "Revelation Realization"
+    }
+  ]
+}
