@@ -1,0 +1,109 @@
+{
+  "comment": "ステディでクールなブルーベックカルテットのライブ録音。クールはクールでも熱く演奏するポール・デスモンドが尊い。\nThe Way You Look Tonightのブルーベックのソロの構成力とクラシック由来の超変拍子の嵐！ジャケットの写真はオバーリンカレッジの有名な講堂だろうか。",
+  "date": "2026/05/21",
+  "id": "F 3245",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Cool"
+    ]
+  },
+  "label": "Fantasy",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Dave Brubeck",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Paul Desmond",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Ron Crotty",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Lloyd Davis",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1953
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jazz_at_Oberlin"
+    }
+  ],
+  "release_year": 1953,
+  "score": 4,
+  "title": "Jazz at Oberlin",
+  "tracks": [
+    {
+      "composer": [
+        "Holt Marvell",
+        "Jack Strachey",
+        "Harry Link"
+      ],
+      "disc_no": 1,
+      "length": "6:25",
+      "no": 1,
+      "title": "These Foolish Things (Remind Me of You)"
+    },
+    {
+      "composer": [
+        "Juan Tizol",
+        "Hans Lengsfelder",
+        "Ervin Drake"
+      ],
+      "disc_no": 1,
+      "length": "8:03",
+      "no": 2,
+      "title": "Perdido"
+    },
+    {
+      "composer": [
+        "Hoagy Carmichael",
+        "Mitchell Parish"
+      ],
+      "disc_no": 1,
+      "length": "6:32",
+      "no": 3,
+      "title": "Stardust"
+    },
+    {
+      "composer": [
+        "Jerome Kern",
+        "Dorothy Fields"
+      ],
+      "disc_no": 1,
+      "length": "7:43",
+      "no": 4,
+      "title": "The Way You Look Tonight"
+    },
+    {
+      "composer": [
+        "Nancy Hamilton",
+        "Morgan Lewis"
+      ],
+      "disc_no": 1,
+      "length": "9:04",
+      "no": 5,
+      "title": "How High the Moon"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "comment": "マクリーンがPalたちと上質なハードパップを繰り広げるグレートな作品。特に注目がジャケットに書いている通りビル・ハードマンのフィーチャリングである。マクリーンとハードマンはJMでの同僚でもありまさにPal, 息もぴったり。リズム隊の上質もあってプレスティッジながら上質な作品の仕上がり。",
+  "date": "2026/05/21",
+  "id": "PRLP 7068",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Prestige",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Jackie McLean",
+        "tracks": "all except 6"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Bill Hardman",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Mal Waldron",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Paul Chambers",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Philly Joe Jones",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1956
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jackie%27s_Pal"
+    }
+  ],
+  "release_year": 1957,
+  "score": 4,
+  "title": "Jackie's Pal",
+  "tracks": [
+    {
+      "composer": "Jackie McLean",
+      "disc_no": 1,
+      "length": "6:06",
+      "no": 1,
+      "title": "Sweet Doll"
+    },
+    {
+      "composer": "Bill Hardman",
+      "disc_no": 1,
+      "length": "6:39",
+      "no": 2,
+      "title": "Just for Marty"
+    },
+    {
+      "composer": "Mal Waldron",
+      "disc_no": 1,
+      "length": "7:06",
+      "no": 3,
+      "title": "Dee's Dilemma"
+    },
+    {
+      "composer": "Bill Hardman",
+      "disc_no": 1,
+      "length": "8:03",
+      "no": 4,
+      "title": "Sublues"
+    },
+    {
+      "composer": "Charlie Parker",
+      "disc_no": 1,
+      "length": "8:12",
+      "no": 5,
+      "title": "Steeplechase"
+    },
+    {
+      "composer": [
+        "Johnny Burke",
+        "Jimmy Van Heusen"
+      ],
+      "disc_no": 1,
+      "length": "6:03",
+      "no": 6,
+      "title": "It Could Happen to You"
+    }
+  ]
+}

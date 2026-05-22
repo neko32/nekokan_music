@@ -1,0 +1,104 @@
+{
+  "comment": "ザ・BNハードバップ。もう言葉はいらない。アートファーマーをフロントのパートナーに迎え他はオリジナルJMのメンツで大変貴重な録音と言える。シルヴァーとブレイキーが喧嘩別れしても子供(モブレー)のために親は集まるというのに似たほほえましさを覚える。しかし全曲モブレーオリジナル、どれも実にBNハードパップの香りを醸し出している。",
+  "date": "2026/05/21",
+  "id": "BST 1550",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Hank Mobley",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Art Farmer",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Horace Silver",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Doug Watkins",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Art Blakey",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1957
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hank_Mobley_Quintet"
+    }
+  ],
+  "release_year": 1957,
+  "score": 5,
+  "title": "Hank Mobley Quintet",
+  "tracks": [
+    {
+      "composer": "Hank Mobley",
+      "disc_no": 1,
+      "length": "6:50",
+      "no": 1,
+      "title": "Funk in Deep Freeze"
+    },
+    {
+      "composer": "Hank Mobley",
+      "disc_no": 1,
+      "length": "7:42",
+      "no": 2,
+      "title": "Wham and They're Off"
+    },
+    {
+      "composer": "Hank Mobley",
+      "disc_no": 1,
+      "length": "6:39",
+      "no": 3,
+      "title": "Fin de l'a ffaire"
+    },
+    {
+      "composer": "Hank Mobley",
+      "disc_no": 1,
+      "length": "6:43",
+      "no": 4,
+      "title": "Startin' from Scratch"
+    },
+    {
+      "composer": "Hank Mobley",
+      "disc_no": 1,
+      "length": "7:18",
+      "no": 5,
+      "title": "Stella-Wise"
+    },
+    {
+      "composer": "Hank Mobley",
+      "disc_no": 1,
+      "length": "7:33",
+      "no": 6,
+      "title": "Base on Balls"
+    }
+  ]
+}
