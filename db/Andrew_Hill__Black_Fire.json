@@ -1,0 +1,107 @@
+{
+  "comment": "[殿堂入り] もうなんていっていいのかわからないくらい好き。大好き。ヒルのなんとも言えない王道とアヴァンギャルドの両極を一瞬で行ったり来たりするような万華鏡のような音楽。ジョーヘンのバーサタイルでヒルのこのスタイルにがっちり合わせているこの天才ぶり。リチャード・デイヴィスのパワフルで上下移動が激しいスタイルも合っている。そして何よりロイ・ヘインズ。スナップクラップル通り八面六臂の大活躍。特にSubterfugeは彼の為にある曲。",
+  "date": "2026/05/22",
+  "id": "BST 84151",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Avrant-Garde",
+      "Mode"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Andrew Hill",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Joe Henderson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Richard Davis",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Roy Haynes",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1963
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Black_Fire_(album)"
+    }
+  ],
+  "release_year": 1964,
+  "score": 6,
+  "title": "Black Fire",
+  "tracks": [
+    {
+      "composer": "Andrew Hill",
+      "disc_no": 1,
+      "length": "5:24",
+      "no": 1,
+      "title": "Pumpkin"
+    },
+    {
+      "composer": "Andrew Hill",
+      "disc_no": 1,
+      "length": "8:04",
+      "no": 2,
+      "title": "Subterfuge"
+    },
+    {
+      "composer": "Andrew Hill",
+      "disc_no": 1,
+      "length": "6:56",
+      "no": 3,
+      "title": "Black Fire"
+    },
+    {
+      "composer": "Andrew Hill",
+      "disc_no": 1,
+      "length": "5:42",
+      "no": 4,
+      "title": "Cantarnos"
+    },
+    {
+      "composer": "Andrew Hill",
+      "disc_no": 1,
+      "length": "5:51",
+      "no": 5,
+      "title": "Tired Trade"
+    },
+    {
+      "composer": "Andrew Hill",
+      "disc_no": 1,
+      "length": "2:58",
+      "no": 6,
+      "title": "McNeil Island"
+    },
+    {
+      "composer": "Andrew Hill",
+      "disc_no": 1,
+      "length": "5:48",
+      "no": 7,
+      "title": "Land of Nod"
+    }
+  ]
+}
