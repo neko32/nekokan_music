@@ -1,0 +1,107 @@
+{
+  "comment": "[殿堂入り] 前作Black Fireから今度はリチャード・デイヴィスとエディ・カーンの２ベースによる変則トリオ。緊張感が半端ない。ヒルの創造性と変態的リズムと進行はダブルのベースとヘインズのクリスプなドラムで呪術的なまでの複雑性を帯びる。",
+  "date": "2026/05/23",
+  "id": "BST 84160",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Avrant-Garde",
+      "Post Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Andrew Hill",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Double Bass",
+        "name": "Richard Davis",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Eddie Khan",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Roy Haynes",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1963
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Smoke_Stack_(album)"
+    }
+  ],
+  "release_year": 1966,
+  "score": 6,
+  "title": "Smoke Stack",
+  "tracks": [
+    {
+      "composer": "Andrew Hill",
+      "disc_no": 1,
+      "length": "5:00",
+      "no": 1,
+      "title": "Smoke Stack"
+    },
+    {
+      "composer": "Andrew Hill",
+      "disc_no": 1,
+      "length": "5:07",
+      "no": 2,
+      "title": "The Day After"
+    },
+    {
+      "composer": "Andrew Hill",
+      "disc_no": 1,
+      "length": "5:46",
+      "no": 3,
+      "title": "Wailing Wall"
+    },
+    {
+      "composer": "Andrew Hill",
+      "disc_no": 1,
+      "length": "4:29",
+      "no": 4,
+      "title": "Ode to Von"
+    },
+    {
+      "composer": "Andrew Hill",
+      "disc_no": 1,
+      "length": "6:24",
+      "no": 5,
+      "title": "Not So"
+    },
+    {
+      "composer": "Andrew Hill",
+      "disc_no": 1,
+      "length": "5:48",
+      "no": 6,
+      "title": "Verne"
+    },
+    {
+      "composer": "Andrew Hill",
+      "disc_no": 1,
+      "length": "7:06",
+      "no": 7,
+      "title": "30 Pier Avenue"
+    }
+  ]
+}

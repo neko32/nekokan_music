@@ -1,0 +1,103 @@
+{
+  "comment": "ルイ・スミスはとても優れたプレイヤーだけでなく作曲・アレンジにも才があったのがわかる。Smithville, Wetuといったオリジナル曲のバックの吹奏など、一味違うスパイスがある。ポール・チェンバースのベースワークやソロが大変すばらしい。チャーリー・ラウズの参加もGOOD\n",
+  "date": "2026/05/23",
+  "id": "BLP 1594",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Trumpet",
+        "name": "Louis Smith",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Charlie Rouse",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Sonny Clark",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Paul Chambers",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Art Taylor",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1958
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Smithville_%28album%29"
+    }
+  ],
+  "release_year": 1958,
+  "score": 4,
+  "title": "Smithville",
+  "tracks": [
+    {
+      "composer": "Louis Smith",
+      "disc_no": 1,
+      "length": "11:04",
+      "no": 1,
+      "title": "Smithville"
+    },
+    {
+      "composer": "Louis Smith",
+      "disc_no": 1,
+      "length": "9:00",
+      "no": 2,
+      "title": "Wetu"
+    },
+    {
+      "composer": [
+        "George Gershwin",
+        "Ira Gershwin"
+      ],
+      "disc_no": 1,
+      "length": "7:06",
+      "no": 3,
+      "title": "Embraceable You"
+    },
+    {
+      "composer": [
+        "Harry Warren",
+        "Mack Gordon"
+      ],
+      "disc_no": 1,
+      "length": "5:33",
+      "no": 4,
+      "title": "There Will Never Be Another You"
+    },
+    {
+      "composer": "Louis Smith",
+      "disc_no": 1,
+      "length": "6:26",
+      "no": 5,
+      "title": "Later"
+    }
+  ]
+}

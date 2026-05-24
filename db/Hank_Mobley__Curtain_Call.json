@@ -1,0 +1,110 @@
+{
+  "comment": "これは隠された夢のセッション - ソニー・クラーク、ケニー・ドーハム、アーサーテイラーそしてモブレー。BNでは珍しいジミー・ロウザー。忘れたころに出現した典型的BNハードパップの王道アルバムは実に嬉しい発見であった。",
+  "date": "2026/05/23",
+  "id": "BNJ 61006",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Hank Mobley",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Kenny Dorham",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Sonny Clark",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Jimmy Rowser",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Art Taylor",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1957
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Curtain_Call_(Hank_Mobley_album)"
+    }
+  ],
+  "release_year": 1984,
+  "score": 5,
+  "title": "Curtain Call",
+  "tracks": [
+    {
+      "composer": "Hank Mobley",
+      "disc_no": 1,
+      "length": "10:59",
+      "no": 1,
+      "title": "Don't Get Too Hip"
+    },
+    {
+      "composer": "Hank Mobley",
+      "disc_no": 1,
+      "length": "5:27",
+      "no": 2,
+      "title": "Curtain Call"
+    },
+    {
+      "composer": [
+        "Jimmy Van Heusen",
+        "Eddie DeLange"
+      ],
+      "disc_no": 1,
+      "length": "6:01",
+      "no": 3,
+      "title": "Deep in a Dream"
+    },
+    {
+      "composer": "Hank Mobley",
+      "disc_no": 1,
+      "length": "6:22",
+      "no": 4,
+      "title": "The Mobe"
+    },
+    {
+      "composer": [
+        "Claude Debussy",
+        "Larry Clinton"
+      ],
+      "disc_no": 1,
+      "length": "5:34",
+      "no": 5,
+      "title": "My Reverie"
+    },
+    {
+      "composer": "Hank Mobley",
+      "disc_no": 1,
+      "length": "7:14",
+      "no": 6,
+      "title": "On the Bright Side"
+    }
+  ]
+}
