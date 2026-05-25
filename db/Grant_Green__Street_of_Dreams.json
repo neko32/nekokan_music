@@ -1,0 +1,97 @@
+{
+  "comment": "Talkin' About J.C.のトリオにハッチャーソンのビブラフォンを足したカルテット編成。こちらはTalkin' About J.C.と比較してスタンダードナンバー中心の構成のせいかステップバックしてだいぶ大人な感じでリラックスしたつくり。こうしたのんびりセッションもたまには悪くない、といわんばかりだが音はちゃんと新主流派していてGOOD。",
+  "date": "2026/05/24",
+  "id": "BST 84253",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "New Mainstream"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Guitar",
+        "name": "Grant Green",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Vibraphone",
+        "name": "Bobby Hutcherson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Organ",
+        "name": "Larry Young",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Elvin Jones",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1964
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Street_of_Dreams_(Grant_Green_album)"
+    }
+  ],
+  "release_year": 1967,
+  "score": 1,
+  "title": "Street of Dreams",
+  "tracks": [
+    {
+      "composer": [
+        "Leo Chauliac",
+        "Charles Trenet"
+      ],
+      "disc_no": 1,
+      "length": "8:46",
+      "no": 1,
+      "title": "I Wish You Love (Que reste-t-il de nos amours?)"
+    },
+    {
+      "composer": [
+        "John La Latouche",
+        "Jerome Moross"
+      ],
+      "disc_no": 1,
+      "length": "7:44",
+      "no": 2,
+      "title": "Lazy Afternoon"
+    },
+    {
+      "composer": [
+        "Victor Young",
+        "Sam M. Lewis"
+      ],
+      "disc_no": 1,
+      "length": "9:03",
+      "no": 3,
+      "title": "Street of Dreams"
+    },
+    {
+      "composer": [
+        "Billy May",
+        "Milt Raskin"
+      ],
+      "disc_no": 1,
+      "length": "8:01",
+      "no": 4,
+      "title": "Somewhere in the Night (theme from \"Naked City\")"
+    }
+  ]
+}

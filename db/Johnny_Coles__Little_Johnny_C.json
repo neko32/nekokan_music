@@ -1,0 +1,114 @@
+{
+  "comment": "これはなんともレアな取り合わせの銘品。隠れた名手が集まってグレートなワンタイムセッションという感じではある。しかしジョニーコールズのマイルスの影武者とだけ言われるのは勿体ないといいたくなる内容。",
+  "date": "2026/05/24",
+  "id": "BST 84144",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Trumpet",
+        "name": "Johnny Coles",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Alto Saxophone, Flute",
+        "name": "Leo Wright",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Joe Henderson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Duke Pearson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Bob Cranshaw",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Pete La Roca",
+        "tracks": "1-3"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Walter Perkins",
+        "tracks": "4-6"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1964
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Little_Johnny_C"
+    }
+  ],
+  "release_year": 1964,
+  "score": 5,
+  "title": "Little Johnny C",
+  "tracks": [
+    {
+      "composer": "Johnny Coles",
+      "disc_no": 1,
+      "length": "5:12",
+      "no": 1,
+      "title": "Little Johnny C"
+    },
+    {
+      "composer": "Joe Henderson",
+      "disc_no": 1,
+      "length": "8:15",
+      "no": 2,
+      "title": "Hobo Joe"
+    },
+    {
+      "composer": "Johnny Coles",
+      "disc_no": 1,
+      "length": "7:24",
+      "no": 3,
+      "title": "Jano"
+    },
+    {
+      "composer": "Johnny Coles",
+      "disc_no": 1,
+      "length": "7:11",
+      "no": 4,
+      "title": "My Secret Passion"
+    },
+    {
+      "composer": "Johnny Coles",
+      "disc_no": 1,
+      "length": "6:01",
+      "no": 5,
+      "title": "Heavy Legs"
+    },
+    {
+      "composer": "Johnny Coles",
+      "disc_no": 1,
+      "length": "6:26",
+      "no": 6,
+      "title": "So Sweet My Little Girl"
+    }
+  ]
+}

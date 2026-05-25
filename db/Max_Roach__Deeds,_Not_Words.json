@@ -1,0 +1,132 @@
+{
+  "comment": "[殿堂入り] ピアノレスで行くという決断がどれほどの英断であったか。ピアノが無い分スペーシャスになりそれぞれの音が疎の空間からよりクリアにダイレクトに響いてくる。その響きは上品さまでも帯び、まるで室内楽のようである。リズムの喜び、美しいメロディ、クリアな音質、いうことなし。単なるチューバ入り三管ピアノレスというイロモノとしてみると大間違い！",
+  "date": "2026/05/24",
+  "id": "RLP 12-280",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Riverside",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Drums",
+        "name": "Max Roach",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Booker Little",
+        "tracks": "1-6"
+      },
+      {
+        "instruments": "Tuba",
+        "name": "Ray Draper",
+        "tracks": "1-6"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "George Coleman",
+        "tracks": "1-6"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Art Davis",
+        "tracks": "1-6"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Oscar Pettiford",
+        "tracks": "8"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1958
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Deeds,_Not_Words"
+    }
+  ],
+  "release_year": 1958,
+  "score": 6,
+  "title": "Deeds, Not Words",
+  "tracks": [
+    {
+      "composer": [
+        "Nacio Herb Brown",
+        "Gus Kahn"
+      ],
+      "disc_no": 1,
+      "length": "7:46",
+      "no": 1,
+      "title": "You Stepped Out of a Dream"
+    },
+    {
+      "composer": "Ray Draper",
+      "disc_no": 1,
+      "length": "7:06",
+      "no": 2,
+      "title": "Filide"
+    },
+    {
+      "composer": [
+        "Sammy Cahn",
+        "Jule Styne"
+      ],
+      "disc_no": 1,
+      "length": "4:14",
+      "no": 3,
+      "title": "It's You or No One"
+    },
+    {
+      "composer": "Bill Lee",
+      "disc_no": 1,
+      "length": "4:56",
+      "no": 4,
+      "title": "Jodie's Cha-Cha"
+    },
+    {
+      "composer": "Bill Lee",
+      "disc_no": 1,
+      "length": "4:34",
+      "no": 5,
+      "title": "Deeds, Not Words"
+    },
+    {
+      "composer": "Booker Little",
+      "disc_no": 1,
+      "length": "5:13",
+      "no": 6,
+      "title": "Larry-Larue"
+    },
+    {
+      "composer": "Max Roach",
+      "disc_no": 1,
+      "length": "3:48",
+      "no": 7,
+      "title": "Conversation"
+    },
+    {
+      "composer": [
+        "Mack Gordon",
+        "Harry Warren"
+      ],
+      "disc_no": 1,
+      "length": "5:50",
+      "no": 8,
+      "title": "There Will Never Be Another You"
+    }
+  ]
+}

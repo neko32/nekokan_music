@@ -1,0 +1,101 @@
+{
+  "comment": "純ジャズモードのグリーンはお宝。たぶん当時は純ジャズ路線でなくソウルジャズ系で売り出したくてこちらは合わないと判断されてお蔵入りだったと推察。しかしこのメンツ、悪かろうはずがなくヘビー級リズム隊とわれらがスター ソニー・クラークのピアノ。何をいわんや。",
+  "date": "2026/05/24",
+  "id": "LT 1032",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Guitar",
+        "name": "Grant Green",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Piano",
+        "name": "Sonny Clark",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Sam Jones",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Art Blakey",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1962
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nigeria_(Grant_Green_album)"
+    }
+  ],
+  "release_year": 1980,
+  "score": 5,
+  "title": "Nigeria",
+  "tracks": [
+    {
+      "composer": "Sonny Rollins",
+      "disc_no": 1,
+      "length": "7:32",
+      "no": 1,
+      "title": "Airegin"
+    },
+    {
+      "composer": [
+        "George Gershwin",
+        "Ira Gershwin"
+      ],
+      "disc_no": 1,
+      "length": "10:22",
+      "no": 2,
+      "title": "It Ain't Necessarily So"
+    },
+    {
+      "composer": "Cole Porter",
+      "disc_no": 1,
+      "length": "5:48",
+      "no": 3,
+      "title": "I Concentrate on You"
+    },
+    {
+      "composer": [
+        "Sammy Cahn",
+        "Jule Styne"
+      ],
+      "disc_no": 1,
+      "length": "5:56",
+      "no": 4,
+      "title": "The Things We Did Last Summer"
+    },
+    {
+      "composer": [
+        "Oscar Hammerstein II",
+        "Jerome Kern"
+      ],
+      "disc_no": 1,
+      "length": "7:46",
+      "no": 5,
+      "title": "The Song Is You"
+    }
+  ]
+}
