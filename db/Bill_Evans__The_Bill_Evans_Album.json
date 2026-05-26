@@ -1,0 +1,132 @@
+{
+  "comment": "エヴァンス晩年のスタジオ録音で昔の作品の再演を多く含めている。ピアノ、エレピ両方を駆使し、いつもながらのハイレベルな３者のインタープレイがスリリングでかっこよい。後年のリリシズムはエレピがとてもよく合う。いつもながらこの３者のハイスパートなインタープレイは実に現代に訴えるものがあると思う。",
+  "date": "2026/05/25",
+  "id": "C 30855",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Cool",
+      "Neo Hard Bop"
+    ]
+  },
+  "label": "Columbia",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano, Electric Piano",
+        "name": "Bill Evans",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Double Bass",
+        "name": "Eddie Gomez",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Marty Morell",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1971
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Bill_Evans_Album"
+    }
+  ],
+  "release_year": 1971,
+  "score": 1,
+  "title": "The Bill Evans Album",
+  "tracks": [
+    {
+      "composer": "Bill Evans",
+      "disc_no": 1,
+      "length": "7:45",
+      "no": 1,
+      "title": "Funkallero"
+    },
+    {
+      "composer": [
+        "Bill Evans",
+        "Carol Hall"
+      ],
+      "disc_no": 1,
+      "length": "6:10",
+      "no": 2,
+      "title": "The Two Lonely People"
+    },
+    {
+      "composer": "Bill Evans",
+      "disc_no": 1,
+      "length": "7:02",
+      "no": 3,
+      "title": "Sugar Plum"
+    },
+    {
+      "composer": [
+        "Bill Evans",
+        "Gene Lees"
+      ],
+      "disc_no": 1,
+      "length": "7:41",
+      "no": 4,
+      "title": "Waltz for Debby"
+    },
+    {
+      "composer": "Bill Evans",
+      "disc_no": 1,
+      "length": "6:38",
+      "no": 5,
+      "title": "T.T.T. (Twelve Tone Tune)"
+    },
+    {
+      "composer": "Bill Evans",
+      "disc_no": 1,
+      "length": "5:52",
+      "no": 6,
+      "title": "Re: Person I Knew"
+    },
+    {
+      "composer": "Bill Evans",
+      "disc_no": 1,
+      "length": "7:34",
+      "no": 7,
+      "title": "Comrade Conrad"
+    },
+    {
+      "composer": [
+        "Bill Evans",
+        "Gene Lees"
+      ],
+      "disc_no": 1,
+      "length": "7:47",
+      "no": 8,
+      "title": "Waltz for Debby [alternate take]"
+    },
+    {
+      "composer": "Bill Evans",
+      "disc_no": 1,
+      "length": "7:16",
+      "no": 9,
+      "title": "Re: Person I Knew [alternate take]"
+    },
+    {
+      "composer": "Bill Evans",
+      "disc_no": 1,
+      "length": "6:09",
+      "no": 10,
+      "title": "Funkallero [alternate take]"
+    }
+  ]
+}

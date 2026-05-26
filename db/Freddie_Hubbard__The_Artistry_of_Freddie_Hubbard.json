@@ -1,0 +1,110 @@
+{
+  "comment": "ブルーノートの諸作に劣らぬ良い出来。何より面白いのがジョン・ギルモアの参加で、異様な演奏効果が出ている。\nしかしアート・デイヴィスやルイス・ヘイズの活躍ぶりも忘れずに注目。",
+  "date": "2026/05/25",
+  "id": "A-27",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Impulse!",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Trumpet",
+        "name": "Freddie Hubbard",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trombone",
+        "name": "Curtis Fuller",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "John Gilmore",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Tommy Flanagan",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Art Davis",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Louis Hayes",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1962
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Artistry_of_Freddie_Hubbard"
+    }
+  ],
+  "release_year": 1963,
+  "score": 5,
+  "title": "The Artistry of Freddie Hubbard",
+  "tracks": [
+    {
+      "composer": [
+        "Duke Ellington",
+        "Irving Mills",
+        "Juan Tizol"
+      ],
+      "disc_no": 1,
+      "length": "7:28",
+      "no": 1,
+      "title": "Caravan"
+    },
+    {
+      "composer": "Freddie Hubbard",
+      "disc_no": 1,
+      "length": "10:03",
+      "no": 2,
+      "title": "Bob's Place"
+    },
+    {
+      "composer": "Freddie Hubbard",
+      "disc_no": 1,
+      "length": "4:29",
+      "no": 3,
+      "title": "Happy Times"
+    },
+    {
+      "composer": [
+        "George Gershwin",
+        "Ira Gershwin",
+        "Dubose Heyward"
+      ],
+      "disc_no": 1,
+      "length": "10:06",
+      "no": 4,
+      "title": "Summertime"
+    },
+    {
+      "composer": "Freddie Hubbard",
+      "disc_no": 1,
+      "length": "10:34",
+      "no": 5,
+      "title": "The 7th Day"
+    }
+  ]
+}

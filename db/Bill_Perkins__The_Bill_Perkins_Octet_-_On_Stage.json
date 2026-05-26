@@ -1,0 +1,154 @@
+{
+  "comment": "西海岸オールスターズとでもいわんばかりのゴージャスなメンツ！演奏もさながらウェストコースト博覧会状態。ラージコンボもあって各々十分とは言えない割り当てと言わざるを得ないのは難といえば難だがまずはサクッとクイックショーケース。ジャック・ニミッツやカール・フォンタナのソロも聴けるのは貴重といえるか。",
+  "date": "2026/05/25",
+  "id": "LAE 12078",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "West Coast"
+    ]
+  },
+  "label": "Vogue Records",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone, Arranger",
+        "name": "Bill Perkins",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet, Valve Trombone",
+        "name": "Stu Williamson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Trombone",
+        "name": "Carl Fontana",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Bud Shank",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Baritone Saxophone, Bass Clarinet",
+        "name": "Jack Nimitz",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Russ Freeman",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Red Mitchell",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Mel Lewis",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Arranger",
+        "name": "Lennie Niehaus",
+        "tracks": "2,8"
+      },
+      {
+        "instruments": "Arranger",
+        "name": "Bill Holman",
+        "tracks": "1"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1956
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/ja/release/4837473-The-Bill-Perkins-Octet-On-Stage"
+    }
+  ],
+  "release_year": 1958,
+  "score": 4,
+  "title": "The Bill Perkins Octet - On Stage",
+  "tracks": [
+    {
+      "composer": "Charles King",
+      "disc_no": 1,
+      "length": "5:19",
+      "no": 1,
+      "title": "Song of the Islands"
+    },
+    {
+      "composer": [
+        "Ned Washington",
+        "Victor Young"
+      ],
+      "disc_no": 1,
+      "length": "4:45",
+      "no": 2,
+      "title": "One Hundred Years From Today"
+    },
+    {
+      "composer": "Bill Perkins",
+      "disc_no": 1,
+      "length": "5:48",
+      "no": 3,
+      "title": "Zing Zang"
+    },
+    {
+      "composer": "Harry Eddison",
+      "disc_no": 1,
+      "length": "3:30",
+      "no": 4,
+      "title": "Let Me See"
+    },
+    {
+      "composer": [
+        "Don Raye",
+        "Sy Oliver",
+        "Vic Schoen"
+      ],
+      "disc_no": 1,
+      "length": "5:48",
+      "no": 5,
+      "title": "For Dancers Only"
+    },
+    {
+      "composer": "Johnny Mandel",
+      "disc_no": 1,
+      "length": "4:55",
+      "no": 6,
+      "title": "Just A Child"
+    },
+    {
+      "composer": "Bill Holman",
+      "disc_no": 1,
+      "length": "3:47",
+      "no": 7,
+      "title": "As They Revealed"
+    },
+    {
+      "composer": [
+        "Joe Goodwin",
+        "Larry Shay",
+        "Mark Fisher"
+      ],
+      "disc_no": 1,
+      "length": "5:00",
+      "no": 8,
+      "title": "When You're Smiling"
+    }
+  ]
+}
