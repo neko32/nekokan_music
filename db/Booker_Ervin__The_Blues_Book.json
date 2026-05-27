@@ -1,0 +1,90 @@
+{
+  "comment": "これはなんともイカツイアルバムだ！まぁブッカー・アーヴィンらしく商売っ気、妥協全くなしのまぁ実に素晴らしいガンコなハードコアハードバップ。Eerie Dearieのようなグロテスクな曲にリチャード・デイヴィスのベースは水を得た魚の様。アランドーソンの正確無比デポリリズミックなドラムもお見事！",
+  "date": "2026/05/26",
+  "id": "PRLP 7340",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Prestige",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Booker Ervin",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Carmell Jones",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Gildo Mahones",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Richard Davis",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Alan Dawson",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1964
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Blues_Book"
+    }
+  ],
+  "release_year": 1964,
+  "score": 5,
+  "title": "The Blues Book",
+  "tracks": [
+    {
+      "composer": "Booker Ervin",
+      "disc_no": 1,
+      "length": "14:30",
+      "no": 1,
+      "title": "Eerie Dearie"
+    },
+    {
+      "composer": "Booker Ervin",
+      "disc_no": 1,
+      "length": "6:24",
+      "no": 2,
+      "title": "One for Mort"
+    },
+    {
+      "composer": "Booker Ervin",
+      "disc_no": 1,
+      "length": "15:26",
+      "no": 3,
+      "title": "No Booze Blooze"
+    },
+    {
+      "composer": "Booker Ervin",
+      "disc_no": 1,
+      "length": "5:07",
+      "no": 4,
+      "title": "True Blue"
+    }
+  ]
+}

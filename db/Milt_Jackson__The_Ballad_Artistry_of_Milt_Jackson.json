@@ -1,0 +1,286 @@
+{
+  "comment": "懐かしい感じのストリングスアレンジでミルトの流麗な演奏を楽しめる作品。クインシーとジミー・ジョーンズの匠なアレンジもボーナス。バラードと題しているがスローテンポだらけでだらけるということはない。以外にファストなテンポの曲もあるのがよい。",
+  "date": "2026/05/26",
+  "id": "1342",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop",
+      "Bigband"
+    ]
+  },
+  "label": "Atlantic",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Vibraphone",
+        "name": "Milt Jackson",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Alto Flute",
+        "name": "Don Hammond",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Reeds",
+        "name": "Romeo Penque",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Guitar",
+        "name": "Barry Galbraith",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Guitar",
+        "name": "Chuck Wayne",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Harp",
+        "name": "Gloria Agostini",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano, Arranger",
+        "name": "Jimmy Jones",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Guitar",
+        "name": "Barry Galbraith",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Bill Crow",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Milt Hinton",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Connie Kay",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Violin",
+        "name": "Max Cahn",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Violin",
+        "name": "Alexander Cores",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Violin",
+        "name": "Paul Gershman",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Violin",
+        "name": "Julius Held",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Violin",
+        "name": "Leo Kahn",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Violin",
+        "name": "Harry Katzman",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Violin",
+        "name": "Harry Lookofsky",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Violin",
+        "name": "David Nadien",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Violin",
+        "name": "George Ockner",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Violin",
+        "name": "Gene Orloff",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Violin",
+        "name": "Leonard Posner",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Violin",
+        "name": "Sol Shapiro",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Viola",
+        "name": "Al Brown",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Viola",
+        "name": "Harold Coletta",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Viola",
+        "name": "Burt Fisch",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Viola",
+        "name": "David Mankowitz",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Cello",
+        "name": "Maurice Brown",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Cello",
+        "name": "Charles McCracken",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Cello",
+        "name": "Harvey Shapiro",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Cello",
+        "name": "George Ricci",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1959
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Ballad_Artistry_of_Milt_Jackson"
+    }
+  ],
+  "release_year": 1959,
+  "score": 4,
+  "title": "The Ballad Artistry of Milt Jackson",
+  "tracks": [
+    {
+      "composer": "Milt Jackson",
+      "disc_no": 1,
+      "length": "2:45",
+      "no": 1,
+      "title": "The Cylinder"
+    },
+    {
+      "composer": [
+        "Walter Donaldson",
+        "Gus Kahn"
+      ],
+      "disc_no": 1,
+      "length": "3:02",
+      "no": 2,
+      "title": "Makin' Whoopee"
+    },
+    {
+      "composer": [
+        "Howard Dietz",
+        "Arthur Schwartz"
+      ],
+      "disc_no": 1,
+      "length": "4:50",
+      "no": 3,
+      "title": "Alone Together"
+    },
+    {
+      "composer": [
+        "Walter Gross",
+        "Jack Lawrence"
+      ],
+      "disc_no": 1,
+      "length": "4:29",
+      "no": 4,
+      "title": "Tenderly"
+    },
+    {
+      "composer": [
+        "Rube Bloom",
+        "Ted Koehler"
+      ],
+      "disc_no": 1,
+      "length": "4:02",
+      "no": 5,
+      "title": "Don't Worry 'Bout Me"
+    },
+    {
+      "composer": "Django Reinhardt",
+      "disc_no": 1,
+      "length": "3:38",
+      "no": 6,
+      "title": "Nuages"
+    },
+    {
+      "composer": [
+        "Eddie DeLange",
+        "Jimmy Van Heusen"
+      ],
+      "disc_no": 1,
+      "length": "3:39",
+      "no": 7,
+      "title": "Deep in a Dream"
+    },
+    {
+      "composer": [
+        "Joel Herron",
+        "Frank Sinatra",
+        "Jack Wolf"
+      ],
+      "disc_no": 1,
+      "length": "4:39",
+      "no": 8,
+      "title": "I'm a Fool to Want You"
+    },
+    {
+      "composer": [
+        "Dorcas Cochran",
+        "Quincy Jones",
+        "Henri Salvador"
+      ],
+      "disc_no": 1,
+      "length": "3:48",
+      "no": 9,
+      "title": "The Midnight Sun Will Never Set"
+    },
+    {
+      "composer": "Milt Jackson",
+      "disc_no": 1,
+      "length": "3:22",
+      "no": 10,
+      "title": "Tomorrow"
+    }
+  ]
+}
