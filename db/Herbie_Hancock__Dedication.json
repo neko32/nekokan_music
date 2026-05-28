@@ -1,0 +1,69 @@
+{
+  "comment": "アコースティックピアノの響きが美しい前半部分と巧みなキーボードの多重録音でエキサイティングな後半のバランスの良いハービーのソロアルバム。Head Huntersの後、Thrustの前の作品であったがどちらかというと以前のBN時代新主流派とかムワンディシ時代の色が強いかも。",
+  "date": "2026/05/27",
+  "id": "SOPM 165",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "New Mainstream"
+    ]
+  },
+  "label": "CBS/Sony",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano, Keyboards, Electric Piano",
+        "name": "Herbie Hancock",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [],
+    "soloists": []
+  },
+  "record_year": [
+    1974
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dedication_(Herbie_Hancock_album)"
+    }
+  ],
+  "release_year": 1974,
+  "score": 4,
+  "title": "Dedication",
+  "tracks": [
+    {
+      "composer": "Herbie Hancock",
+      "disc_no": 1,
+      "length": "7:44",
+      "no": 1,
+      "title": "Maiden Voyage"
+    },
+    {
+      "composer": "Herbie Hancock",
+      "disc_no": 1,
+      "length": "11:18",
+      "no": 2,
+      "title": "Dolphin Dance"
+    },
+    {
+      "composer": "Herbie Hancock",
+      "disc_no": 1,
+      "length": "7:39",
+      "no": 3,
+      "title": "Nobu"
+    },
+    {
+      "composer": "Herbie Hancock",
+      "disc_no": 1,
+      "length": "13:57",
+      "no": 4,
+      "title": "Cantaloupe Island"
+    }
+  ]
+}

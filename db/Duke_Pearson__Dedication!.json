@@ -1,0 +1,122 @@
+{
+  "comment": "9年間お蔵入りする理由はなぜかよくわからないほどカッコイイハードバップを堪能できるアルバム。トランペット、トロンボーンそしてバリサキのヘビーな３管編成とピアソンのアレンジにレックス・ハンフリーズのドラムによる重戦車ハードバップチューンに降参するしかない。",
+  "date": "2026/05/27",
+  "id": "PRLP 7729",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Prestige",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Duke Pearson",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Freddie Hubbard",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Trombone",
+        "name": "Willie Wilson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Baritone Saxophone",
+        "name": "Pepper Adams",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Thomas Howard",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Lex Humphries",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1961
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dedication!"
+    }
+  ],
+  "release_year": 1970,
+  "score": 5,
+  "title": "Dedication!",
+  "tracks": [
+    {
+      "composer": "Tommy Flanagan",
+      "disc_no": 1,
+      "length": "4:27",
+      "no": 1,
+      "title": "Minor Mishap"
+    },
+    {
+      "composer": "Duke Pearson",
+      "disc_no": 1,
+      "length": "3:49",
+      "no": 2,
+      "title": "Number Five"
+    },
+    {
+      "composer": [
+        "Hoagy Carmichael",
+        "Ned Washington"
+      ],
+      "disc_no": 1,
+      "length": "5:04",
+      "no": 3,
+      "title": "The Nearness of You"
+    },
+    {
+      "composer": "Pepper Adams",
+      "disc_no": 1,
+      "length": "5:39",
+      "no": 4,
+      "title": "Apothegm"
+    },
+    {
+      "composer": "Donald Byrd",
+      "disc_no": 1,
+      "length": "5:51",
+      "no": 5,
+      "title": "Lex"
+    },
+    {
+      "composer": "Willie Wilson",
+      "disc_no": 1,
+      "length": "7:14",
+      "no": 6,
+      "title": "Blues for Alvina"
+    },
+    {
+      "composer": [
+        "Sammy Cahn",
+        "Jule Styne"
+      ],
+      "disc_no": 1,
+      "length": "6:51",
+      "no": 7,
+      "title": "Time After Time"
+    }
+  ]
+}
