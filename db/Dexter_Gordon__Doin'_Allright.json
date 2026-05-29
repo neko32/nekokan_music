@@ -1,0 +1,120 @@
+{
+  "comment": "デックスがハバードとパーラントリオと割合リラックスな感じでコラボしたほっこり盤。デックスここにあり、と気張っているよりブルーノートホームとそのファミリーでゆったりまったりと、カムバックを堂々の宣言。",
+  "date": "2026/05/28",
+  "id": "BST 84077",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Dexter Gordon",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Freddie Hubbard",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Horace Perlan",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "George Tucker",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Al Harewood",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1961
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Doin%27_Allright"
+    }
+  ],
+  "release_year": 1961,
+  "score": 4,
+  "title": "Doin' Allright",
+  "tracks": [
+    {
+      "composer": [
+        "George Gershwin",
+        "Ira Gershwin"
+      ],
+      "disc_no": 1,
+      "length": "9:18",
+      "no": 1,
+      "title": "I Was Doing All Right"
+    },
+    {
+      "composer": [
+        "Bill Carey",
+        "Carl T. Fischer"
+      ],
+      "disc_no": 1,
+      "length": "7:26",
+      "no": 2,
+      "title": "You've Changed"
+    },
+    {
+      "composer": "Dexter Gordon",
+      "disc_no": 1,
+      "length": "5:45",
+      "no": 3,
+      "title": "For Regulars Only"
+    },
+    {
+      "composer": "Dexter Gordon",
+      "disc_no": 1,
+      "length": "12:21",
+      "no": 4,
+      "title": "Society Red"
+    },
+    {
+      "composer": [
+        "Sammy Cahn",
+        "Jule Styne"
+      ],
+      "disc_no": 1,
+      "length": "6:13",
+      "no": 5,
+      "title": "It's You or No One"
+    },
+    {
+      "composer": "Dexter Gordon",
+      "disc_no": 1,
+      "length": "6:11",
+      "no": 6,
+      "title": "I Want More"
+    },
+    {
+      "composer": "Dexter Gordon",
+      "disc_no": 1,
+      "length": "6:20",
+      "no": 7,
+      "title": "For Regular's Only [alternate take]"
+    }
+  ]
+}

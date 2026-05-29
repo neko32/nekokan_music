@@ -1,0 +1,74 @@
+{
+  "comment": "なかなかに内省的でストイックな作品。デイヴィスの相変わらず上下移動激しくぼっこぼっこ、高音で粘るスタイルとでぃっカーソンのドライで断片的なフレージングのぶつかり合い、重なり合いはまるで不器用でシャイでガンコな者同士の必死の対話のよう。",
+  "date": "2026/05/28",
+  "id": "SCS 1089",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Avrant-Garde"
+    ]
+  },
+  "label": "SteepleChase",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Vibraphone",
+        "name": "Walter Dickerson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Richard Davis",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [],
+    "soloists": []
+  },
+  "record_year": [
+    1977
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Divine_Gemini"
+    }
+  ],
+  "release_year": 1978,
+  "score": 4,
+  "title": "Divine Gemini",
+  "tracks": [
+    {
+      "composer": "Walt Dickerson",
+      "disc_no": 1,
+      "length": "12:33",
+      "no": 1,
+      "title": "Lucille"
+    },
+    {
+      "composer": "Walt Dickerson",
+      "disc_no": 1,
+      "length": "4:02",
+      "no": 2,
+      "title": "Divine Gemini"
+    },
+    {
+      "composer": "Walt Dickerson",
+      "disc_no": 1,
+      "length": "2:49",
+      "no": 3,
+      "title": "Always Positive"
+    },
+    {
+      "composer": "Walt Dickerson",
+      "disc_no": 1,
+      "length": "14:24",
+      "no": 4,
+      "title": "Her Intuition"
+    }
+  ]
+}
