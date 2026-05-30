@@ -1,0 +1,163 @@
+{
+  "comment": "[殿堂入り] ミンガスと彼の手勢の野心的なクンビアとのフュージョンはまさに暴力と野生のうねりと咆哮。この破壊力に勝る音楽はなかなか存在しない。次のMusic for Todo Modoはローマでイタリアのプレイヤー達との共演でミンガスワールドの欧州の洗練とのフュージョンといっていい気品高い一品。",
+  "date": "2026/05/29",
+  "id": "SD 8801",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Post Hard Bop",
+      "Bigband"
+    ]
+  },
+  "label": "Atlantic",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Double Bass, Vocal, Percussion, Arranger",
+        "name": "Charles Mingus",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet, Percussion",
+        "name": "Jack Walrath",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Trombone, Bass Trombone",
+        "name": "Jimmy Knepper",
+        "tracks": "1"
+      },
+      {
+        "instruments": "Flute, Piccolo, Soprano Saxophone, Alto Saxophone",
+        "name": "Mauricio Smith",
+        "tracks": "1"
+      },
+      {
+        "instruments": "Tenor Saxophone, Percussion",
+        "name": "Ricky Ford",
+        "tracks": "1"
+      },
+      {
+        "instruments": "Oboe, Tenor Saxophone",
+        "name": "Paul Jeffrey",
+        "tracks": "1"
+      },
+      {
+        "instruments": "Basoon",
+        "name": "Gene Scholtens",
+        "tracks": "1"
+      },
+      {
+        "instruments": "Contrabass Clarinet, Bass Clarinet",
+        "name": "Gary Anderson",
+        "tracks": "1"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Bob Neloms",
+        "tracks": "1"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Dannie Richmond",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Congas",
+        "name": "Candido",
+        "tracks": "1"
+      },
+      {
+        "instruments": "Congas",
+        "name": "Daniel Gonzales",
+        "tracks": "1"
+      },
+      {
+        "instruments": "Congas",
+        "name": "Ray Mantilla",
+        "tracks": "1"
+      },
+      {
+        "instruments": "Congas",
+        "name": "Alfredo Ramirez",
+        "tracks": "1"
+      },
+      {
+        "instruments": "Percussion",
+        "name": "Bradley Cunningham",
+        "tracks": "1"
+      },
+      {
+        "instruments": "Trombone",
+        "name": "Dino Piana",
+        "tracks": "2"
+      },
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Quarto Maltoni",
+        "tracks": "2"
+      },
+      {
+        "instruments": "Tenor Saxophone, Alto Flute",
+        "name": "George Adams",
+        "tracks": "2"
+      },
+      {
+        "instruments": "Oboe, English Horn",
+        "name": "Anastasio Del Bono",
+        "tracks": "2"
+      },
+      {
+        "instruments": "Bassoon",
+        "name": "Pasquale Sabatelli",
+        "tracks": "2"
+      },
+      {
+        "instruments": "Bass Clarinet",
+        "name": "Roberto Laneri",
+        "tracks": "2"
+      },
+      {
+        "instruments": "Piano, Organ",
+        "name": "Danny Mixon",
+        "tracks": "2"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1976,
+    1977
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cumbia_%26_Jazz_Fusion"
+    }
+  ],
+  "release_year": 1978,
+  "score": 6,
+  "title": "Cumbia & Jazz Fusion",
+  "tracks": [
+    {
+      "composer": "Charles Mingus",
+      "disc_no": 1,
+      "length": "28:05",
+      "no": 1,
+      "title": "Cumbia and Jazz Fusion"
+    },
+    {
+      "composer": "Charles Mingus",
+      "disc_no": 1,
+      "length": "22:21",
+      "no": 2,
+      "title": "Music for Todo Modo"
+    }
+  ]
+}

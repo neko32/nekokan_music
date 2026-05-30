@@ -1,0 +1,102 @@
+{
+  "comment": "サブーのコンガ・ボンゴとJMのコラボ。ジョニー・グリフィン在籍時のJMの録音はなかなか貴重で良い。他のアルバムに比べてグリフィンの調子が良いともとれないがそれでも悪くはない。録音の状態がやや悪いのが残念。",
+  "date": "2026/05/29",
+  "id": "JG1049",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Jubilee",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [
+      {
+        "abbr": "JM",
+        "members": [
+          {
+            "instruments": "Trumpet",
+            "name": "Bill Hardman",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Tenor Saxophone",
+            "name": "Johnny Griffin",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Piano",
+            "name": "Sam Dockery",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Double Bass",
+            "name": "Spanky DeBrest",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Drums",
+            "leader": true,
+            "name": "Art Blakey",
+            "tracks": "all"
+          }
+        ],
+        "name": "Art Blakey & The Jazz Messagers"
+      }
+    ],
+    "leader": [],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Congas, Bongos",
+        "name": "Sabu Martinez",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1957
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cu-Bop"
+    }
+  ],
+  "release_year": 1957,
+  "score": 4,
+  "title": "Cu-Bop",
+  "tracks": [
+    {
+      "composer": "Dizzy Gillesipe",
+      "disc_no": 1,
+      "length": "6:10",
+      "no": 1,
+      "title": "Woody 'n' You"
+    },
+    {
+      "composer": "Art Blakey",
+      "disc_no": 1,
+      "length": "11:55",
+      "no": 2,
+      "title": "Sakeena"
+    },
+    {
+      "composer": "Johnny Griffin",
+      "disc_no": 1,
+      "length": "4:32",
+      "no": 3,
+      "title": "Shorty"
+    },
+    {
+      "composer": "Charlie Shavers",
+      "disc_no": 1,
+      "length": "12:45",
+      "no": 4,
+      "title": "Dawn on the Desert"
+    }
+  ]
+}
