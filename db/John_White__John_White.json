@@ -1,0 +1,134 @@
+{
+  "comment": "とりあえず勢いがすごい。典型的ジャズファンクでカッティングやセンスがなかなかよいギタリストである。あまり他に作品が無いのは残念だがこのラフで野卑なスタイルは悪くない。重鎮ソニー・レッドも鎮座している。",
+  "date": "2026/05/30",
+  "id": "MRL 330",
+  "janre": {
+    "main": "Fusion",
+    "sub": [
+      "Rock"
+    ]
+  },
+  "label": "Mainstream Records",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Electric Guitar",
+        "name": "John White",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "John Wilmath",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Trombone",
+        "name": "Jock Williams",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Sonny Red",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Hedley Caliman",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Electric Piano, Organ",
+        "name": "Merl Saunders",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Electric Bass",
+        "name": "Dale Smith",
+        "tracks": "some"
+      },
+      {
+        "instruments": "Electric Bass",
+        "name": "Terry Hensley",
+        "tracks": "some"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Phil Wilson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Congas",
+        "name": "J. Burr",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Vocals",
+        "name": "Robert Williams",
+        "tracks": "some"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1971
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/ja/release/2938390-John-White-John-White"
+    }
+  ],
+  "release_year": 1971,
+  "score": 4,
+  "title": "John White",
+  "tracks": [
+    {
+      "composer": "John White",
+      "disc_no": 1,
+      "length": "6:38",
+      "no": 1,
+      "title": "Right Off"
+    },
+    {
+      "composer": "John White",
+      "disc_no": 1,
+      "length": "3:23",
+      "no": 2,
+      "title": "Number 3"
+    },
+    {
+      "composer": "Hedley Caliman",
+      "disc_no": 1,
+      "length": "7:28",
+      "no": 3,
+      "title": "Granite And Concrete"
+    },
+    {
+      "composer": "John White",
+      "disc_no": 1,
+      "length": "2:53",
+      "no": 4,
+      "title": "City"
+    },
+    {
+      "composer": "John White",
+      "disc_no": 1,
+      "length": "7:25",
+      "no": 5,
+      "title": "Help Us Out"
+    },
+    {
+      "composer": "John White",
+      "disc_no": 1,
+      "length": "6:48",
+      "no": 6,
+      "title": "Tried To Touch"
+    }
+  ]
+}

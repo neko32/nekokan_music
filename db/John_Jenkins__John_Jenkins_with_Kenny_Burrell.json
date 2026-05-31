@@ -1,0 +1,107 @@
+{
+  "comment": "うーん、音色がマクリーンでないか.. でもソロの内容はマクリーンより常識人、といえば良い言い方。ケニー・バレルとソニー・クラークの参加がこのアルバムの価値を大いに高めている。",
+  "date": "2026/05/30",
+  "id": "BST 1537",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Alto Saxophone",
+        "name": "John Jenkins",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Guitar",
+        "name": "Kenny Burrell",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Sonny Clark",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Paul Chambers",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Dannie Richmond",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1957
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Jenkins_with_Kenny_Burrell"
+    }
+  ],
+  "release_year": 1957,
+  "score": 4,
+  "title": "John Jenkins with Kenny Burrell",
+  "tracks": [
+    {
+      "composer": "Cole Porter",
+      "disc_no": 1,
+      "length": "7:37",
+      "no": 1,
+      "title": "From This Moment On"
+    },
+    {
+      "composer": "John Jenkins",
+      "disc_no": 1,
+      "length": "6:14",
+      "no": 2,
+      "title": "Motif"
+    },
+    {
+      "composer": [
+        "Harold Adamson",
+        "Burton Lane"
+      ],
+      "disc_no": 1,
+      "length": "6:10",
+      "no": 3,
+      "title": "Everything I Have Is Yours"
+    },
+    {
+      "composer": "John Jenkins",
+      "disc_no": 1,
+      "length": "7:47",
+      "no": 4,
+      "title": "Sharon"
+    },
+    {
+      "composer": "John Jenkins",
+      "disc_no": 1,
+      "length": "5:56",
+      "no": 5,
+      "title": "Chalumeau"
+    },
+    {
+      "composer": "Kenny Burell",
+      "disc_no": 1,
+      "length": "4:42",
+      "no": 6,
+      "title": "Blues for Two"
+    }
+  ]
+}
