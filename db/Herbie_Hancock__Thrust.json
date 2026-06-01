@@ -1,0 +1,97 @@
+{
+  "comment": "[殿堂入り] Head Huntersのメンバーからハービーメイソンからマイク・クラークになったことで更に音楽がシャープでタイトに。ハービーのキーボードの使い方もかなり上達、複雑な音効果を演出することに成功。バタフライといった何度も再演される曲の初演ということもあるがやはり白眉はActual Proof。すごいテンションの音楽バトル！",
+  "date": "2026/05/31",
+  "id": "80193",
+  "janre": {
+    "main": "Fusion",
+    "sub": [
+      "Funk",
+      "Straight Ahead"
+    ]
+  },
+  "label": "Columbia",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano, Electric Piano, Keyboards",
+        "name": "Herbie Hancock",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone, Soprano Saxophone, Saxello, Bass Clarinet, Alto Flute",
+        "name": "Bennie Maupin",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Electric Bass",
+        "name": "Paul Jackson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Mike Clark",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Percussion",
+        "name": "Bill Summers",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1974
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Head_Hunters"
+    }
+  ],
+  "release_year": 1974,
+  "score": 6,
+  "title": "Thrust",
+  "tracks": [
+    {
+      "composer": "Herbie Hancock",
+      "disc_no": 1,
+      "length": "10:38",
+      "no": 1,
+      "title": "Palm Grease"
+    },
+    {
+      "composer": "Herbie Hancock",
+      "disc_no": 1,
+      "length": "9:42",
+      "no": 2,
+      "title": "Actual Proof"
+    },
+    {
+      "composer": [
+        "Herbie Hancock",
+        "Bennie Maupin"
+      ],
+      "disc_no": 1,
+      "length": "11:17",
+      "no": 3,
+      "title": "Butterfly"
+    },
+    {
+      "composer": [
+        "Herbie Hancock",
+        "Paul Jackson"
+      ],
+      "disc_no": 1,
+      "length": "7:12",
+      "no": 4,
+      "title": "Spank-a-Lee"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "comment": "ファーマー、バード、シュリーマン３人のジャムセッション、といっても結構キレイ目にまとまっている、バトルではなく常識人同士がしっかり席を分け合う礼儀正しい大人のセッション。そうなったのもバード、シュリーマン、ファーマーといった比較的たおやかな人柄と俺が系、たきつき系リズム隊でないことが要因だろう。",
+  "date": "2026/05/31",
+  "id": "PRLP 7092",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Prestige",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Trumpet",
+        "name": "Art Farmer",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Trumpet",
+        "name": "Donald Byrd",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Trumpet",
+        "name": "Idrees Sulieman",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Piano",
+        "name": "Hod O'Brien",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Addison Farmer",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Ed Thigpen",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1957
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hod_O%27Brien"
+    }
+  ],
+  "release_year": 1957,
+  "score": 4,
+  "title": "Three Trumpets",
+  "tracks": [
+    {
+      "composer": "Idrees Sulieman",
+      "disc_no": 1,
+      "length": "7:48",
+      "no": 1,
+      "title": "Palm Court Alley"
+    },
+    {
+      "composer": "Art Farmer",
+      "disc_no": 1,
+      "length": "6:29",
+      "no": 2,
+      "title": "Who's Who?"
+    },
+    {
+      "composer": "Hod O'Brien",
+      "disc_no": 1,
+      "length": "7:01",
+      "no": 3,
+      "title": "Diffusion of Beauty"
+    },
+    {
+      "composer": "Idrees Sulieman",
+      "disc_no": 1,
+      "length": "4:34",
+      "no": 4,
+      "title": "Forty Quarters"
+    },
+    {
+      "composer": "Donald Byrd",
+      "disc_no": 1,
+      "length": "13:30",
+      "no": 5,
+      "title": "You Gotta Dig to Dig It"
+    }
+  ]
+}
