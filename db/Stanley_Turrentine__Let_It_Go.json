@@ -1,0 +1,118 @@
+{
+  "comment": "BN盤と似たような内容とクオリティのセッションをインパルスにも残していたタレンタイン夫妻。アルバムタイトルもBNとやや既視感。ロン・カーターの太くてステディなベースを迎え相変わらずの調子の良さで安心な内容。",
+  "date": "2026/06/01",
+  "id": "A-9115",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Soul"
+    ]
+  },
+  "label": "Impulse!",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Stanley Turrentine",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Organ",
+        "name": "Shirley Scott",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Ron Carter",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Mack Simpkins",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1966
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Let_It_Go_(Stanley_Turrentine_album)"
+    }
+  ],
+  "release_year": 1967,
+  "score": 4,
+  "title": "Let It Go",
+  "tracks": [
+    {
+      "composer": "Stanley Turrentine",
+      "disc_no": 1,
+      "length": "5:55",
+      "no": 1,
+      "title": "Let It Go"
+    },
+    {
+      "composer": [
+        "Burton Lane",
+        "Alan Jay Lerner"
+      ],
+      "disc_no": 1,
+      "length": "6:58",
+      "no": 2,
+      "title": "On a Clear Day You Can See Forever"
+    },
+    {
+      "composer": "Stanley Turrentine",
+      "disc_no": 1,
+      "length": "5:54",
+      "no": 3,
+      "title": "Ciao, Ciao"
+    },
+    {
+      "composer": [
+        "Sy Oliver",
+        "Trummy Young"
+      ],
+      "disc_no": 1,
+      "length": "5:31",
+      "no": 4,
+      "title": "T'ain't What You Do (It's The Way That You Do It)"
+    },
+    {
+      "composer": "Stanley Turrentine",
+      "disc_no": 1,
+      "length": "5:23",
+      "no": 5,
+      "title": "Good Lookin' Out"
+    },
+    {
+      "composer": [
+        "Alan Bergman",
+        "Johnny Mandel"
+      ],
+      "disc_no": 1,
+      "length": "4:44",
+      "no": 6,
+      "title": "Sure  as You're Born"
+    },
+    {
+      "composer": [
+        "Peter DeRose",
+        "Mitchell Parish"
+      ],
+      "disc_no": 1,
+      "length": "4:49",
+      "no": 7,
+      "title": "Deep Purple"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "comment": "ジャンプという強烈なスタイルの持ち主レオ・パーカーの超本命盤。勢いとブリブリバリバリのバリトンの迫力がすごい！他のサイドメンも聞いたことのない、あまり他でみない面子ではあるが内容は素晴らしい。こういった才能をよみがえらせて録音記録に残しジャズ史に大いに貢献したブルーノートはやはりナンバーワンのレーベル。",
+  "date": "2026/06/01",
+  "id": "BST 84087",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Swing",
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Baritone Saxophone",
+        "name": "Leo Parker",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "John Burks",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Bill  Swindell",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Yusuf Salim",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Stan Conover",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Purnell Rice",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1961
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Let_Me_Tell_You_%27bout_It"
+    }
+  ],
+  "release_year": 1961,
+  "score": 5,
+  "title": "Let Me Tell You 'bout It",
+  "tracks": [
+    {
+      "composer": "Leo Parker",
+      "disc_no": 1,
+      "length": "5:17",
+      "no": 1,
+      "title": "Glad Lad"
+    },
+    {
+      "composer": [
+        "Leo Parker",
+        "Ike Quebec"
+      ],
+      "disc_no": 1,
+      "length": "5:06",
+      "no": 2,
+      "title": "Blue Leo"
+    },
+    {
+      "composer": "Robert Lewis",
+      "disc_no": 1,
+      "length": "4:18",
+      "no": 3,
+      "title": "Let Me Tell You 'bout It"
+    },
+    {
+      "composer": "Robert Lewis",
+      "disc_no": 1,
+      "length": "4:41",
+      "no": 4,
+      "title": "Vi"
+    },
+    {
+      "composer": "Leo Parker",
+      "disc_no": 1,
+      "length": "6:21",
+      "no": 5,
+      "title": "Parker's Pals"
+    },
+    {
+      "composer": "Yusef Salim",
+      "disc_no": 1,
+      "length": "5:49",
+      "no": 6,
+      "title": "Low Brown"
+    },
+    {
+      "composer": [
+        "Leo Parker",
+        "Bill Swindell"
+      ],
+      "disc_no": 1,
+      "length": "6:26",
+      "no": 7,
+      "title": "TCTB"
+    },
+    {
+      "composer": [
+        "Russell Jackquet",
+        "Leo Parker"
+      ],
+      "disc_no": 1,
+      "length": "4:26",
+      "no": 8,
+      "title": "The Lion's Roar"
+    },
+    {
+      "composer": "Yusef Salim",
+      "disc_no": 1,
+      "length": "8:24",
+      "no": 9,
+      "title": "Low Brown (Long Version)"
+    }
+  ]
+}

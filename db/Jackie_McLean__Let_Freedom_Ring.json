@@ -1,0 +1,85 @@
+{
+  "comment": "[殿堂入り] マクリーンがBN入りしてから新しいことにチャレンジできるようになってから最初の金字塔はまさに圧巻のものであった。ライナーノートのマクリーン自身の手による解説、若い才能を存分に震わせつつ自身は必殺フリジオ・フリーキートーンをついに会得、炸裂させ空間を切り裂いていく。",
+  "date": "2026/06/01",
+  "id": "BST 85106",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Post Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Jackie McLean",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Piano",
+        "name": "Walter Davis, Jr.",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Herbie Lewis",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Billy Higgins",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1962
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Let_Freedom_Ring"
+    }
+  ],
+  "release_year": 1963,
+  "score": 6,
+  "title": "Let Freedom Ring",
+  "tracks": [
+    {
+      "composer": "Jackie McLean",
+      "disc_no": 1,
+      "length": "13:24",
+      "no": 1,
+      "title": "Melody for Melonae"
+    },
+    {
+      "composer": "Bud Powell",
+      "disc_no": 1,
+      "length": "6:18",
+      "no": 2,
+      "title": "I'll Keep Loving You"
+    },
+    {
+      "composer": "Jackie McLean",
+      "disc_no": 1,
+      "length": "10:03",
+      "no": 3,
+      "title": "Rene"
+    },
+    {
+      "composer": "Jackie McLean",
+      "disc_no": 1,
+      "length": "8:31",
+      "no": 4,
+      "title": "Omega"
+    }
+  ]
+}
