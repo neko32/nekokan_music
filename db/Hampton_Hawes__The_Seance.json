@@ -1,0 +1,101 @@
+{
+  "comment": "1966年ライブ録音。ホーズの音楽はいつも東海岸のように聴こえる。しかしこのライブセッション、客はめんくらったのではないだろうか。中身はかなりアグレッシブな解釈の演奏でかなりアヴァンギャルド寄りな側面が強い。しかし骨太のハードバップでもある。レッド・ミッチェルのベースとベイリーのドラムが実に力強いサポートだ。",
+  "date": "2026/06/02",
+  "id": "S7621",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Contemporary",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Hampton Hawes",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Double Bass",
+        "name": "Red Mitchell",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Donald Bailey",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1966
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Seance_(album)"
+    }
+  ],
+  "release_year": 1969,
+  "score": 1,
+  "title": "The Seance",
+  "tracks": [
+    {
+      "composer": "Hampton Hawes",
+      "disc_no": 1,
+      "length": "7:57",
+      "no": 1,
+      "title": "The Seance"
+    },
+    {
+      "composer": "Sonny Rollins",
+      "disc_no": 1,
+      "length": "8:40",
+      "no": 2,
+      "title": "Oleo"
+    },
+    {
+      "composer": "Alan Rankin Jones",
+      "disc_no": 1,
+      "length": "5:42",
+      "no": 3,
+      "title": "Easy Street"
+    },
+    {
+      "composer": "Hampton Hawes",
+      "disc_no": 1,
+      "length": "6:56",
+      "no": 4,
+      "title": "Suddenly I Thought of You"
+    },
+    {
+      "composer": [
+        "Elise Bretton",
+        "Donald Meyer",
+        "Sherman Edwards"
+      ],
+      "disc_no": 1,
+      "length": "5:13",
+      "no": 5,
+      "title": "For Heaven's Sake"
+    },
+    {
+      "composer": [
+        "Richard Rodgers",
+        "Lorenz Hart"
+      ],
+      "disc_no": 1,
+      "length": "9:46",
+      "no": 6,
+      "title": "My Romance"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "comment": "黒人霊歌をアルバムのテーマとするコンセプト作品だがなぜか1987年までお蔵入りだったようだ。同じ黒人霊歌コンセプトアルバムであるグラント・グリーンのFeelin' the Spiritとはだいぶ趣が異なり、こちらは西海岸のテイストたっぷりな明るくアーシーさに富んだ内容となった。リロイのウォーキングベースが実にお見事。",
+  "date": "2026/06/02",
+  "id": "C 7653",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop",
+      "West Coast"
+    ]
+  },
+  "label": "Contemporary",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Hampton Hawes",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Double Bass",
+        "name": "Leroy Vinnegar",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Stan Levey",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1958
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Sermon_(Hampton_Hawes_album)"
+    }
+  ],
+  "release_year": 1987,
+  "score": 4,
+  "title": "The Sermon",
+  "tracks": [
+    {
+      "composer": "Traditional",
+      "disc_no": 1,
+      "length": "4:43",
+      "no": 1,
+      "title": "Down by the Riverside"
+    },
+    {
+      "composer": "Tradional",
+      "disc_no": 1,
+      "length": "5:00",
+      "no": 2,
+      "title": "Just a Closer Walk with Thee"
+    },
+    {
+      "composer": "Tradional",
+      "disc_no": 1,
+      "length": "4:52",
+      "no": 3,
+      "title": "Swing Low, Sweet Chariot"
+    },
+    {
+      "composer": "Tradional",
+      "disc_no": 1,
+      "length": "4:52",
+      "no": 4,
+      "title": "Nobody Knows the Trouble I've Seen"
+    },
+    {
+      "composer": "Tradional",
+      "disc_no": 1,
+      "length": "4:31",
+      "no": 5,
+      "title": "When the Roll Is Called Up Yonder"
+    },
+    {
+      "composer": "Tradional",
+      "disc_no": 1,
+      "length": "4:33",
+      "no": 6,
+      "title": "Go Down Moses"
+    },
+    {
+      "composer": "Tradional",
+      "disc_no": 1,
+      "length": "3:54",
+      "no": 7,
+      "title": "Joshua Fit de Battle of Jericho"
+    },
+    {
+      "composer": "Hampton Hawes",
+      "disc_no": 1,
+      "length": "8:49",
+      "no": 8,
+      "title": "Blues N/C"
+    }
+  ]
+}
