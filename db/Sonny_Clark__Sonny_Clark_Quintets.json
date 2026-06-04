@@ -1,0 +1,116 @@
+{
+  "comment": "なぜか日本で発掘されるまでお蔵入りとなっていたファン垂涎のBN最高ハードバップセッション集。ソニー・クラークがマクリーンとファーマーを迎えたもの、そしてこれがすごい、クリフジョーダンとバレルのフロントとラロカのドラム。内容もいうことない、最高の時間を楽しめるアルバム。",
+  "date": "2026/06/03",
+  "id": "LNJ 70093",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Sonny Clark",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Art Farmer",
+        "tracks": "1,2"
+      },
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Jackie McLean",
+        "tracks": "1,2"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Paul Chambers",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Philly Joe Jones",
+        "tracks": "1,2"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Clifford Jordan",
+        "tracks": "3-5"
+      },
+      {
+        "instruments": "Guitar",
+        "name": "Kenny Burrell",
+        "tracks": "3-5"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Pete LaRoca",
+        "tracks": "3-5"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1957,
+    1958
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sonny_Clark_Quintets"
+    }
+  ],
+  "release_year": 1976,
+  "score": 1,
+  "title": "Sonny Clark Quintets",
+  "tracks": [
+    {
+      "composer": "Sonny Clark",
+      "disc_no": 1,
+      "length": "9:03",
+      "no": 1,
+      "title": "Royal Flush"
+    },
+    {
+      "composer": [
+        "Richard Rodgers",
+        "Lorenz Hart"
+      ],
+      "disc_no": 1,
+      "length": "7:04",
+      "no": 2,
+      "title": "Lover"
+    },
+    {
+      "composer": "Sonny Clark",
+      "disc_no": 1,
+      "length": "6:54",
+      "no": 3,
+      "title": "Minor Meeting"
+    },
+    {
+      "composer": "Sonny Clark",
+      "disc_no": 1,
+      "length": "8:14",
+      "no": 4,
+      "title": "Eastern Incident"
+    },
+    {
+      "composer": "Sonny Clark",
+      "disc_no": 1,
+      "length": "6:32",
+      "no": 5,
+      "title": "Little Sonny"
+    }
+  ]
+}

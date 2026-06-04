@@ -1,0 +1,134 @@
+{
+  "comment": "[殿堂入り] 最初のBe-Bopに引き込まれたらもう抜け出せない蟻地獄。続くスタンダード、Two Bass Hit、Tadd's Delightも全て最良の演奏でアドレナリン満開。",
+  "date": "2026/06/03",
+  "id": "BLP 1579",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Sonny Clark",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Double Bass",
+        "name": "Paul Chambers",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Philly Joe Jones",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1957
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sonny_Clark_Trio"
+    }
+  ],
+  "release_year": 1958,
+  "score": 6,
+  "title": "Sonny Clark Trio",
+  "tracks": [
+    {
+      "composer": "Dizzy Gillespie",
+      "disc_no": 1,
+      "length": "9:54",
+      "no": 1,
+      "title": "Be-Bop"
+    },
+    {
+      "composer": [
+        "Richard Rodgers",
+        "Lorenz Hart"
+      ],
+      "disc_no": 1,
+      "length": "4:22",
+      "no": 2,
+      "title": "I Didn't Know What Time It Was"
+    },
+    {
+      "composer": [
+        "Dizzy Gillespie",
+        "John Lewis"
+      ],
+      "disc_no": 1,
+      "length": "3:45",
+      "no": 3,
+      "title": "Two Bass Hit"
+    },
+    {
+      "composer": "Tadd Dameron",
+      "disc_no": 1,
+      "length": "6:02",
+      "no": 4,
+      "title": "Tadd's Delight"
+    },
+    {
+      "composer": [
+        "Oscar Hammerstein II",
+        "Sigmund Romberg"
+      ],
+      "disc_no": 1,
+      "length": "6:33",
+      "no": 5,
+      "title": "Softly, As in a Morning Sunrise"
+    },
+    {
+      "composer": [
+        "Gene DePaul",
+        "Patricia Johnson",
+        "Don Raye"
+      ],
+      "disc_no": 1,
+      "length": "4:55",
+      "no": 6,
+      "title": "I'll Remember April"
+    },
+    {
+      "composer": [
+        "Richard Rodgers",
+        "Lorenz Hart"
+      ],
+      "disc_no": 1,
+      "length": "4:20",
+      "no": 7,
+      "title": "I Didn't Know What Time It Was [alt.take]"
+    },
+    {
+      "composer": [
+        "Dizzy Gillespie",
+        "John Lewis"
+      ],
+      "disc_no": 1,
+      "length": "4:01",
+      "no": 8,
+      "title": "Two Bass Hit [alt.take]"
+    },
+    {
+      "composer": "Tadd Dameron",
+      "disc_no": 1,
+      "length": "5:01",
+      "no": 9,
+      "title": "Tadd's Delight [alt.take]"
+    }
+  ]
+}

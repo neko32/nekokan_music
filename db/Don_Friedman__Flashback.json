@@ -1,0 +1,108 @@
+{
+  "comment": "クリアでビル・エヴァンスにも通じるリリシズムとそれを支えるのにベストなメンバーでのトリオ作品。ただ綺麗なだけでは終わらないエッジの利いたインタープレイもなかなかに刺激的。",
+  "date": "2026/06/03",
+  "id": "RLP 463",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop",
+      "Cool"
+    ]
+  },
+  "label": "Riverside",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Don Friedman",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Double Bass",
+        "name": "Dick Kniss",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Dick Berk",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1963
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Flashback_(Don_Friedman_album)"
+    }
+  ],
+  "release_year": 1963,
+  "score": 5,
+  "title": "Flashback",
+  "tracks": [
+    {
+      "composer": [
+        "Howard Dietz",
+        "Arthur Schwartz"
+      ],
+      "disc_no": 1,
+      "length": "4:38",
+      "no": 1,
+      "title": "Alone Together"
+    },
+    {
+      "composer": "Don Friedman",
+      "disc_no": 1,
+      "length": "6:25",
+      "no": 2,
+      "title": "Ballade in C-Sharp Minor"
+    },
+    {
+      "composer": [
+        "Lorenz Hart",
+        "Richard Rodgers"
+      ],
+      "disc_no": 1,
+      "length": "4:18",
+      "no": 3,
+      "title": "Wait 'Til You See There"
+    },
+    {
+      "composer": "Don Friedman",
+      "disc_no": 1,
+      "length": "4:59",
+      "no": 4,
+      "title": "News Blues"
+    },
+    {
+      "composer": "Don Friedman",
+      "disc_no": 1,
+      "length": "7:45",
+      "no": 5,
+      "title": "Ochre (Theme-Solo-Duet-Theme)"
+    },
+    {
+      "composer": "Irving Berlin",
+      "disc_no": 1,
+      "length": "5:49",
+      "no": 6,
+      "title": "How Deep Is the Ocean?"
+    },
+    {
+      "composer": "Don Friedman",
+      "disc_no": 1,
+      "length": "6:56",
+      "no": 7,
+      "title": "Flashback"
+    }
+  ]
+}
