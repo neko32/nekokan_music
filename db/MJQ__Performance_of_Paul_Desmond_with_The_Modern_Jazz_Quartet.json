@@ -1,0 +1,127 @@
+{
+  "comment": "MJQとポールデスモンドの相性はやはり予想通り大変よろしい。それが如実に証明されたことが分かるアルバムだが意外にもこれが唯一の共演とのこと。これはもったいない。。MJQとポールデスモンド、双方安定打者同士の安定した高値安定のパフォーマンス。バグスニューグルーブはバグスグルーブそのもの",
+  "date": "2026/06/04",
+  "id": "FW 37487",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop",
+      "Chamber Music"
+    ]
+  },
+  "label": "Finesse Records",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [
+      {
+        "abbr": "MJQ",
+        "members": [
+          {
+            "instruments": "Vibraphone",
+            "name": "Milt Jackson",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Piano",
+            "name": "John Lewis",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Double Bass",
+            "name": "Percy Heath",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Drums",
+            "name": "Connie Kay",
+            "tracks": "all"
+          }
+        ],
+        "name": "Modern Jazz Quartet"
+      }
+    ],
+    "leader": [],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Paul Desmond",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1971
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/ja/release/1836878-Paul-Desmond-With-The-Modern-Jazz-Quartet-The-Only-Recorded-Performance-Of-Paul-Desmond-With-The-Mod"
+    }
+  ],
+  "release_year": 1981,
+  "score": 4,
+  "title": "Performance of Paul Desmond with The Modern Jazz Quartet",
+  "tracks": [
+    {
+      "composer": "Tradional",
+      "disc_no": 1,
+      "length": "3:10",
+      "no": 1,
+      "title": "Greensleeves"
+    },
+    {
+      "composer": [
+        "Haven Gillespie",
+        "Fred Coots"
+      ],
+      "disc_no": 1,
+      "length": "7:56",
+      "no": 2,
+      "title": "You Go To My Head"
+    },
+    {
+      "composer": "Tradional",
+      "disc_no": 1,
+      "length": "4:55",
+      "no": 3,
+      "title": "Blue Dove"
+    },
+    {
+      "composer": [
+        "Andrew Lloyd Webber",
+        "Tim Rice"
+      ],
+      "disc_no": 1,
+      "length": "4:54",
+      "no": 4,
+      "title": "Jesus Christ Superstar"
+    },
+    {
+      "composer": [
+        "Jimmy Van Heusen",
+        "Johnny Bruke"
+      ],
+      "disc_no": 1,
+      "length": "4:50",
+      "no": 5,
+      "title": "Here's That Rainy Day"
+    },
+    {
+      "composer": "Brooks Bowman",
+      "disc_no": 1,
+      "length": "8:25",
+      "no": 6,
+      "title": "East of The Sun"
+    },
+    {
+      "composer": "Milt Jackson",
+      "disc_no": 1,
+      "length": "5:10",
+      "no": 7,
+      "title": "Bag's New Groove"
+    }
+  ]
+}
