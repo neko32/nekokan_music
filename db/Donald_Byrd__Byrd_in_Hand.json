@@ -1,0 +1,112 @@
+{
+  "comment": "ラウズ・アダムスとの三管の分厚いフロントにステディで強いリズム隊の盤石な布陣。バードのプレイもいつもながら饒舌だが何といってもラウズとの共演もレアで嬉しい。",
+  "date": "2026/06/05",
+  "id": "BLP 4019",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Trumpet",
+        "name": "Donald Byrd",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Charlie Rouse",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Baritone Saxophone",
+        "name": "Pepper Adams",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Walter Davis Jr.",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Sam Jones",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Art Taylor",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1959
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Byrd_in_Hand"
+    }
+  ],
+  "release_year": 1959,
+  "score": 5,
+  "title": "Byrd in Hand",
+  "tracks": [
+    {
+      "composer": [
+        "Cy Coleman",
+        "Carolyn Leigh"
+      ],
+      "disc_no": 1,
+      "length": "8:29",
+      "no": 1,
+      "title": "Witchcraft"
+    },
+    {
+      "composer": "Donald Byrd",
+      "disc_no": 1,
+      "length": "8:25",
+      "no": 2,
+      "title": "Here I Am"
+    },
+    {
+      "composer": "Donald Byrd",
+      "disc_no": 1,
+      "length": "4:42",
+      "no": 3,
+      "title": "Devil Whip"
+    },
+    {
+      "composer": "Walter Davis, Jr.",
+      "disc_no": 1,
+      "length": "6:42",
+      "no": 4,
+      "title": "Bronze Dance"
+    },
+    {
+      "composer": "Walter Davis, Jr.",
+      "disc_no": 1,
+      "length": "5:41",
+      "no": 5,
+      "title": "Clarion Calls"
+    },
+    {
+      "composer": "Donald Byrd",
+      "disc_no": 1,
+      "length": "6:13",
+      "no": 6,
+      "title": "The Injuns"
+    }
+  ]
+}
