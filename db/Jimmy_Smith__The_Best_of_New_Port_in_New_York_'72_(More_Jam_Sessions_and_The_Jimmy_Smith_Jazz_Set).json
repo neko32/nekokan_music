@@ -1,0 +1,185 @@
+{
+  "comment": "これは本当に夢のようなセッションでないだろうか。当時みなやっていた音楽はみんなバラバラ、しかしどうしてこうしてみんな真摯なジャズをやっていて感動的ですらある。新旧レジェンドそろい踏みの夢舞台。",
+  "date": "2026/06/05",
+  "id": "NEMCD 633",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Post Hard Bop"
+    ]
+  },
+  "label": "Sequel Records",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Organ",
+        "name": "Jimmy Smith",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Clark Terry",
+        "tracks": "all except 2"
+      },
+      {
+        "instruments": "Trumpet",
+        "name": "Howard McGhee",
+        "tracks": "1"
+      },
+      {
+        "instruments": "Trumpet",
+        "name": "Harry Edison",
+        "tracks": "2"
+      },
+      {
+        "instruments": "Trumpet",
+        "name": "Joe Newman",
+        "tracks": "3 & 4"
+      },
+      {
+        "instruments": "Trombone",
+        "name": "Kay Winding",
+        "tracks": "2"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Dexter Gordon",
+        "tracks": "1 & 2"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Sonny Stitt",
+        "tracks": "1"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Flip Philips",
+        "tracks": "2"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "James Moody",
+        "tracks": "2"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Zoot Sims",
+        "tracks": "all except 1"
+      },
+      {
+        "instruments": "Tenor Saxophone, Whistle",
+        "name": "Rahsaan Roland Kirk",
+        "tracks": "2"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Illinois Jacquet",
+        "tracks": "3 & 4"
+      },
+      {
+        "instruments": "Guitar",
+        "name": "Chuck Wayne",
+        "tracks": "2"
+      },
+      {
+        "instruments": "Guitar",
+        "name": "B.B. King",
+        "tracks": "3 & 4"
+      },
+      {
+        "instruments": "Guitar",
+        "name": "Kenny Burrell",
+        "tracks": "3 & 4"
+      },
+      {
+        "instruments": "Vibraphone",
+        "name": "Gary Burton",
+        "tracks": "1"
+      },
+      {
+        "instruments": "Piano",
+        "name": "George Duke",
+        "tracks": "1"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Herbie Hancock",
+        "tracks": "2"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Al McKibbon",
+        "tracks": "1"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Larry Ridley",
+        "tracks": "2"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Art Blakey",
+        "tracks": "1"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Tony Williams",
+        "tracks": "2"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Roy Haynes",
+        "tracks": "3 & 4"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1972
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/ja/release/6046629-Various-The-Best-Of-Newport-In-New-York-72-More-Jam-Sessions-And-The-Jimmy-Smith-Jazz-Set"
+    }
+  ],
+  "release_year": 1993,
+  "score": 5,
+  "title": "The Best of New Port in New York '72 (More Jam Sessions and The Jimmy Smith Jazz Set)",
+  "tracks": [
+    {
+      "composer": "Jimmy Smith",
+      "disc_no": 1,
+      "length": "28:11",
+      "no": 1,
+      "title": "Blue 'N' Boogie #1"
+    },
+    {
+      "composer": "Miles Davis",
+      "disc_no": 1,
+      "length": "25:13",
+      "no": 2,
+      "title": "So What"
+    },
+    {
+      "composer": "Jimmy Smith",
+      "disc_no": 1,
+      "length": "15:20",
+      "no": 3,
+      "title": "Blue 'N' Boogie #2"
+    },
+    {
+      "composer": "Miscellaneous",
+      "disc_no": 1,
+      "length": "7:44",
+      "no": 4,
+      "title": "Medley: What's New / Since I Fell For You / The Man I Love"
+    }
+  ]
+}
