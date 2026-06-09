@@ -1,0 +1,193 @@
+{
+  "comment": "ズート会心のワンホーン。高出力ドライブ能力を示すリズム隊を得てズートのソロはいつもながら、しかし更に流麗でよどみがない。ストレートアヘッドでスムーズに嫌味なく流れる音楽を楽しむには最適の一枚。",
+  "date": "2026/06/08",
+  "id": "BS-6051",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Bethlehem",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Zoot Sims",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Piano",
+        "name": "Dave McKenna",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "George Tucker",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Dannie Richmond",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1960
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Down_Home_(Zoot_Sims_album)"
+    }
+  ],
+  "release_year": 1960,
+  "score": 5,
+  "title": "Down Home",
+  "tracks": [
+    {
+      "composer": [
+        "Count Basie",
+        "Harry \"Sweets\" Edison"
+      ],
+      "disc_no": 1,
+      "length": "5:18",
+      "no": 1,
+      "title": "Jive at Five"
+    },
+    {
+      "composer": [
+        "Edgar Battle",
+        "Ray Evans"
+      ],
+      "disc_no": 1,
+      "length": "4:39",
+      "no": 2,
+      "title": "Doggin' Around"
+    },
+    {
+      "composer": [
+        "Buddy DeSylva",
+        "Al Jolson",
+        "Vincent Rose"
+      ],
+      "disc_no": 1,
+      "length": "4:29",
+      "no": 3,
+      "title": "Avalon"
+    },
+    {
+      "composer": [
+        "Gus Arnheim",
+        "Arthur Freed",
+        "Abe Lyman"
+      ],
+      "disc_no": 1,
+      "length": "6:50",
+      "no": 4,
+      "title": "I Cried for You"
+    },
+    {
+      "composer": "Hughie Cannon",
+      "disc_no": 1,
+      "length": "5:17",
+      "no": 5,
+      "title": "Bill Bailey"
+    },
+    {
+      "composer": [
+        "Jimmy Campbell",
+        "Reginald Connelly",
+        "Ray Noble"
+      ],
+      "disc_no": 1,
+      "length": "4:22",
+      "no": 6,
+      "title": "Goodnight, Sweetheart"
+    },
+    {
+      "composer": [
+        "Billy Higgins",
+        "W. Benton Overstreet"
+      ],
+      "disc_no": 1,
+      "length": "5:24",
+      "no": 7,
+      "title": "There'll Be Some Changes Made"
+    },
+    {
+      "composer": "Zoot Sims",
+      "disc_no": 1,
+      "length": "5:26",
+      "no": 8,
+      "title": "I've Heard That Blues Before"
+    },
+    {
+      "composer": [
+        "Billy Higgins",
+        "W. Benton Overstreet"
+      ],
+      "disc_no": 1,
+      "length": "6:46",
+      "no": 9,
+      "title": "There'll Be Some Changes Made [alt.take]"
+    },
+    {
+      "composer": [
+        "Count Basie",
+        "Harry \"Sweets\" Edison"
+      ],
+      "disc_no": 1,
+      "length": "6:17",
+      "no": 10,
+      "title": "Jive at Five [alt.take]"
+    },
+    {
+      "composer": [
+        "Edgar Battle",
+        "Ray Evans"
+      ],
+      "disc_no": 1,
+      "length": "3:36",
+      "no": 11,
+      "title": "Doggin' Around [alt.take]"
+    },
+    {
+      "composer": [
+        "Buddy DeSylva",
+        "Al Jolson",
+        "Vincent Rose"
+      ],
+      "disc_no": 1,
+      "length": "4:09",
+      "no": 12,
+      "title": "Avalon [alt.take]"
+    },
+    {
+      "composer": [
+        "Jimmy Campbell",
+        "Reginald Connelly",
+        "Ray Noble"
+      ],
+      "disc_no": 1,
+      "length": "5:09",
+      "no": 13,
+      "title": "Goodnight, Sweetheart [alt.take]"
+    },
+    {
+      "composer": "Hughie Cannon",
+      "disc_no": 1,
+      "length": "5:02",
+      "no": 14,
+      "title": "Bill Bailey [alt.take]"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "comment": "[殿堂入り] 濃い、トニカク濃いサザンステート満開ソウル・ファンク。ジャケット写真も秀逸で、もう胸やけして倒れそうなくらい激しい南部臭がすごい。パワー、ねちっこさ、南部っぽさ、いなたさ、全てが最高水準に至った。",
+  "date": "2026/06/08",
+  "id": "BST 84322",
+  "janre": {
+    "main": "Fusion",
+    "sub": [
+      "Funk"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Organ",
+        "name": "Brother Jack McDuff",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Jay Arnold",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Electric Guitar",
+        "name": "Charlie Freeman",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Electric Bass",
+        "name": "Unknown",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Sammy Creason",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Large Band",
+        "name": "Unknown Large Band",
+        "tracks": "2,3,6"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1969
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Down_Home_Style"
+    }
+  ],
+  "release_year": 1969,
+  "score": 6,
+  "title": "Down Home Style",
+  "tracks": [
+    {
+      "composer": "Brother Jack McDuff",
+      "disc_no": 1,
+      "length": "4:48",
+      "no": 1,
+      "title": "The Vibrator"
+    },
+    {
+      "composer": "Brother Jack McDuff",
+      "disc_no": 1,
+      "length": "5:06",
+      "no": 2,
+      "title": "Down Home Style"
+    },
+    {
+      "composer": [
+        "Hoagy Carmichael",
+        "Paul Rrancis Webster"
+      ],
+      "disc_no": 1,
+      "length": "4:16",
+      "no": 3,
+      "title": "Memphis in June"
+    },
+    {
+      "composer": "Brother Jack McDuff",
+      "disc_no": 1,
+      "length": "3:34",
+      "no": 4,
+      "title": "Theme from Electric Surfboard"
+    },
+    {
+      "composer": "Brother Jack McDuff",
+      "disc_no": 1,
+      "length": "3:48",
+      "no": 5,
+      "title": "It's All a Joke"
+    },
+    {
+      "composer": "Brother Jack McDuff",
+      "disc_no": 1,
+      "length": "4:08",
+      "no": 6,
+      "title": "Butter (For Yo Popcorn)"
+    },
+    {
+      "composer": [
+        "Eddie Brigati",
+        "Felix Cavaliere"
+      ],
+      "disc_no": 1,
+      "length": "5:18",
+      "no": 7,
+      "title": "Groovin'"
+    },
+    {
+      "composer": "Brother Jack McDuff",
+      "disc_no": 1,
+      "length": "8:01",
+      "no": 8,
+      "title": "As She Walked  Away"
+    }
+  ]
+}
