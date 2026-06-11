@@ -1,0 +1,95 @@
+{
+  "comment": "[殿堂入り] グレシャン・モンカー3世一世一代の大傑作にして新主流派の金字塔的アルバムの一つと言っていい。泣く子も黙る布陣にモンカーのダークでミステリアスな作風、新主流派の若手のエネルギー、マクリーンのBN進取の精神すべてが混ざり合って最良のアウトプットとなった。",
+  "date": "2026/06/10",
+  "id": "BST 84153",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "New Mainstream"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Trombone",
+        "name": "Grachan Moncur III",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Lee Morgan",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Jackie McLean",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Vibraphone",
+        "name": "Bobby Hutcherson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Bob Cranshaw",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Tony Williams",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1963
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Evolution_(Grachan_Moncur_III_album)"
+    }
+  ],
+  "release_year": 1964,
+  "score": 6,
+  "title": "Evolution",
+  "tracks": [
+    {
+      "composer": "Grachan Moncur III",
+      "disc_no": 1,
+      "length": "9:19",
+      "no": 1,
+      "title": "Air Raid"
+    },
+    {
+      "composer": "Grachan Moncur III",
+      "disc_no": 1,
+      "length": "12:24",
+      "no": 2,
+      "title": "Evolution"
+    },
+    {
+      "composer": "Grachan Moncur III",
+      "disc_no": 1,
+      "length": "11:39",
+      "no": 3,
+      "title": "The Coaster"
+    },
+    {
+      "composer": "Grachan Moncur III",
+      "disc_no": 1,
+      "length": "7:54",
+      "no": 4,
+      "title": "Monk in Wonderland"
+    }
+  ]
+}

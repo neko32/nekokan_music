@@ -1,0 +1,103 @@
+{
+  "comment": "大変緊張感にあふれたシリアスな70'ネオハードバップ。マルティーノもさることながらこのセッションの真の立役者はリチャードデイヴィスとビリーハートと思う。彼らの活き活きとした暴れっぷりはまるで1970年代前半フュージョンやファンクでまるでストレートジャズが終わったものと思われていた鬱憤を今とばかりはじき返しているよう。I Remember CliffordやBlue Bossa, Two Bass HitならぬThree Bass Hitもそういうことなのだろう。",
+  "date": "2026/06/10",
+  "id": "MR 5075",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Avrant-Garde",
+      "Neo Hard Bop"
+    ]
+  },
+  "label": "Muse",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Guitar",
+        "name": "Pat Martino",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Piano",
+        "name": "Gil Goldstein",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Richard Davis",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Billy Hart",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1976
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Exit_(Pat_Martino_album)"
+    }
+  ],
+  "release_year": 1977,
+  "score": 5,
+  "title": "Exit",
+  "tracks": [
+    {
+      "composer": "Pat Martino",
+      "disc_no": 1,
+      "length": "9:23",
+      "no": 1,
+      "title": "Exit"
+    },
+    {
+      "composer": "Duke Ellington",
+      "disc_no": 1,
+      "length": "7:30",
+      "no": 2,
+      "title": "Come Sunday"
+    },
+    {
+      "composer": "Pat Martino",
+      "disc_no": 1,
+      "length": "4:30",
+      "no": 3,
+      "title": "Three Base Hit"
+    },
+    {
+      "composer": [
+        "Henry Mancini",
+        "Johnny Mercer"
+      ],
+      "disc_no": 1,
+      "length": "4:47",
+      "no": 4,
+      "title": "Days of Wine and Roses"
+    },
+    {
+      "composer": "Kenny Dorham",
+      "disc_no": 1,
+      "length": "4:57",
+      "no": 5,
+      "title": "Blue Bossa"
+    },
+    {
+      "composer": "Benny Golson",
+      "disc_no": 1,
+      "length": "7:48",
+      "no": 6,
+      "title": "I Remember Clifford"
+    }
+  ]
+}
