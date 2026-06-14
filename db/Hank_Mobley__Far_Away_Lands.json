@@ -1,0 +1,104 @@
+{
+  "comment": "1960年代後半珍しい純粋ハードバップフォーマットの伝統芸能はファンにとっては実にありがたい。モブレーはおそらく他のアルバムに比べると調子が低めが否めず、おそらくそれがお蔵入りの原因だったのだろう。それでもモブレー作曲の曲はとても良いし、何よりヒギンスが乗りに乗っている。",
+  "date": "2026/06/11",
+  "id": "BST 84425",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Hank Mobley",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Donald Byrd",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Cedar Walton",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Ron Carter",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Billy Higgins",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1967
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Far_Away_Lands"
+    }
+  ],
+  "release_year": 1984,
+  "score": 4,
+  "title": "Far Away Lands",
+  "tracks": [
+    {
+      "composer": "Hank Mobley",
+      "disc_no": 1,
+      "length": "5:10",
+      "no": 1,
+      "title": "A Dad of This and That"
+    },
+    {
+      "composer": "Jimmy Heath",
+      "disc_no": 1,
+      "length": "5:36",
+      "no": 2,
+      "title": "Far Away Lands"
+    },
+    {
+      "composer": "Hank Mobley",
+      "disc_no": 1,
+      "length": "6:33",
+      "no": 3,
+      "title": "No Argument"
+    },
+    {
+      "composer": "Hank Mobley",
+      "disc_no": 1,
+      "length": "5:41",
+      "no": 4,
+      "title": "The Hippity Hop"
+    },
+    {
+      "composer": "Hank Mobley",
+      "disc_no": 1,
+      "length": "6:08",
+      "no": 5,
+      "title": "Bossa for Baby"
+    },
+    {
+      "composer": "Donald Byrd",
+      "disc_no": 1,
+      "length": "6:47",
+      "no": 6,
+      "title": "Soul Time"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "comment": "[殿堂入り] とにかく音が、録音の質がよい！コペンハーゲンのスタジオで日本のレーベルとプロデューサー。音楽の質を追求するのにこの上ないバックの布陣でもってこのレジェンド勢ぞろい。ドリューも７０年８０年と持ち前の流麗さにヨーロッパ移住による格調も加わりいよいよ本領発揮。",
+  "date": "2026/06/11",
+  "id": "RJL-8074",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Neo Hard Bop"
+    ]
+  },
+  "label": "Baystate",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Kenny Drew",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Double Bass",
+        "name": "Niels-Henning Orsted Pedersen",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Ed Thigpen",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1983
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/ja/release/3035155-Kenny-Drew-Trio-Fantasia"
+    }
+  ],
+  "release_year": 1984,
+  "score": 6,
+  "title": "Fantasia",
+  "tracks": [
+    {
+      "composer": "Kenny Drew",
+      "disc_no": 1,
+      "length": "7:33",
+      "no": 1,
+      "title": "Flight of Fancy"
+    },
+    {
+      "composer": "Frank Churchill",
+      "disc_no": 1,
+      "length": "5:37",
+      "no": 2,
+      "title": "Someday My Prince Will Come"
+    },
+    {
+      "composer": "Niels-Henning Orsted Pedersen",
+      "disc_no": 1,
+      "length": "6:24",
+      "no": 3,
+      "title": "Wishing-Hoping"
+    },
+    {
+      "composer": "Leigh Harline",
+      "disc_no": 1,
+      "length": "5:00",
+      "no": 4,
+      "title": "When You Wish Upon A Star"
+    },
+    {
+      "composer": "Kenny Drew",
+      "disc_no": 1,
+      "length": "8:54",
+      "no": 5,
+      "title": "Fantasia"
+    },
+    {
+      "composer": "Johnny Mercer",
+      "disc_no": 1,
+      "length": "5:05",
+      "no": 6,
+      "title": "Dream"
+    },
+    {
+      "composer": "Jimmy Van Heusen",
+      "disc_no": 1,
+      "length": "6:33",
+      "no": 7,
+      "title": "Polka Dots And Moonbeams"
+    },
+    {
+      "composer": "Ed Thigpen",
+      "disc_no": 1,
+      "length": "4:16",
+      "no": 8,
+      "title": "Children's Dance"
+    }
+  ]
+}
