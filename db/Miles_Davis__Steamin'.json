@@ -1,0 +1,123 @@
+{
+  "comment": "1956年のマラソンセッションから1961年にリリース。当時のマイルスクインテットでのスタンダード集で、ハイレベルな演奏ではあるがあまり面白みを感じないのはなぜか。",
+  "date": "2026/06/14",
+  "id": "PRLP 7200",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Prestige",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Trumpet",
+        "name": "Miles Davis",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "John Coltrane",
+        "tracks": "all except 3 & 6"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Red Garland",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Paul Chambers",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Philly Joe Jones",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1956
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Steamin%27_with_the_Miles_Davis_Quintet"
+    }
+  ],
+  "release_year": 1961,
+  "score": 3,
+  "title": "Steamin'",
+  "tracks": [
+    {
+      "composer": [
+        "Richard Dodgers",
+        "Oscar Hammerstein II"
+      ],
+      "disc_no": 1,
+      "length": "9:05",
+      "no": 1,
+      "title": "Surrey with the Fringe on Top"
+    },
+    {
+      "composer": [
+        "Dizzy Gilliespie",
+        "Kenny Clarke"
+      ],
+      "disc_no": 1,
+      "length": "6:09",
+      "no": 2,
+      "title": "Salt Peanuts"
+    },
+    {
+      "composer": [
+        "Sammy Fain",
+        "Jack Yellen",
+        "Herb Magidson"
+      ],
+      "disc_no": 1,
+      "length": "6:15",
+      "no": 3,
+      "title": "Something I Dreamed Last Night"
+    },
+    {
+      "composer": [
+        "Lew Pollack",
+        "Erno Rapee"
+      ],
+      "disc_no": 1,
+      "length": "7:49",
+      "no": 4,
+      "title": "Diane"
+    },
+    {
+      "composer": [
+        "Thelonious Monk",
+        "Victor Young"
+      ],
+      "disc_no": 1,
+      "length": "6:19",
+      "no": 5,
+      "title": "Well, You Needn't"
+    },
+    {
+      "composer": [
+        "Victor Young",
+        "Edward Heyman"
+      ],
+      "disc_no": 1,
+      "length": "4:23",
+      "no": 6,
+      "title": "When I Fall in Love"
+    }
+  ]
+}
