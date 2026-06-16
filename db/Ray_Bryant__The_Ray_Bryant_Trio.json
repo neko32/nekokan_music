@@ -1,0 +1,121 @@
+{
+  "comment": "このアルバムにはジャズの何たるか、何が重要なのかというスピリットがぎっしり詰まっている感じがする。レイ・ブライアントの黒くソウルに満ちた打鍵、リズム、ノリ..全てがジャズたるものは何かという教科書である。",
+  "date": "2026/06/15",
+  "id": "PR 7098",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Prestige",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Ray Bryant",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Double Bass",
+        "name": "Ike Issacs",
+        "tracks": "all except 2"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Specs Wright",
+        "tracks": "all except 2"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1957
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ray_Bryant_Trio_(1957_album)"
+    }
+  ],
+  "release_year": 1957,
+  "score": 5,
+  "title": "The Ray Bryant Trio",
+  "tracks": [
+    {
+      "composer": [
+        "Ray Evans",
+        "Jay Livingston",
+        "Victor Young"
+      ],
+      "disc_no": 1,
+      "length": "4:53",
+      "no": 1,
+      "title": "Golden Earrings"
+    },
+    {
+      "composer": [
+        "Earl Brent",
+        "Matt Dennis"
+      ],
+      "disc_no": 1,
+      "length": "3:23",
+      "no": 2,
+      "title": "Angel Eyes"
+    },
+    {
+      "composer": "Ray Bryant",
+      "disc_no": 1,
+      "length": "5:03",
+      "no": 3,
+      "title": "Blues Changes"
+    },
+    {
+      "composer": "Ray Bryant",
+      "disc_no": 1,
+      "length": "4:38",
+      "no": 4,
+      "title": "Splittin'"
+    },
+    {
+      "composer": "John Lewis",
+      "disc_no": 1,
+      "length": "5:05",
+      "no": 5,
+      "title": "Django"
+    },
+    {
+      "composer": [
+        "Lew Brown",
+        "Ray Henderson"
+      ],
+      "disc_no": 1,
+      "length": "4:56",
+      "no": 6,
+      "title": "The Thrill Is Gone"
+    },
+    {
+      "composer": "Clifford Brown",
+      "disc_no": 1,
+      "length": "4:04",
+      "no": 7,
+      "title": "Daahoud"
+    },
+    {
+      "composer": [
+        "Kenny Clarke",
+        "Gerald Wiggins"
+      ],
+      "disc_no": 1,
+      "length": "3:23",
+      "no": 8,
+      "title": "Sonar"
+    }
+  ]
+}

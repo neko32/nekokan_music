@@ -1,0 +1,116 @@
+{
+  "comment": "リラックスした緩さがなんともいい感じのセッション。とはいえサム・ジョーンズのくどめでトリッキーなベースといつものサイドメンとはややアグレッシブなフィリージョーは十分な刺激。ペッパーアダムスとブルーミッチェルのフロントも面白いコンビでGOOD",
+  "date": "2026/06/15",
+  "id": "JLP 87",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Jazzland",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Red Garland",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Blue Mitchell",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Baritone Saxophone",
+        "name": "Pepper Adams",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Sam Jones",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Philly Joe Jones",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1962
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Red%27s_Good_Groove"
+    }
+  ],
+  "release_year": 1962,
+  "score": 4,
+  "title": "Red's Good Groove",
+  "tracks": [
+    {
+      "composer": "Red Garland",
+      "disc_no": 1,
+      "length": "8:22",
+      "no": 1,
+      "title": "Red's Good Groove"
+    },
+    {
+      "composer": [
+        "George Gershwin",
+        "Ira Gershwin"
+      ],
+      "disc_no": 1,
+      "length": "4:44",
+      "no": 2,
+      "title": "Love Is Here to Stay"
+    },
+    {
+      "composer": [
+        "Harold Arlen",
+        "Johnny Mercer"
+      ],
+      "disc_no": 1,
+      "length": "5:54",
+      "no": 3,
+      "title": "This Time the Dream's on Me"
+    },
+    {
+      "composer": [
+        "Fred Markush",
+        "Mitchell Parish"
+      ],
+      "disc_no": 1,
+      "length": "5:35",
+      "no": 4,
+      "title": "Take Me in Your Arms"
+    },
+    {
+      "composer": "Pepper Adams",
+      "disc_no": 1,
+      "length": "6:05",
+      "no": 5,
+      "title": "Excerent!"
+    },
+    {
+      "composer": [
+        "Lorenz Hart",
+        "Richard Rodgers"
+      ],
+      "disc_no": 1,
+      "length": "6:06",
+      "no": 6,
+      "title": "Falling in Love with Love"
+    }
+  ]
+}
