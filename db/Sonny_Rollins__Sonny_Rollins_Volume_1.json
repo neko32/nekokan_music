@@ -1,0 +1,100 @@
+{
+  "comment": "まさに独壇場、という表現がぴったり。バードも当時大売出しのスーパー新人だったがやはりロリンズのこの縦横無尽、硬軟自在のソロにはまだ分が悪い。タフなリズム隊と有望な若手を得たうえで自分の好き勝手を自分のリーダーアルバムでやらかす、というまさに王道。",
+  "date": "2026/06/16",
+  "id": "BLP 1542",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Sonny Rollins",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Donald Byrd",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Wynton Kelly",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Gene Ramey",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Max Roach",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1956
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sonny_Rollins,_Volume_1"
+    }
+  ],
+  "release_year": 1957,
+  "score": 5,
+  "title": "Sonny Rollins Volume 1",
+  "tracks": [
+    {
+      "composer": "Sonny Rollins",
+      "disc_no": 1,
+      "length": "8:03",
+      "no": 1,
+      "title": "Decision"
+    },
+    {
+      "composer": "Sonny Rollins",
+      "disc_no": 1,
+      "length": "7:01",
+      "no": 2,
+      "title": "Bluesnote"
+    },
+    {
+      "composer": [
+        "Burton Lane",
+        "E.Y. \"Yip\" Harburg"
+      ],
+      "disc_no": 1,
+      "length": "6:20",
+      "no": 3,
+      "title": "How Are Things in Glocca Morra?"
+    },
+    {
+      "composer": "Sonny Rollins",
+      "disc_no": 1,
+      "length": "10:00",
+      "no": 4,
+      "title": "Plain Jane"
+    },
+    {
+      "composer": "Sonny Rollins",
+      "disc_no": 1,
+      "length": "9:36",
+      "no": 5,
+      "title": "Sonnysphere"
+    }
+  ]
+}
