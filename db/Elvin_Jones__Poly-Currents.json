@@ -1,0 +1,107 @@
+{
+  "comment": "熱血硬派エルヴィンここにあり。エルヴィン好みのピアノレスで、ここではギターレスでもあり更にピアノレス、つまり和音を鳴らす楽器はない超スパース音空間を縦横にエルヴィンのパワーポリリズミックドラミングが縦横する中ファレルやアダムス、コールマンらが吠えるという黄金の硬派モード。",
+  "date": "2026/06/17",
+  "id": "BST 84331",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Neo Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Drums",
+        "name": "Elvin Jones",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Flute",
+        "name": "Fred Tompkins",
+        "tracks": "4 & 5"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "George Coleman",
+        "tracks": "1-4"
+      },
+      {
+        "instruments": "Tenor Saxophone, English Horn, Flute, Bass Flute",
+        "name": "Joe Farrell",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Baritone Saxophone",
+        "name": "Pepper Adams",
+        "tracks": "1-3"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Wilbur Little",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Congas",
+        "name": "Candido Camero",
+        "tracks": "1-3"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1969
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Poly-Currents"
+    }
+  ],
+  "release_year": 1970,
+  "score": 5,
+  "title": "Poly-Currents",
+  "tracks": [
+    {
+      "composer": "Elvin Jones",
+      "disc_no": 1,
+      "length": "13:50",
+      "no": 1,
+      "title": "Agenda"
+    },
+    {
+      "composer": "Joe Farrell",
+      "disc_no": 1,
+      "length": "5:52",
+      "no": 2,
+      "title": "Agappe Love"
+    },
+    {
+      "composer": "Keiko Jones",
+      "disc_no": 1,
+      "length": "7:37",
+      "no": 3,
+      "title": "Mr. Jones"
+    },
+    {
+      "composer": "Fred Tompkins",
+      "disc_no": 1,
+      "length": "2:23",
+      "no": 4,
+      "title": "Yes"
+    },
+    {
+      "composer": "Wilbur Little",
+      "disc_no": 1,
+      "length": "9:34",
+      "no": 5,
+      "title": "Whew"
+    }
+  ]
+}

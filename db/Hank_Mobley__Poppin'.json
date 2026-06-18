@@ -1,0 +1,105 @@
+{
+  "comment": "1980年までお蔵入りはさすがに良くわからないこの超良質BNハードバップセッション。見方を変えればいかにそのころのBNが充実していたかということだろう。モブレーとアダムスとの共演は珍しく大変貴重で楽しいアルバム。モブレーのオリジナル曲も多くビッグボーナス。",
+  "date": "2026/06/17",
+  "id": "BLP 1620",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Hank Mobley",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Art Farmer",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Baritone Saxophone",
+        "name": "Pepper Adams",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Sonny Clark",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Paul Chambers",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Philly Joe Jones",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1957
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Poppin%27_(album)"
+    }
+  ],
+  "release_year": 1980,
+  "score": 1,
+  "title": "Poppin'",
+  "tracks": [
+    {
+      "composer": "Hank Mobley",
+      "disc_no": 1,
+      "length": "6:33",
+      "no": 1,
+      "title": "Poppin'"
+    },
+    {
+      "composer": [
+        "Eddie DeLange",
+        "Jimmy Van Heusen"
+      ],
+      "disc_no": 1,
+      "length": "6:10",
+      "no": 2,
+      "title": "Darn That Dream"
+    },
+    {
+      "composer": "Hank Mobley",
+      "disc_no": 1,
+      "length": "6:33",
+      "no": 3,
+      "title": "Gettin' Into Something"
+    },
+    {
+      "composer": "Miles Davis",
+      "disc_no": 1,
+      "length": "10:53",
+      "no": 4,
+      "title": "Tune-Up"
+    },
+    {
+      "composer": "Hank Mobley",
+      "disc_no": 1,
+      "length": "10:09",
+      "no": 5,
+      "title": "East of Brooklyn"
+    }
+  ]
+}
