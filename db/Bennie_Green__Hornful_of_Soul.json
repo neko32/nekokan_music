@@ -1,0 +1,143 @@
+{
+  "comment": "ベニーグリーンのアルバムは共通していい意味でのリラックス、ゆるさ、だるさ、楽しさといったものがあるが、BNのようなきっちり作品を仕上げるレーベルでさえもそんな調子があったのにベツレヘムといったレーベルでは余計その傾向が良くとれる。しかし決して悪いわけではなく、このラフさかげんはむしろBN外向きだったのかも。アート・テイラーもいつもよりラフな感じで楽しそう。",
+  "date": "2026/06/18",
+  "id": "BCP-6054",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop",
+      "Soul"
+    ]
+  },
+  "label": "Bethlehem",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Trombone",
+        "name": "Bennie Green",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Lem Davis",
+        "tracks": "2-4,6 & 7"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Jimmy Forest",
+        "tracks": "1-4,6 & 7"
+      },
+      {
+        "instruments": "Organ",
+        "name": "Skip Hall",
+        "tracks": "1,5 & 6"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Mal Waldron",
+        "tracks": "2-4,6 & 7"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Wyatt Ruther",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Art Taylor",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Congas",
+        "name": "Tommy Lopez",
+        "tracks": "1 & 6"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1960
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hornful_of_Soul"
+    }
+  ],
+  "release_year": 1961,
+  "score": 5,
+  "title": "Hornful of Soul",
+  "tracks": [
+    {
+      "composer": [
+        "George Gershwin",
+        "Ira Gershwin"
+      ],
+      "disc_no": 1,
+      "length": "4:55",
+      "no": 1,
+      "title": "Summertime"
+    },
+    {
+      "composer": "Bennie Green",
+      "disc_no": 1,
+      "length": "5:01",
+      "no": 2,
+      "title": "Groove One"
+    },
+    {
+      "composer": "Babs Gonzales",
+      "disc_no": 1,
+      "length": "6:24",
+      "no": 3,
+      "title": "Lowland-Ism"
+    },
+    {
+      "composer": "Babs Gonzales",
+      "disc_no": 1,
+      "length": "2:54",
+      "no": 4,
+      "title": "Dibblin' and Dabblin'"
+    },
+    {
+      "composer": [
+        "Ned Washington",
+        "Victor Young"
+      ],
+      "disc_no": 1,
+      "length": "4:03",
+      "no": 5,
+      "title": "My Foolish Heart"
+    },
+    {
+      "composer": [
+        "James F. Hanley",
+        "Ballard MacDonald"
+      ],
+      "disc_no": 1,
+      "length": "4:34",
+      "no": 6,
+      "title": "(Back Home Again in) Indiana"
+    },
+    {
+      "composer": "Mal Waldron",
+      "disc_no": 1,
+      "length": "5:37",
+      "no": 7,
+      "title": "Catwalk"
+    },
+    {
+      "composer": "Lee Davis",
+      "disc_no": 1,
+      "length": "5:24",
+      "no": 8,
+      "title": "Dee Dee"
+    }
+  ]
+}
