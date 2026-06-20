@@ -1,0 +1,103 @@
+{
+  "comment": "これは実にシリアスなジャズ。1970年代を代表するハードコア真摯ジャズは心に響く。Hello to the Wind - Bobby HutchersonのNowでも聴ける - をフラッグシップチューンに持ってきて長尺をやったのは正解。スタフォード・ジェームスのベースのこのパワーと響き！ロン・カーターばりの伸びは耳がダンボ化する。",
+  "date": "2026/06/19",
+  "id": "MR 5139",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Neo Hard Bop"
+    ]
+  },
+  "label": "Muse",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Trumpet",
+        "name": "Woody Shaw",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trombone",
+        "name": "Slide Hampton",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Alto Saxophone, Flute, Percussion",
+        "name": "Rene McLean",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tenor Saxophone, Soprano Saxophone, Percussion",
+        "name": "Frank Foster",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Ronnie Mathews",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Stafford James",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Louis Hayes",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1976
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Woody_Shaw_Concert_Ensemble_at_the_Berliner_Jazztage"
+    }
+  ],
+  "release_year": 1977,
+  "score": 5,
+  "title": "Thw Woody Shaw Concert Ensemble at the Berliner Jazztage",
+  "tracks": [
+    {
+      "composer": [
+        "Joe Chambers",
+        "Gene McDaniels"
+      ],
+      "disc_no": 1,
+      "length": "17:27",
+      "no": 1,
+      "title": "Hello to the Wind"
+    },
+    {
+      "composer": "Larry Young",
+      "disc_no": 1,
+      "length": "9:10",
+      "no": 2,
+      "title": "Obsequioius"
+    },
+    {
+      "composer": "Ronnie Mathews",
+      "disc_no": 1,
+      "length": "9:20",
+      "no": 3,
+      "title": "Jean Marie"
+    },
+    {
+      "composer": "Rene McLean",
+      "disc_no": 1,
+      "length": "12:24",
+      "no": 4,
+      "title": "In the Land of the Blacks (Bilad as Sudan)"
+    }
+  ]
+}

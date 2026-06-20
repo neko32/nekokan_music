@@ -1,0 +1,93 @@
+{
+  "comment": "フリードマンの叙情さがエレピを得て清浄で、ある意味健全化したような感じがする。知性あふれるサイドメンを従え大変理知的できれいなトリオ音楽のストリームを楽しめる。",
+  "date": "2026/06/19",
+  "id": "UCCJ-9156",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Neo Hard Bop"
+    ]
+  },
+  "label": "East Wind",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Electric Piano, Piano, Synthesizer",
+        "name": "Don Friedman",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass, Electric Bass",
+        "name": "Lyn Christie",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Bill Goodwin",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [],
+    "soloists": []
+  },
+  "record_year": [
+    1975
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/ja/release/7239646-Don-Friedman-Hope-For-Tomorrow"
+    }
+  ],
+  "release_year": 1975,
+  "score": 4,
+  "title": "Hope For Tomorrow",
+  "tracks": [
+    {
+      "composer": "Don Friedman",
+      "disc_no": 1,
+      "length": "10:24",
+      "no": 1,
+      "title": "Hope For Tomorrow"
+    },
+    {
+      "composer": "Lyn Christie",
+      "disc_no": 1,
+      "length": "5:46",
+      "no": 2,
+      "title": "A Place Within"
+    },
+    {
+      "composer": "Don Friedman",
+      "disc_no": 1,
+      "length": "4:25",
+      "no": 3,
+      "title": "Paula's Wish"
+    },
+    {
+      "composer": "Lyn Christie",
+      "disc_no": 1,
+      "length": "5:53",
+      "no": 4,
+      "title": "Beedies"
+    },
+    {
+      "composer": "Don Friedman",
+      "disc_no": 1,
+      "length": "5:10",
+      "no": 5,
+      "title": "Canvas On My Mind"
+    },
+    {
+      "composer": "Don Friedman",
+      "disc_no": 1,
+      "length": "6:05",
+      "no": 6,
+      "title": "Lullaby For Lynne"
+    }
+  ]
+}
