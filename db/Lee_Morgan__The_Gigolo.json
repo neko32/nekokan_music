@@ -1,0 +1,107 @@
+{
+  "comment": "The RumprollerとCornbreadの間、まさにその中間を行くようなアルバム。ヒギンスが絶好調の時期で、フロントもおおいに鼓舞されてショーター・モーガンもいい感じだ。ショーター提供のTrappedはもっと有名になっていい名曲。しかし注目すべきはハロルド・メイバーン。ハービーハンコックのように美しい和音を奏でる名プレイヤーであることを再認識。",
+  "date": "2026/06/20",
+  "id": "BST 84212",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Trumpet",
+        "name": "Lee Morgan",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Wayne Shorter",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Harold Mabern",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Bob Cranshaw",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Billy Higgins",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1965
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Gigolo_(album)"
+    }
+  ],
+  "release_year": 1968,
+  "score": 5,
+  "title": "The Gigolo",
+  "tracks": [
+    {
+      "composer": "Lee Morgan",
+      "disc_no": 1,
+      "length": "7:26",
+      "no": 1,
+      "title": "Yes I Can, No You Can't"
+    },
+    {
+      "composer": "Wayne Shorter",
+      "disc_no": 1,
+      "length": "5:59",
+      "no": 2,
+      "title": "Trapped"
+    },
+    {
+      "composer": "Lee Morgan",
+      "disc_no": 1,
+      "length": "5:32",
+      "no": 3,
+      "title": "Speedball"
+    },
+    {
+      "composer": "Lee Morgan",
+      "disc_no": 1,
+      "length": "11:07",
+      "no": 4,
+      "title": "The Gigolo"
+    },
+    {
+      "composer": [
+        "J. Fred Coots",
+        "Haven Gillespie"
+      ],
+      "disc_no": 1,
+      "length": "7:22",
+      "no": 5,
+      "title": "You Go to My Head"
+    },
+    {
+      "composer": "Lee Morgan",
+      "disc_no": 1,
+      "length": "10:04",
+      "no": 6,
+      "title": "The Gigolo (alt. take)"
+    }
+  ]
+}
