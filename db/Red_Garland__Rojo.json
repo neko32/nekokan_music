@@ -1,0 +1,109 @@
+{
+  "comment": "いつものトリオと趣向を変えてバレットを加えたラティーノテイストをひとつまみ。とはいえラテンの、言っては悪いが下品なノリにはならず、タイトル曲では地味なパーシップらしく、上品な、ある意味地味なコンガとドラムのトークもある。",
+  "date": "2026/06/21",
+  "id": "PRLP 7193",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Prestige",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Red Garland",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Double Bass",
+        "name": "George Joyner",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Charlie Persip",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Congas",
+        "name": "Ray Barretto",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1958
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rojo_(Red_Garland_album)"
+    }
+  ],
+  "release_year": 1961,
+  "score": 4,
+  "title": "Rojo",
+  "tracks": [
+    {
+      "composer": "Red Garland",
+      "disc_no": 1,
+      "length": "8:54",
+      "no": 1,
+      "title": "Rojo"
+    },
+    {
+      "composer": [
+        "Richard Rodgers",
+        "Oscar Hammerstein II"
+      ],
+      "disc_no": 1,
+      "length": "6:47",
+      "no": 2,
+      "title": "We Kiss in a Shadow"
+    },
+    {
+      "composer": "Anna Sosenko",
+      "disc_no": 1,
+      "length": "5:14",
+      "no": 3,
+      "title": "Darling Je Vous Aime Beacoup"
+    },
+    {
+      "composer": "Red Garland",
+      "disc_no": 1,
+      "length": "6:43",
+      "no": 4,
+      "title": "Ralph J. Gleason Blues"
+    },
+    {
+      "composer": [
+        "Bickley Reichner",
+        "Irvin Graham"
+      ],
+      "disc_no": 1,
+      "length": "5:11",
+      "no": 5,
+      "title": "You Better Go Now"
+    },
+    {
+      "composer": [
+        "Jerry Bock",
+        "George David Weiss",
+        "Larry Holofcener"
+      ],
+      "disc_no": 1,
+      "length": "8:14",
+      "no": 6,
+      "title": "Mr. Wonderful"
+    }
+  ]
+}
