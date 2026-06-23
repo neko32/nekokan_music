@@ -1,0 +1,108 @@
+{
+  "comment": "ソニー・クラークはまだまだ1954年の時点では独自性を出せておらず常識人のバド・パウエルといった様相の一介のバド・パウエルエピゴーネンであったことがわかる。しかしこのノリはこの先大物になるのがしっかり伝わる。録音のクオリティがひどいのがたまにきず。",
+  "date": "2026/06/22",
+  "id": "Xanadu 121",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Bebop"
+    ]
+  },
+  "label": "Xanadu Records",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Sonny Clark",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Double Bass",
+        "name": "Simon Brehm",
+        "tracks": "Some"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Bobby White",
+        "tracks": "Some"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1954
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/ja/release/3859433-Sonny-Clark-The-Sonny-Clark-Memorial-Album"
+    }
+  ],
+  "release_year": 1976,
+  "score": 3,
+  "title": "1954 Memorial Album",
+  "tracks": [
+    {
+      "composer": "Sonny Clark",
+      "disc_no": 1,
+      "length": "4:04",
+      "no": 1,
+      "title": "Improvisation No.1"
+    },
+    {
+      "composer": [
+        "Walter Jurmann",
+        "Gus Kahn",
+        "Bronislaw Kaper"
+      ],
+      "disc_no": 1,
+      "length": "1:54",
+      "no": 2,
+      "title": "All God's Chillun Got Rhythm"
+    },
+    {
+      "composer": "Miscellaneous",
+      "disc_no": 1,
+      "length": "4:31",
+      "no": 3,
+      "title": "Body and Soul / Jeepers Creepers"
+    },
+    {
+      "composer": "Sonny Clark",
+      "disc_no": 1,
+      "length": "10:58",
+      "no": 4,
+      "title": "Oslo"
+    },
+    {
+      "composer": "Sonny Clark",
+      "disc_no": 1,
+      "length": "6:58",
+      "no": 5,
+      "title": "Improvisation No.2"
+    },
+    {
+      "composer": "Densil Best",
+      "disc_no": 1,
+      "length": "2:40",
+      "no": 6,
+      "title": "Move"
+    },
+    {
+      "composer": [
+        "Turner Layton",
+        "Henry Creamer"
+      ],
+      "disc_no": 1,
+      "length": "13:21",
+      "no": 7,
+      "title": "After You've Gone"
+    }
+  ]
+}
