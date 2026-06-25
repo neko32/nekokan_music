@@ -1,0 +1,98 @@
+{
+  "comment": "[殿堂入り] これはなんとすばらしいコンビネーションだろうか。ジャマルの急なオーケストラヒット風ブロック後静止、突然のリズム変調、スパース化等いろいろリズム隊泣かせのテクニックを縦横無尽に駆使に対してしっかり遅れも先走りもなくついてくるアデヨラとクロスリー。バートンはさすがの貫禄。ジャズの究極進化系の一つをここに見る。",
+  "date": "2026/06/24",
+  "id": "PC-51004",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Neo Hard Bop"
+    ]
+  },
+  "label": "Personal Choice Records",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Ahmad Jamal",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Vibraphone",
+        "name": "Gary Burton",
+        "tracks": "2-5"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Sabu Adeyola",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Payton Crossley",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1981
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/In_Concert_(Ahmad_Jamal_album)"
+    }
+  ],
+  "release_year": 1981,
+  "score": 6,
+  "title": "In Concert",
+  "tracks": [
+    {
+      "composer": [
+        "Luiz Bonfa",
+        "Antonio Maria"
+      ],
+      "disc_no": 1,
+      "length": "10:55",
+      "no": 1,
+      "title": "Morning of the Carnival"
+    },
+    {
+      "composer": "Sigidi Abdullah",
+      "disc_no": 1,
+      "length": "9:53",
+      "no": 2,
+      "title": "One"
+    },
+    {
+      "composer": "Richard Evans",
+      "disc_no": 1,
+      "length": "10:36",
+      "no": 3,
+      "title": "Bogota"
+    },
+    {
+      "composer": "Chick Corea",
+      "disc_no": 1,
+      "length": "4:41",
+      "no": 4,
+      "title": "Tones for Joan's Bones"
+    },
+    {
+      "composer": [
+        "Joseph Kosma",
+        "Jacques Prevert"
+      ],
+      "disc_no": 1,
+      "length": "6:00",
+      "no": 5,
+      "title": "Autumn Leaves"
+    }
+  ]
+}

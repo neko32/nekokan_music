@@ -1,0 +1,132 @@
+{
+  "comment": "ホレスシルバーに受け継がれたこの大迫力左パンチとブレイキーの大迫力ドラムでこのアルバムはもうビバップの必聴盤の一つといっていい。曲名がやっつけなのも実にビバップらしくて良い。",
+  "date": "2026/06/24",
+  "id": "BNP 11498",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Bebop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Elmo Hope",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Charles Freeman Lee",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Frank Foster",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Percy Heath",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Art Blakey",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1954
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Trio_and_Quintet"
+    }
+  ],
+  "release_year": 1954,
+  "score": 5,
+  "title": "Elmo Hope Quintet Vol.2",
+  "tracks": [
+    {
+      "composer": "Elmo Hope",
+      "disc_no": 1,
+      "length": "4:17",
+      "no": 1,
+      "title": "Crazy"
+    },
+    {
+      "composer": "Elmo Hope",
+      "disc_no": 1,
+      "length": "3:48",
+      "no": 2,
+      "title": "Abdullah"
+    },
+    {
+      "composer": "Elmo Hope",
+      "disc_no": 1,
+      "length": "3:35",
+      "no": 3,
+      "title": "Chips"
+    },
+    {
+      "composer": "Elmo Hope",
+      "disc_no": 1,
+      "length": "4:01",
+      "no": 4,
+      "title": "Later for You"
+    },
+    {
+      "composer": "Elmo Hope",
+      "disc_no": 1,
+      "length": "4:12",
+      "no": 5,
+      "title": "Low Tide"
+    },
+    {
+      "composer": "Elmo Hope",
+      "disc_no": 1,
+      "length": "4:24",
+      "no": 6,
+      "title": "Maybe So"
+    },
+    {
+      "composer": "Elmo Hope",
+      "disc_no": 1,
+      "length": "4:23",
+      "no": 7,
+      "title": "Crazy [alt. take]"
+    },
+    {
+      "composer": "Elmo Hope",
+      "disc_no": 1,
+      "length": "6:08",
+      "no": 8,
+      "title": "So Nice"
+    },
+    {
+      "composer": "Elmo Hope",
+      "disc_no": 1,
+      "length": "5:56",
+      "no": 9,
+      "title": "St. Elmo's Fire"
+    },
+    {
+      "composer": "Elmo Hope",
+      "disc_no": 1,
+      "length": "4:45",
+      "no": 10,
+      "title": "Vaun Ex"
+    }
+  ]
+}
