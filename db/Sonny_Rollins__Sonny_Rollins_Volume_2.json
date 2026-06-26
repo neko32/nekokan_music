@@ -1,0 +1,118 @@
+{
+  "comment": "正にジャズ・ジャイアント、レジェンド中のレジェンドばかりをサイドメン(!)に召喚した最強アルバム。このメンツで割ろうはずがない、まさに王道のジャズアルバムである。BNらしからぬラフな部分もあることはあるがそれもまたロリンズの豪快さを目立たせるかのようにも思える。",
+  "date": "2026/06/25",
+  "id": "BLP 1558",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Sonny Rollins",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trombone",
+        "name": "Jay Jay Johnson",
+        "tracks": "all except 4"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Horace Silver",
+        "tracks": "all except 3 & 4"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Thelonious Monk",
+        "tracks": "3 & 4"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Paul Chambers",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Art Blakey",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1957
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sonny_Rollins,_Vol._2"
+    }
+  ],
+  "release_year": 1957,
+  "score": 5,
+  "title": "Sonny Rollins Volume 2",
+  "tracks": [
+    {
+      "composer": "Sonny Rollins",
+      "disc_no": 1,
+      "length": "5:44",
+      "no": 1,
+      "title": "Why Don't I?"
+    },
+    {
+      "composer": "Sonny Rollins",
+      "disc_no": 1,
+      "length": "6:11",
+      "no": 2,
+      "title": "Wail March"
+    },
+    {
+      "composer": [
+        "Thelonious Monk",
+        "Denzil Best"
+      ],
+      "disc_no": 1,
+      "length": "9:24",
+      "no": 3,
+      "title": "Misterioso"
+    },
+    {
+      "composer": "Thelonious Monk",
+      "disc_no": 1,
+      "length": "7:03",
+      "no": 4,
+      "title": "Reflections"
+    },
+    {
+      "composer": [
+        "Nacio Herb Brown",
+        "Gus Kahn"
+      ],
+      "disc_no": 1,
+      "length": "6:24",
+      "no": 5,
+      "title": "You Stepped Out of a Dream"
+    },
+    {
+      "composer": [
+        "Raymond Hubbell",
+        "John Golden"
+      ],
+      "disc_no": 1,
+      "length": "6:06",
+      "no": 6,
+      "title": "Poor Butterfly"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "comment": "ザ・イージーリスニングで疲れた時にほんとにちょうどいい感じ。ブルー・ミッチェルの軽くて耳ざわりの良いトランペットはベストマッチ。1961年録音とは思えない古臭さがまたいい。",
+  "date": "2026/06/25",
+  "id": "RLP 367",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Cool",
+      "Bigband"
+    ]
+  },
+  "label": "Riverside",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Trumpet",
+        "name": "Blue Mitchell",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Burt Collins",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Trumpet",
+        "name": "Bernie Glow",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Trumpet",
+        "name": "Clark Terry",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Trombone",
+        "name": "Jimmy Cleveland",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Trombone",
+        "name": "Urbie Green",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Trombone",
+        "name": "Julian Priester",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Trombone",
+        "name": "Britt Woodman",
+        "tracks": "all"
+      },
+      {
+        "instruments": "French Horn",
+        "name": "Willie Ruff",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Tommy Flanagan",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Tommy Williams",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Philly Joe Jones",
+        "tracks": "1-3,7,9,10"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Charlie Persip",
+        "tracks": "4-6,8"
+      },
+      {
+        "instruments": "Arranger",
+        "name": "Tadd Dameron",
+        "tracks": "1-3,5-8"
+      },
+      {
+        "instruments": "Arranger",
+        "name": "Benny Golson",
+        "tracks": "4,9,10"
+      },
+      {
+        "instruments": "Conductor",
+        "name": "Harry Lookofsky",
+        "tracks": "all"
+      },
+      {
+        "instruments": "String Orchestra",
+        "name": "Unidentified String Orchestra",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1961
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Smooth_as_the_Wind"
+    }
+  ],
+  "release_year": 1961,
+  "score": 4,
+  "title": "Smooth as the Wind",
+  "tracks": [
+    {
+      "composer": "Tadd Dameron",
+      "disc_no": 1,
+      "length": "5:10",
+      "no": 1,
+      "title": "Smooth as the Wind"
+    },
+    {
+      "composer": [
+        "Johnny Burke",
+        "Jimmy Van Heusen"
+      ],
+      "disc_no": 1,
+      "length": "3:35",
+      "no": 2,
+      "title": "But Beautiful"
+    },
+    {
+      "composer": [
+        "Buddy DeSylva",
+        "Lew Brown",
+        "Ray Henderson"
+      ],
+      "disc_no": 1,
+      "length": "3:18",
+      "no": 3,
+      "title": "The Best Things in Life Are Free"
+    },
+    {
+      "composer": "Horace Silver",
+      "disc_no": 1,
+      "length": "3:53",
+      "no": 4,
+      "title": "Peace"
+    },
+    {
+      "composer": [
+        "Elise Bretton",
+        "Sherman Edwards",
+        "Donald Meyer"
+      ],
+      "disc_no": 1,
+      "length": "3:32",
+      "no": 5,
+      "title": "For Heaven's Sake"
+    },
+    {
+      "composer": [
+        "Hoagy Carmichael",
+        "Ned Washington"
+      ],
+      "disc_no": 1,
+      "length": "3:22",
+      "no": 6,
+      "title": "The Nearness of You"
+    },
+    {
+      "composer": "Tadd Dameron",
+      "disc_no": 1,
+      "length": "4:52",
+      "no": 7,
+      "title": "A Blue Time"
+    },
+    {
+      "composer": "Horace Silver",
+      "disc_no": 1,
+      "length": "3:16",
+      "no": 8,
+      "title": "Strollin'"
+    },
+    {
+      "composer": [
+        "J. Fred Coots",
+        "Sam M. Lewis"
+      ],
+      "disc_no": 1,
+      "length": "3:21",
+      "no": 9,
+      "title": "For All We Know"
+    },
+    {
+      "composer": [
+        "Joel Herron",
+        "Frank Sinatra",
+        "Jack Wolf"
+      ],
+      "disc_no": 1,
+      "length": "3:37",
+      "no": 10,
+      "title": "I'm a Fool to Want You"
+    }
+  ]
+}

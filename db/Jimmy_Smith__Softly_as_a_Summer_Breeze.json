@@ -1,0 +1,117 @@
+{
+  "comment": "1965年4200番台トップバッターに待ってましたとばかりスミスがまだハードバッパーのころの残り物を引っ張り出した..というのはまぁ正直商業的理由を感じなくもない。とはいえ、正直ソウル時代そしてVerveのビッグバンドゴージャス志向商業主義に辟易していたファンにといっては大変嬉しい一品。あまりもので小ぶりの歌もの中心とはいえどフィリージョーとの掛け合いもなかなかスリリングなものもあったりしてGood。",
+  "date": "2026/06/25",
+  "id": "BST 42000",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Organ",
+        "name": "Jimmy Smith",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Guitar",
+        "name": "Kenny Burrell",
+        "tracks": "1-4"
+      },
+      {
+        "instruments": "Guitar",
+        "name": "Eddie McFadden",
+        "tracks": "5 & 6"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Philly Joe Jones",
+        "tracks": "1-4"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Donald Bailey",
+        "tracks": "5 & 6"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1958
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Softly_as_a_Summer_Breeze"
+    }
+  ],
+  "release_year": 1965,
+  "score": 4,
+  "title": "Softly as a Summer Breeze",
+  "tracks": [
+    {
+      "composer": [
+        "Harry Link",
+        "Holt Marvell",
+        "Jack Strachey"
+      ],
+      "disc_no": 1,
+      "length": "5:27",
+      "no": 1,
+      "title": "These Foolish Things"
+    },
+    {
+      "composer": "Thelonious Monk",
+      "disc_no": 1,
+      "length": "5:58",
+      "no": 2,
+      "title": "Hackensack"
+    },
+    {
+      "composer": [
+        "Johnny Burke",
+        "Jimmy Van Heusen"
+      ],
+      "disc_no": 1,
+      "length": "6:16",
+      "no": 3,
+      "title": "It Could Happen to You"
+    },
+    {
+      "composer": [
+        "Irving Caesar",
+        "Vincent Youmans"
+      ],
+      "disc_no": 1,
+      "length": "8:21",
+      "no": 4,
+      "title": "Sometimes I'm Happy"
+    },
+    {
+      "composer": [
+        "George Gershwin",
+        "Ira Gershwin"
+      ],
+      "disc_no": 1,
+      "length": "6:30",
+      "no": 5,
+      "title": "Someone to Watch Over Me"
+    },
+    {
+      "composer": "Jimmy Smith",
+      "disc_no": 1,
+      "length": "4:46",
+      "no": 6,
+      "title": "One for Philly Joe (aka. Home Cookin')"
+    }
+  ]
+}

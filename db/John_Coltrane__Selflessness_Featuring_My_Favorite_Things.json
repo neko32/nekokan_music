@@ -1,0 +1,108 @@
+{
+  "comment": "スピリチュアルコルトレーン + カルテット拡大路線真っ最中。ファラオ・サンダースが目指した音楽の原点がまさにSelflessnessであったことは間違いない。スピリチュアルな波動が永遠に続くかのような桃源郷の危うさ。ダブルベースにダブルドラム。これはすごいとしか。。最初の二曲目はライブでの録音だがエルヴィンではなくロイ・ヘインズなのが面白い。このころのヘインズはもう本当に最強だったから言わずもがな、実に素晴らしいドラミングでコルトレーンカルテットを鼓舞している。",
+  "date": "2026/06/25",
+  "id": "AS-9161",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop",
+      "Avrant-Garde"
+    ]
+  },
+  "label": "Impulse!",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone, Soprano Saxophone",
+        "name": "John Coltrane",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Pharoah Sanders",
+        "tracks": "3"
+      },
+      {
+        "instruments": "Piano",
+        "name": "McCoy Tyner",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Jimmy Garrison",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass, Bass Clarinet",
+        "name": "Donald Garrett",
+        "tracks": "3"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Roy Haynes",
+        "tracks": "1 & 2"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Elvin Jones",
+        "tracks": "3"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Frank Butler",
+        "tracks": "3"
+      },
+      {
+        "instruments": "Vocals, Percussion",
+        "name": "Juno Lewis",
+        "tracks": "3"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1963,
+    1965
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Selflessness:_Featuring_My_Favorite_Things"
+    }
+  ],
+  "release_year": 1969,
+  "score": 5,
+  "title": "Selflessness Featuring My Favorite Things",
+  "tracks": [
+    {
+      "composer": [
+        "Richard Rodgers",
+        "Oscar Hammerstein II"
+      ],
+      "disc_no": 1,
+      "length": "17:31",
+      "no": 1,
+      "title": "My Favorite Things"
+    },
+    {
+      "composer": "Billy Eckstine",
+      "disc_no": 1,
+      "length": "8:17",
+      "no": 2,
+      "title": "I Want to Talk About You"
+    },
+    {
+      "composer": "John Coltrane",
+      "disc_no": 1,
+      "length": "15:09",
+      "no": 3,
+      "title": "Selflessness"
+    }
+  ]
+}
