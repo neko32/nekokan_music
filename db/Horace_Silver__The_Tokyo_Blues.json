@@ -1,0 +1,97 @@
+{
+  "comment": "シルバークインテット日本ツアー後に日本での経験をもとにしたインスピレーションによる準コンセプトアルバム、とはいってもやはりいつものシルバークインテットの安心・安全な出来。ただこのアルバムの一つ面白いところはドラムがヘイズでもブルックスでもなくジョー・ハリス。ガレスピー楽団の重鎮ドラマーが鎮座。",
+  "date": "2026/06/26",
+  "id": "BST 84110",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Horace Silver",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Blue Mitchell",
+        "tracks": "all except 4"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Junior Cook",
+        "tracks": "all except 4"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Gene Taylor",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Joe Harris",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1962
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Doin%27_the_Thing"
+    }
+  ],
+  "release_year": 1962,
+  "score": 1,
+  "title": "The Tokyo Blues",
+  "tracks": [
+    {
+      "composer": "Horace Silver",
+      "disc_no": 1,
+      "length": "6:45",
+      "no": 1,
+      "title": "Too Much Sake"
+    },
+    {
+      "composer": "Horace Silver",
+      "disc_no": 1,
+      "length": "12:12",
+      "no": 2,
+      "title": "Sayonara Blues"
+    },
+    {
+      "composer": "Horace Silver",
+      "disc_no": 1,
+      "length": "7:39",
+      "no": 3,
+      "title": "The Tokyo Blues"
+    },
+    {
+      "composer": "Ronnell Bright",
+      "disc_no": 1,
+      "length": "6:11",
+      "no": 4,
+      "title": "Cherry Blossom"
+    },
+    {
+      "composer": "Horace Silver",
+      "disc_no": 1,
+      "length": "7:05",
+      "no": 5,
+      "title": "Ah! So"
+    }
+  ]
+}
