@@ -1,0 +1,111 @@
+{
+  "comment": "バード・フラー・コルトレーン！クラーク・チェンバース・アーサーテイラー！ブルーノート！もう言うことはないでしょう",
+  "date": "2026/06/27",
+  "id": "BLP 1576",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Sonny Clark",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Donald Byrd",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Trombone",
+        "name": "Curtis Fuller",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "John Coltrane",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Paul Chambers",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Art Taylor",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1957
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sonny%27s_Crib"
+    }
+  ],
+  "release_year": 1958,
+  "score": 5,
+  "title": "Sonny's Crib",
+  "tracks": [
+    {
+      "composer": [
+        "Richard Rodgers",
+        "Lorenz Hart"
+      ],
+      "disc_no": 1,
+      "length": "7:54",
+      "no": 1,
+      "title": "With a Song in My Heart"
+    },
+    {
+      "composer": [
+        "Kurt Weill",
+        "Ogden Nash"
+      ],
+      "disc_no": 1,
+      "length": "6:50",
+      "no": 2,
+      "title": "Speak Low"
+    },
+    {
+      "composer": [
+        "Harold Arlen",
+        "Johnny Mercer"
+      ],
+      "disc_no": 1,
+      "length": "7:29",
+      "no": 3,
+      "title": "Come Rain or Come Shine"
+    },
+    {
+      "composer": "Sonny Clark",
+      "disc_no": 1,
+      "length": "13:31",
+      "no": 4,
+      "title": "Sonny's Crib"
+    },
+    {
+      "composer": "Sonny Clark",
+      "disc_no": 1,
+      "length": "8:34",
+      "no": 5,
+      "title": "News for Lulu"
+    }
+  ]
+}

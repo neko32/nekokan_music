@@ -1,0 +1,138 @@
+{
+  "comment": "渋めなサイドメンを迎えスティットがパーカーのごとき巧みな饒舌っぷりを見せつける快作。全曲通してシャドウウィルソンがドラムをたたいているなかなか珍しい作品。ハンク・ジョーンズの華麗なピアノプレイもGOOD",
+  "date": "2026/06/27",
+  "id": "RLP 2226",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Roost",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Sonny Stitt",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Piano",
+        "name": "Hank Jones",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Wendell Marshall",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Shadow Wilson",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1957
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sonny_Stitt_with_the_New_Yorkers"
+    }
+  ],
+  "release_year": 1957,
+  "score": 4,
+  "title": "Sonny Stitt with the New Yorkers",
+  "tracks": [
+    {
+      "composer": [
+        "Ray Henderson",
+        "Lew Brown",
+        "Buddy DeSylva"
+      ],
+      "disc_no": 1,
+      "length": "5:00",
+      "no": 1,
+      "title": "The Best Things in Life Are Free"
+    },
+    {
+      "composer": "Sonny Stitt",
+      "disc_no": 1,
+      "length": "3:40",
+      "no": 2,
+      "title": "Engos, the Bloos"
+    },
+    {
+      "composer": [
+        "Oscar Hammerstein II",
+        "Richard Rodgers"
+      ],
+      "disc_no": 1,
+      "length": "5:40",
+      "no": 3,
+      "title": "It Might As Well Be Spring"
+    },
+    {
+      "composer": "Ray Noble",
+      "disc_no": 1,
+      "length": "4:05",
+      "no": 4,
+      "title": "Cherokee"
+    },
+    {
+      "composer": [
+        "Lorenz Hart",
+        "Richard Rodgers"
+      ],
+      "disc_no": 1,
+      "length": "4:30",
+      "no": 5,
+      "title": "I Didn't Know What Time It Was"
+    },
+    {
+      "composer": [
+        "Edward Heyman",
+        "Robert Sour",
+        "Frank Eyton",
+        "Johnny Green"
+      ],
+      "disc_no": 1,
+      "length": "3:52",
+      "no": 6,
+      "title": "Body and Soul"
+    },
+    {
+      "composer": [
+        "Oscar Hammerstein II",
+        "Richard Rodgers"
+      ],
+      "disc_no": 1,
+      "length": "4:50",
+      "no": 7,
+      "title": "PEople Will Say We're in Love"
+    },
+    {
+      "composer": "Sonny Stitt",
+      "disc_no": 1,
+      "length": "3:45",
+      "no": 8,
+      "title": "Bloosey"
+    },
+    {
+      "composer": "Sonny Stitt",
+      "disc_no": 1,
+      "length": "4:15",
+      "no": 9,
+      "title": "Bird's Eye"
+    }
+  ]
+}
