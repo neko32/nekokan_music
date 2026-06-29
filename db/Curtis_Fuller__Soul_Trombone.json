@@ -1,0 +1,120 @@
+{
+  "comment": "カーティスフラーと強力なサイドメンによるステーブルなハードバップ。シリアスハードバップに加えサザンテイストのアクがやや強めになっていくのもこの時期のフラーの特徴かもしれない。",
+  "date": "2026/06/28",
+  "id": "A/AS 13",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Impulse!",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Trombone",
+        "name": "Curtis Fuller",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Freddie Hubbard",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Jimmy Heath",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Cedar Walton",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Jymie Merritt",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Jimmy Cobb",
+        "tracks": "all except 5"
+      },
+      {
+        "instruments": "Drums",
+        "name": "G.T. Hogan",
+        "tracks": "5"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1961
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Soul_Trombone"
+    }
+  ],
+  "release_year": 1961,
+  "score": 4,
+  "title": "Soul Trombone",
+  "tracks": [
+    {
+      "composer": "Curtis Fuller",
+      "disc_no": 1,
+      "length": "6:19",
+      "no": 1,
+      "title": "The Clan"
+    },
+    {
+      "composer": [
+        "Bob Hilliard",
+        "David Mann"
+      ],
+      "disc_no": 1,
+      "length": "4:57",
+      "no": 2,
+      "title": "In the Wee Small Hours of the Morning"
+    },
+    {
+      "composer": "Curtis Fuller",
+      "disc_no": 1,
+      "length": "7:40",
+      "no": 3,
+      "title": "Newdles"
+    },
+    {
+      "composer": [
+        "Ernesto Lecuona",
+        "Al Stillman"
+      ],
+      "disc_no": 1,
+      "length": "4:03",
+      "no": 4,
+      "title": "The Breeze and I"
+    },
+    {
+      "composer": "Tradional",
+      "disc_no": 1,
+      "length": "9:07",
+      "no": 5,
+      "title": "Dear Old Stockholm"
+    },
+    {
+      "composer": "Curtis Fuller",
+      "disc_no": 1,
+      "length": "6:30",
+      "no": 6,
+      "title": "Ladies Night"
+    }
+  ]
+}

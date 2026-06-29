@@ -1,0 +1,112 @@
+{
+  "comment": "ビッグボス ブレイキーがドラムに鎮座。ボスもここではティモンズが引き立つ一歩引いたプレイに徹している。So Tiredのようなヒットチューンも入っていてGOOD。ティモンズらしい”らしさ”はほかのアルバムの方が強い気もするが良作である。",
+  "date": "2026/06/28",
+  "id": "RLP 334",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Riverside",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Bobby Timmons",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Blue Mitchell",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Sam Jones",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Art Blakey",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1960
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Soul_Time"
+    }
+  ],
+  "release_year": 1960,
+  "score": 4,
+  "title": "Soul Time",
+  "tracks": [
+    {
+      "composer": "Bobby Timmons",
+      "disc_no": 1,
+      "length": "6:18",
+      "no": 1,
+      "title": "Soul Time"
+    },
+    {
+      "composer": "Bobby Timmons",
+      "disc_no": 1,
+      "length": "6:10",
+      "no": 2,
+      "title": "So Tired"
+    },
+    {
+      "composer": "Ray Noble",
+      "disc_no": 1,
+      "length": "4:10",
+      "no": 3,
+      "title": "The Touch of Your Lips"
+    },
+    {
+      "composer": [
+        "Andy Razaf",
+        "Paul Denniker"
+      ],
+      "disc_no": 1,
+      "length": "5:09",
+      "no": 4,
+      "title": "S'posin"
+    },
+    {
+      "composer": "Bobby Timmons",
+      "disc_no": 1,
+      "length": "5:40",
+      "no": 5,
+      "title": "Stella B."
+    },
+    {
+      "composer": [
+        "Don Raye",
+        "Gene de Paul"
+      ],
+      "disc_no": 1,
+      "length": "6:12",
+      "no": 6,
+      "title": "You Don't Know What Love Is"
+    },
+    {
+      "composer": "Bobby Timmons",
+      "disc_no": 1,
+      "length": "6:53",
+      "no": 7,
+      "title": "One Mo'"
+    }
+  ]
+}

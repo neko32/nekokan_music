@@ -1,0 +1,134 @@
+{
+  "comment": "1985年録音、レイ・ブラウンとジーンハリスの大人なジャズのひととき。趣味の良い時間がながれる。一緒にビッグネームが楽しく共演というのは激動の時代を生き延びたジャイアント２人からのビッグプレゼント。",
+  "date": "2026/06/28",
+  "id": "CCD-4268",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Concord Jazz",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Double Bass",
+        "name": "Ray Brown",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Red Holloway",
+        "tracks": "5"
+      },
+      {
+        "instruments": "Guitar",
+        "name": "Emily Remler",
+        "tracks": "5"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Gene Harris",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Gerryck King",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1984
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/ja/release/6732972-The-Ray-Brown-Trio-Featuring-Gene-Harris-Soular-Energy"
+    }
+  ],
+  "release_year": 1985,
+  "score": 4,
+  "title": "Soular Energy",
+  "tracks": [
+    {
+      "composer": [
+        "Jimmy McHugh",
+        "Dorothy Fields"
+      ],
+      "disc_no": 1,
+      "length": "5:43",
+      "no": 1,
+      "title": "Exactly Like You"
+    },
+    {
+      "composer": "Arthur Hamilton",
+      "disc_no": 1,
+      "length": "5:43",
+      "no": 2,
+      "title": "Cry Me a River"
+    },
+    {
+      "composer": [
+        "Gene DePaul",
+        "Sammy Cahn"
+      ],
+      "disc_no": 1,
+      "length": "4:47",
+      "no": 3,
+      "title": "Teach me Tonight"
+    },
+    {
+      "composer": "Billy Strayhorn",
+      "disc_no": 1,
+      "length": "6:17",
+      "no": 4,
+      "title": "Take The \"A\" Train"
+    },
+    {
+      "composer": "Ray Brown",
+      "disc_no": 1,
+      "length": "4:12",
+      "no": 5,
+      "title": "Mistreated But Undefeated Blues"
+    },
+    {
+      "composer": [
+        "Alan Brandt",
+        "Bob Haymoa"
+      ],
+      "disc_no": 1,
+      "length": "5:44",
+      "no": 6,
+      "title": "That's All"
+    },
+    {
+      "composer": [
+        "William Count Basie",
+        "Sidney Keith Russell"
+      ],
+      "disc_no": 1,
+      "length": "3:59",
+      "no": 7,
+      "title": "Easy Does It"
+    },
+    {
+      "composer": [
+        "Ben Bernie",
+        "Kenneth Casey",
+        "Maceo Pinkard"
+      ],
+      "disc_no": 1,
+      "length": "8:41",
+      "no": 8,
+      "title": "Sweet Georgia Brown"
+    }
+  ]
+}
