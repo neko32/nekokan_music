@@ -1,0 +1,124 @@
+{
+  "comment": "テイラーらしくノースタンダード、wailor's tenors同様モンク・クラシックをいくつか混ぜたうえでプレイヤー達の名曲を選曲。テイラーらしく一歩引いた名人芸に自信のリーダー作でも徹するあたりが好感。",
+  "date": "2026/06/29",
+  "id": "PRLP 7117",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Prestige",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Drums",
+        "name": "Art Taylor",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Donald Byrd",
+        "tracks": "1,3-6"
+      },
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Jackie McLean",
+        "tracks": "1,3-6"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Charlie Rouse",
+        "tracks": "1,3-6"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Ray Bryant",
+        "tracks": "1,3-6"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Wendell Marshall",
+        "tracks": "1,3-6"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "John Coltrane",
+        "tracks": "2"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Red Garland",
+        "tracks": "2"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Paul Chambers",
+        "tracks": "2"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1957
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Taylor%27s_Wailers"
+    }
+  ],
+  "release_year": 1957,
+  "score": 4,
+  "title": "Taylor's Wailers",
+  "tracks": [
+    {
+      "composer": "Lee Sears",
+      "disc_no": 1,
+      "length": "9:52",
+      "no": 1,
+      "title": "Batland"
+    },
+    {
+      "composer": "Jimmy Heath",
+      "disc_no": 1,
+      "length": "4:43",
+      "no": 2,
+      "title": "C.T.A."
+    },
+    {
+      "composer": "Lee Sears",
+      "disc_no": 1,
+      "length": "6:16",
+      "no": 3,
+      "title": "Exhibit A"
+    },
+    {
+      "composer": "Ray Bryant",
+      "disc_no": 1,
+      "length": "6:36",
+      "no": 4,
+      "title": "Cubano Chant"
+    },
+    {
+      "composer": "Thelonious Monk",
+      "disc_no": 1,
+      "length": "5:38",
+      "no": 5,
+      "title": "Off Minor"
+    },
+    {
+      "composer": "Thelonious Monk",
+      "disc_no": 1,
+      "length": "7:55",
+      "no": 6,
+      "title": "Well You Needn't"
+    }
+  ]
+}

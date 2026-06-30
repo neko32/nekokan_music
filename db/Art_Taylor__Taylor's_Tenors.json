@@ -1,0 +1,104 @@
+{
+  "comment": "モンクを始め様々なプレイヤーのオリジナル曲をラウズ・フォスターの２テナーフロントを使ってテイラーが調理。テナーコンビとテイラーとの掛け合いが楽しい。テイラーらしい丁寧で、地味だけどいい仕事がよくわかる佳作。",
+  "date": "2026/06/29",
+  "id": "NJ 8219",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "New Jazz",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Drums",
+        "name": "Art Taylor",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Frank Foster",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Charlie Rouse",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Walter Davis Jr.",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Sam Jones",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1959
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Taylor%27s_Tenors"
+    }
+  ],
+  "release_year": 1959,
+  "score": 1,
+  "title": "Taylor's Tenors",
+  "tracks": [
+    {
+      "composer": "Thelonious Monk",
+      "disc_no": 1,
+      "length": "6:51",
+      "no": 1,
+      "title": "Rhythm-A-Ning"
+    },
+    {
+      "composer": "Charlie Rouse",
+      "disc_no": 1,
+      "length": "5:03",
+      "no": 2,
+      "title": "Little Chico"
+    },
+    {
+      "composer": "Walter Davis Jr.",
+      "disc_no": 1,
+      "length": "6:15",
+      "no": 3,
+      "title": "Cape Millie"
+    },
+    {
+      "composer": "Thelonious Monk",
+      "disc_no": 1,
+      "length": "5:43",
+      "no": 4,
+      "title": "Straight No Chaser"
+    },
+    {
+      "composer": "Jackie McLean",
+      "disc_no": 1,
+      "length": "6:51",
+      "no": 5,
+      "title": "Fidel"
+    },
+    {
+      "composer": "Art Taylor",
+      "disc_no": 1,
+      "length": "5:34",
+      "no": 6,
+      "title": "Dacor"
+    }
+  ]
+}
