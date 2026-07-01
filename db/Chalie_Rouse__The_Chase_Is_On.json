@@ -1,0 +1,143 @@
+{
+  "comment": "アーシーで時々バリトンサックスみたいなトーンのラウズにレスター直系、クリアなトーンのクイニシェットの華麗なチェース系競演アルバム。野球場？のようなところで２人サックスを吹いているジャケットもいい感じ。フレディグリーンの客演がレアでポイント高し。",
+  "date": "2026/06/30",
+  "id": "BCP 6021",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Bethlehem",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Chalie Rouse",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Paul Quinichette",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Guitar",
+        "name": "Freddie Green",
+        "tracks": "2 & 5"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Hank Jones",
+        "tracks": "2 & 5"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Wynton Kelly",
+        "tracks": "all except 2 & 5"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Wendell Marshall",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Ed Thigpen",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1957
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Chase_Is_On"
+    }
+  ],
+  "release_year": 1958,
+  "score": 5,
+  "title": "The Chase Is On",
+  "tracks": [
+    {
+      "composer": "Harold Tubbs",
+      "disc_no": 1,
+      "length": "3:18",
+      "no": 1,
+      "title": "The Chase Is On"
+    },
+    {
+      "composer": [
+        "Al Cohn",
+        "Charles Isaiah Darwin"
+      ],
+      "disc_no": 1,
+      "length": "5:48",
+      "no": 2,
+      "title": "When The Blues Come On"
+    },
+    {
+      "composer": [
+        "Lorenz Hart",
+        "Richard Rodgers"
+      ],
+      "disc_no": 1,
+      "length": "5:24",
+      "no": 3,
+      "title": "This Can't Be Love"
+    },
+    {
+      "composer": "Carmen McRae",
+      "disc_no": 1,
+      "length": "4:30",
+      "no": 4,
+      "title": "Last Time for Love"
+    },
+    {
+      "composer": [
+        "Al Hoffman",
+        "Dick Manning"
+      ],
+      "disc_no": 1,
+      "length": "5:15",
+      "no": 5,
+      "title": "You're Cheating Yourself"
+    },
+    {
+      "composer": "Charlie Rouse",
+      "disc_no": 1,
+      "length": "6:19",
+      "no": 6,
+      "title": "Knittin'"
+    },
+    {
+      "composer": [
+        "Sammy Cahn",
+        "Jimmy Van Heusen"
+      ],
+      "disc_no": 1,
+      "length": "4:24",
+      "no": 7,
+      "title": "Tender Trap"
+    },
+    {
+      "composer": [
+        "Harold Barlow",
+        "Lew Harris"
+      ],
+      "disc_no": 1,
+      "length": "3:24",
+      "no": 8,
+      "title": "The Things I Love"
+    }
+  ]
+}

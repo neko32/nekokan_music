@@ -1,0 +1,81 @@
+{
+  "comment": "夭折の天才ワーデル・グレイとロングタイムレジェンド デックスに豪華なサイドメンを従えたビバップバトル。なかなか貴重なジャズ史のドキュメントともいえる貴重な音源。コンテ・カンドリのトランペットソロ、チコ・ハミルトンのカラフルなドラミングも大変すばらしい。",
+  "date": "2026/06/30",
+  "id": "DL 7025",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Bebop"
+    ]
+  },
+  "label": "Decca",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Wardell Gray",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Dexter Gordon",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Conte Candoli",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Bobby Tucker",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Don Bagley",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Chico Hamilton",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1952
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/ja/release/19368880-Wardell-Gray-Dexter-Gordon-The-Chase-And-The-Steeplechase"
+    }
+  ],
+  "release_year": 1952,
+  "score": 5,
+  "title": "The Chase and The Steeplechase",
+  "tracks": [
+    {
+      "composer": "Dexter Gordon",
+      "disc_no": 1,
+      "length": "11:30",
+      "no": 1,
+      "title": "The Chase"
+    },
+    {
+      "composer": "Charlie Parker",
+      "disc_no": 1,
+      "length": "13:48",
+      "no": 2,
+      "title": "The Steeplechase"
+    }
+  ]
+}
