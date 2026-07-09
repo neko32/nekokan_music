@@ -1,0 +1,89 @@
+{
+  "comment": "名作火の鳥を録音後NYCセントラルパークでライブ録音した音源。当時のマハビシュヌの勢いと想像力がそのまま表れている貴重なドキュメント。録音のクオリティもよい。",
+  "date": "2026/07/08",
+  "id": "CBS 69046",
+  "janre": {
+    "main": "Fusion",
+    "sub": [
+      "Rock"
+    ]
+  },
+  "label": "Columbia",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [
+      {
+        "abbr": "Mahavishnu",
+        "members": [
+          {
+            "instruments": "Electric Guitar",
+            "leader": true,
+            "name": "John McLaughlin",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Electric Violin",
+            "name": "Jerry Goodman",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Keyboards",
+            "name": "Jan Hammer",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Electric Bass",
+            "name": "Rick Laird",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Drums",
+            "name": "Billy Cobham",
+            "tracks": "all"
+          }
+        ],
+        "name": "Mahavishnu Orchestra"
+      }
+    ],
+    "leader": [],
+    "orchestra": [],
+    "sidemen": [],
+    "soloists": []
+  },
+  "record_year": [
+    1973
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Between_Nothingness_%26_Eternity"
+    }
+  ],
+  "release_year": 1973,
+  "score": 5,
+  "title": "Between Nothingness & Eternity",
+  "tracks": [
+    {
+      "composer": "John McLaughlin",
+      "disc_no": 1,
+      "length": "12:16",
+      "no": 1,
+      "title": "Trilogy: Sunlit Path / La Mere de la Mer / Tomorrow's Story Not the Same "
+    },
+    {
+      "composer": "Jan Hammer",
+      "disc_no": 1,
+      "length": "8:45",
+      "no": 2,
+      "title": "Sister Andrea"
+    },
+    {
+      "composer": "John McLaughlin",
+      "disc_no": 1,
+      "length": "21:22",
+      "no": 3,
+      "title": "Dream"
+    }
+  ]
+}
