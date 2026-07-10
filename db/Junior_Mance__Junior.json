@@ -1,0 +1,131 @@
+{
+  "comment": "大人のソウル、というべき落ち着いた、アーシー感あふれるまさにこれぞジュニア・マンスという演奏のオンパレード。レイ・ブラウンとレックスの落ち着いていてステディなサポートも大変魅力的だ。",
+  "date": "2026/07/09",
+  "id": "MGV 8319",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Verve",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Junior Mance",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Double Bass",
+        "name": "Ray Brown",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Lex Humphries",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1959
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Junior_(Junior_Mance_album)"
+    }
+  ],
+  "release_year": 1959,
+  "score": 4,
+  "title": "Junior",
+  "tracks": [
+    {
+      "composer": [
+        "Benny Goodman",
+        "Ernie Royal"
+      ],
+      "disc_no": 1,
+      "length": "3:29",
+      "no": 1,
+      "title": "A Smooth One"
+    },
+    {
+      "composer": "Gene Wright",
+      "disc_no": 1,
+      "length": "3:54",
+      "no": 2,
+      "title": "Miss Jackie's Delight"
+    },
+    {
+      "composer": "Benny Golson",
+      "disc_no": 1,
+      "length": "4:22",
+      "no": 3,
+      "title": "Whisper Not"
+    },
+    {
+      "composer": "Cole Porter",
+      "disc_no": 1,
+      "length": "4:26",
+      "no": 4,
+      "title": "Love for Sale"
+    },
+    {
+      "composer": [
+        "Peter DeRose",
+        "Mitchell Parish"
+      ],
+      "disc_no": 1,
+      "length": "3:42",
+      "no": 5,
+      "title": "Lilacs in the Rain"
+    },
+    {
+      "composer": [
+        "Hoagy Carmichael",
+        "Frank Losser"
+      ],
+      "disc_no": 1,
+      "length": "4:08",
+      "no": 6,
+      "title": "Small Fry"
+    },
+    {
+      "composer": "Junior Mance",
+      "disc_no": 1,
+      "length": "3:31",
+      "no": 7,
+      "title": "Jubilation"
+    },
+    {
+      "composer": "Dizzy Gillespie",
+      "disc_no": 1,
+      "length": "5:45",
+      "no": 8,
+      "title": "Birk's Works"
+    },
+    {
+      "composer": "Junior Mance",
+      "disc_no": 1,
+      "length": "7:54",
+      "no": 9,
+      "title": "Blues for Beverlee"
+    },
+    {
+      "composer": "Junior Mance",
+      "disc_no": 1,
+      "length": "3:33",
+      "no": 10,
+      "title": "Junior's Tune"
+    }
+  ]
+}
