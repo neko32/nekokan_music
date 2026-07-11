@@ -1,0 +1,99 @@
+{
+  "comment": "スミスのHome Cookin'から続くソウル路線。タレンタインとバレルというブルース&ソウルにはとっておきの最強の布陣。まだドラムがグラディ・テイトであるのがベン・ディクソンとかがドラムの席に座るよりもまだハードバップの残り香があるか。このアルバムに関しては正直スミスがというよりバレルとタレンタインの巧者ぶりが目立つ。",
+  "date": "2026/07/10",
+  "id": "BST 84078",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Soul"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Organ",
+        "name": "Jimmy Smith",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Stanley Turrentine",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Guitar",
+        "name": "Kenny Burrell",
+        "tracks": "1,3,5"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Donald Bailey",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1960
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Home_Cookin'_(album)"
+    }
+  ],
+  "release_year": 1961,
+  "score": 1,
+  "title": "Midnight Special",
+  "tracks": [
+    {
+      "composer": "Jimmy Smith",
+      "disc_no": 1,
+      "length": "9:57",
+      "no": 1,
+      "title": "Midnight Special"
+    },
+    {
+      "composer": "Stanley Turrentine",
+      "disc_no": 1,
+      "length": "7:44",
+      "no": 2,
+      "title": "A Subtle One"
+    },
+    {
+      "composer": [
+        "Walter Brown",
+        "Jay McShann",
+        "Charlie Parker"
+      ],
+      "disc_no": 1,
+      "length": "5:27",
+      "no": 3,
+      "title": "Jumpin' the Blues"
+    },
+    {
+      "composer": [
+        "Oscar Hammerstein II",
+        "Jerome Kern"
+      ],
+      "disc_no": 1,
+      "length": "6:35",
+      "no": 4,
+      "title": "Why Was I Born?"
+    },
+    {
+      "composer": "Count Basie",
+      "disc_no": 1,
+      "length": "7:00",
+      "no": 5,
+      "title": "One O'Clock Jump"
+    }
+  ]
+}

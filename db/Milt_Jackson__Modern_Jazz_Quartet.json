@@ -1,0 +1,164 @@
+{
+  "comment": "MJQ誕生前後の貴重なドキュメント。まだメンバーは完全に固定されていないが方向性は既にジョンルイスとミルト・ジャクソンにより示されているのははっきりわかる。演奏の質の高さは後年の大活躍を十二分に予感させるもの。BNのMilt Jacksonにも通じるビ・バップ期の代表的な芸術の一つ。",
+  "date": "2026/07/10",
+  "id": "MG-12046",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Bebop",
+      "Chamber Music"
+    ]
+  },
+  "label": "Savoy Records",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Vibraphone",
+        "name": "Milt Jackson",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "John Lewis",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Double Bass",
+        "name": "Percy Heath",
+        "tracks": "5-11"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Ray Brown",
+        "tracks": "1-4"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Al Jones",
+        "tracks": "5-7"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Kenny Clarke",
+        "tracks": "1-4, 8-11"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1956
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/ja/release/14616657-Modern-Jazz-Quartet-Modern-Jazz-Quartet"
+    }
+  ],
+  "release_year": 1956,
+  "score": 5,
+  "title": "Modern Jazz Quartet",
+  "tracks": [
+    {
+      "composer": [
+        "Oscar Hammerstein II",
+        "Sigmund Romberg"
+      ],
+      "disc_no": 1,
+      "length": "3:30",
+      "no": 1,
+      "title": "Softly As in The Morning Sunrise"
+    },
+    {
+      "composer": "Dizzy Gillespie",
+      "disc_no": 1,
+      "length": "3:40",
+      "no": 2,
+      "title": "Love Me Pretty Baby"
+    },
+    {
+      "composer": "Milt Jackson",
+      "disc_no": 1,
+      "length": "2:59",
+      "no": 3,
+      "title": "Autumn Please"
+    },
+    {
+      "composer": "Milt Jackson",
+      "disc_no": 1,
+      "length": "3:09",
+      "no": 4,
+      "title": "Milt Meet Sid"
+    },
+    {
+      "composer": "Milt Jackson",
+      "disc_no": 1,
+      "length": "3:16",
+      "no": 5,
+      "title": "Moving Nicely"
+    },
+    {
+      "composer": "Milt Jackson",
+      "disc_no": 1,
+      "length": "2:57",
+      "no": 6,
+      "title": "D and E"
+    },
+    {
+      "composer": [
+        "Frank Loesser",
+        "Hoagy Carmichael"
+      ],
+      "disc_no": 1,
+      "length": "2:32",
+      "no": 7,
+      "title": "Heart and Soul"
+    },
+    {
+      "composer": "Milt Jackson",
+      "disc_no": 1,
+      "length": "3:03",
+      "no": 8,
+      "title": "TrueBlues"
+    },
+    {
+      "composer": "Milt Jackson",
+      "disc_no": 1,
+      "length": "2:49",
+      "no": 9,
+      "title": "Bluesology"
+    },
+    {
+      "composer": [
+        "Jerome Kern",
+        "Otto Harbach"
+      ],
+      "disc_no": 1,
+      "length": "2:35",
+      "no": 10,
+      "title": "Yesterdays"
+    },
+    {
+      "composer": "Thelonious Monk",
+      "disc_no": 1,
+      "length": "2:58",
+      "no": 11,
+      "title": "Round About Midnight"
+    },
+    {
+      "composer": [
+        "Harold Arlen",
+        "Ted Koehler"
+      ],
+      "disc_no": 1,
+      "length": "2:36",
+      "no": 12,
+      "title": "Between the Devil and The Deep Blue Sea"
+    }
+  ]
+}
