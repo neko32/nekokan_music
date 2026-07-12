@@ -1,0 +1,112 @@
+{
+  "comment": "主にビバップチューンをハードバップフォーマットでやるというのはベタながらもやはり魅力的。実力者ばかりをそろえて何の文句も無し！ただ一つだけ言いたいのはBNと違ってピアノが随分奥でちんまり控え目になっているように聞こえてしまう。",
+  "date": "2026/07/11",
+  "id": "PRLP 7061",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Prestige",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Hank Mobley",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Donald Byrd",
+        "tracks": "all except 5"
+      },
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Jackie McLean",
+        "tracks": "all except 5"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Barry Harris",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Doug Watkins",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Art Taylor",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1956
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mobley's_Message"
+    }
+  ],
+  "release_year": 1957,
+  "score": 4,
+  "title": "Mobley's Message",
+  "tracks": [
+    {
+      "composer": "Bud Powell",
+      "disc_no": 1,
+      "length": "7:00",
+      "no": 1,
+      "title": "Bouncing with Bud"
+    },
+    {
+      "composer": "Thelonious Monk",
+      "disc_no": 1,
+      "length": "5:43",
+      "no": 2,
+      "title": "52nd Street Theme"
+    },
+    {
+      "composer": "Hank Mobley",
+      "disc_no": 1,
+      "length": "6:16",
+      "no": 3,
+      "title": "Minor Disturbance"
+    },
+    {
+      "composer": "Charlie Parker",
+      "disc_no": 1,
+      "length": "7:34",
+      "no": 4,
+      "title": "Au Privave"
+    },
+    {
+      "composer": [
+        "Lorenz Hart",
+        "Richard Rodgers"
+      ],
+      "disc_no": 1,
+      "length": "8:44",
+      "no": 5,
+      "title": "Little Girl Blue"
+    },
+    {
+      "composer": "Hank Mobley",
+      "disc_no": 1,
+      "length": "6:34",
+      "no": 6,
+      "title": "Alternating Current"
+    }
+  ]
+}

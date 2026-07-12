@@ -1,0 +1,221 @@
+{
+  "comment": "ハードバップ色の強いショーティのセッションとクール色の強いマリガンのセッションはちょうど良いブレンドで演奏のクオリティと士気も高い。アルバムタイトル通り良いプレゼンテーションである。西海岸の明るさに加えビバップとクールの残り香もあってちょうどよいバランスである。",
+  "date": "2026/07/11",
+  "id": "T 691",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop",
+      "Cool",
+      "Bigband"
+    ]
+  },
+  "label": "Capitol Records",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Baritone Saxophone, Piano",
+        "name": "Gerry Mulligan",
+        "tracks": "7-12"
+      },
+      {
+        "instruments": "Trumpet",
+        "name": "Shorty Rodgers",
+        "tracks": "1-6"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Chet Baker",
+        "tracks": "7-12"
+      },
+      {
+        "instruments": "Trumpet",
+        "name": "Pete Candoli",
+        "tracks": "7-12"
+      },
+      {
+        "instruments": "Trumpet",
+        "name": "Shorty Rodgers",
+        "tracks": "1-6"
+      },
+      {
+        "instruments": "Trombone",
+        "name": "Bob Enevoldsen",
+        "tracks": "7-12"
+      },
+      {
+        "instruments": "French Horn",
+        "name": "John Grass",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Bud Shank",
+        "tracks": "7-12"
+      },
+      {
+        "instruments": "Alto Saxophone",
+        "name": "Art Pepper",
+        "tracks": "1-6"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Jimmy Giuffre",
+        "tracks": "1-6"
+      },
+      {
+        "instruments": "Baritone Saxophone",
+        "name": "Don Davidson",
+        "tracks": "7-12"
+      },
+      {
+        "instruments": "Tuba",
+        "name": "Ray Siegel",
+        "tracks": "7-12"
+      },
+      {
+        "instruments": "Tuba",
+        "name": "Gene Englund",
+        "tracks": "1-6"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Hampton Hawes",
+        "tracks": "1-6"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Joe Mondragon",
+        "tracks": "7-12"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Don Bagley",
+        "tracks": "1-6"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Chico Hamilton",
+        "tracks": "7,9,10,11"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Larry Bunker",
+        "tracks": "8,12"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Shelly Manne",
+        "tracks": "1-6"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1956
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/ja/release/26476682-Gene-Norman-Presents-Gerry-Mulligan-And-His-Tentette-Shorty-Rogers-And-His-Giants-Modern-Sounds"
+    }
+  ],
+  "release_year": 1956,
+  "score": 5,
+  "title": "Gene Norman Presents Gerry Mulligan And His Tentette / Shorty Rodgers And His Giants - Modern Sounds",
+  "tracks": [
+    {
+      "composer": "Shorty Rodgers",
+      "disc_no": 1,
+      "length": "2:50",
+      "no": 1,
+      "title": "Four Mothers"
+    },
+    {
+      "composer": "Shorty Rodgers",
+      "disc_no": 1,
+      "length": "2:27",
+      "no": 2,
+      "title": "Didi"
+    },
+    {
+      "composer": "Shorty Rodgers",
+      "disc_no": 1,
+      "length": "3:08",
+      "no": 3,
+      "title": "Sam And The Lady"
+    },
+    {
+      "composer": "Shorty Rodgers",
+      "disc_no": 1,
+      "length": "3:02",
+      "no": 4,
+      "title": "Popo"
+    },
+    {
+      "composer": [
+        "Harold Arlen",
+        "Yip Harburg"
+      ],
+      "disc_no": 1,
+      "length": "3:02",
+      "no": 5,
+      "title": "Over the Rainbow"
+    },
+    {
+      "composer": "Shorty Rodgers",
+      "disc_no": 1,
+      "length": "2:39",
+      "no": 6,
+      "title": "Apropos"
+    },
+    {
+      "composer": "Jerry Mulligan",
+      "disc_no": 1,
+      "length": "2:35",
+      "no": 7,
+      "title": "Westwood Walk"
+    },
+    {
+      "composer": "Jerry Mulligan",
+      "disc_no": 1,
+      "length": "2:58",
+      "no": 8,
+      "title": "Simbah"
+    },
+    {
+      "composer": "Jerry Mulligan",
+      "disc_no": 1,
+      "length": "3:38",
+      "no": 9,
+      "title": "Walking Shoes"
+    },
+    {
+      "composer": "Jerry Mulligan",
+      "disc_no": 1,
+      "length": "2:28",
+      "no": 10,
+      "title": "Rocker"
+    },
+    {
+      "composer": "Jerry Mulligan",
+      "disc_no": 1,
+      "length": "2:54",
+      "no": 11,
+      "title": "A Ballad"
+    },
+    {
+      "composer": "Jerry Mulligan",
+      "disc_no": 1,
+      "length": "2:48",
+      "no": 12,
+      "title": "Taking A Chance On Love"
+    }
+  ]
+}
