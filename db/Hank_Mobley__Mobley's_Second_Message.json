@@ -1,0 +1,111 @@
+{
+  "comment": "モブレーのプレスティッジリーダー第二作目はモブレーのオリジナルをフィーチャーしてドーハムという心強いJM時代からの盟友を迎え入れた。前作でもオリジナルのMinor Disturbanceも実に素晴らしい出来だったがこちらでは４作もオリジナルチューンを楽しむことができる。",
+  "date": "2026/07/12",
+  "id": "PRLP 7082",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Prestige",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Hank Mobley",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Kenny Dorham",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Walter Bishop, Jr.",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Doug Watkins",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Art Taylor",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1956
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mobley's_Message"
+    }
+  ],
+  "release_year": 1957,
+  "score": 5,
+  "title": "Mobley's Second Message",
+  "tracks": [
+    {
+      "composer": [
+        "Harold Barlow",
+        "Lewis Harris"
+      ],
+      "disc_no": 1,
+      "length": "6:40",
+      "no": 1,
+      "title": "These Are Things I Love"
+    },
+    {
+      "composer": "Hank Mobley",
+      "disc_no": 1,
+      "length": "6:07",
+      "no": 2,
+      "title": "Message from the Broder"
+    },
+    {
+      "composer": "Hank Mobley",
+      "disc_no": 1,
+      "length": "5:39",
+      "no": 3,
+      "title": "Xlento"
+    },
+    {
+      "composer": "Hank Mobley",
+      "disc_no": 1,
+      "length": "5:52",
+      "no": 4,
+      "title": "The Latest"
+    },
+    {
+      "composer": [
+        "Samuel Cahn",
+        "Axel Stordahl",
+        "Paul Weston"
+      ],
+      "disc_no": 1,
+      "length": "10:04",
+      "no": 5,
+      "title": "I Should Care"
+    },
+    {
+      "composer": "Hank Mobley",
+      "disc_no": 1,
+      "length": "6:56",
+      "no": 6,
+      "title": "Crazeology"
+    }
+  ]
+}

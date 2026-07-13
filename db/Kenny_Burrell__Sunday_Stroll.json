@@ -1,0 +1,121 @@
+{
+  "comment": "バレルがベイシースクールとコラボした格調高い一品。バレルの品の在るプレイスタイルはのちに都会的ソウル路線、都会的フュージョン路線で成功したがサードストリーム風にもベストな適正があったことがよくわかる。ベイシー一派のグリーンのナイスなリズムギターとウェスの清涼感あるフルートと品を称えたテナーがピアノレスの空間に風雅な空気を敷き詰める。",
+  "date": "2026/07/12",
+  "id": "SJL 1120",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop",
+      "Chamber Music"
+    ]
+  },
+  "label": "Savoy Records",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Guitar",
+        "name": "Kenny Burrell",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Flute, Tenor Saxophone",
+        "name": "Frank Wess",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Guitar",
+        "name": "Freddie Green",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Eddie Jones",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Gus Johnson",
+        "tracks": "Some"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Kenny Clarke",
+        "tracks": "Some"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1956,
+    1957
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/ja/release/6905030-Kenny-Burrell-With-Frank-Wess-Monday-Stroll"
+    }
+  ],
+  "release_year": 1978,
+  "score": 4,
+  "title": "Sunday Stroll",
+  "tracks": [
+    {
+      "composer": "Frank Wess",
+      "disc_no": 1,
+      "length": "4:18",
+      "no": 1,
+      "title": "Monday Stroll"
+    },
+    {
+      "composer": "Kenny Burrell",
+      "disc_no": 1,
+      "length": "5:10",
+      "no": 2,
+      "title": "East Wind"
+    },
+    {
+      "composer": "Frank Wess",
+      "disc_no": 1,
+      "length": "4:59",
+      "no": 3,
+      "title": "Wess Side"
+    },
+    {
+      "composer": "Kenny Burrell",
+      "disc_no": 1,
+      "length": "6:47",
+      "no": 4,
+      "title": "Southern Exposure"
+    },
+    {
+      "composer": "Frank Wess",
+      "disc_no": 1,
+      "length": "7:02",
+      "no": 5,
+      "title": "Woolafunt's Lament"
+    },
+    {
+      "composer": [
+        "Yip Harburg",
+        "Harold Arlen"
+      ],
+      "disc_no": 1,
+      "length": "5:58",
+      "no": 6,
+      "title": "Over the Rainbow"
+    },
+    {
+      "composer": "Frank Wess",
+      "disc_no": 1,
+      "length": "8:28",
+      "no": 7,
+      "title": "Kansas City Side"
+    }
+  ]
+}
