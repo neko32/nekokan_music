@@ -1,0 +1,103 @@
+{
+  "comment": "ついにウェイン・ショーターがJMに加入。ショーターがみっちりJM道場でジャズ、ハードバップの全てを伝授される歴史の始まりである。モーガンとショーターそれぞれが２曲オリジナルと、目玉のブレイキーソロをフィーチャーしたThe Freedom Rider。ただ残念なのがBNには珍しく録音はベストでない感じがしてブレイキーのソロの迫力が後退。",
+  "date": "2026/07/14",
+  "id": "BST 84156",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [
+      {
+        "abbr": "JM",
+        "members": [
+          {
+            "instruments": "Trumpet",
+            "name": "Lee Morgan",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Tenor Saxophone",
+            "name": "Wayne Shorter",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Piano",
+            "name": "Bobby Timmons",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Double Bass",
+            "name": "Jymie Merritt",
+            "tracks": "all"
+          },
+          {
+            "instruments": "Drums",
+            "leader": true,
+            "name": "Art Blakey",
+            "tracks": "all"
+          }
+        ],
+        "name": "Art Blakey & The Jazz Messagers"
+      }
+    ],
+    "leader": [],
+    "orchestra": [],
+    "sidemen": [],
+    "soloists": []
+  },
+  "record_year": [
+    1961
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Freedom_Rider"
+    }
+  ],
+  "release_year": 1964,
+  "score": 5,
+  "title": "The Freedom Rider",
+  "tracks": [
+    {
+      "composer": "Wayne Shorter",
+      "disc_no": 1,
+      "length": "7:53",
+      "no": 1,
+      "title": "Tell It Like It Is"
+    },
+    {
+      "composer": "Art Blakey",
+      "disc_no": 1,
+      "length": "7:25",
+      "no": 2,
+      "title": "The Freedom Rider"
+    },
+    {
+      "composer": "Wayne Shorter",
+      "disc_no": 1,
+      "length": "6:20",
+      "no": 3,
+      "title": "El Toro"
+    },
+    {
+      "composer": "Lee Morgan",
+      "disc_no": 1,
+      "length": "6:14",
+      "no": 4,
+      "title": "Pretty Larceny"
+    },
+    {
+      "composer": "Lee Morgan",
+      "disc_no": 1,
+      "length": "5:59",
+      "no": 5,
+      "title": "Blue Lace"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "comment": "マリガンとボブ・ブルックマイヤーのセンスの良い大人のコラボ。ブルックマイヤーのバルブ・トロンボーンに加えピアノプレイもフィーチャされている。1962年でもクールはまだまだここにあり、という気概が知れるノーブルな一枚。",
+  "date": "2026/07/14",
+  "id": "V6-8466",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Cool"
+    ]
+  },
+  "label": "Verve",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Baritone Saxophone",
+        "name": "Gerry Mulligan",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Valve Trombone, Piano",
+        "name": "Bob Brookmeyer",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Bill Crow",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Gus Johnson",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1962
+  ],
+  "references": [
+    {
+      "name": "Discogs",
+      "url": "https://www.discogs.com/ja/release/639027-The-Gerry-Mulligan-Quartet-The-Gerry-Mulligan-Quartet"
+    }
+  ],
+  "release_year": 1962,
+  "score": 4,
+  "title": "The Gerry Mulligan Quartet",
+  "tracks": [
+    {
+      "composer": [
+        "Ned Washington",
+        "George Bassman"
+      ],
+      "disc_no": 1,
+      "length": "5:01",
+      "no": 1,
+      "title": "I'm Getting Sentimental Over You"
+    },
+    {
+      "composer": "Gerry Mulligan",
+      "disc_no": 1,
+      "length": "6:07",
+      "no": 2,
+      "title": "Piano Train"
+    },
+    {
+      "composer": [
+        "Kurt Weill",
+        "Maxwell Anderson"
+      ],
+      "disc_no": 1,
+      "length": "5:33",
+      "no": 3,
+      "title": "Lost in The Stars"
+    },
+    {
+      "composer": "Frank Loesser",
+      "disc_no": 1,
+      "length": "4:36",
+      "no": 4,
+      "title": "I Believe in You"
+    },
+    {
+      "composer": "Gerry Mulligan",
+      "disc_no": 1,
+      "length": "5:43",
+      "no": 5,
+      "title": "Love In New Orleans"
+    },
+    {
+      "composer": "Gerry Mulligan",
+      "disc_no": 1,
+      "length": "7:50",
+      "no": 6,
+      "title": "I Know Don't Know How"
+    }
+  ]
+}
