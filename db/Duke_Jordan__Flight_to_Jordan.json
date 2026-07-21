@@ -1,0 +1,104 @@
+{
+  "comment": "デューク・ジョーダンのブルージーなプレイにディジーリースとタレンタインという実力者ががっつりサポート。タレンタインのプレイは特にジョーダンのブルージーさを輝かせる。ジョーダンのオリジナル曲のクオリティがいかに高いかのショーケースのごとき、見事なBNのハードバップアルバム。",
+  "date": "2026/07/20",
+  "id": "BLP 4046",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Piano",
+        "name": "Duke Jordan",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Trumpet",
+        "name": "Dizzy Reece",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Tenor Saxophone",
+        "name": "Stanley Turrentine",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Reggie Workman",
+        "tracks": "all"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Art Taylor",
+        "tracks": "all"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1960
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Flight_to_Jordan"
+    }
+  ],
+  "release_year": 1960,
+  "score": 5,
+  "title": "Flight to Jordan",
+  "tracks": [
+    {
+      "composer": "Duke Jordan",
+      "disc_no": 1,
+      "length": "5:32",
+      "no": 1,
+      "title": "Flight to Jordan"
+    },
+    {
+      "composer": "Duke Jordan",
+      "disc_no": 1,
+      "length": "7:49",
+      "no": 2,
+      "title": "Star Brite"
+    },
+    {
+      "composer": "Duke Jordan",
+      "disc_no": 1,
+      "length": "5:00",
+      "no": 3,
+      "title": "Squawkin'"
+    },
+    {
+      "composer": "Duke Jordan",
+      "disc_no": 1,
+      "length": "8:43",
+      "no": 4,
+      "title": "Deacon Joe"
+    },
+    {
+      "composer": "Duke Jordan",
+      "disc_no": 1,
+      "length": "5:11",
+      "no": 5,
+      "title": "Split Quick"
+    },
+    {
+      "composer": "Duke Jordan",
+      "disc_no": 1,
+      "length": "6:46",
+      "no": 6,
+      "title": "Si-Joya (No Problem)"
+    }
+  ]
+}

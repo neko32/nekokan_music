@@ -1,0 +1,125 @@
+{
+  "comment": "グラント・グリーン正真正銘最初のリーダー作、だが2001年までお蔵入り。こちらの幻の初リーダー作はBNピアノ入りハウスメンバーたちとのセッションで、Grant First Standのオルガンベースとは大分違う。しかし大物たちと堂々と渡り合うこの新人の実に胆のすわっていること！なぜお蔵入りしたのか理解に苦しむくらい良い演奏ばかり。",
+  "date": "2026/07/20",
+  "id": "UCCQ-5026",
+  "janre": {
+    "main": "Jazz",
+    "sub": [
+      "Hard Bop"
+    ]
+  },
+  "label": "Blue Note",
+  "personnel": {
+    "company": [],
+    "conductor": [],
+    "group": [],
+    "leader": [
+      {
+        "instruments": "Guitar",
+        "name": "Grant Green",
+        "tracks": "all"
+      }
+    ],
+    "orchestra": [],
+    "sidemen": [
+      {
+        "instruments": "Piano",
+        "name": "Wynton Kelly",
+        "tracks": "1-5"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Paul Chambers",
+        "tracks": "1-5"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Philly Joe Jones",
+        "tracks": "1-5"
+      },
+      {
+        "instruments": "Piano",
+        "name": "Sonny Clark",
+        "tracks": "6,7"
+      },
+      {
+        "instruments": "Double Bass",
+        "name": "Butch Warren",
+        "tracks": "6,7"
+      },
+      {
+        "instruments": "Drums",
+        "name": "Billy Higgins",
+        "tracks": "6,7"
+      }
+    ],
+    "soloists": []
+  },
+  "record_year": [
+    1960,
+    1961
+  ],
+  "references": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Grant's_First_Stand"
+    }
+  ],
+  "release_year": 2001,
+  "score": 5,
+  "title": "First Session",
+  "tracks": [
+    {
+      "composer": "Nellie Lutcher",
+      "disc_no": 1,
+      "length": "5:19",
+      "no": 1,
+      "title": "He's a Real Gone Guy"
+    },
+    {
+      "composer": "Grant Green",
+      "disc_no": 1,
+      "length": "11:46",
+      "no": 2,
+      "title": "Seepin'"
+    },
+    {
+      "composer": [
+        "John Klenner",
+        "Sam M. Lewis"
+      ],
+      "disc_no": 1,
+      "length": "6:36",
+      "no": 3,
+      "title": "Just Friends"
+    },
+    {
+      "composer": "Grant Green",
+      "disc_no": 1,
+      "length": "8:50",
+      "no": 4,
+      "title": "Grant's First Stand"
+    },
+    {
+      "composer": "Sonny Rollins",
+      "disc_no": 1,
+      "length": "6:16",
+      "no": 5,
+      "title": "Sonnymoon for Two"
+    },
+    {
+      "composer": "Dizzy Gillespie",
+      "disc_no": 1,
+      "length": "5:55",
+      "no": 6,
+      "title": "Woody'N You [Take 4]"
+    },
+    {
+      "composer": "Dizzy Gillespie",
+      "disc_no": 1,
+      "length": "5:55",
+      "no": 7,
+      "title": "Woody'N You [Take 7]"
+    }
+  ]
+}
